@@ -3,7 +3,7 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -28,9 +28,11 @@ Elementen die u via het [!DNL Create] -proces of uploaden toevoegt aan [!DNL Con
 
 In de lijst **[!UICONTROL Location]** boven de galerie aan de rechterkant kunt u een van de verbonden opslagplaatsen voor Adobe Experience Manager (AEM) [!DNL Assets Content Hub] selecteren. Wanneer u een AEM opslagplaats selecteert, toont de galerie een inventaris van activa van die bewaarplaats, die u toestaat om goedgekeurde activa van deze bewaarplaatsen als input voor inhoudsverwezenlijking te gebruiken. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
+Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
+
 De AEM opslagplaats is read-only, wat betekent u geen concepten, nieuwe activa, of meta-gegevens aan AEM bewaarplaats kunt bewaren. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
 
-Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
+{{note-aem-assets}}
 
 ## Assets-beheer
 
