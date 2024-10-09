@@ -3,9 +3,9 @@ title: Merkwaardvalidatie in Adobe GenStudio voor prestatiemarketing
 description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: f9bfd6d7429f1f24947c398ec73b4b350a7e828f
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '669'
 ht-degree: 0%
 
 ---
@@ -65,19 +65,22 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 
 **om merkgroepering voor geproduceerde inhoudsvarianten te verbeteren**:
 
-1. Klik op het pictogram **[!UICONTROL [!DNL Brand] guidelines check]** voor een afzonderlijke variant.
+1. Klik op het pictogram **[!UICONTROL [!DNL Brand] guidelines check]** voor een afzonderlijke variant. De controle van de [!DNL Brand] richtlijnen toont een percentage van merkgroepering voor een variant.
 
    Bekijk een overzicht van het aantal richtlijnen voor merken dat voldoet aan de validatie van merken of meer aandacht nodig heeft.
 
 1. Om de details van de secties en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het _pictogram van de Bevestiging van het Merk_ in hoogste menubar om het _paneel van de Bevestiging van de Merk_ te openen.
 
-   Zie alle secties en merkrichtlijnen die u aandacht behoeven. <!-- The section highlighted in the panel corresponds to the section highlighted in the generated variant in the Canvas. -->
+   Zie alle secties en merkrichtlijnen die u aandacht behoeven.
 
    >[!NOTE]
    >
    > De _stem van het Merk_ richtlijn die in het _wordt genoteerd paneel van de Bevestiging van het Merk_ is op de volledige variant, niet een individuele sectie van toepassing. De volledige inhoudvariant wordt gemarkeerd voor een voorgestelde verbetering.
 
-1. Wijzig handmatig de variantsecties om deze zo sterk mogelijk aan te passen aan uw merk.
+1. Klik met de knoppen **[!UICONTROL Next]** en **[!UICONTROL Previous]** door de hulplijnen die aandacht behoeven.
+
+1. Gebruik de redenering die voor elk richtsnoer wordt genoteerd om het even welke herzieningen van variantsecties mee te delen om de sterkste aanpassing aan uw merk te bereiken.
+
 
 1. Nadat u de benodigde wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Check again]** om uw wijzigingen opnieuw te controleren en te valideren om ervoor te zorgen dat deze beter aansluiten op uw merkidentiteit.
 
