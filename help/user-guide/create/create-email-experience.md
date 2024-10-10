@@ -4,12 +4,11 @@ description: Leer hoe u e-mailervaringen kunt maken in Adobe GenStudio for Perfo
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 30cd73ba1beb582ea4ac73eca7e17715f9aafc66
+source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
 workflow-type: tm+mt
-source-wordcount: '925'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -43,13 +42,12 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
-1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
-   * Als u elementen (afbeeldingen) wilt selecteren in de [!DNL Content] -opslagplaats, klikt u op **[!UICONTROL Select from content]** . Filter een of meer afbeeldingen en selecteer deze.
+1. Voeg inhoud voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
+   * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
 
      Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
-   * Als u een of meer nieuwe elementen wilt uploaden, klikt u op **[!UICONTROL Upload]** , bladert u door uw bestanden en kiest u de elementen die u wilt gebruiken. Naast het bladeren door uw apparaat kunt u ook importeren vanuit Microsoft OneDrive of Dropbox. Klik om de gewenste afbeeldingen te selecteren.
-   * De belemmering en laat vallen activa in de _Inhoud_ sectie.
+   * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
 
 >[!NOTE]
@@ -124,7 +122,7 @@ Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor m
 
 Als u de gegenereerde e-mails beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
-1. **om uw nieuwe e-mailervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar.
+1. **om uw nieuwe e-mailervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
 1. **om uw nieuwe e-mailervaring(en) uit te voeren**, klik **[!UICONTROL Export]** in de hoogste toolbar.
    1. Selecteer de indeling (alleen CSV en afbeeldingen of HTML) en klik op **[!UICONTROL Export]** .
 

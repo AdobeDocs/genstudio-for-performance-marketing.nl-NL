@@ -4,12 +4,11 @@ description: Leer hoe u een on-brand Meta-advertentie maakt—voor Facebook of I
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
-type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 30cd73ba1beb582ea4ac73eca7e17715f9aafc66
+source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
@@ -43,13 +42,12 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
-1. Klik **[!UICONTROL Select content]** om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden.
-   * Als u elementen (afbeeldingen) wilt selecteren die al naar [!DNL Content] zijn gepubliceerd, klikt u op **[!UICONTROL Select from content]** en klikt u om de gewenste afbeeldingen te selecteren. Gebruik de filters om de zoekresultaten verder te verfijnen.
+1. Voeg inhoud voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
+   * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
 
-     Als u activa reeds in een verbonden AEM bewaarplaats van Content Hub wilt gebruiken, selecteer de toepasselijke plaats van het _drop-down menu van de Plaats_ en klik om de gewenste beelden te selecteren.
+     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
-   * Klik op **[!UICONTROL Upload]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. U kunt uw apparaat ook importeren vanuit Microsoft OneDrive of Dropbox. Klik om de gewenste afbeeldingen te selecteren.
-   * De belemmering en laat vallen activa in de _Inhoud_ sectie.
+   * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
 
 Wanneer u klaar bent toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
@@ -88,7 +86,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een URL in voor de aanroepingstekst.
 * **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
+* **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan. Klik op **[!UICONTROL Apply]**.
 * **[ om aMeta te schrappen advertentie](/help/user-guide/create/manage-variants.md#delete-variant)**, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback op generatie verzenden
@@ -126,7 +124,7 @@ Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor m
 
 Als u de gegenereerde metagegevensadvertenties beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
-1. **om uw nieuwe Meta en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar.
+1. **om uw nieuwe Meta en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
 1. **om uw nieuwe Meta uit te voeren en ervaring(en)**, klik **[!UICONTROL Export]** in de hoogste toolbar.
    1. Selecteer de indeling (alleen CSV en afbeeldingen of HTML) en klik op **[!UICONTROL Export]** .
 
