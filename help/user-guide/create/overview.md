@@ -3,7 +3,7 @@ title: Overzicht van GenStudio for Performance Marketing  [!DNL Create]
 description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio voor de Marketing van Prestaties  [!DNL Create] produceren.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 7c1ea8d2738da39521f3ec26d69982ef64b2576e
+source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -141,7 +141,3 @@ Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug 
 GenStudio voor de Marketing van Prestaties staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
 
 U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
-
-<!-- ### Anatomy of an email experience
-
-## Prerequisites for using Create -->
