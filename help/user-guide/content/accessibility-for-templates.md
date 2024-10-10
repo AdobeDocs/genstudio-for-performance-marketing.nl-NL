@@ -3,9 +3,9 @@ title: Toegankelijke sjablonen maken
 description: Sjablonen maken in Adobe GenStudio for Performance Marketing waarmee u meer van uw publiek kunt bereiken en een optimale ervaring kunt bieden.
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: fee67ba0d9781cf16ac909eddf385bd3d60ac97b
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,11 @@ Maak tekstalternatieven voor niet-tekstuele inhoud, zoals afbeeldingen.
 
 ![ Collage van ideeën, boeken, man die reuzenpotlood, computer ](../../assets/card-create-assets.png){width="400"} houden
 
-## Contrastverhoudingen
+## Lettertypen
 
-Zorg voor een passend contrast tussen tekst en achtergrond. Gebruik de volgende minimale contrastverhoudingen:
+Gebruik lettertypen die u gemakkelijk kunt lezen. Sans Serif-lettertypen hebben bijvoorbeeld een duidelijke, blokachtige vormgeving, die bijdraagt tot een hogere leesbaarheid.
+
+Zorg voor een passend contrast tussen tekst en achtergrond. Vermijd het gebruik van lettertypekleuren die donkere tekst produceren op een donkere achtergrond en lichte tekst op een lichte achtergrond. Houd rekening met de contrastrichtlijnen voor een optimale verhouding:
 
 - Tekst en afbeeldingen van tekst: contrastverhouding van ten minste 4,5:1
 - Grote tekst en afbeeldingen van grootschalige tekst: contrastverhouding van ten minste 3:1
