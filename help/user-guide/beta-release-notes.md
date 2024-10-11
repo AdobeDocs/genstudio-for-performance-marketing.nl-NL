@@ -1,8 +1,9 @@
 ---
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing Beta
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio for Performance Marketing.
+hidefromtoc: true
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 9b5e8b37ba988c3dd4a1e5a828487997375474ac
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
