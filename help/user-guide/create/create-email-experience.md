@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een e-mailervaring.
+Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een e-mailervaring.
 
 **om parameters en activa** toe te voegen:
 
-1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
+1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
@@ -54,7 +54,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 >
 >Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie.
 
-Wanneer u wordt gebeëindigd toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
+Wanneer u wordt gebeëindigd toevoegend parameters, kunt u de snelle lade doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
 ## Een vraag invoeren
 

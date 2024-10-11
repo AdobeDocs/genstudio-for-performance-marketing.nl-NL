@@ -1,11 +1,11 @@
 ---
 title: Een weergave en ervaring maken
-description: Leer hoe te om vertoning en ervaringen in Adobe  [!DNL GenStudio]  voor de Marketers van Prestaties tot stand te brengen.
+description: Leer hoe te om vertoning en ervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 0d453aafad2b783beef91fffd10ce537fde9ea86
+source-git-commit: 9fc0ad86b99ca61a73b46fd8febfcf66b2975d75
 workflow-type: tm+mt
 source-wordcount: '812'
 ht-degree: 0%
@@ -33,14 +33,14 @@ Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon o
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een vertoning en ervaring.
+Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een vertoning en ervaring.
 
 **om parameters en activa** toe te voegen:
 
-1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
+1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketers van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
@@ -50,7 +50,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
 
-Wanneer u wordt gebeëindigd toevoegend parameters, doen ineenstorten het snelle gebied door het _pictogram van Parameters_ opnieuw te klikken.
+Wanneer u wordt gebeëindigd toevoegend parameters, de snelle lade door het _pictogram van Parameters_ opnieuw te klikken samenvouwen.
 
 ## Een vraag invoeren
 

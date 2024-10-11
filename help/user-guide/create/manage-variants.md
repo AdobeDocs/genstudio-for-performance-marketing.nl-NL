@@ -2,7 +2,7 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: 9aca8368c2ea39a4059fc8d83fe69234619b1e3d
+source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
 workflow-type: tm+mt
 source-wordcount: '1072'
 ht-degree: 0%

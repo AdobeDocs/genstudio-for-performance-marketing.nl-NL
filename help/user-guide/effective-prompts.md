@@ -3,7 +3,7 @@ title: Effectieve aanwijzingen schrijven
 description: Leer hoe u effectieve herinneringen voor Adobe GenStudio for Performance Marketing schrijft.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -39,13 +39,13 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Vrachtcriteria
 
-In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in het snelle gebied gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
+In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in de snelle lade gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
 
 Voor [ e-mails ](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/user-guide/create/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Als de richtsnoeren in _Parameters_ in het snelle gebied worden toegevoegd, te hoeven u niet om verwijzing naar hen in uw herinnering te omvatten. GenStudio for Performance Marketing maakt gebruik van [!DNL Brands] , [!DNL Products] en [!DNL Personas] bij het genereren van inhoud.
+>Als de richtsnoeren in _Parameters_ in de herinnering lade worden toegevoegd, te hoeven u niet om verwijzing naar hen in uw herinnering te omvatten. GenStudio for Performance Marketing maakt gebruik van [!DNL Brands] , [!DNL Products] en [!DNL Personas] bij het genereren van inhoud.
 
 ### Richtsnoeren
 

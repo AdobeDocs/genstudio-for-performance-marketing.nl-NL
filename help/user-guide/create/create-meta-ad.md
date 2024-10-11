@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 63d1e568cc265a4aaf98af0a9f3f52ebff2a02b5
+source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een b
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in het snelle gebied verbetert het proces van de inhoudsgeneratie en is een cruciale stap in het voorbereiden om een advertentie van het Meta te produceren.
+Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade verbetert het proces van de inhoudsgeneratie en is een cruciale stap in het voorbereiden om een advertentie van het Meta te produceren.
 
 **om parameters en activa** toe te voegen:
 
-1. Klik het _pictogram van Parameters_ om het snelle gebied uit te breiden.
+1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
@@ -50,7 +50,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
 
-Wanneer u klaar bent toevoegend parameters, kunt u het snelle gebied doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
+Wanneer u klaar bent toevoegend parameters, kunt u de snelle lade doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
 ## Een vraag invoeren
 

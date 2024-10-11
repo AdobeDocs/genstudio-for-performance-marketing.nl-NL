@@ -3,7 +3,7 @@ title: Merkwaardvalidatie in Adobe GenStudio voor prestatiemarketing
 description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: f9bfd6d7429f1f24947c398ec73b4b350a7e828f
+source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
 workflow-type: tm+mt
 source-wordcount: '669'
 ht-degree: 0%

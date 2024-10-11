@@ -3,7 +3,7 @@ title: Door Publish goedgekeurde inhoud
 description: Leer hoe u goedgekeurde inhoud publiceert.
 feature: Approval, Content
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%

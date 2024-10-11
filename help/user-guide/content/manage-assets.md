@@ -3,7 +3,7 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
+source-git-commit: 600d4a37be22bd057074b4dd3773b75f0273a567
 workflow-type: tm+mt
 source-wordcount: '759'
 ht-degree: 0%
@@ -36,7 +36,7 @@ De AEM opslagplaats is read-only, wat betekent u geen concepten, nieuwe activa, 
 
 ## Assets-beheer
 
-In [!UICONTROL Content] kunnen prestatiemarketers hun digitale middelen eenvoudig opslaan, ophalen en beheren. Door gebruik te maken van zowel de `GenStudio assets` -opslagplaats als AEM opslagruimten, kunnen gebruikers ervoor zorgen dat hun middelen goed zijn georganiseerd en toegankelijk zijn voor verschillende marketingcampagnes. Deze benadering met meerdere opslagplaatsen biedt flexibiliteit en controle over het gebruik van bedrijfsmiddelen in verschillende omgevingen, zodat bij marketingactiviteiten alleen goedgekeurde en actuele bedrijfsmiddelen worden gebruikt.
+In [!UICONTROL Content] kunnen Performance Marketing hun digitale middelen eenvoudig opslaan, ophalen en beheren. Door gebruik te maken van zowel de `GenStudio assets` -opslagplaats als AEM opslagruimten, kunnen gebruikers ervoor zorgen dat hun middelen goed zijn georganiseerd en toegankelijk zijn voor verschillende marketingcampagnes. Deze benadering met meerdere opslagplaatsen biedt flexibiliteit en controle over het gebruik van bedrijfsmiddelen in verschillende omgevingen, zodat bij marketingactiviteiten alleen goedgekeurde en actuele bedrijfsmiddelen worden gebruikt.
 
 ### Elementen toevoegen
 
@@ -66,7 +66,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 1. Om uw nieuwe geüploade activa te bekijken, klik **[!UICONTROL Refresh]** van het _Nieuwe beschikbare activa_ bericht bij de bodem van het Canvas.
 
-<!-- 
+<!--
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
