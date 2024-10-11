@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing-concepten
 description: Leer Adobe GenStudio for Performance Marketing-concepten en -terminologie.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 4d2a7b72132e7bdba314c9f7c83eed327c579c46
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -34,44 +34,85 @@ Zie het [ overzicht van Richtlijnen ](../user-guide/guidelines/overview.md) lere
 De vraag is hoog voor hoogwaardige ervaringen in meerdere kanalen in een sneller tempo. GenStudio for Performance Marketing vereenvoudigt de toeleveringsketen voor inhoud tot een goed georganiseerde workflow voor marketers. GenStudio for Performance Marketing maakt gebruik van Adobe technologie in elke fase van de levenscyclus.
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-       <img alt="kalender" src="../assets/csc-workflow-planning.png" width="100">
-    </td>
+
     <td>
+
+       <p><strong>Workflow en planning</strong></p>
+
+    </td>
+
+    <td>
+
         <p>Brainstorm-ideeën, richtlijnen definiëren en een strategie rond de inhoud maken om het publiek erbij te betrekken.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="penseel en canvas" src="../assets/csc-creation-production.png" width="100">
-    </td>
+
     <td>
+
+        <p><strong>Maken en produceren</strong></p>
+
+    </td>
+
+    <td>
+
         <p>Produceer de inhoud die op het plan wordt gebaseerd. Werk in real time samen, ontvang terugkoppelen, geef uit, en keur inhoud goed.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="afbeeldingen en meer" src="../assets/csc-content-mgmt.png" width="100">
-    </td>
+
     <td>
+
+        <p><strong>Inhoud beheren</strong></p>
+
+    </td>
+
+    <td>
+
         <p>U kunt creatieve middelen opslaan, delen en zoeken in de gecentraliseerde opslagplaats. Inhoud op basis van prestaties opnieuw gebruiken en nieuw leven inblazen.</p>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="papieren vliegtuig" src="../assets/csc-delivery-activation.png" width="100">
-    </td>
+
     <td>
+
+        <p><strong>Aflevering en activering</strong></p>
+
+    </td>
+
+    <td>
+
         <p>Activeer inhoud en publiceer deze via meerdere marketingkanalen.</P>
+
     </td>
+
 </tr>
+
 <tr style="border: 0;">
-    <td style="width: 120px;">
-        <img alt="diagram" src="../assets/csc-reporting-insights.png" width="100">
-    </td>
+
     <td>
-        <p>Gegevens verzamelen en inzichten afleiden voor optimalisatie van de prestaties van bedrijfsmiddelen.</p>
+
+        <p><strong>Rapportage en inzichten</strong></p>
+
     </td>
+
+    <td>
+
+        <p>Gegevens verzamelen en inzichten afleiden voor optimalisatie van de prestaties van bedrijfsmiddelen.</p>
+
+    </td>
+
 </tr>
+
 </table>
