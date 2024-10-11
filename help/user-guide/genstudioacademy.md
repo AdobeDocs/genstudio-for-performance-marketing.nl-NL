@@ -4,9 +4,9 @@ description: Verbeter uw vaardigheden van de inhoudsleverancier met de Academie 
 recommendations: disable, exclude
 index: false
 hidefromtoc: true
-source-git-commit: 91ad365ba7096a770d57f2de5d5c65e24ec32e4e
+source-git-commit: ef6bf8c691748844a25957de284c4f8e7dbc5e25
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -70,69 +70,61 @@ ht-degree: 0%
 
 <table>
 
- <tr style= "border: 0;colspan: 3;">
+    <tr style="border: 0;">
 
-  <td colspan="3"> <strong style= "font-size: 2em;"> Binnenkort </strong></td>
+        <td colspan="3">
 
- </tr> 
+            <strong style="font-size: 2em;"> Binnenkort </strong>
 
- <tr style= "border: 0;colspan: 3;"> 
+        </td>
 
-   <td align="Center">
+    </tr>
 
-      <img src="../assets/tips-and-tricks.png">
+    <tr style="border: 0;">
 
-      <div>
+        <td align="center">
 
-      <strong> Tips en trucs </strong>
+            <img src="../assets/tips-and-tricks.png" alt="Tips en trucs">
 
-      </div>
+            <div>
 
-      <p>
+                <strong> Uiteinden en trucs </strong>
 
-      Tips en trucs om GenStudio for Performance Marketing op de meest efficiënte manier te gebruiken.
+            </div>
 
-      </p>
+            <p>Tips en trucs om GenStudio for Performance Marketing op de meest efficiënte manier te gebruiken.</p>
 
-   </td>
+        </td>
 
-   <td align="Center">
+        <td align="center">
 
-      <img src="../assets/social-learning.png">
+            <img src="../assets/social-learning.png" alt="Sociaal leren">
 
-      <div>
+            <div>
 
-      <strong> Sociale het leren </strong>
+                <strong> Sociale het leren </strong>
 
-      </div>
+            </div>
 
-      <p>
+            <p>Leer van uw gelijken en kennis delen gemakkelijk over uw organisatie.</p>
 
-      Leer van uw gelijken en kennis delen gemakkelijk over uw organisatie.
+        </td>
 
-      </p>
+        <td align="center">
 
-   </td>
+            <img src="../assets/expert-courses.png" alt="Deskundige cursussen">
 
-   <td align="Center">
+            <div>
 
-      <img src="../assets/expert-courses.png">
+                <strong> Professionele cursussen </strong>
 
-      <div>
+            </div>
 
-      <strong> Professionele cursussen </strong>
+            <p>Geavanceerde cursussen om AI-vaardigheden op het niveau van experts op het gebied van marketing te ontsluiten.</p>
 
-      </div>
+        </td>
 
-      <p>
-
-      Geavanceerde cursussen om AI-vaardigheden op het niveau van experts op het gebied van marketing te ontsluiten.
-
-      </p>
-
-   </td>
-
- </tr>
+    </tr>
 
 </table>
 
@@ -142,13 +134,33 @@ ht-degree: 0%
 
     <tr></tr>
 
- <tr style= "border: 0;">
+    <tr style="border: 0;">
 
- <td><img src="../assets/put-your-learnings-into-practice.png"></td>
+        <td>
 
-  <td> <strong style= "font-size: 2em"> zet uw lessen in praktijk.</strong><p>Ontdek GenStudio for Performance Marketing als een generatieve AI-First-toepassing waarmee marketingteams hun eigen advertenties en e-mails kunnen maken om onhandige, gepersonaliseerde marketingcampagnes te voeren.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Neem me mee</span></a></td>
+            <img src="../assets/put-your-learnings-into-practice.png" alt="Leerlingen in de praktijk brengen">
 
- </tr>
+        </td>
+
+        <td>
+
+            <strong style="font-size: 3em"> zet uw lessen in praktijk.</strong>
+
+            <p>Ontdek GenStudio for Performance Marketing, een generatieve AI-eerste toepassing waarmee marketingteams hun eigen advertenties en e-mails kunnen maken om onhandige, gepersonaliseerde marketingcampagnes te voeren.</p>
+
+            <p>
+
+                <a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM">
+
+                    <span class="spectrum-Button-label has-no-wrap"> neem me daar </span>
+
+                </a>
+
+            </p>
+
+        </td>
+
+    </tr>
 
     <tr></tr>
 
