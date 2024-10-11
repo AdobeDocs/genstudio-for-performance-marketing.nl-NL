@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 9ff0e14af49d8759c8384c67e61832d205fa6e90
 workflow-type: tm+mt
 source-wordcount: '1465'
 ht-degree: 0%
@@ -163,8 +163,7 @@ In _[!DNL Products]_huis, kunt u **openen reeds-gecreeerd[!DNL Product]**om het 
 
 * Selecteer **[!UICONTROL Open]** in het actiemenu [!DNL Products] om een bestaand product te reviseren en te bekijken.
 * Selecteer **[!UICONTROL Delete]** van het [!DNL Products] actiemenu **schrapping** een product.
-* 
-   * Selecteer **[!UICONTROL Rename]** van het [!DNL Products] actiemenu **anders noemen** een product.
+* Selecteer **[!UICONTROL Rename]** van het [!DNL Products] actiemenu **anders noemen** een product.
 
 ## Toevoegen [!DNL Personas]
 
