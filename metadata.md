@@ -5,10 +5,11 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/genstudio-for-performance-marketing.nl-NL
 mini-toc-levels: 2
 description: Adobe GenStudio for Performance Marketing-hulplijnen
-source-git-commit: 8de7d60be46a01729eb20486ad02c9541d5efd2d
+hide: false
+source-git-commit: 05d5bde4cda3323e09626cb55b81e69aa3605570
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 88%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
