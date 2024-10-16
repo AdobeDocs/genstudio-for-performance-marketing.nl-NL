@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '944'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
 >[!NOTE]
 >
->Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie.
+>Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie. U kunt vanuit [!DNL Content] alleen visuele elementen toevoegen aan e-mailberichten met meerdere secties. U kunt vanuit uw lokale bron geen elementen slepen en neerzetten of uploaden.
 
 Wanneer u wordt gebeëindigd toevoegend parameters, kunt u de snelle lade doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 

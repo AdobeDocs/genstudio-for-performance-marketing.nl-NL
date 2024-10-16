@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 9ff0e14af49d8759c8384c67e61832d205fa6e90
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
 source-wordcount: '1465'
 ht-degree: 0%
@@ -185,7 +185,7 @@ Zie [[!DNL Personas]](/help/user-guide/guidelines/personas.md) .
 
 1. Selecteer de **[!UICONTROL Add persona]** knoop en kies **PDF** uploaden.
 1. Klik op **[!UICONTROL Continue]**.
-1. In _voeg uw persoonlijke popup toe, maak of sleep in uw persoonlijk document vast.
+1. In _voeg uw persona_ popup toe, maak of sleep in uw persona document vast.
 
    U kunt maximaal vijf PDF-bestanden met maximaal 500 MG aan elkaar koppelen.
 

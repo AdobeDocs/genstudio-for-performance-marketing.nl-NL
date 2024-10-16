@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing-concepten
 description: Leer Adobe GenStudio for Performance Marketing-concepten en -terminologie.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 5a35f8b041e1da8e21db4bbd4e20ea7f9b4bb3c0
+source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ GenStudio for Performance Marketing is een zelfstandig bedrijfsproduct dat de co
 
 Met GenStudio for Performance Marketing kunt u:
 
-- On-brand-inhoud maken aan de hand van vragen over natuurlijke talen
-- Samenwerken met belanghebbenden om gegenereerde inhoud te beoordelen en goed te keuren
-- Gegenereerde en goedgekeurde inhoud opslaan voor toekomstige marketingcampagnes
-- De prestaties van inhoud evalueren met inzicht in campagnes en inhoudskenmerken
+* On-brand-inhoud maken aan de hand van vragen over natuurlijke talen
+* Samenwerken met belanghebbenden om gegenereerde inhoud te beoordelen en goed te keuren
+* Gegenereerde en goedgekeurde inhoud opslaan voor toekomstige marketingcampagnes
+* De prestaties van inhoud evalueren met inzicht in campagnes en inhoudskenmerken
 
 ## Generatieve AI-technologie
 
@@ -28,6 +28,16 @@ GenStudio for Performance Marketing maakt gebruik van de kracht van generatieve 
 Begin met het effectief trainen van GenStudio for Performance Marketing op de branding van uw organisatie, klanten en productbeschrijvingen via de krachtige functie voor merkrichtlijnen.
 
 Zie het [ overzicht van Richtlijnen ](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
+
+## Gegevensbeheer
+
+Wanneer u met AI werkt om inhoud te genereren, is het van essentieel belang dat de uitvoer veilig en inclusief is voor alle gebruikers. Hiervoor is een evaluatie nodig van de inhoud voor mogelijke schadelijke vooroordelen, haatzaaiende uitingen, aanstootgevend materiaal of overdadigheid. Een grondige toetsing vanuit verschillende perspectieven, een uitgebreide ethische evaluatie en het uitvoeren van effectieve mitigatieplannen zijn belangrijk om te voorkomen dat er schadelijke inhoud in outputs ontstaat.
+
+Deze aanpak versterkt de sociale verantwoordelijkheid, minimaliseert het reputatierisico en waarborgt de naleving van het beleid van de Adobe inzake vertrouwen en veiligheid en ethiek.
+
+GenStudio for Performance Marketing neemt mitigatieplannen op om het gebruik van geïdentificeerde schadelijke of bevoorrechte inhoud volgens normen en beleid inzake gegevensbeheer te voorkomen. Wanneer dergelijke inhoud wordt gedetecteerd, wordt u erop gewezen dat het genereren van elementen wordt geblokkeerd met het bericht &quot;Kan niet genereren&quot;.
+
+Wanneer dit bericht verschijnt, kunt u de herinnering uitgeven en opnieuw proberen _of_ vlaggen de snelle inhoud voor overzicht door GenStudio for Performance Marketing. De prompt gegevens voor inhoud die is gemarkeerd voor revisie, worden verzameld voor interne revisiedoeleinden.
 
 ## Levenscyclus van inhoud
 
