@@ -3,9 +3,9 @@ title: Werken met sjablonen
 description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 3a361134a0b56a2973399e38e62f4ab345a3dbc8
+source-git-commit: 61a939ae81eb5ff61d741bb1092e9e4c82119f7e
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -114,7 +114,7 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
    - **Meta**: vereist Verhouding
-   <!-- - **Display ads**: requires Dimensions -->
+   - **de advertenties van de Vertoning**: vereist Dimensionen
 
 1. Voeg zoveel details toe als u kunt om sjabloonidentificatie in zoekopdrachten en filteren te verbeteren.
 
