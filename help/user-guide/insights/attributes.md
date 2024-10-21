@@ -2,9 +2,9 @@
 title: Overzicht van kenmerken
 description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudio for Performance Marketing kunt beoordelen.
 feature: Insights, Assets
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 87a8833549569aaeaa60f5760b4e9a8b710a6033
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -108,7 +108,7 @@ Metrische gegevens over inzichten kunnen u helpen te evalueren welke kenmerken d
 
 ### Metrische details
 
-In de volgende tabel vindt u definities en inzichten voor de belangrijkste maatstaven voor digitale marketing in de weergave [!UICONTROL Attributes] . Elke metrisch omvat een korte definitie aangezien het op een activa betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect op een advertentiecampagne begrijpen.
+In de volgende tabel vindt u definities en inzichten voor de belangrijkste maatstaven voor digitale marketing in de tabelweergave van [!UICONTROL Attributes] . Elke metrisch omvat een korte definitie aangezien het op een activa betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect op een advertentiecampagne begrijpen.
 
 | Metrisch | Definitie | Inzicht |
 | ---------------------- | ----------------------------- | -------------------------------- |
@@ -120,5 +120,6 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | **[!UICONTROL Clicks]** | Aantal keren dat gebruikers met een afbeelding of video werken met dit kenmerk. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen dat heeft geresulteerd in klikken op afbeeldingen of video&#39;s met dit kenmerk.<br>**Berekening**: `clicks` verdeeld door `impressions` | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten ($) voor elke duizend beelden van een afbeelding of video met dit kenmerk.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
+| **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten ($) die worden besteed om een specifieke actie van de klant, zoals een aankoop of een abonnement, te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Helpt om attributen te identificeren die in waardevolle klantenacties resulteren. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten ($) bij elke klik op afbeeldingen of video&#39;s met dit kenmerk.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |
 | **[!UICONTROL Spend]** | Het uit de begroting uitgegeven bedrag ($) heeft betrekking op kenmerken gedurende een bepaalde periode. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgavenbedrag bij de belangrijkste prestatiemetriek om het algemene rendement op investering te helpen controleren. |

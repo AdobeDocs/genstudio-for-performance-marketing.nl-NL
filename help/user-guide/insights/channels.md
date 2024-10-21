@@ -3,9 +3,9 @@ title: Overzicht van kanalen
 description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 2e1ef218bbdccc3c48cf402a7fb3916a570369e5
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ De volgende lijst verstrekt definities en inzichten voor zeer belangrijke digita
 | **[!UICONTROL Impressions]** | Een telling van elke tijd de inhoud binnen het kanaal laadt, ongeacht interactie of het bekijken. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht, denk aan andere betrokkenheidsmetriek. |
 | **[!UICONTROL Clicks]** | Aantal tijden de gebruikers met een klikbaar element, zoals een verbinding of een vraag-aan-actie knoop, binnen de advertentiecampagne in wisselwerking staan. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukken die tot campagneklikken binnen een kanaal hebben geleid.<br>**Berekening**: (`clicks` verdeeld door `impressions`) x 100 = % | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
-| **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten ($) voor elke duizend impressies voor de advertentiecampagne. <br>**Berekening**: (totaal bedrag `spent` gedeeld door `impressions`) x 1000 = $ | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
+| **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten ($) voor elke duizend impressies voor de advertentiecampagne. <br>**Berekening**: (totaal bedrag `spent` gedeeld door `impressions`) x 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten ($) voor elke klik in een advertentiecampagne.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` = $ | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |
 | **[!UICONTROL Video plays]** | Percentage (%) van kijkers die een video tot het einde hebben bekeken. | Een hoog aantal videospellen kan erop wijzen dat de video aandacht vangt, en kan betekenen dat de duimnagel, de titel, of de plaatsing effectief in kijkers trekt. Hoge afspeelsnelheden suggereren dat uw video-inhoud aantrekkelijk en relevant is. |
 | **[!UICONTROL Budget]** | Totale middelen ($) die zijn toegewezen voor een advertentiecampagne om campagnedoelstellingen te bereiken. | Een hoge begroting betekent meer middelen voor een breder bereik en mogelijk grotere impact. |
