@@ -1,11 +1,11 @@
 ---
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
-description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio for Performance Marketing.
+description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
 source-git-commit: c3e6e5f4213074b4093591ac06e8341c9d46c212
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
