@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
+source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '963'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,14 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
+   ![ kies persona ](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Voeg inhoud voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
+
+     ![ kies visuele inhoud ](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
      Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
@@ -51,8 +55,8 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 1. Klik op **[!UICONTROL Use]**.
 
 >[!NOTE]
->
 >Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie. U kunt vanuit [!DNL Content] alleen visuele elementen toevoegen aan e-mailberichten met meerdere secties. U kunt vanuit uw lokale bron geen elementen slepen en neerzetten of uploaden.
+>![Inhoud en parameters toevoegen voor elke e-mailsectie ](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
 
 Wanneer u wordt gebeëindigd toevoegend parameters, kunt u de snelle lade doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
@@ -98,9 +102,15 @@ Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkiden
 **om brandgroepering** te verifiëren:
 
 1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
+
+   ![ controle van de Merk richtlijnen ](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+
 1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
 1. U kunt elke e-mail doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat deze meer op het merk wordt afgestemd.
+
+   ![ het paneel van de Bevestiging van de Merk ](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
+
 1. [ herziet manueel e-mail ](#revise-generated-emails) om ervoor te zorgen uw e-mails nauw met uw merk worden gericht.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).

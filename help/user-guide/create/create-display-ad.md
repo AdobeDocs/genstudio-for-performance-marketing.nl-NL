@@ -5,9 +5,9 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 94a3b4c764e29b84fc07620994913c528ffe0cdd
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,8 @@ Wanneer u wordt gebeëindigd toevoegend parameters, de snelle lade door het _pic
 ## Een vraag invoeren
 
 Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing met een natuurlijke taal maken en beginnen met het genereren van inhoud voor uw nieuwe weergave en ervaring. Om de kwaliteit van de gegenereerde weergave en ervaringen te verbeteren, is het van cruciaal belang om gedetailleerde en beschrijvende herinneringen op te stellen.
+
+![ ga een herinnering ](/help/assets/prompt-displayad.png){width="650" zoomable="yes"} in
 
 Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
@@ -115,6 +117,11 @@ Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md).
 Als u de gegenereerde weergaveadvertenties beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
 1. **om uw nieuwe vertoning en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
+   1. Selecteer _[!UICONTROL [!DNL Campaigns]]_en voeg desgewenst_[!UICONTROL More details]_ toe.
+   1. Klik op **[!UICONTROL Publish]**.
+
+      ![ Publish a vertoningsadvertentie ](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+
 1. **om uw nieuwe vertoning en ervaring(en) uit te voeren**, klik **[!UICONTROL Export]** in de hoogste toolbar.
    1. Selecteer de indeling (alleen JPG) en klik op **[!UICONTROL Export]** .
 

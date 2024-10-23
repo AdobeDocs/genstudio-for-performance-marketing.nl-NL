@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing  [!DNL Products]
 description: GenStudio voor Prestaties die  [!DNL Products]  op de markt brengen neemt alle aspecten van uw product-beelden, beschrijvingen, en waardevoorstellen-op om relevante inhoud tot stand te brengen die productsterke punten benadrukt en consistentie in productoverseinen handhaaft.
 feature: Products Service, Guidelines
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '532'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 [!DNL Products] in GenStudio for Performance Marketing maakt gebruik van een uitgebreid begrip van productspecificaties, voordelen en differentiatiefactoren om effectvolle inhoud te genereren.
 
 [!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. De geavanceerde technologie van AI van de hefboomwerking van de Adobe, GenStudio voor de Marketing van Prestaties - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
-
-![[!DNL Products] Richtlijnen in GenStudio for Performance Marketing ](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **om een product** te bekijken of te wijzigen:
 
@@ -29,6 +27,8 @@ Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een prod
 ## [!DNL Products] richtlijnen
 
 Individuele productrichtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van je producten.
+
+![ Richtlijnen van het Product ](/help/assets/products.png){width="600" zoomable="yes"}
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw [!DNL Products] -richtlijnen op de hoogte te brengen.
 

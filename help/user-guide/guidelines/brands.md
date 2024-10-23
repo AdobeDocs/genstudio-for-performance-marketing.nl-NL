@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing  [!DNL Brands]
 description: GenStudio voor Prestaties op de markt brengend  [!DNL Brands]  zijn een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '794'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ U kunt documenten met richtlijnen voor het merk (maximaal drie PDF- of DOC-besta
 ## [!DNL Brands] richtlijnen
 
 De richtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van uw merkspecifieke benadering, toon, visueel gevoel, en meer.
+
+![ Merk richtlijnen ](/help/assets/brands.png){width="600" zoomable="yes"}
 
 In de volgende gedeelten van de richtlijnen worden elke categorie richtlijnen, voorbeeldrichtlijnen en mogelijke resultaten beschreven. De leidraad voorbeelden zijn steekproefinput die de resultaatoutput (resultaatvoorbeelden hieronder) vormen - gebruik hen om uw eigen merkrichtlijnen te informeren.
 

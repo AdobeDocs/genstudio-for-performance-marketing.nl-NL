@@ -3,7 +3,7 @@ title: Overzicht van  [!DNL Brands],  [!DNL Products], en  [!DNL Personas]
 description: Voeg  [!DNL Brands], [!DNL Products], and [!DNL Personas]  aan GenStudio voor de Marketing van Prestaties toe om een uitvoerig merkprofiel tot stand te brengen dat alle aspecten van de vertegenwoordiging van een merk omvat.
 feature: Guidelines, Brands Service, Personas Service, Products Service
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -38,10 +38,10 @@ Met de richtlijnen [!DNL Brands] , [!DNL Products] en [!DNL Personas] kunt u twe
 * **generatie van de Inhoud** in [[!DNL Create]](/help/user-guide/create/overview.md) of [ Inhoud ](/help/user-guide/content/overview.md)
 * [**Bevestiging van de Merk**](#brand-validation), die als deel van het proces van de inhoudsverwezenlijking gebeurt
 
-## Merk valideren
+## Merkwaardvalidatie
 
 In samenwerking met de generatieve AI-functionaliteit van Adobe spelen [!DNL Brands] , [!DNL Products] en [!DNL Personas] een cruciale rol bij het afstemmen van al uw GenStudio for Performance Marketing-inhoud op uw merkidentiteit.
 
 GenStudio for Performance Marketing voert merkvalidatie uit voor verschillende merkaspecten en biedt een controlelijst voor gegenereerde inhoud om verbeteringsgebieden te benadrukken zodat deze beter kunnen worden afgestemd op uw merkidentiteit.
 
-Zie [ Bevestiging van het Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).

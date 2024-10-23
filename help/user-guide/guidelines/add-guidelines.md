@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: cb309cbaa81807644ff8ba4a5e8ed4403b935315
+source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1470'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,10 @@ U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande m
    U kunt verschillende optionele richtlijnen en afbeeldingen vullen om uw merk te ontwikkelen.
 
 1. Voeg informatie over uw merk in _ongeveer_ sectie toe.
-1. Ga [_de stemrichtlijnen van de Merk_](brands.md#brand-voice-guidelines) in.
+1. Ga [_[!DNL Brand] stemrichtlijnen _](brands.md#brand-voice-guidelines)in.
+
+   ![ Voeg [!DNL Brand] stemrichtlijnen ](/help/assets/brand-voice-add.png){width="650" zoomable="yes"} toe
+
 1. Ga [_richtlijnen van het Kanaal_](brands.md#channel-guidelines), voor elk toepasselijk kanaal in.
 1. Ga [_richtlijnen van het Beeld_](brands.md#image-guidelines) in. Vouw elke categorie in de sectie Richtlijnen voor afbeeldingen uit om alle richtlijnen weer te geven.
 
@@ -101,7 +104,9 @@ Om een product toe te voegen, [ upload een productgids ](#upload-a-product) of [
 
 Klik in het linkernavigatiegebied op **[!DNL Products]** . In het _[!DNL Products]_paneel, uitgezochte **voeg product**toe.
 
-U kunt [!DNL Products] toevoegen in GenStudio for Performance Marketing om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt. <!-- Add Rename, display, reposition functionality -->
+![ Voeg een [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} toe
+
+U kunt [!DNL Products] toevoegen in GenStudio for Performance Marketing om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt.
 
 Zie [[!DNL Products]](products.md) .
 
@@ -212,7 +217,10 @@ U kunt persona details, in plaats van het uploaden van bestaande persona documen
 
    U kunt verschillende optionele richtlijnen en afbeeldingen vullen om uw persona uit te bouwen.
 
-1. Voeg informatie over uw merk in de _sectie van de Beschrijving_ toe.
+1. Voeg informatie over uw [!DNL Persona] in de _sectie van de Beschrijving_ toe.
+
+   ![ Voeg een [!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"} toe
+
 1. Klik op **[!UICONTROL New persona name]** en voer een naam in voor de [!DNL Persona] .
 1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL Persona] in.
 1. Klik in _voorkeur van het Overseinen_ en ga overseinendetails voor [!DNL Persona] in.

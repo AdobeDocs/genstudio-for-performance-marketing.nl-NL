@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing  [!DNL Personas]
 description: GenStudio voor Op de markt brengende van Prestaties  [!DNL Personas]  is een ware vertegenwoordiging van uw klantensegmenten, die hun belangen, pijnpunten, voorkeur, en gedragseigenschappen vangen.
 feature: Personas Service, Guidelines
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 0%
 [!DNL Personas] biedt een authentieke weergave van de klantsegmenten, waarin de gegevens, interesses, pijnpunten, voorkeuren en gedragseigenschappen zijn opgenomen.
 
 GenStudio for Performance Marketing gebruikt de macht van richtlijnen - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](overview.md) - en generatieve AI van de Adobe technologie om gepersonaliseerde marketing inhoud voor uw doelklanten te leiden. &#x200B;
-
-![[!DNL Personas] Richtlijnen in GenStudio for Performance Marketing ](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **om een persona** te bekijken of te wijzigen:
 
@@ -29,6 +27,8 @@ Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een pers
 ## [!DNL Personas] richtlijnen
 
 Individuele persoonlijke richtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van uw [!DNL Personas] .
+
+![ Persona richtlijnen ](/help/assets/personas.png){width="600" zoomable="yes"}
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw eigen [!DNL Personas] -richtlijnen op te geven.
 

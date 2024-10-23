@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 449c212ab167a6c126492e9becedf9318bfe08ee
+source-git-commit: bd24c4e25df1210dd6ff2b7f17f999963133294a
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '1002'
 ht-degree: 0%
 
 ---
@@ -40,10 +40,14 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
+   ![ kies persona ](/help/assets/persona-select.png){width="600" zoomable="yes"}
+
    Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Voeg inhoud voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
+
+     ![ kies visuele inhoud ](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
      Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
@@ -102,6 +106,8 @@ Om de geproduceerde advertenties te optimaliseren en strikte gehechtheid aan mer
 1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
 1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
 
+   ![ het paneel van de Bevestiging van de Merk ](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
+
 1. U kunt elke advertentie doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat de inhoud meer op het merk wordt afgestemd.
 1. [ herzien manueel advertenties ](#revise-generated-meta-ads) om uw advertenties te verzekeren dicht met uw merk wordt gericht.
 
@@ -114,6 +120,9 @@ Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubal
 **om overzichten en goedkeuringen** te verkrijgen:
 
 1. [ Lanceer een goedkeuringsverzoek ](/help/user-guide/approvals/request-review.md) om een [ goedkeuring van geschreven Meta en ervaringen ](/help/user-guide/approvals/approve-content.md) te vragen.
+
+   ![ verzendt concepten voor overzicht en goedkeuring ](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
+
 1. [ verwijdert of voegt recensenten ](/help/user-guide/approvals/review-and-edit.md#manage-approvals) tijdens het overzichtsproces toe.
 1. [ heb toegang tot de inhoud voor overzicht ](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
 1. Bewerk de concepten per overzichtscommentaren en [ publiceer uw Meta en ervaringen ](#publish-and-export-experience).

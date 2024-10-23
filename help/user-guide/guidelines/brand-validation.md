@@ -3,9 +3,9 @@ title: Merkwaardvalidatie in Adobe GenStudio voor prestatiemarketing
 description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ GenStudio for Performance Marketing voert de merkvalidatie uit op verschillende 
 * Richtlijnen kopiëren voor verschillende kanaalplatforms
 * Ethische overwegingen in verband met geslacht, etniciteit, ras, gehandicaptenstatus en leeftijd in door AI gegenereerde inhoud
 
-## Merk Guidelines check
+## [!DNL Brand] controle van hulplijnen
 
-Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerde inhoudvariant is toegankelijk door het _pictogram van de de richtingencontrole van de Merk_ naast elke variant in het Canvas.
+Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerde inhoudvariant is toegankelijk door het _[!DNL Brand]pictogram van de richtingencontrole_ naast elke variant in het Canvas.
 
-De _controle van de Merk_ toont het percentage van naleving van uw [ merk ](brands.md). Het percentage wordt berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
+De _[!DNL Brand]controle van richtlijnen_ toont het percentage van naleving van uw [ merk ](brands.md). Het percentage wordt berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
+
+![[!DNL Brand] Guidelines check ](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
 
 Klik op het pictogram om te zien hoeveel richtlijnen voldoen aan uw merk en hoeveel richtlijnen u wilt controleren.
 
@@ -33,6 +35,8 @@ Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 ## Deelvenster Handtekeningvalidatie
 
 Het _paneel van de Bevestiging van het Merk_ opent op de rechterkant van het Canvas wanneer geklikt van de hoogste menubar _of_ van het _pictogram van de de richtingencontrole van het Merk_ voor een variant. Dit paneel verstrekt gedetailleerde informatie van de merkbevestiging en belicht kansen voor verbetering voor elke variantsectie.
+
+![[!DNL Brand] Het deelvenster Validatie ](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
 
 Het _paneelvertoningeninformatie van de bevestiging van het merk van 0} {voor:_
 

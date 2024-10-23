@@ -2,9 +2,9 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 5e92233248c555a3b0a59bd4dbb0935e4c8cfb1f
 workflow-type: tm+mt
-source-wordcount: '1072'
+source-wordcount: '1092'
 ht-degree: 0%
 
 ---
@@ -44,13 +44,16 @@ GenStudio for Performance Marketing beschikt over de ingebouwde functionaliteit 
 
 U kunt bijvoorbeeld de koptekstsectie van een meta-variant opnieuw genereren om te zien hoe deze er uitziet met een bepaald achtergrondelement met behulp van de _[!UICONTROL Suggested edits]_-opties_[!UICONTROL Rephrase]_ , _[!UICONTROL Shorten]_of_[!UICONTROL Lengthen]_ en een nieuwe vraag in te voeren.
 
+![ regenerate secties ](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
+
 **om individuele variantsecties** opnieuw te produceren:
 
 1. Nadat u een set varianten hebt gegenereerd, klikt u met één klik op alle bewerkbare tekst in een variant.
-1. (_Facultatieve_) ga een nieuwe herinnering in om de nadruk van de opnieuw geproduceerde inhoud te veranderen.
 1. Selecteer een _[!UICONTROL Suggested edits]_optie—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, of_[!UICONTROL Lengthen]_.
-1. Klik op **[!UICONTROL Generate]**.
-1. Als u de resultaten wilt regenereren, klik het regenerate pictogram naast _Resultaten_.
+   * Kies een beschikbare optie en klik op **[!UICONTROL Replace]** .
+1. (_Facultatieve_) Uitgezochte _ [!UICONTROL Generate with prompt] en ga een nieuwe herinnering in om de nadruk van de opnieuw geproduceerde inhoud te veranderen.
+   * Klik op **[!UICONTROL Generate]**.
+1. Als u de resultaten wilt regenereren om meer opties te zien, klik het regenerate pictogram naast _Resultaten_.
 1. Van de _Resultaten_ die verschijnen, selecteer de gewenste optie en klik **[!UICONTROL Replace]**.
 
    De variant wordt bijgewerkt met de herziene tekst.
@@ -151,6 +154,8 @@ Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md#
 ## Feedback genereren
 
 Feedback op de kwaliteit van gegenereerde merkgebonden elementen kan worden ingediend om het proces voor het genereren van inhoud te verbeteren. Als u aangeeft of de resultaten van hoge of slechte kwaliteit zijn, wordt de algehele kwaliteit van de inhoud en de veiligheid van de gebruiker in GenStudio for Performance Marketing verbeterd.
+
+![ voorleggen terugkoppelt op inhoudsgeneratie ](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
 
 Generatie-feedback is van toepassing op een individuele variant, niet op de verzamelde set varianten.
 
