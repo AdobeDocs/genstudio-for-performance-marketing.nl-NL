@@ -27,71 +27,38 @@ Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) 
 ## [!DNL Create] gebruik gevallen
 
 <table style="table-layout:fixed">
-
 <tr style="border: 0;">
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-email-experience.md">
-
       <img alt="Nieuwe inhoud maken" src="../../assets/icons/icon-create.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-email-experience.md">
-
          <strong> creeer een e-mailervaring </strong>
-
          </a>
-
       </div>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-meta-ad.md">
-
       <img alt="Een meta-advertentie maken" src="../../assets/icons/icon-asset.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-meta-ad.md">
-
          <strong> creeer een Meta en ervaring </strong>
-
          </a>
-
       </div>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="/help/user-guide/create/create-display-ad.md">
-
       <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
-
       </a>
-
       <div>
-
          <a href="/help/user-guide/create/create-display-ad.md">
-
          <strong> creeer een vertoning en ervaring </strong>
-
          </a>
-
       </div>
-
    </td>
-
 </tr>
-
 </table>
 
 GenStudio voor de Marketing van Prestaties laat marketers toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
