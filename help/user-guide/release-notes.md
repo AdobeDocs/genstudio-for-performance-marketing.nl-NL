@@ -2,9 +2,9 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-source-git-commit: c3e6e5f4213074b4093591ac06e8341c9d46c212
+source-git-commit: ea897aaf6069aa70ef73baf961f56e485eeb383e
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '368'
 ht-degree: 4%
 
 ---
@@ -13,7 +13,25 @@ ht-degree: 4%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2024.10.14 Algemene beschikbaarheidsrelease {#latest}
+## 2024 10 31  {#latest}
+
+### Nieuwe functies
+
+* Het zoekfilter **[!DNL Content]** ondersteunt nu zoeken op basis van kleurtag.  <!-- GS-5501 -->
+
+* Op het canvas van **[!DNL Create]** worden nu tekenaantallen voor e-mailfragmenten weergegeven. <!-- GS-5819 -->
+
+### Oplossingen
+
+* Ontbrekende schermlezerlabels zijn toegevoegd aan mobiele en desktopelementen `view` . <!-- GS-5624 4729 -->
+
+* De onderwerpregel en tekstgebieden vóór de koptekst van de **[!DNL Create]** Canvas-e-mail zijn nu dynamisch van hoogte. <!-- GS-6258 -->
+
+* Layoutproblemen met e-mailranden zijn opgelost. <!-- GS-6631 -->
+
+* Toetsenbordfocus werkt nu zoals u had verwacht op de knop **[!DNL Content]** **[!UICONTROL Delete]** . Eerder kon deze knoop niet worden bereikt of door het toetsenbord in werking worden gesteld.  <!-- GS-4065 -->
+
+## 2024.10.14 Algemene beschikbaarheidsrelease
 
 Deze release introduceert Adobe GenStudio for Performance Marketing, een generatieve AI-toepassing die de planning, ontwikkeling en analyse van marketingcampagnes versnelt. Met GenStudio for Performance Marketing kunnen marketingteams on-brand- en multikanaalsinhoud voor advertenties, e-mails en campagnes maken en real-time inzichten bieden om de prestaties van inhoud te optimaliseren.
 
