@@ -4,9 +4,9 @@ description: Meer weten over e-mailervaringen in Adobe GenStudio for Performance
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: 157aee296304c9aa1b8b86dc8905fe103fe4f83c
+source-git-commit: cb700de090d6a2f6a6c75afcf8a4ba118ded9527
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -53,3 +53,9 @@ Elk veld en elke sectie van e-mailervaringen worden in deze reeks geleidelijk ge
 1. Koppen, hoofdtekst van e-mail (voor e-mails met één sectie) en oproepen-naar-actie
 1. Hoofdtekst van e-mail voor volgende secties (voor e-mails met meerdere secties)
 1. Het proces van de de bevestiging van het merk komt voor en de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) bevolkt voor elke variant.
+
+## Aantal tekens
+
+Nadat u een set e-mailvarianten hebt gegenereerd, ziet u het aantal tekens dat voor elke e-mailsectie wordt weergegeven. Houd de muis boven of klik in een gegenereerde sectie, zoals de onderwerpregel of de hoofdtekst, en zie de sectienaam en het aantal tekens voor die sectie.
+
+![ Aantal van het Karakter ](/help/assets/character-count.png){width="500" zoomable="yes"}
