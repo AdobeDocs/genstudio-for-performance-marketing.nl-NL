@@ -1,11 +1,11 @@
 ---
-title: GenStudio for Performance Marketing  [!DNL Brands]
-description: GenStudio voor Prestaties op de markt brengend  [!DNL Brands]  zijn een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
+title: GenStudio for Performance Marketing [!DNL Brands]
+description: GenStudio for Performance Marketing  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
+source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '802'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,19 @@ ht-degree: 0%
 
 Een merk onderscheidt een organisatie, product, service of concept van anderen. Sommige aspecten van een merk zijn objectief, zoals een logo, terwijl andere subjectief zijn, zoals de toon van stem.
 
-GenStudio for Performance Marketing gebruikt de vele merkgegevens van uw merk, koppelt deze aan [!DNL Product] - en [!DNL Persona] -informatie en bouwt een uitgebreide merkidentiteit uit. Deze merkidentiteit wordt gebruikt om de creatie van on-brand-inhoud met behulp van de generatieve AI-technologie van Adobe te informeren.
+GenStudio for Performance Marketing gebruikt de schat aan merkinformatie van uw merk, koppelt deze aan [!DNL Product] - en [!DNL Persona] -informatie en bouwt een uitgebreide merkidentiteit uit. Deze merkidentiteit wordt gebruikt om de creatie van on-brand-inhoud met behulp van de generatieve AI-technologie van Adobe te informeren.
 
-**om een merk** te bekijken of te wijzigen:
+## [!DNL Brands] beheren
 
-1. Klik in het linkernavigatiegebied op **[!UICONTROL [!DNL Brands]]** .
-1. Als u de overzichtsinformatie van een merk wilt bekijken, klikt u om een bepaald merk te openen.
-1. Als u afzonderlijke details wilt weergeven of een merk wilt wijzigen, klikt u boven in het scherm op [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines) , [**[!UICONTROL Channel guidelines]**](#channel-guidelines) , **[!UICONTROL Image guidelines]** of **[!UICONTROL Logos]** .
+Na het toevoegen van merkrichtlijnen aan GenStudio for Performance Marketing, kunt u [ beheren ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) en [ publiceren ](/help/user-guide/guidelines/add-guidelines.md#publish-brand) hen. Door middel van publicatie kunnen ze door uw team worden gebruikt voor het genereren van bedrijfsmiddelen.
 
-U kunt documenten met richtlijnen voor het merk (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketing om automatisch een merk te maken. Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een merk aan GenStudio voor de Marketing van Prestaties toe te voegen, het te wijzigen, het te publiceren, en meer.
+[!DNL Brands] kan in of a _Ontwerp_ of _Gepubliceerde_ staat zijn. Nieuw [!DNL brands] begin als _Ontwerp_.
+
+U moet een [!DNL brand] publiceren om deze beschikbaar te maken voor het genereren van elementen door uw team.
+
+Gepubliceerd [!DNL brands] kan worden bewerkt en wijzigingen zijn direct beschikbaar. Alleen gepubliceerde [!DNL brands] kan worden gebruikt om inhoud te maken en te valideren.
+
+Verwijderde [!DNL brands] worden gedurende 30 dagen gearchiveerd en kunnen binnen die periode worden hersteld.
 
 ## [!DNL Brands] richtlijnen
 

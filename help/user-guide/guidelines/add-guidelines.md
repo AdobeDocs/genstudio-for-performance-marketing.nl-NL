@@ -1,24 +1,24 @@
 ---
-title: Richtlijnen toevoegen aan de Adobe GenStudio voor het op de markt brengen van prestaties
-description: Leer hoe te om richtlijnen toe te voegen - [!DNL Brands],  [!DNL Products], en  [!DNL Personas] - in Adobe GenStudio voor de Marketing van Prestaties.
+title: Richtlijnen toevoegen aan Adobe GenStudio for Performance Marketing
+description: Leer hoe te om richtlijnen toe te voegen— [!DNL Brands],  [!DNL Products], en  [!DNL Personas] - in Adobe GenStudio for Performance Marketing.
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
+source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
 workflow-type: tm+mt
-source-wordcount: '1470'
+source-wordcount: '1566'
 ht-degree: 0%
 
 ---
 
 # Richtlijnen toevoegen
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md) , [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zijn door de gebruiker gedefinieerde richtlijnen in GenStudio for Performance Marketing die ervoor zorgen dat door AI gegenereerde inhoud wordt aangepast aan de merkidentiteit, waardoor inhoud op effectieve wijze kan worden aangepast.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md) , [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zijn door de gebruiker gedefinieerde richtlijnen in GenStudio for Performance Marketing die ervoor zorgen dat door AI gegenereerde inhoud wordt aangepast aan de merkidentiteit, zodat de inhoud op effectieve wijze kan worden aangepast.
 
 Zie het [ overzicht van richtlijnen ](/help/user-guide/guidelines/overview.md).
 
-Het toevoegen van richtlijnen aan GenStudio for Performance Marketing is een belangrijke stap in het ontwerpproces. Richtlijnen bepalen het proces voor het maken van inhoud, samen met door de gebruiker gedefinieerde aanwijzingen en Adobe generatieve AI-technologie, voor het maken van onherstelbare elementen.
+Het toevoegen van richtsnoeren aan GenStudio for Performance Marketing is een belangrijke stap in het aanmaakproces. Richtlijnen bepalen het proces voor het maken van inhoud, samen met door de gebruiker gedefinieerde aanwijzingen en Adobe generatieve AI-technologie, voor het maken van onherstelbare elementen.
 
 ## Toevoegen [!DNL Brands]
 
@@ -44,7 +44,7 @@ Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
 1. Selecteer **[!UICONTROL Add brand]** .
 
-Met behulp van de generatieve AI-technologie van Adobe haalt GenStudio for Performance Marketing informatie uit uw geüploade documenten en begint u uw merk op te bouwen. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen, bevolken aangezien elke richtlijn van uw merkdocumenten wordt samengesteld.
+GenStudio for Performance Marketing haalt met behulp van de generatieve AI-technologie van Adobe informatie uit uw geüploade documenten en begint uw merk te maken. U ziet merkinformatie, zoals stem van het merk, kanaal, en beeldrichtlijnen, bevolken aangezien elke richtlijn van uw merkdocumenten wordt samengesteld.
 
 Een popup herinnert u eraan om de gehaalde inhoud te herzien alvorens u [ het merk ](#publish-brand) publiceert.
 
@@ -78,25 +78,40 @@ U moet niet [ publiceren ](#publish-brand) uw merk om de informatie toegankelijk
 
 Alvorens uw merk te publiceren, klik door de _stemrichtlijnen van het Merk_, _richtsnoeren van het Kanaal_, _richtlijnen van het Beeld_, en _7} secties van Logo&#39;s {om alle bevolkte informatie te herzien._ Breng de gewenste wijzigingen aan in de richtlijnen voor merken.
 
-**om het merk** te publiceren:
+**om een ontwerp van merkrichtlijnen** te publiceren:
 
+1. Klik in het linkernavigatiegebied op **[!UICONTROL [!DNL Brands]]** .
+
+   A _Gepubliceerde_ badge is zichtbaar voor alle merken die momenteel worden gepubliceerd.
+
+1. Klik om een niet-gepubliceerd merk te openen. Als het merk niet wordt gepubliceerd, is een knop **[!UICONTROL Publish]** zichtbaar.
+1. In het _merk van Publish_ popup, verifieer wie toegang tot mening heeft en het gepubliceerde merk gebruikt.
 1. Selecteer **[!UICONTROL Publish]** .
+1. In het _merk van Publish_ popup die verschijnt, uitgezocht **[!UICONTROL Publish]**.
 
-   In het _merk van Publish_ popup, verifieer wie toegang (aan mening en gebruik) tot het gepubliceerde merk heeft.
+   De popup bevestigt dat het merk is gepubliceerd: &quot;Het nieuwe merk is nu klaar&quot;.
 
-1. Klik op **[!UICONTROL Publish]**.
+1. Klik op **[!UICONTROL Done]** om de pop-up te sluiten.
 
-Wanneer het merk wordt gepubliceerd, lijkt een banner bevestigend dat uw merk klaar is te gebruiken: &quot;*Bekeken gepubliceerd en beschikbaar aan gebruik*&quot;.
+Het merk bevat een groene stip en een knop &quot;Published&quot;, waarna een knop **[!UICONTROL Publish]** verschijnt.
+
+**om het publiceren van een gepubliceerd merk** ongedaan te maken, klik om het te openen en **[!UICONTROL Publish]** te klikken.
 
 Het gepubliceerde merk kan nu worden gebruikt in _[!DNL Create]_of_[!DNL Content]_ .
 
 ### [!DNL Brands] beheren
 
-In het _[!DNL Brands]_huis, kunt u aan **openen reeds-gecreeerd merk**om het uit te geven of te herzien, of **anders noemen**of **schrapt een merk**van de lijst van het [!DNL Brands] actiemenu:
+In de _[!DNL Brands]_home kunt u klikken om een al gemaakt merk te openen en het te beheren of te publiceren.
 
-* Klik op een merktegel om een merk te openen.
-* Selecteer **[!UICONTROL Rename]** in het actiemenu [!DNL Brands] om de naam van een bestaande persona te wijzigen.
-* Selecteer **[!UICONTROL Delete]** in het actiemenu [!DNL Brands] om een merk te verwijderen.
+**om een merk** te bekijken of te wijzigen:
+
+1. Klik in het linkernavigatiegebied op **[!UICONTROL [!DNL Brands]]** .
+1. Als u de overzichtsinformatie van een merk wilt bekijken, klikt u om een bepaald merk te openen.
+1. Als u afzonderlijke details wilt weergeven of de richtlijnen voor het merk wilt wijzigen, klikt u boven in het scherm op [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines) , [**[!UICONTROL Channel guidelines]**](#channel-guidelines) , **[!UICONTROL Image guidelines]** of **[!UICONTROL Logos]** .
+1. Als u de naam van een bestaand merk wilt wijzigen, selecteert u **[!UICONTROL Rename]** in het actiemenu [!DNL Brands] .
+1. Als u een merk wilt verwijderen, selecteert u **[!UICONTROL Delete]** in het actiemenu [!DNL Brands] .
+
+U kunt documenten met brandrichtlijnen (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketing om automatisch een merk te maken.
 
 ## Toevoegen [!DNL Products]
 
@@ -106,7 +121,7 @@ Klik in het linkernavigatiegebied op **[!DNL Products]** . In het _[!DNL Product
 
 ![ Voeg een [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} toe
 
-U kunt [!DNL Products] toevoegen in GenStudio for Performance Marketing om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt.
+U kunt [!DNL Products] in GenStudio for Performance Marketing toevoegen om afzonderlijke productaandachtsgebieden op te geven wanneer u inhoud maakt.
 
 Zie [[!DNL Products]](products.md) .
 
@@ -176,7 +191,7 @@ Om een persona toe te voegen, [ upload een persoonlijke gids ](#upload-a-persona
 
 Klik in het linkernavigatiegebied op **[!DNL Personas]** . In het _[!DNL Personas]_paneel, uitgezocht **voeg persona**toe.
 
-U kunt een [!DNL Persona] in GenStudio for Performance Marketing toevoegen om u te helpen de inhoud die u maakt, te richten op uw ideale publiek.
+U kunt een [!DNL Persona] toevoegen in GenStudio for Performance Marketing om u te helpen de inhoud die u maakt, te richten op uw ideale publiek.
 
 Zie [[!DNL Personas]](personas.md) .
 
