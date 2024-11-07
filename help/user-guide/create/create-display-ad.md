@@ -5,9 +5,9 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 5cd6abba1f56c9a2875c7e7dc5b94a353fc5e78e
+source-git-commit: 885900eb259246c2d86a07791a1b7070e0dbf12a
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
@@ -124,5 +124,7 @@ Als u de gegenereerde weergaveadvertenties beschikbaar wilt maken voor huidige e
 
 1. **om uw nieuwe vertoning en ervaring(en) uit te voeren**, klik **[!UICONTROL Export]** in de hoogste toolbar.
    1. Selecteer de indeling (alleen JPG) en klik op **[!UICONTROL Export]** .
+
+      Geëxporteerde HTML moet binnen een vooraf gedefinieerde webeigenschap worden geplaatst, zoals een sjabloon of een `div` -container. Zonder deze ingestelde afmetingen kunnen afbeeldingen er vervormd uitzien als ze onafhankelijk worden bekeken.
 
 Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) .
