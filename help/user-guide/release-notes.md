@@ -2,10 +2,10 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-source-git-commit: ea897aaf6069aa70ef73baf961f56e485eeb383e
+source-git-commit: b502e0a558cbc26c70d813938734a2f6f230dc8e
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 4%
+source-wordcount: '650'
+ht-degree: 2%
 
 ---
 
@@ -13,11 +13,55 @@ ht-degree: 4%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2024 10 31  {#latest}
+## 2024 11 07 {#latest}
+
+### Oplossingen
+
+* _sparen lopend_ spinner wordt niet meer getoond wanneer een gebruiker **[!UICONTROL Upload New Image]** dan de verrichting annuleert alvorens te uploaden voltooit. <!-- GS-6780 -->
+
+* De titels van de ervaring worden nu correct gecreeerd tijdens ervaring regeneration. <!-- GS-7006 -->
+
+* Problemen met flikkerende schuifbalken tijdens het laden van concepten zijn opgelost. <!-- GS-5587 -->
+
+* De `View documentation` verbinding in [!DNL Content] _voegt uw goedgekeurd malplaatje_ popup nu toe werkt zoals verwacht. <!-- GS-6881 -->
+
+* Het verwijderen van een afbeelding uit de gereedschapslade tijdens een formaatwijziging leidt niet langer tot een fout. <!-- GS-7115 7009 -->
+
+* Het selecteren van **[!UICONTROL Delete]** in het [!DNL Create] actiemenu (..) werkt nu zoals verwacht. <!-- GS-6871 -->
+
+* Gebruikers kunnen nu alle interactieve elementen van Meta en sjablonen alleen met het toetsenbord besturen. <!-- GS-4066 -->
+
+* Afbeeldingsafmetingen zijn toegevoegd uit sjabloonafbeeldingsvelden om advertentiesjablonen weer te geven. Aanvragen voor slim uitsnijden worden nu verzonden voor de werkelijke afmetingen van de afbeelding en niet voor de gehele sjabloon. <!-- GS-6926 -->
+
+* De tekenreeks `Zoom to fit to screen` is gelokaliseerd in gegenereerde e-mail- en Meta-advertenties. <!-- GS-5063 -->
+
+* De aanroeplade van [!DNL Create] wordt nu gesloten zoals verwacht wanneer een gebruiker weg klikt. <!-- GS-5254 -->
+
+* Metaadvertenties die u exporteert, bevatten nu het geselecteerde aanroep-naar-actie-label zoals verwacht. <!-- GS-6504 -->
+
+* De merkenscore wordt nu bijgewerkt en behouden zoals verwacht voor opnieuw gegenereerde ervaringen. <!-- GS-6535 -->
+
+* HTML exporteren van Meta-advertenties en weergaveadvertenties bevat niet langer de elementen wrapper `div` en `chrome` . <!-- GS-7116 -->
+
+* Problemen met het renderen van concepten via e-mail tijdens publicatie zijn nu opgelost. <!-- GS-6394 -->
+
+* De knop Canvas **[!UICONTROL Brand]** wordt nu uitgeschakeld wanneer geen merkenscore wordt gegenereerd. <!-- GS-6429 -->
+
+* De Facebook/Instagram-schakeloptie op de canvasactiebalk werkt nu de weergave bij zoals u had verwacht wanneer de `ReadOnly` Canvas-instelling is ingeschakeld. <!-- GS-7039 -->
+
+#### Afbeeldingen opnieuw genereren
+
+* Het wijzigen van het formaat van meerdere meta&#39;s en varianten werkt nu zoals verwacht. Eerder werden op het canvas geen geregenereerde varianten weergegeven, maar bleef het leeg. <!-- GS-7010 -->
+
+* Fragmentregeneratie werkt nu zoals u had verwacht voor ervaringen met vergroten of verkleinen. <!-- GS-6836 -->
+
+* Het opnieuw genereren van metagegevens en afbeeldingen nadat het formaat ervan is gewijzigd, leidt niet langer tot een fout. Eerder werden de metagegevens van het kanaal gewijzigd van `meta` in `facebook` wanneer u de grootte van afbeeldingen aanpast voordat u de afbeelding opnieuw genereerde. <!-- GS-7042 -->
+
+## 2024 10 31
 
 ### Nieuwe functies
 
-* Het zoekfilter **[!DNL Content]** ondersteunt nu zoeken op basis van kleurtag.  <!-- GS-5501 -->
+* Het zoekfilter **[!DNL Content]** ondersteunt nu zoeken op basis van kleurtag. <!-- GS-5501 -->
 
 * Op het canvas van **[!DNL Create]** worden nu tekenaantallen voor e-mailfragmenten weergegeven. <!-- GS-5819 -->
 
