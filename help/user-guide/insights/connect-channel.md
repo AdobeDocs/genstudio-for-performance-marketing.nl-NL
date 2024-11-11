@@ -4,9 +4,9 @@ description: Verbind een kanaalrekening om uw Adobe GenStudio for Performance Ma
 level: Intermediate
 feature: Insights, Channels
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 7b3ecc1964df3d5a3fdc5c32b1e5c80f29133560
+source-git-commit: 310a6ea3b64e223222e0664750547be1812b8ef6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing bewaart kanaalgegevens gedurende 13 maanden.
 
 **om een rekening van Meta-advertenties in GenStudio for Performance Marketing** te verbinden:
 
-1. Klik in _[!DNL Insights]_op **[!UICONTROL Connect a channel account]**.
+1. Klik in _[!DNL Insights]_op **[!UICONTROL Connect a channel account]**in de banner of klik op de knop **[!UICONTROL Add accounts]**(vorm persoon met plusteken) in de rechterbovenhoek.
 
    U wordt mogelijk doorgestuurd naar Facebook. Facebook is momenteel de enige beschikbare optie.
 
