@@ -3,16 +3,17 @@ title: Voorziening Adobe GenStudio for Performance Marketing
 description: Meer informatie over het leveren van het GenStudio for Performance Marketing-product.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 3e9a2a4f42ba79389691705c571bf6bbd0b990c5
+exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
+source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
 # Voorziening Adobe GenStudio for Performance Marketing
 
-Productprovisioning is de eenmalige installatie van het GenStudio for Performance Marketing-exemplaar van uw organisatie. Een systeembeheerder van het Adobe voert deze aanvankelijke inrichtingstaken in [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) uit. Vanuit de Admin Console kan een Adobe systeembeheerder het GenStudio-productprofiel openen en beschikbare productlicenties toewijzen aan gebruikers.
+Een beheerder van het Adobe systeem voert aanvankelijke inrichtingstaken in [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) uit. Vanuit de Admin Console kan een Adobe systeembeheerder het GenStudio-productprofiel openen en beschikbare productlicenties toewijzen aan gebruikers.
 
 >[!NOTE]
 >

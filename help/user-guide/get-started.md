@@ -4,9 +4,9 @@ description: Leer hoe u aan de slag kunt met GenStudio for Performance Marketing
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 6454090c9fffb4b288b615680597b80e5b71a89c
+source-git-commit: 3c391753ebd0d19ad7dcb17870915eeccc55cc05
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Volg deze beste praktijken wanneer het opstellen van richtlijnen:
 
 * Vermijd redundantie. U zou kunnen worden geneigd om een richtlijn veelvoudige tijden te herhalen, maar de overtolligheid in uw richtlijnen helpt niet de onderliggende LLM vangen en uw merkrichtlijnen uitvoeren.
 
-* Identificeer elementen die u LLM tijdens inhoudsgeneratie wilt uitsluiten (bijvoorbeeld, uitroeptekens in tekst)
+* Identificeer elementen die u LLM tijdens inhoudsgeneratie (bijvoorbeeld, uitroeppunten in tekst) wilt uitsluiten.
 
 U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens invoert in GenStudio for Performance Marketing. Zie [ richtlijnen ](./guidelines/overview.md) voor begeleiding toevoegen bij het uploaden van of het ingaan van deze informatie.
 
@@ -49,16 +49,28 @@ U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens
 
 Een GenStudio-systeembeheerder kan het onderliggende generatieve AI-framework van het product voorbereiden door handmatig de specifieke merkvereisten van uw organisatie in te voeren of te uploaden. Hoewel het opstellen van de merkrichtlijnen van een organisatie een eenmalig actie is, kunt u deze richtlijnen herzien en verbeteren die op de volatiliteit, de groei, en veranderende marktomstandigheden van uw organisatie worden gebaseerd.
 
-### Stap 2: Sjablonen uploaden
+## Stap 2: Een Adobe Admin Console-project instellen voor GenStudio [!DNL Brands]
+
+Systeembeheerders moeten extra instellingstaken uitvoeren voordat medewerkers [!DNL Brands] kunnen bewerken of maken. Systeembeheerders van Adoben voeren deze taken uit in de Adobe Admin Console:
+
+* Maak een nieuwe gebruikersgroep met alle gebruikers die [!DNL Brands] rechten moeten bewerken en maken.
+
+* Maak een nieuw project in de Adobe Admin Console.
+
+Zie [ de toestemmingen van het Merk toewijzen ](configure-brand-permissions.md).
+
+### Stap 3: Sjablonen uploaden
 
 Sjablonen versnellen het maken van inhoud. Een sjabloon bevat goedgekeurde functies, zoals kop- en voetteksten, en is geoptimaliseerd voor specifieke kanalen. Systeembeheerders uploaden en beheren doorgaans sjablonen voor hun organisatie. Inhoudeditors gebruiken sjablonen om het proces voor het maken van inhoud te versnellen binnen de grenzen van het organisatiemerk.
 
-Zie [ Werk met malplaatjes ](./content/use-templates.md) voor richtingen bij het aanpassen van en het uploaden van malplaatjes.
+Zie [ Werk met malplaatjes ](./content/use-templates.md).
 
-### Stap 3: goedgekeurde elementen uploaden
+### Stap 4: goedgekeurde elementen uploaden
 
-Goedgekeurde middelen in [!DNL Content] zijn beschikbaar voor alle GenStudio for Performance Marketing-editors. U kunt [!DNL Content] vullen met elementen die inhoudseditors kunnen gebruiken om nieuwe ervaringen of elementen te maken. Zie [ goedgekeurde activa ](./content/manage-assets.md) uploaden voor begeleiding bij het uploaden en het beheren van activa.
+Goedgekeurde middelen in [!DNL Content] zijn beschikbaar voor alle GenStudio for Performance Marketing-editors. U kunt [!DNL Content] vullen met elementen die inhoudseditors kunnen gebruiken om nieuwe ervaringen of elementen te maken.
 
-### Stap 4: Verbinding maken met een Meta-account (Facebook)
+Zie [ goedgekeurde activa ](./content/manage-assets.md) uploaden.
+
+### Stap 5: Verbinding maken met een Meta-account (Facebook)
 
 Configureer een verbinding tussen GenStudio for Performance Marketing en de sociale accounts van uw organisatie om gegevens te ontvangen van uw actieve marketingcampagnes, middelen en ervaringen. [[!DNL Insights]](./insights/overview.md) biedt hulpprogramma&#39;s voor het analyseren van gegevens die zijn afgeleid van kanalen. Zie [ verbinden met een rekening van Meta (Facebook) ](./insights/connect-channel.md#meta-ads-connect).
