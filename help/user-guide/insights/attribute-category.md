@@ -3,10 +3,12 @@ title: Kenmerkcategorieën
 description: Meer informatie over kenmerkcategorieën die in GenStudio for Performance Marketing worden gebruikt.
 feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
-source-git-commit: 3b5fc55595f766db0327b6aefb0e29c3896e00c0
+last-substanial-update: 2024-11-11T00:00:00Z
+exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
+source-git-commit: 13b5e63afffc5a88d6d8c98fddac6d2d85f6e862
 workflow-type: tm+mt
-source-wordcount: '676'
-ht-degree: 0%
+source-wordcount: '599'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +16,7 @@ ht-degree: 0%
 
 Een kenmerkcategorie is een classificatiegroep die gerelateerde kenmerken organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
 
-GenStudio for Performance Marketing gebruikt de AI- en computerleermogelijkheden van Adobe om afbeeldingen, video&#39;s en tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen op basis van het betrouwbaarheidsniveau. _Vertrouwen_ verwijst naar de waarschijnlijkheid dat AI aan een voorspelling of een classificatie toewijst. In de context van machinaal leren is het een soort scoring die meet hoe &quot;zelfverzekerd&quot; de AI is dat de classificatie correct is. Hoe hoger de betrouwbaarheidsscore, hoe groter de zekerheid. Wanneer een afbeelding wordt geanalyseerd, kan de AI bijvoorbeeld verschillende functies identificeren en een score toewijzen aan elke afbeelding om aan te geven hoe zeker het is dat de functie correct is. De lijst met kenmerken van een element is niet uitputtend. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot een betrouwbaarheidsdrempel, zoals de drie belangrijkste geïdentificeerde kenmerken.
+GenStudio for Performance Marketing gebruikt de AI- en computerleermogelijkheden van Adobe om afbeeldingen, video&#39;s en tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen op basis van de waarschijnlijkheid van juistheid. De lijst met kenmerken van een element is niet uitputtend. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd.
 
 ## Afbeeldingsfuncties
 
