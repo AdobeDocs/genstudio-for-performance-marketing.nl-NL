@@ -1,13 +1,13 @@
 ---
 title: Aan de slag met Adobe GenStudio for Performance Marketing
-description: Leer hoe u aan de slag kunt met GenStudio for Performance Marketing om nieuwe marketinginhoud te genereren die is afgestemd op het merk.
+description: Meer informatie over hoe u met GenStudio voor prestatiemarketing aan de slag gaat om nieuwe marketingcontent te genereren die aansluit bij uw merk.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
 source-git-commit: 3c391753ebd0d19ad7dcb17870915eeccc55cc05
 workflow-type: tm+mt
 source-wordcount: '691'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
