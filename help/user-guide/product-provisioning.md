@@ -4,9 +4,9 @@ description: Meer informatie over het leveren van het GenStudio for Performance 
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
+source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Een beheerder van het Adobe systeem voert aanvankelijke inrichtingstaken in [ Ad
 >[!NOTE]
 >
 >Alleen systeembeheerders van Adoben kunnen schakelingstaken implementeren die Adobe Admin Console-toegang vereisen.
+
+>[!IMPORTANT]
+>
+>Voeg geen nieuwe, of geef uit of schrapt bestaande productprofielen toe. Als u de standaardproductprofielen wijzigt, kan dit de GenStudio for Performance Marketing-implementatie ernstig verstoren.
 
 ## Stap 1: Toegang tot het productprofiel in Adobe Admin Console
 

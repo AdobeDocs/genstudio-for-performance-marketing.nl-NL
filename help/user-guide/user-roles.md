@@ -4,9 +4,9 @@ description: Meer informatie over GenStudio for Performance Marketing-gebruikers
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 0998362a50c63958e331796fd1deebd61f170d2e
+source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,10 @@ Zie [ Administratieve rollen ](https://helpx.adobe.com/enterprise/using/admin-ro
 ## Rechten
 
 _verlenen de toestemmingen van de Entitlements_ toestemming om specifieke taken uit te voeren en tot beschermde middelen toegang te hebben. Rechten, of machtigingen, worden gedefinieerd in de gebruikersrol binnen het productprofiel en gebruikers krijgen deze rechten wanneer ze aan die rol worden toegewezen.
+
+>[!IMPORTANT]
+>
+>Voeg geen nieuwe, of geef uit of schrapt bestaande productprofielen toe. Als u de standaardproductprofielen wijzigt, kan dit de GenStudio for Performance Marketing-implementatie ernstig verstoren.
 
 ## Gebruikersrollen
 
