@@ -5,7 +5,7 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
+source-git-commit: b644a69fd63c8b1deaf42736659dfe9b3b6bd8ab
 workflow-type: tm+mt
 source-wordcount: '1566'
 ht-degree: 0%
@@ -20,6 +20,8 @@ Zie het [ overzicht van richtlijnen ](/help/user-guide/guidelines/overview.md).
 
 Het toevoegen van richtsnoeren aan GenStudio for Performance Marketing is een belangrijke stap in het aanmaakproces. Richtlijnen bepalen het proces voor het maken van inhoud, samen met door de gebruiker gedefinieerde aanwijzingen en Adobe generatieve AI-technologie, voor het maken van onherstelbare elementen.
 
+{{in-academy}}
+
 ## Toevoegen [!DNL Brands]
 
 Om een merk toe te voegen, [ upload een merkgids ](#upload-a-brand) of [ creeer manueel een merk ](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [ Publish a merk ](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
@@ -27,6 +29,7 @@ Om een merk toe te voegen, [ upload een merkgids ](#upload-a-brand) of [ creeer 
 Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_paneel, uitgezochte **voeg merk**toe.
 
 >[!TIP]
+>
 >Elk merk werkt onafhankelijk zonder hiërarchische relaties. Als u submerken onder een bovenliggend merk wilt maken, neemt u tijdens het ontwerpproces de informatie van het bovenliggende merk op.
 
 ### Een merk uploaden
