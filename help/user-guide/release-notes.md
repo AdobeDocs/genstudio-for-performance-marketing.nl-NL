@@ -2,9 +2,10 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-source-git-commit: b502e0a558cbc26c70d813938734a2f6f230dc8e
+exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
+source-git-commit: 958ad60d1d9a88e0dd4cba0decf8da8bc398d542
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '809'
 ht-degree: 2%
 
 ---
@@ -13,9 +14,35 @@ ht-degree: 2%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2024 11 07 {#latest}
+## 2024 11,14 {#latest}
 
-### Oplossingen
+### Nieuwe functies
+
+Extra ondersteuning voor rich media-sjablonen, waardoor klanten elementen die al via hun eigen beheerde inhoudskanalen zijn gepubliceerd, opnieuw kunnen gebruiken. <!-- GS-6107 -->
+
+### Oplossingen en verbeteringen
+
+* Wanneer de grootte wordt gewijzigd in een andere browser dan de browser die wordt gebruikt om de eerste inhoud te genereren, worden concepten nu naar behoren geladen. <!-- GS-7204 -->
+
+* Alle tekens worden nu op de juiste wijze weergegeven in de geëxporteerde HTML. <!-- GS-7246 -->
+
+* De knopen op [!DNL Content] _Ervaringen_ **[!UICONTROL Export]** popup zijn niet meer beknot in bepaalde talen. <!-- GS-6873 -->
+
+* Weergaveadvertenties die zijn gemaakt met sjablonen van 50 x 50 worden nu geëxporteerd naar de verwachte afbeeldingsgrootte. Eerder werden geëxporteerde PNG-bestanden geëxporteerd met tweemaal de verwachte afmetingen. <!-- GS-7192 -->
+
+* Sjabloonfouten die optraden toen de grootte van weergaveadvertenties werd gewijzigd, worden nu opgelost. <!-- GS-7322 -->
+
+### Lokalisatie
+
+Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterface, waaronder:
+
+* Alle koorden [!DNL Content] _uploaden activa_ popup worden nu correct gelokaliseerd. <!-- GS-6872 6770 -->
+* Alle tooltips in [!DNL Content] _Assets_ mening **[!UICONTROL Search]** gebied worden gelokaliseerd. <!-- GS-6879 -->
+* Wanneer het vervangen van een bestaand beeld in een e-mailvariant op het [!DNL Create] Canvas, _Uitgezocht van de mening van de Inhoud_ wordt nu gelokaliseerd. <!-- GS-6906 -->
+
+## 2024 11 07
+
+### Oplossingen en verbeteringen
 
 * _sparen lopend_ spinner wordt niet meer getoond wanneer een gebruiker **[!UICONTROL Upload New Image]** dan de verrichting annuleert alvorens te uploaden voltooit. <!-- GS-6780 -->
 
@@ -31,7 +58,7 @@ Deze release bevat informatie over de meest recente updates voor de GenStudio fo
 
 * Gebruikers kunnen nu alle interactieve elementen van Meta en sjablonen alleen met het toetsenbord besturen. <!-- GS-4066 -->
 
-* Afbeeldingsafmetingen zijn toegevoegd uit sjabloonafbeeldingsvelden om advertentiesjablonen weer te geven. Aanvragen voor slim uitsnijden worden nu verzonden voor de werkelijke afmetingen van de afbeelding en niet voor de gehele sjabloon. <!-- GS-6926 -->
+* Afbeeldingsafmetingen zijn toegevoegd uit sjabloonafbeeldingsvelden aan Advertentiesjablonen weergeven. Aanvragen voor slim uitsnijden worden nu verzonden voor de werkelijke afmetingen van de afbeelding en niet voor de gehele sjabloon. <!-- GS-6926 -->
 
 * De tekenreeks `Zoom to fit to screen` is gelokaliseerd in gegenereerde e-mail- en Meta-advertenties. <!-- GS-5063 -->
 
@@ -65,7 +92,7 @@ Deze release bevat informatie over de meest recente updates voor de GenStudio fo
 
 * Op het canvas van **[!DNL Create]** worden nu tekenaantallen voor e-mailfragmenten weergegeven. <!-- GS-5819 -->
 
-### Oplossingen
+### Oplossingen en verbeteringen
 
 * Ontbrekende schermlezerlabels zijn toegevoegd aan mobiele en desktopelementen `view` . <!-- GS-5624 4729 -->
 
@@ -101,4 +128,4 @@ Zie de volgende handige bronnen:
 
 * [ de Gids van de Gebruiker van Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
 
-* [ de Academie van de Adobe GenStudio ](genstudioacademy.md), online het leren platform van de Adobe voor het gebruiken van generatieve AI technologieën in het creatieve proces. [ Register voor de Academie van GenStudio ](http://adobe.ly/genstudioacademyregistration).
+* [ de Academie van de Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy), online het leren platform van de Adobe voor het gebruiken van generatieve AI technologieën in het creatieve proces.
