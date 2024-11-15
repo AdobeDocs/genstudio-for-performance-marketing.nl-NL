@@ -3,9 +3,9 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: edd27a6151cb81213ee27813beb4ecee835a1229
+source-git-commit: a2c2a39a8ed69a36c7126312ac42f6e02dd0598e
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '699'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,19 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
 ## Bewerken in Express
 
 U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met behulp van Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
+
+>[!BEGINSHADEBOX]
+
+Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe Express] :
+
+- Tot de ondersteunde MIME-typen behoren `image/png` en `image/jpeg`
+- De minimale afbeeldingsafmetingen zijn 50 x 50 pixels
+- De maximale afmetingen van de afbeelding zijn 8000x8000 pixels
+- De maximale grootte is 40 MB (40.000.000 bytes)
+
+>[!ENDSHADEBOX]
+
+**om activa met Uitdrukkelijke** uit te geven:
 
 1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
@@ -91,7 +104,7 @@ In de volgende tabel staan de metagegevens (elementdetails) die u kunt definiër
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio for Performance Marketing voor gebruik |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio for Performance Marketing voor gebruik |
 | Kanalen | Inhoudstypen in GenStudio for Performance Marketing waarvoor het element wordt gebruikt, zoals e-mail- en Meta-advertenties |
-| Tijdschema | Tijdschema waarvoor het gebruikte activum, zoals kwartaal, seizoen, jaar, enz. Voorbeeld: `Winter 2023` |
+| Tijdschema | Tijdschema waarvoor het actief wordt gebruikt, zoals kwartaal, seizoen, jaar, enz. Voorbeeld: `Winter 2023` |
 | Regio | Regio’s waarvoor het actief wordt gebruikt. Voorbeelden: `North America` , `APAC` , `Italy` |
 | Taal | Talen waarvoor het middel wordt gebruikt. Voorbeeld: `Spanish` |
 | Trefwoorden | Trefwoorden die worden gebruikt voor de verdere identificatie van de kenmerken en het doel van het activum |
