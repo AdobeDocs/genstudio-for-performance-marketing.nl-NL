@@ -2,10 +2,11 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
+last-substanial-update: 2024-11-14T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 958ad60d1d9a88e0dd4cba0decf8da8bc398d542
+source-git-commit: 720b23061d7e56a9b1e712d7787158c6a1bb771c
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '783'
 ht-degree: 2%
 
 ---
@@ -18,7 +19,7 @@ Deze release bevat informatie over de meest recente updates voor de GenStudio fo
 
 ### Nieuwe functies
 
-Extra ondersteuning voor rich media-sjablonen, waardoor klanten elementen die al via hun eigen beheerde inhoudskanalen zijn gepubliceerd, opnieuw kunnen gebruiken. <!-- GS-6107 -->
+Toegevoegde steun voor rijke media malplaatjes, toelatend klanten om activa opnieuw te gebruiken die reeds door hun eigen beheerde inhoudskanalen hebben gepubliceerd. <!-- GS-6107 -->
 
 ### Oplossingen en verbeteringen
 
@@ -28,7 +29,7 @@ Extra ondersteuning voor rich media-sjablonen, waardoor klanten elementen die al
 
 * De knopen op [!DNL Content] _Ervaringen_ **[!UICONTROL Export]** popup zijn niet meer beknot in bepaalde talen. <!-- GS-6873 -->
 
-* Weergaveadvertenties die zijn gemaakt met sjablonen van 50 x 50 worden nu geëxporteerd naar de verwachte afbeeldingsgrootte. Eerder werden geëxporteerde PNG-bestanden geëxporteerd met tweemaal de verwachte afmetingen. <!-- GS-7192 -->
+* Weergaveadvertenties die zijn gemaakt met sjablonen van 50 x 50 worden nu geëxporteerd naar de verwachte afbeeldingsgrootte. Eerder werden PNG-bestanden geëxporteerd met een verdubbeling van de verwachte afmetingen. <!-- GS-7192 -->
 
 * Sjabloonfouten die optraden toen de grootte van weergaveadvertenties werd gewijzigd, worden nu opgelost. <!-- GS-7322 -->
 
@@ -36,11 +37,13 @@ Extra ondersteuning voor rich media-sjablonen, waardoor klanten elementen die al
 
 Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterface, waaronder:
 
-* Alle koorden [!DNL Content] _uploaden activa_ popup worden nu correct gelokaliseerd. <!-- GS-6872 6770 -->
+* Alle koorden in [!DNL Content] _uploadt activa_ popup worden nu correct gelokaliseerd. <!-- GS-6872 6770 -->
 * Alle tooltips in [!DNL Content] _Assets_ mening **[!UICONTROL Search]** gebied worden gelokaliseerd. <!-- GS-6879 -->
 * Wanneer het vervangen van een bestaand beeld in een e-mailvariant op het [!DNL Create] Canvas, _Uitgezocht van de mening van de Inhoud_ wordt nu gelokaliseerd. <!-- GS-6906 -->
 
-## 2024 11 07
+## Opmerkingen bij eerdere releases
+
++++Opmerkingen van 2024.11.07
 
 ### Oplossingen en verbeteringen
 
@@ -84,7 +87,9 @@ Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterfa
 
 * Het opnieuw genereren van metagegevens en afbeeldingen nadat het formaat ervan is gewijzigd, leidt niet langer tot een fout. Eerder werden de metagegevens van het kanaal gewijzigd van `meta` in `facebook` wanneer u de grootte van afbeeldingen aanpast voordat u de afbeelding opnieuw genereerde. <!-- GS-7042 -->
 
-## 2024 10 31
++++
+
++++Opmerkingen van 2024.10.31
 
 ### Nieuwe functies
 
@@ -122,10 +127,4 @@ De belangrijkste productfuncties zijn:
 
 GenStudio for Performance Marketing integreert met andere Adobe Experience Cloud-producten, waaronder Adobe Express en Adobe AEM Assets.
 
-### Aanvullende informatie
-
-Zie de volgende handige bronnen:
-
-* [ de Gids van de Gebruiker van Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/home)
-
-* [ de Academie van de Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy), online het leren platform van de Adobe voor het gebruiken van generatieve AI technologieën in het creatieve proces.
++++
