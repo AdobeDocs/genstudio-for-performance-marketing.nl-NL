@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 600d4a37be22bd057074b4dd3773b75f0273a567
+source-git-commit: 3a32c26ff746989798842afa5798ffa397a19ef8
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '1102'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,57 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing [!DNL Content] vereenvoudigt en verbetert het beheer van merkgoedgekeurde middelen voor gebruik en hergebruik in uw digitale marketingreis.
 
-## Assets-galerie
+## Inhoudsgalerie
 
-In de galerie [!UICONTROL Assets] ziet u een overzicht van goedgekeurde elementen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u uit vele categorieën kunt selecteren om de elementen te filteren die in de galerie worden weergegeven. Klik op het pictogram Zoeken (vergrootglas) om een trefwoord te gebruiken om een element te zoeken.
+Op de galerie ziet u een overzicht van goedgekeurde middelen, ervaringen of sjablonen, afhankelijk van de geselecteerde weergave. Met het filterpictogram (trechter) boven de linkerkant van de tabel opent u het menu **[!UICONTROL Filter]** . Hier kunt u uit veel categorieën kiezen om de inhoud in de galerie te filteren. Klik in de _[!UICONTROL Assets]_-weergave op het pictogram Zoeken (vergrootglas) om een trefwoord te gebruiken om een element te zoeken.
+
 
 In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UICONTROL Assets] -galerie:
 
 ![ mening van Assets met onderzoek op hond ](../../assets/content-assets.png)
 
-### Assets-locatie
+### Inhoud zoeken
+
+De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
+
+Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributencategorieën ](/help/user-guide/insights/attribute-category.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
+
+Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filter gebruiken om de lijst te beperken om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
+
+**om naar inhoud te zoeken om** opnieuw te gebruiken:
+
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Assets]**.
+
+1. Selecteer een opslagplaats voor middelen in de lijst **[!UICONTROL Location]** of controleer of u naar de juiste opslagplaats voor middelen kijkt. `GenStudio assets` is de standaardopslagplaats.
+
+   >[!IMPORTANT]
+   >
+   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [ met een AEM bewaarplaats ](connect-aem-repo.md) verbindt.
+
+1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
+
+1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**en kies **PNG**.
+
+   Hoe meer u uw zoekopdracht beperkt, hoe minder filteropties beschikbaar zijn. Klik op **[!UICONTROL Clear all]** om alle filters te verwijderen.
+
+1. Selecteer een element voor een volledige weergave en een lijst met details.
+
+   Klik op **[!UICONTROL Download]** (pijl-omlaag) om het element in uw lokale werkstation te gebruiken.
+
+### Locatie
 
 Elementen die u via het [!DNL Create] -proces of uploaden toevoegt aan [!DNL Content] , worden standaard opgeslagen in de `GenStudio assets` -opslagplaats. De gegevensopslagruimte van `GenStudio assets` is een gegevensopslagruimte voor lezen en schrijven in GenStudio for Performance Marketing. Dit betekent dat u elementen kunt opslaan, bewerken en verwijderen in de `GenStudio assets` -opslagplaats.
 
-In de lijst **[!UICONTROL Location]** boven de galerie aan de rechterkant kunt u een van de verbonden opslagplaatsen voor Adobe Experience Manager (AEM) [!DNL Assets Content Hub] selecteren. Wanneer u een AEM opslagplaats selecteert, toont de galerie een inventaris van activa van die bewaarplaats, die u toestaat om goedgekeurde activa van deze bewaarplaatsen als input voor inhoudsverwezenlijking te gebruiken. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
+In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aan de rechterkant kunt u een van de verbonden opslagplaatsen voor Adobe Experience Manager (AEM) [!DNL Assets Content Hub] selecteren.
+
+![ lijst van Plaats van bewaarplaatsen ](../../assets/content-location-selection.png){width="350"}
+
+
+Wanneer u een AEM opslagplaats selecteert, toont de galerie een inventaris van activa van die bewaarplaats, die u toestaat om goedgekeurde activa van deze bewaarplaatsen als input voor inhoudsverwezenlijking te gebruiken. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
 Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
 
-De AEM opslagplaats is read-only, wat betekent u geen concepten, nieuwe activa, of meta-gegevens aan AEM bewaarplaats kunt bewaren. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
+De AEM opslagplaats is read-only, wat betekent dat u tot de inhoud kunt toegang hebben maar u kunt concepten, nieuwe activa, of meta-gegevens niet opslaan aan AEM bewaarplaats. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 
@@ -42,7 +76,7 @@ In [!UICONTROL Content] kunnen Performance Marketing hun digitale middelen eenvo
 
 Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_is alleen beschikbaar wanneer de_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
-![ gebied van de Plaats ](../../assets/content-location.png){width="350" align="center"}
+![ gebied van de Plaats ](../../assets/content-location.png){width="350"}
 
 **om één of meerdere activa** toe te voegen:
 
@@ -70,30 +104,61 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Inhoud zoeken
+### Elementen downloaden
 
-De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
+**om activa** te downloaden:
 
-Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributen ](/help/user-guide/insights/attributes.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
+1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
-Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filter gebruiken om de lijst te beperken om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
+1. Klik in de elementweergave op het pictogram **[!UICONTROL Download]** (pijl die omlaag wijst) rechtsboven.
 
-**om naar inhoud te zoeken om** opnieuw te gebruiken:
+1. De download begint een kopie van het element op de standaarddownloadlocatie te plaatsen.
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Assets]**.
+### Elementen verwijderen
 
-1. Selecteer een opslagplaats voor middelen in de lijst **[!UICONTROL Location]** of controleer of u naar de juiste opslagplaats voor middelen kijkt. `GenStudio assets` is de standaardopslagplaats.
+**om activa** te schrappen:
 
-   >[!IMPORTANT]
+1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+
+1. Klik in de elementweergave op het pictogram **[!UICONTROL Delete]** (prullenbak) rechtsboven.
+
+1. In de _activa van de Schrapping_ popup, verifieer de activa en klik **[!UICONTROL Delete]**.
+
+## Bewerken in Express
+
+U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met behulp van Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
+
+>[!BEGINSHADEBOX]
+
+Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe Express] :
+
+- Tot de ondersteunde MIME-typen behoren `image/png` en `image/jpeg`
+- De minimale afbeeldingsafmetingen zijn 50 x 50 pixels
+- De maximale afmetingen van de afbeelding zijn 8000x8000 pixels
+- De maximale grootte is 40 MB (40.000.000 bytes)
+
+>[!ENDSHADEBOX]
+
+**om activa met Uitdrukkelijke** uit te geven:
+
+1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+
+1. Klik in de elementweergave op het pictogram **[!UICONTROL Edit in Adobe Express]** rechtsboven.
+
+1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
+
+1. Als u tevreden bent met de bijgewerkte afbeelding, klikt u op **[!UICONTROL Save a copy]** rechtsboven.
+
+1. Selecteer de bestandsindeling (JPG of PNG) en klik op **[!UICONTROL Save a copy]** .
+
+1. Werk de **[!UICONTROL Asset name]** bij in het pop-upmenu _[!UICONTROL Save a copy of asset]_.
+
+   - Selecteer **[!UICONTROL Same details as original asset]** om de elementdetails over te brengen naar de nieuwe afbeelding.
+
+   - Vouw de sectie **[!UICONTROL More details]** uit om de campagne, richtlijnen en andere metagegevens bij te werken.
+
+   >[!TIP]
    >
-   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [ met een AEM bewaarplaats ](connect-aem-repo.md) verbindt.
+   >Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio for Performance Marketing ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
 
-1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
-
-1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**en kies **PNG**.
-
-   Hoe meer u uw zoekopdracht beperkt, hoe minder filteropties beschikbaar zijn. Klik op **[!UICONTROL Clear all]** om alle filters te verwijderen.
-
-1. Selecteer een element voor een volledige weergave en een lijst met details.
-
-   Klik op **[!UICONTROL Download]** (pijl-omlaag) om het element in uw lokale werkstation te gebruiken.
+1. Klik op **[!UICONTROL Save]**.

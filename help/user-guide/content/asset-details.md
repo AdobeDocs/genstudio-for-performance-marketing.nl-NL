@@ -3,9 +3,9 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: a2c2a39a8ed69a36c7126312ac42f6e02dd0598e
+source-git-commit: 7cb19de7f1fe61465046b0d27a528c2f5e1a4d5e
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -26,50 +26,15 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
    >
    >Als de sectie _[!UICONTROL Details]_niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
 
-   De elementdetails omvatten metagegevens die zijn toegepast tijdens het maken of uploaden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
+De elementdetails omvatten metagegevens die zijn toegepast tijdens het maken of uploaden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
+
+Het volgende afbeeldingselement bevat systeemmetagegevens die het bestandstype, de grootte en andere kenmerken, één door de gebruiker gedefinieerd trefwoord en diverse door AI gedetecteerde kenmerken en kleuren beschrijven.
+
+![ details van activa met veelvoudige markeringen ](/help/assets/content-asset-details.png)
 
 >[!NOTE]
 >
 >Assets van AEM opslagplaatsen geeft verschillende metagegevens weer. Zie [ activa zicht ](connect-aem-repo.md#step-4-configure-asset-visibility) vormen om te leren hoe te om [!DNL AEM Assets Content Hub] activa details te vormen.
-
-## Bewerken in Express
-
-U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met behulp van Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
-
->[!BEGINSHADEBOX]
-
-Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe Express] :
-
-- Tot de ondersteunde MIME-typen behoren `image/png` en `image/jpeg`
-- De minimale afbeeldingsafmetingen zijn 50 x 50 pixels
-- De maximale afmetingen van de afbeelding zijn 8000x8000 pixels
-- De maximale grootte is 40 MB (40.000.000 bytes)
-
->[!ENDSHADEBOX]
-
-**om activa met Uitdrukkelijke** uit te geven:
-
-1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
-
-1. Klik in de elementweergave op het pictogram **[!UICONTROL Edit in Adobe Express]** rechtsboven.
-
-1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
-
-1. Als u tevreden bent met de bijgewerkte afbeelding, klikt u op **[!UICONTROL Save a copy]** rechtsboven.
-
-1. Selecteer de bestandsindeling (JPG of PNG) en klik op **[!UICONTROL Save a copy]** .
-
-1. Werk de **[!UICONTROL Asset name]** bij in het pop-upmenu _[!UICONTROL Save a copy of asset]_.
-
-   - Selecteer **[!UICONTROL Same details as original asset]** om de elementdetails over te brengen naar de nieuwe afbeelding.
-
-   - Vouw de sectie **[!UICONTROL More details]** uit om de campagne, richtlijnen en andere metagegevens bij te werken.
-
-   >[!TIP]
-   >
-   >Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio for Performance Marketing ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
-
-1. Klik op **[!UICONTROL Save]**.
 
 ## Systeemmetagegevens
 
@@ -107,7 +72,7 @@ In de volgende tabel staan de metagegevens (elementdetails) die u kunt definiër
 | Tijdschema | Tijdschema waarvoor het actief wordt gebruikt, zoals kwartaal, seizoen, jaar, enz. Voorbeeld: `Winter 2023` |
 | Regio | Regio’s waarvoor het actief wordt gebruikt. Voorbeelden: `North America` , `APAC` , `Italy` |
 | Taal | Talen waarvoor het middel wordt gebruikt. Voorbeeld: `Spanish` |
-| Trefwoorden | Trefwoorden die worden gebruikt voor de verdere identificatie van de kenmerken en het doel van het activum |
+| Trefwoorden | Door de gebruiker gedefinieerde trefwoorden die worden gebruikt voor de verdere identificatie van de eigenschappen en het doel van het activum |
 
 <!-- ## History
 
