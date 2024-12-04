@@ -3,9 +3,10 @@ title: Wijs  [!DNL Brand]  toestemmingen toe
 description: Leer over het toewijzen van rechten voor de creators van GenStudio for Performance Marketing  [!DNL Brand]  en redacteurs.
 level: Intermediate
 feature: Brands Service, Generative AI
-source-git-commit: 3c391753ebd0d19ad7dcb17870915eeccc55cc05
+exl-id: fc33ecd3-4403-4045-87af-012a0377226c
+source-git-commit: baa225419ba5e851f28d41f829971027655e103e
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '676'
 ht-degree: 1%
 
 ---
@@ -32,9 +33,9 @@ Het toevoegen van gebruikers en gebruikersgroepen zijn basistaken gemeenschappel
 
 Zie [ gebruikersgroepen ](https://helpx.adobe.com/enterprise/using/user-groups.html) beheren in _de gids van de Onderneming en van het beleid van Teams_.
 
-## Stap 2: Een GenStudio-systeembeheerprofiel toewijzen aan een gebruikersgroep
+## Stap 2: Een GenStudio-systeembeheerprofiel toewijzen aan de gebruikersgroep
 
-Zodra u een nieuwe gebruikersgroep en toegevoegde gebruikers hebt gecreeerd, kunt u het **profiel van de de systeemmanager van de Adobe GenStudio** aan deze groep toewijzen. De rechten die aan het toegewezen profiel zijn gekoppeld, geven alle gebruikers in deze groep GenStudio [!DNL Brands] -machtigingen (merken maken, bijwerken en verwijderen).
+Zodra u een nieuwe gebruikersgroep en toegevoegde gebruikers hebt gecreeerd, kunt u het **profiel van de de systeemmanager van de Adobe GenStudio** aan deze groep toewijzen. De machtiging die aan het toegewezen profiel is gekoppeld, geeft alle gebruikers in deze groep de [!DNL Brands] -machtigingen (merk&#39;s maken, bijwerken en verwijderen).
 
 **om een profiel aan de gebruikersgroep** toe te wijzen:
 
@@ -54,7 +55,25 @@ Zodra u een nieuwe gebruikersgroep en toegevoegde gebruikers hebt gecreeerd, kun
 
 Zie [ Profielen van het Product toewijzen aan de Groepen van de Gebruiker ](https://helpx.adobe.com/enterprise/using/user-groups.html) in _de beleidsgids van de Onderneming en van Teams_.
 
-## Stap 3: Een [!DNL Brands] -project maken
+## Stap 3: Gebruikers toevoegen aan de gebruikersgroep
+
+Als u gebruikers de bevoegdheid wilt geven om [!DNL Brands] te maken, bewerken en publiceren, voegt u deze toe aan de nieuwe gebruikersgroep.
+
+>[!NOTE]
+>
+>U moet minstens één gebruiker aan deze gebruikersgroep toevoegen alvorens de groep aan uw project toe te voegen.
+
+**om gebruikers aan de gebruikersgroep** toe te voegen:
+
+1. Van de _Admin Console_, navigeer aan **[!UICONTROL Users]** > **[!UICONTROL User Groups]**.
+
+1. Selecteer de naam van de gebruikersgroep die u eerder hebt gemaakt. _voegt gebruikers aan deze gebruikersgroep_ popup toe opent.
+
+1. Voeg een nieuwe of bestaande gebruiker toe aan gebruikersnaam of e-mailadres. Wanneer u een naam of e-mailadres voor een bestaande gebruiker invoert, wordt dit veld automatisch gevuld met overeenkomende namen voor bekende gebruikers die tot deze IMS org behoren. Leer over het beheren van gebruikersgroepen in [ gebruikersgroepen ](https://helpx.adobe.com/enterprise/using/user-groups.html) in _de beleidsgids van de Onderneming en van Teams_ leiden.
+
+Gebruikers kunnen machtigingen voor [!DNL Brand] maken, bewerken en publiceren van systeembeheerders van Adobe GenStudio&#39;s wanneer deze aan de groep worden toegevoegd. Gebruikers ontvangen ook een automatische e-mailuitnodiging om het Adobe GenStudio for Performance Marketing [!DNL Brands] -project te bewerken.
+
+## Stap 4: Een [!DNL Brands] -project maken
 
 A _project_ verstrekt een opslagplaats waar de uitgezochte gebruikers activa-in dit geval, [!DNL Brands] activa kunnen bewaren.
 
@@ -66,13 +85,13 @@ A _project_ verstrekt een opslagplaats waar de uitgezochte gebruikers activa-in 
 
 1. Klik op **[!UICONTROL Create Project]**. Het _Nieuwe project_ popup opent.
 
-1. Ga `Adobe GenStudio Brands` in het gebied van de projectnaam in. Voer de naam van dit project precies zo in als hier wordt weergegeven. Neem geen extra spaties op en wijzig het lettertype niet.
+1. Typ `Adobe GenStudio Brands` in het veld Projectnaam. Voer de naam van dit project precies zo in als hier wordt weergegeven. Neem geen extra spaties op en wijzig het lettertype niet.
 
 1. Klik op **[!UICONTROL Create]**. _nodigt uit aan project_ popup opent.
 
 Zie [ projecten ](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html) in de _gids van de Onderneming en van het beleid van Teams_ leiden.
 
-## Stap 4: Gebruikersgroep uitnodigen voor project
+## Stap 5: Gebruikersgroep uitnodigen om te project
 
 U kunt nu de gebruikersgroep toevoegen die u net hebt gemaakt aan het `Adobe GenStudio [!DNL Brands]` -project.
 
@@ -83,17 +102,3 @@ U kunt nu de gebruikersgroep toevoegen die u net hebt gemaakt aan het `Adobe Gen
 1. Kies **** toestemmingenoptie kan uitgeven.
 
 1. Klik op **[!UICONTROL Invite]**.
-
-## Stap 5: Gebruikers toevoegen aan de gebruikersgroep
-
-Als u gebruikers de bevoegdheid wilt geven om [!DNL Brands] te maken, bewerken en publiceren, voegt u deze toe aan de nieuwe gebruikersgroep.
-
-**om gebruikers aan de gebruikersgroep** toe te voegen:
-
-1. Van de _Admin Console_, navigeer aan **[!UICONTROL Users]** > **[!UICONTROL User Groups]**.
-
-1. Selecteer de naam van de gebruikersgroep die u eerder hebt gemaakt. _voegt gebruikers aan deze gebruikersgroep_ popup toe opent.
-
-1. Voeg een nieuwe of bestaande gebruiker toe aan gebruikersnaam of e-mailadres. Leer over het beheren van gebruikersgroepen in [ gebruikersgroepen ](https://helpx.adobe.com/enterprise/using/user-groups.html) in _de beleidsgids van de Onderneming en van Teams_ leiden.
-
-Gebruikers kunnen machtigingen voor [!DNL Brand] maken, bewerken en publiceren van systeembeheerders van Adobe GenStudio&#39;s wanneer deze aan de groep worden toegevoegd. Gebruikers ontvangen ook een automatische e-mailuitnodiging om het Adobe GenStudio for Performance Marketing [!DNL Brands] -project te bewerken.
