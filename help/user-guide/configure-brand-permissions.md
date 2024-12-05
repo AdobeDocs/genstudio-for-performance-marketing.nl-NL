@@ -4,9 +4,9 @@ description: Leer over het toewijzen van rechten voor de creators van GenStudio 
 level: Intermediate
 feature: Brands Service, Generative AI
 exl-id: fc33ecd3-4403-4045-87af-012a0377226c
-source-git-commit: baa225419ba5e851f28d41f829971027655e103e
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '677'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ A _project_ verstrekt een opslagplaats waar de uitgezochte gebruikers activa-in 
 
 1. Klik op **[!UICONTROL Create Project]**. Het _Nieuwe project_ popup opent.
 
-1. Typ `Adobe GenStudio Brands` in het veld Projectnaam. Voer de naam van dit project precies zo in als hier wordt weergegeven. Neem geen extra spaties op en wijzig het lettertype niet.
+1. Typ `Adobe GenStudio Brands` in het veld Projectnaam. Voer de naam van dit project precies zo in als hier wordt weergegeven. Neem geen extra spaties op en wijzig het lettertype.
 
 1. Klik op **[!UICONTROL Create]**. _nodigt uit aan project_ popup opent.
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '311'
 ht-degree: 5%
 
 ---
@@ -38,7 +38,7 @@ Zie de [ Gids van de Medewerker van Docs van de Adobe ](https://experienceleague
 Alle artikelen in deze opslagplaats gebruiken GitHub-gearomatiseerde prijsverlaging. Als u niet vertrouwd bent met markering, zie:
 
 - [ Grondbeginselen van de Prijsverlaging ](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [ Afdrukbare prijsdaling ](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [ Afdrukbare prijsbedrukblad ](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## Labels
 

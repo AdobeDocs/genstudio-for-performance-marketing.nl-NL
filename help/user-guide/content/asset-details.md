@@ -3,7 +3,7 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 7cb19de7f1fe61465046b0d27a528c2f5e1a4d5e
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -69,7 +69,7 @@ In de volgende tabel staan de metagegevens (elementdetails) die u kunt definiër
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio for Performance Marketing voor gebruik |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio for Performance Marketing voor gebruik |
 | Kanalen | Inhoudstypen in GenStudio for Performance Marketing waarvoor het element wordt gebruikt, zoals e-mail- en Meta-advertenties |
-| Tijdschema | Tijdschema waarvoor het actief wordt gebruikt, zoals kwartaal, seizoen, jaar, enz. Voorbeeld: `Winter 2023` |
+| [!UICONTROL Timeframe] | Tijdsduur waarvoor het actief wordt gebruikt, zoals kwartaal, seizoen, jaar enz. Voorbeeld: `Winter 2023` |
 | Regio | Regio’s waarvoor het actief wordt gebruikt. Voorbeelden: `North America` , `APAC` , `Italy` |
 | Taal | Talen waarvoor het middel wordt gebruikt. Voorbeeld: `Spanish` |
 | Trefwoorden | Door de gebruiker gedefinieerde trefwoorden die worden gebruikt voor de verdere identificatie van de eigenschappen en het doel van het activum |

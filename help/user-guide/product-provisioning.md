@@ -4,7 +4,7 @@ description: Meer informatie over het leveren van het GenStudio for Performance 
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 8f8aa9b92a97d528e1dec6e183d0e4ea1e3a5bdc
+source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -65,4 +65,4 @@ U kunt gebruikers afzonderlijk toevoegen of accountgegevens importeren voor meer
 
 * [ beheer veelvoudige gebruikers/bulkCSV uploadt ](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
 
-Zodra u aan boord van gebruikers aan GenStudio for Performance Marketing van uw organisatie, een manager van het het systeemsysteem van Genstudio kan [ opstelling het merk van uw organisatie en media richtlijnen ](get-started.md).
+Zodra u aan boord van gebruikers aan GenStudio for Performance Marketing van uw organisatie, een het systeemmanager van GenStudio kan [ opstelling het merk van uw organisatie en media richtlijnen ](get-started.md).
