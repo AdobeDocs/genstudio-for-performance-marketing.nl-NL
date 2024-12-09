@@ -4,7 +4,7 @@ description: Meer informatie over hoe u met GenStudio voor prestatiemarketing aa
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: fd49abb491477b0a8ed5b1f646219458efc49365
 workflow-type: tm+mt
 source-wordcount: '691'
 ht-degree: 2%
@@ -49,7 +49,7 @@ U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens
 
 Een GenStudio-systeembeheerder kan het onderliggende generatieve AI-framework van het product voorbereiden door handmatig de specifieke merkvereisten van uw organisatie in te voeren of te uploaden. Hoewel het opstellen van de merkrichtlijnen van een organisatie een eenmalig actie is, kunt u deze richtlijnen herzien en verbeteren die op de volatiliteit, de groei, en veranderende marktomstandigheden van uw organisatie worden gebaseerd.
 
-## Stap 2: Een Adobe Admin Console-project instellen voor GenStudio [!DNL Brands]
+### Stap 2: Een Adobe Admin Console-project instellen voor GenStudio [!DNL Brands]
 
 Systeembeheerders moeten extra instellingstaken uitvoeren voordat medewerkers [!DNL Brands] kunnen bewerken of maken. Systeembeheerders van Adoben voeren deze taken uit in de Adobe Admin Console:
 
