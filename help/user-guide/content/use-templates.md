@@ -3,9 +3,9 @@ title: Werken met sjablonen
 description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 61a939ae81eb5ff61d741bb1092e9e4c82119f7e
+source-git-commit: bfe1ae2c734b19e474ab1614fa72afea7d35a73e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-bra
 
 ## Sjabloonelementen
 
-Een sjabloon is een set instructies gedefinieerd met HTML en inline CSS die kunnen worden gebruikt om een e-mail- of metagegevensadvertentie te produceren.
+Een sjabloon is een set instructies die zijn gedefinieerd met HTML en inline CSS die kunnen worden gebruikt om een e-mail, sociale advertentie of een weergave en ervaring te maken. Sjabloonelementen bieden de structuur voor het maken van inhoud.
 
-Hieronder volgt een lijst met elementen die in sjablonen worden gebruikt en enkele details over de eigenschappen ervan.
+Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enkele details over de kenmerken ervan:
 
 - **Preheader**
 
@@ -73,19 +73,13 @@ Hieronder volgt een lijst met elementen die in sjablonen worden gebruikt en enke
 >
 >Zie [ erkende gebiedsnamen ](customize-template.md#recognized-field-names) die GenStudio for Performance Marketing voor malplaatjes van elk type van het Kanaal steunt.
 
-## Kanaalrichtlijnen configureren
-
-Het is beste praktijken om [ kanaalrichtlijnen ](../guidelines/brands.md#channel-guidelines) voor elk merk te vormen alvorens malplaatjes in GenStudio for Performance Marketing te gebruiken. De kanaalrichtlijnen beïnvloeden rechtstreeks het type inhoud dat wordt gegenereerd wanneer de sjabloon wordt gebruikt. U kunt bijvoorbeeld tekenlimieten instellen voor de hoofdtekst van een e-mail.
-
-![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
-
 ## Sjabloon aanpassen
 
 U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Performance Marketing aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketing herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
 
 >[!TIP]
 >
->Volg [ toegankelijkheidsrichtlijnen voor het bouwen van malplaatjes ](accessibility-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
+>Volg [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) en [ beste praktijken ](/help/user-guide/content/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
 
 ## Een sjabloon uploaden
 
@@ -103,7 +97,7 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
 
    Voorbeeld van een e-mailsjabloon:
 
-   ![ ontdekte gebieden van de Voorproef ](../../assets/template-detected-fields.png){width="650"}
+   ![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
@@ -128,7 +122,7 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
-   ![ het malplaatjelijst van de Inhoud ](../../assets/content-templates.png){width="650" zoomable="yes"}
+   ![ het malplaatjelijst van de Inhoud ](/help/assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Selecteer een sjabloon voor een volledige weergave en een lijst met details.
 

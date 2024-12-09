@@ -3,9 +3,9 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,9 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
-   >[!TIP]
-   >
-   >Als de sectie _[!UICONTROL Details]_niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
+1. Als de sectie _[!UICONTROL Details]_niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
 
-De elementdetails omvatten metagegevens die zijn toegepast tijdens het maken of uploaden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
+De gegevens van elementen omvatten metagegevens die zijn toegepast tijdens het maken of uploaden van bestanden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
 
 Het volgende afbeeldingselement bevat systeemmetagegevens die het bestandstype, de grootte en andere kenmerken, één door de gebruiker gedefinieerd trefwoord en diverse door AI gedetecteerde kenmerken en kleuren beschrijven.
 
@@ -38,9 +36,7 @@ Het volgende afbeeldingselement bevat systeemmetagegevens die het bestandstype, 
 
 ## Systeemmetagegevens
 
-Bepaalde metagegevens van elementen worden automatisch verzameld wanneer een element wordt geüpload. U kunt de standaardmetagegevens van het systeem niet bewerken.
-
-Standaardmetagegevens die voor een element zijn opgeslagen en vastgelegd, zijn onder andere de naam, afmetingen, bron en meer van het bestand.
+Bepaalde metagegevens van elementen worden automatisch verzameld wanneer een element wordt geüpload, zoals bestandstype, grootte, afmetingen, bron en meer. Met uitzondering van de bestandsnaam kunt u de standaardmetagegevens van het systeem niet bewerken.
 
 ### Gegenereerde tags
 

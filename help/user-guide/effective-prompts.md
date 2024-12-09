@@ -3,10 +3,10 @@ title: Effectieve aanwijzingen schrijven
 description: Meer informatie over hoe u effectieve opdrachten schrijft voor Adobe GenStudio voor prestatiemarketing.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
+source-git-commit: 79430c3279529c4871141489e409240852e1f4fc
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -57,9 +57,9 @@ De richtlijnen van GenStudio for Performance Marketing helpen generatieve AI om 
 
 ### Gestructureerde vragen
 
-Voor multi-sectiemails, kunt u herinneringen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een [ e-mail ](/help/user-guide/create/email-experiences.md) te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/email-template.md#multi-section-emails) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
+Voor e-mailberichten met meerdere secties kunt u vragen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een e-mail te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/customize-template.md#sections-or-groups) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
 
-U kunt GenStudio for Performance Marketing bijvoorbeeld de instructie geven om in de eerste sectie van een e-mailbericht inhoud te genereren waarmee een nieuw product wordt bevorderd en om inhoud te genereren waarin de kostenbesparende voordelen van het product in de tweede e-mailsectie worden beschreven.
+U kunt GenStudio for Performance Marketing bijvoorbeeld de instructie geven om inhoud te genereren voor een e-mail waarin een nieuw product in de eerste sectie wordt bevorderd en waarin de kostenbesparende voordelen in de tweede sectie worden beschreven.
 
 De gestructureerde herinnering moet:
 
@@ -72,7 +72,7 @@ De gestructureerde herinnering moet:
   Als uw sjabloon bijvoorbeeld `moduleA` of `Group-3` als sectienaam gebruikt, kunt u naar die sectienamen verwijzen in de vraag.
 
 - Volg de aanbevolen regels/structuur. Als de snelle structuur niet aan het verstrekte formaat aanhoudt, is de herinnering op *alle* e-mailsecties van toepassing en vergemakkelijkt nog inhoudsgeneratie.
-- De sectienamen van het gebruik zoals [ die in uw e-mailmalplaatje ](/help/user-guide/content/email-template.md#code-an-email-template) worden bepaald. Vragen moeten overeenkomen met de sectienamen die in uw e-mailsjabloon zijn gecodeerd.
+- Gebruik sectienamen zoals gedefinieerd in uw e-mailsjabloon. Vragen moeten overeenkomen met de sectienamen die in uw e-mailsjabloon zijn gecodeerd.
 - Wees niet hoofdlettergevoelig. U kunt bijvoorbeeld `Pod` of `pod` gebruiken in uw e-mailsjabloon en gestructureerde prompt.
 - Verwijs eerst de generische gebruikersherinnering, en toen de sectie-specifieke richtlijnen.
 - Gebruik een dubbele punt, afbreekstreepje, komma of andere afbakening (`,:;#$!~|@=-%&*^_`) als scheiding tussen de verwijzing van de sectienaam en de richtlijn. U kunt bijvoorbeeld het volgende gebruiken als een sectiespecifieke prompt instructie: `Pod1; Describe how to easily edit text and swap images.`
@@ -91,7 +91,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-Zie [ een e-mailmalplaatje ](/help/user-guide/content/email-template.md#code-an-email-template) voorbereiden.
+Zie [ beste praktijken voor het gebruiken van malplaatjes ](/help/user-guide/content/best-practices-for-templates.md).
 
 ## Opnieuw proberen
 

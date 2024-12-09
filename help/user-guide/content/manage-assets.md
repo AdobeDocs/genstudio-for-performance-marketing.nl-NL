@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 3a32c26ff746989798842afa5798ffa397a19ef8
+source-git-commit: 802ee1b5c403394b66567bbe4bffbda8124f3624
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Op de galerie ziet u een overzicht van goedgekeurde middelen, ervaringen of sjab
 
 In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UICONTROL Assets] -galerie:
 
-![ mening van Assets met onderzoek op hond ](../../assets/content-assets.png)
+![ mening van Assets met onderzoek op hond ](/help/assets/content-assets.png)
 
 ### Inhoud zoeken
 
@@ -120,7 +120,7 @@ In the future, need guidance on template upload errors. For now, the UI just say
 
 1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
-1. Klik in de elementweergave op het pictogram **[!UICONTROL Delete]** (prullenbak) rechtsboven.
+1. Klik in de elementweergave op **[!UICONTROL Delete]** (prullenbak) rechtsboven.
 
 1. In de _activa van de Schrapping_ popup, verifieer de activa en klik **[!UICONTROL Delete]**.
 
@@ -155,7 +155,7 @@ Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe
 
    - Selecteer **[!UICONTROL Same details as original asset]** om de elementdetails over te brengen naar de nieuwe afbeelding.
 
-   - Vouw de sectie **[!UICONTROL More details]** uit om de campagne, richtlijnen en andere metagegevens bij te werken.
+   - Vouw de sectie **[!UICONTROL More details]** uit om de hulplijnen en andere metagegevens bij te werken.
 
    >[!TIP]
    >

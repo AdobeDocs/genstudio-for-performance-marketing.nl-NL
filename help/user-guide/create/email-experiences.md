@@ -4,13 +4,13 @@ description: Meer weten over e-mailervaringen in Adobe GenStudio for Performance
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
+exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
+source-git-commit: 333d40a733f5417ea182d7708bef38907dfd5722
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # E-mailervaringen
 
@@ -39,7 +39,7 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 E-mailervaringen kunnen uit meerdere secties bestaan, zodat u ze volledig kunt aanpassen aan uw merk en doelstellingen. [ Uitgezochte  [!DNL Products]  en visuele activa voor elke sectie ](/help/user-guide/create/create-email-experience.md#add-parameters) en gebruik [ gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) aan ambachtelijke unieke inhoud. Elke sectie ondersteunt één visueel element.
 
-Zie [ een e-mailmalplaatje ](/help/user-guide/content/email-template.md) voorbereiden om te leren hoe te om een multi-sectiesjabloon tot stand te brengen.
+Zie [ het aanpassen van malplaatjes met secties ](/help/user-guide/content/customize-template.md#sections-or-groups) leren hoe te om een multi-sectiesjabloon tot stand te brengen.
 
 ## Progressief laden
 

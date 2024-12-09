@@ -1,11 +1,12 @@
 ---
-title: "Verbind met een  [!DNL AEM Assets Content Hub]  bewaarplaats"
+title: Verbind met een  [!DNL AEM Assets Content Hub]  bewaarplaats
 description: Leer hoe te om Adobe GenStudio for Performance Marketing met een Adobe Experience Manager (AEM) te verbinden  [!DNL Content Hub]  bewaarplaats en hefboomwerking bestaande goedgekeurde inhoud.
 level: Experienced
 feature: Assets, Content
-source-git-commit: 82ac164cb852305fce206845d15f04c4b4395387
+exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
+source-git-commit: abe1de42b81bff63d473a67632d27f96db7c1c7d
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -54,3 +55,5 @@ Zie [ Content Hub gebruikersinterface ](https://experienceleague.adobe.com/en/do
 ## Stap 5: Controleer de verbinding
 
 In GenStudio for Performance Marketing Content is de lijst _[!UICONTROL Location]_beschikbaar boven de galerie aan de rechterkant. De lijst is niet beschikbaar als u geen toegang hebt of als uw organisatie een [!DNL AEM Assets Content Hub] -opslagplaats niet heeft geïmplementeerd en aangesloten.
+
+Zie [ plaats van Assets ](manage-assets.md#assets-location) om over de lijst van de Plaats en veranderende bewaarplaatsen te lezen.

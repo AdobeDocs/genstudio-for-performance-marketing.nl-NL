@@ -3,9 +3,9 @@ title: Overzicht van Adobe GenStudio for Performance Marketing  [!DNL Content]
 description: Leer hoe u door uw merk goedgekeurde middelen kunt zoeken, bewerken, hergebruiken en delen in één intuïtieve portal.
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,61 +17,111 @@ GenStudio for Performance Marketing [!DNL Content] biedt een centrale locatie vo
 ## [!DNL Content] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md#search">
+
          <img alt="vergrootglas" src="../../assets/icons/icon-search.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md#search">
+
          <strong> vind inhoud </strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md">
+
          <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md">
+
          <strong> voegt activa </strong> toe
 
          </a>
-      </p>
-   </td>
-   <td align="center" valign="top" width="100">
-      <a href="../content/customize-template.md">
-         <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template.png">
-      </a>
-      <p>
-         <a href="../content/customize-template.md">
-         <strong> pas een malplaatje </strong> aan
 
-         </a>
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="../content/use-templates.md">
-         <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate.png">
-      </a>
-      <p>
-         <a href="../content/use-templates.md#upload-a-template">
-         <strong> uploadt malplaatje </strong>
-         </a>
-      </p>
-   </td>
-   <td align="center" valign="top" width="100">
+
       <a href="../content/asset-details.md#edit-in-express">
+
          <img alt="Bewerken in Adobe Express" src="../../assets/icons/icon-editExpress.png">
+
       </a>
+
       <p>
+
          <a href="../content/asset-details.md#edit-in-express">
+
          <strong> geef activa in Adobe Express </strong> uit
 
          </a>
+
       </p>
+
    </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="../content/customize-template.md">
+
+         <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template.png">
+
+      </a>
+
+      <p>
+
+         <a href="../content/customize-template.md">
+
+         <strong> pas een malplaatje </strong> aan
+
+         </a>
+
+      </p>
+
+   </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="../content/use-templates.md">
+
+         <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate.png">
+
+      </a>
+
+      <p>
+
+         <a href="../content/use-templates.md#upload-a-template">
+
+         <strong> uploadt malplaatje </strong>
+
+         </a>
+
+      </p>
+
+   </td>
+
 </tr>
+
 </table>
 
 ## [!DNL Content] mogelijkheden
@@ -88,4 +138,4 @@ Wanneer u goedgekeurde elementen opslaat, behoudt [!DNL Content] de rijke metage
 
 ### Werken met sjablonen
 
-Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen.
+Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen. Leer over basismalplaatjeelementen en procedures in [ Werk met Malplaatjes ](use-templates.md). En diep-duik in het bouwen van malplaatjes met [ pas een malplaatje ](customize-template.md) onderwerp aan.

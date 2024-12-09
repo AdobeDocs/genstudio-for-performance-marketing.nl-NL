@@ -4,18 +4,25 @@ description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketi
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: f95848546abc2decbb5ac52491307977820ce503
 workflow-type: tm+mt
-source-wordcount: '1043'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Een sjabloon aanpassen
 
-Pas uw malplaatjes van HTML voor Adobe GenStudio for Performance Marketing aan door de _het malplaatjetaal te gebruiken 0} Handlebars {._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [`What is [!DNL Handlebars]?` ](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handlebars_ leren hoe te om uw malplaatje voor te bereiden.
+U kunt een sjabloon aanpassen voor gebruik in GenStudio for Performance Marketing door plaatsaanduidingen voor inhoud of velden in te voegen die de generatieve AI gebruikt om inhoud in te voegen.
 
-In de volgende secties wordt uitgelegd hoe u plaatsaanduidingen voor inhoud toevoegt, overbodige elementen uit de voorvertoning verbergt en koppelingen naar statische inhoud beheert. Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+De volgende paar secties verklaren hoe te om uw HTML malplaatjes voor GenStudio for Performance Marketing aan te passen door de _sjabloontaal te gebruiken 0} Handlebars {._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [ wat is  [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handels_ leren hoe te om uw malplaatje voor te bereiden.
+
+
+Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+
+>[!TIP]
+>
+>Volg [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) en [ beste praktijken ](/help/user-guide/content/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
 
 ## Plaatsaanduidingen voor inhoud
 
@@ -34,14 +41,14 @@ U kunt `{{ headline }}` bijvoorbeeld met de syntaxis van [!DNL Handlebars] gebru
 De volgende tabel bevat een lijst met de veldnamen die door GenStudio for Performance Marketing worden herkend voor populatie in sjablonen. Voeg deze veldnamen met de syntaxis [!DNL Handlebars] toe aan uw sjabloon waar u GenStudio for Performance Marketing nodig hebt om inhoud te genereren.
 
 | Veld | Rol | Kanaalsjabloon |
-| -------------- | ---------------------- | ------------------------------ |
-| `pre_header` | Pre-header | email |
-| `headline` | Titel | email <br> Meta-advertentie |
-| `body` | Platte kopie | email <br> Meta-advertentie |
-| `cta` | Oproep tot actie | email <br> Meta-advertentie |
-| `on_image_text` | Op afbeeldingstekst | Meta en |
-| `image` | Afbeelding | email <br> Meta-advertentie |
-| `brand_logo` | Logo van geselecteerd merk <br> zie [ het merklogo gebiedsnaam ](#brand-logo-field-name) voor geadviseerd gebruik. | e-mail <br> Meta-advertentie |
+| ------------------ | ---------------------- | -------------------------------- |
+| `{{pre_header}}` | Pre-header | email |
+| `{{headline}}` | Titel | e-mail <br> Meta en <br> Vertoning |
+| `{{body}}` | Platte kopie | e-mail <br> Meta en <br> Vertoning |
+| `{{cta}}` | Oproep tot actie | e-mail <br> Meta en <br> Vertoning |
+| `{{on_image_text}}` | Op afbeeldingstekst | Meta en |
+| `{{image}}` | Afbeelding—Selecteren uit inhoud | e-mail <br> Meta en <br> Vertoning |
+| `{{brand_logo}}` | Logo van geselecteerd merk <br> zie [ het merklogo gebiedsnaam ](#brand-logo-field-name) voor geadviseerd gebruik. | e-mail <br> Meta-advertentie |
 
 GenStudio for Performance Marketing vult bepaalde velden automatisch in de volgende sjablonen in:
 
@@ -93,23 +100,27 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 
 _Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
 
-Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. U kunt bijvoorbeeld de inhoud van een gemarkeerd gebied als spotlight instellen:
+Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. Gebruik een veldnaam (`headline`, `body`, `image` of `cta`) na het onderstrepingsteken (`_`). De volgende kop en tekst behoren bijvoorbeeld tot de sectie `pod1` :
 
 - `pod1_headline`
 - `pod1_body`
 
-Elke sectie kan slechts één van elk gebiedstype gebruiken. In het bovenstaande voorbeeld kan de sectie `pod1` slechts één `pod1_headline` -veld gebruiken.
+Elke sectie kan slechts één van elk gebiedstype gebruiken. In het bovenstaande voorbeeld kan de sectie `pod1` slechts één `pod1_headline` -veld gebruiken. Vanwege deze regel kunnen de secties niet worden genest.
 
-Een sjabloon kan maximaal drie secties bevatten:
+Een e-mailsjabloon kan maximaal drie secties bevatten. De volgende lijst bevat bijvoorbeeld drie kopregels en hoofdtekstsecties:
 
-- `headline`
-- `body`
+- `pre-header`
 - `pod1_headline`
 - `pod1_body`
 - `pod2_headline`
 - `pod2_body`
+- `pod3_headline`
+- `pod3_body`
+- `cta`
 
 GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
+
+Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in e-mail produceert.
 
 ## Sjabloonvoorbeeld
 
@@ -117,7 +128,7 @@ Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant 
 
 Voorbeeld van een e-mailsjabloon:
 
-![ ontdekte gebieden van de Voorproef ](../../assets/template-detected-fields.png){width="650"}
+![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650"}
 
 ### Voorvertoning besturen
 
