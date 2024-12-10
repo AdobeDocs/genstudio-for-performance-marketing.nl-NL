@@ -17,111 +17,61 @@ GenStudio for Performance Marketing [!DNL Content] biedt een centrale locatie vo
 ## [!DNL Content] gebruik gevallen
 
 <table style="table-layout:fixed">
-
 <tr style="border: 0;">
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/manage-assets.md#search">
-
          <img alt="vergrootglas" src="../../assets/icons/icon-search.png">
-
       </a>
-
       <p>
-
          <a href="../content/manage-assets.md#search">
-
          <strong> vind inhoud </strong>
-
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/manage-assets.md">
-
          <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent.png">
-
       </a>
-
       <p>
-
          <a href="../content/manage-assets.md">
-
          <strong> voegt activa </strong> toe
 
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/asset-details.md#edit-in-express">
-
          <img alt="Bewerken in Adobe Express" src="../../assets/icons/icon-editExpress.png">
-
       </a>
-
       <p>
-
          <a href="../content/asset-details.md#edit-in-express">
-
          <strong> geef activa in Adobe Express </strong> uit
 
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/customize-template.md">
-
          <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template.png">
-
       </a>
-
       <p>
-
          <a href="../content/customize-template.md">
-
          <strong> pas een malplaatje </strong> aan
 
          </a>
-
       </p>
-
    </td>
-
    <td align="center" valign="top" width="100">
-
       <a href="../content/use-templates.md">
-
          <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate.png">
-
       </a>
-
       <p>
-
          <a href="../content/use-templates.md#upload-a-template">
-
          <strong> uploadt malplaatje </strong>
-
          </a>
-
       </p>
-
    </td>
-
 </tr>
-
 </table>
 
 ## [!DNL Content] mogelijkheden
