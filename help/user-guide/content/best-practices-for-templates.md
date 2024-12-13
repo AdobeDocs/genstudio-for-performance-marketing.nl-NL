@@ -2,10 +2,11 @@
 title: Aanbevolen procedures voor sjablonen
 description: Volg de beste praktijken wanneer het gebruiken van malplaatjes met Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-last-substantial-update: 2024-12-09T00:00:00Z
-source-git-commit: 7ba2ecfbdd6853934be5210685bf447848715d28
+last-substantial-update: 2024-12-13T00:00:00Z
+exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
+source-git-commit: df613ffa66b76e0810500f22d2a7b1c7cf7860af
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -145,6 +146,8 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van weergave- en sjablonen voo
    - 336 x 280
    - 320 x 50
    - 970 x 250 &#x200B;
+- Aangepast: (pixels)
+   - 50 x 50 tot 2000 x 2000
 
 **Erkende gebiedsnamen**:
 

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 11bd93e90a01d89adb9ed12d1e93774c67f27b6b
+source-git-commit: 763c907598d92779483938295a99d640ee3f4d20
 workflow-type: tm+mt
 source-wordcount: '963'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Dit leerprogramma toont aan hoe te om gemerkte [ e-mailervaringen ](/help/user-guide/create/email-experiences.md) te produceren gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
-Om een efficiënte e-mailervaring tot stand te brengen, adviseert men dat u [ richtlijnen aan GenStudio voor het Op de markt brengen van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toevoegt en omhoog op de [ grondbeginselen van het creëren van een herinnering ](/help/user-guide/effective-prompts.md) alvorens u begint.
+Om een efficiënte e-mailervaring tot stand te brengen, adviseert men dat u [ richtlijnen aan GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toevoegt en omhoog op de [ grondbeginselen van het creëren van een herinnering ](/help/user-guide/effective-prompts.md) alvorens u begint.
 
 ## Een sjabloon kiezen
 
@@ -42,7 +42,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
    ![ kies persona ](/help/assets/persona-select.png){width="600" zoomable="yes"}
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Voeg inhoud voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
@@ -82,7 +82,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 **om geproduceerde varianten** te herzien:
 
 * **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
-* **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit
+* **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) en geef uit zoals nodig
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik **[!UICONTROL Select/swap from content]** of **[!UICONTROL Upload New Image]** om een beeld in een individuele variant toe te voegen of te ruilen.
 * **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.

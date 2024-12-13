@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 802ee1b5c403394b66567bbe4bffbda8124f3624
+source-git-commit: 5785c807f0a674c95cada0aa3976dd7fb3d7f16e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1204'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,6 @@ In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aa
 
 ![ lijst van Plaats van bewaarplaatsen ](../../assets/content-location-selection.png){width="350"}
 
-
 Wanneer u een AEM opslagplaats selecteert, toont de galerie een inventaris van activa van die bewaarplaats, die u toestaat om goedgekeurde activa van deze bewaarplaatsen als input voor inhoudsverwezenlijking te gebruiken. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
 Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
@@ -70,7 +69,20 @@ De AEM opslagplaats is read-only, wat betekent dat u tot de inhoud kunt toegang 
 
 ## Assets-beheer
 
-In [!UICONTROL Content] kunnen Performance Marketing hun digitale middelen eenvoudig opslaan, ophalen en beheren. Door gebruik te maken van zowel de `GenStudio assets` -opslagplaats als AEM opslagruimten, kunnen gebruikers ervoor zorgen dat hun middelen goed zijn georganiseerd en toegankelijk zijn voor verschillende marketingcampagnes. Deze benadering met meerdere opslagplaatsen biedt flexibiliteit en controle over het gebruik van bedrijfsmiddelen in verschillende omgevingen, zodat bij marketingactiviteiten alleen goedgekeurde en actuele bedrijfsmiddelen worden gebruikt.
+In [!UICONTROL Content] kunt u uw digitale elementen eenvoudig opslaan, ophalen en beheren. Door gebruik te maken van zowel de `GenStudio assets` opslagplaats als AEM opslagplaatsen, kunt u ervoor zorgen dat uw activa goed georganiseerd en toegankelijk zijn voor verschillende marketingcampagnes. Deze benadering met meerdere opslagplaatsen biedt flexibiliteit en controle over het gebruik van bedrijfsmiddelen in verschillende omgevingen, zodat bij marketingactiviteiten alleen goedgekeurde en actuele bedrijfsmiddelen worden gebruikt.
+
+De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, ervaringen, en malplaatjes:
+
+| Taken | Assets | Ervaringen | Sjablonen |
+| --------------------------------------------------------- | :----: | :---------: | :-------: |
+| [ de details van de Mening ](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
+| [ creeer ervaring ](/help/user-guide/create/overview.md) |        |             | ✓ |
+| [ geef in Adobe Express uit ](#edit-in-express) | ✓ |             |           |
+| [ Uitvoer voor Activering ](#export-for-activation) |        | ✓ |           |
+| [ Download ](#download-assets) | ✓ |             | ✓ |
+| [ Schrapping ](#delete-assets) | ✓ | ✓ | ✓ |
+
+<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### Elementen toevoegen
 
@@ -100,10 +112,6 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 1. Om uw nieuwe geüploade activa te bekijken, klik **[!UICONTROL Refresh]** van het _Nieuwe beschikbare activa_ bericht bij de bodem van het Canvas.
 
-<!--
-In the future, need guidance on template upload errors. For now, the UI just says error.
--->
-
 ### Elementen downloaden
 
 **om activa** te downloaden:
@@ -123,6 +131,23 @@ In the future, need guidance on template upload errors. For now, the UI just say
 1. Klik in de elementweergave op **[!UICONTROL Delete]** (prullenbak) rechtsboven.
 
 1. In de _activa van de Schrapping_ popup, verifieer de activa en klik **[!UICONTROL Delete]**.
+
+## Exporteren voor activering
+
+U kunt een goedgekeurde ervaring voor activering exporteren in een indeling die compatibel is met uw doelkanaal.
+
+**om een ervaring** uit te voeren:
+
+1. Selecteer een ervaring in _[!DNL Content]_. Als u op een ervaring klikt, wordt de gedetailleerde weergave geopend of klikt u op het snelmenu (`...`).
+
+1. Klik op **[!UICONTROL Export for activation]** (vak met pijl naar buiten).
+
+1. In de _Uitvoer voor activering_ popup, selecteer één van de beschikbare formaten:
+
+   - E-mail: `HTML`, `CSV`
+   - Meta- en weergaveadvertenties: `HTML`, `JPEG`, `PNG`
+
+Zie [ Activering ](/help/user-guide/activation/overview.md).
 
 ## Bewerken in Express
 

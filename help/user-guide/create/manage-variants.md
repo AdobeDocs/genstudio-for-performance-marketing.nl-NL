@@ -2,13 +2,13 @@
 title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
-source-git-commit: 5e92233248c555a3b0a59bd4dbb0935e4c8cfb1f
+exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '1092'
+source-wordcount: '1205'
 ht-degree: 0%
 
 ---
-
 
 # Varianten beheren
 
@@ -40,23 +40,36 @@ U kunt de tekstvelden in gegenereerde varianten bewerken. Verfijn de tekst voor 
 
 ## Secties opnieuw genereren
 
-GenStudio for Performance Marketing beschikt over de ingebouwde functionaliteit waarmee afzonderlijke secties van gegenereerde varianten opnieuw kunnen worden gegenereerd met _[!UICONTROL Suggested edits]_en nieuwe aanwijzingen.
+GenStudio for Performance Marketing heeft de ingebouwde functionaliteit om secties van gegenereerde varianten opnieuw te genereren. U kunt tekst anders formuleren, verkorten of verlengen of nieuwe vragen toevoegen om nieuwe inhoud te genereren.
 
-U kunt bijvoorbeeld de koptekstsectie van een meta-variant opnieuw genereren om te zien hoe deze er uitziet met een bepaald achtergrondelement met behulp van de _[!UICONTROL Suggested edits]_-opties_[!UICONTROL Rephrase]_ , _[!UICONTROL Shorten]_of_[!UICONTROL Lengthen]_ en een nieuwe vraag in te voeren.
+U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_de inhoud van een sectie, of_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
 
 ![ regenerate secties ](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
 **om individuele variantsecties** opnieuw te produceren:
 
 1. Nadat u een set varianten hebt gegenereerd, klikt u met één klik op alle bewerkbare tekst in een variant.
-1. Selecteer een _[!UICONTROL Suggested edits]_optie—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, of_[!UICONTROL Lengthen]_.
-   * Kies een beschikbare optie en klik op **[!UICONTROL Replace]** .
-1. (_Facultatieve_) Uitgezochte _ [!UICONTROL Generate with prompt] en ga een nieuwe herinnering in om de nadruk van de opnieuw geproduceerde inhoud te veranderen.
-   * Klik op **[!UICONTROL Generate]**.
-1. Als u de resultaten wilt regenereren om meer opties te zien, klik het regenerate pictogram naast _Resultaten_.
-1. Van de _Resultaten_ die verschijnen, selecteer de gewenste optie en klik **[!UICONTROL Replace]**.
+1. Als u de bestaande tekst wilt wijzigen, selecteert u _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ of _[!UICONTROL Lengthen]_.
+1. Selecteer _[!UICONTROL Generate new text]_en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
+   1. Klik op **[!UICONTROL Generate]**.
+1. Terwijl u de tekst van een sectie opnieuw genereert, klikt u op het pictogram Opnieuw genereren om meer tekstopties weer te geven.
+1. Selecteer de gewenste optie in het resultaat dat wordt weergegeven en klik op **[!UICONTROL Replace]** .
 
    De variant wordt bijgewerkt met de herziene tekst.
+
+## Herzie vraag-aan-actie
+
+Na het produceren van een reeks varianten, kunt u de vraag-aan-actie (CTA) tekst en de verbinding herzien.
+
+**om CTA in een variant** te herzien:
+
+1. Nadat u een set varianten hebt gegenereerd, klikt u op de knop met de CTA-tekst.
+1. Om de de knooptekst van CTA te veranderen, selecteer van de beschikbare opties in de _Vraag aan acties_ lijst.
+1. Klik op **[!UICONTROL Link]** om de koppeling in de CTA te wijzigen.
+   1. Ga of deeg in een nieuwe verbinding in of herzie de bestaande verbinding in _verbinding_ sectie uitgeven en klik **[!UICONTROL Apply]**. U kunt op **[!UICONTROL Remove link]** klikken om de bestaande koppeling te verwijderen voordat u een nieuwe koppeling invoert.
+
+
+De toegevoegde of herziene koppeling wordt toegepast op alle CTA&#39;s in de reeks varianten.
 
 ## Elementen uitsnijden
 

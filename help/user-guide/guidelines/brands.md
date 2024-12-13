@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: e75859066881ce72999b3fde92077665cd6eaeff
+source-git-commit: 435c792d1991c2e34c500d072f23f1ed1ccdbcc9
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ GenStudio for Performance Marketing gebruikt de schat aan merkinformatie van uw 
 
 Na het toevoegen van merkrichtlijnen aan GenStudio for Performance Marketing, kunt u [ beheren ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) en [ publiceren ](/help/user-guide/guidelines/add-guidelines.md#publish-brand) hen. Door middel van publicatie kunnen ze door uw team worden gebruikt voor het genereren van bedrijfsmiddelen.
 
-[!DNL Brands] kan in of a _Ontwerp_ of _Gepubliceerde_ staat zijn. Nieuw [!DNL brands] begin als _Ontwerp_.
+[!DNL Brands] kan in of a _Ongepubliceerde_ of _Gepubliceerde_ staat zijn. Het nieuwe [!DNL brands] begin als _Unpublished_.
 
-U moet een [!DNL brand] publiceren om deze beschikbaar te maken voor het genereren van elementen door uw team.
+U moet [ een merk ](/help/user-guide/guidelines/add-guidelines.md#publish-brand) publiceren om het voor activageneratie door uw team ter beschikking te stellen.
 
-Gepubliceerd [!DNL brands] kan worden bewerkt en wijzigingen zijn direct beschikbaar. Alleen gepubliceerde [!DNL brands] kan worden gebruikt om inhoud te maken en te valideren.
+Gepubliceerde merken kunnen worden bewerkt (wijzigingen zijn direct beschikbaar), gedupliceerd of niet gepubliceerd. Alleen gepubliceerde [!DNL brands] kan worden gebruikt om inhoud te maken en te valideren. Zie [ merken beheren ](/help/user-guide/guidelines/add-guidelines.md#manage-brands).
 
 Verwijderde [!DNL brands] worden gedurende 30 dagen gearchiveerd en kunnen binnen die periode worden hersteld.
 

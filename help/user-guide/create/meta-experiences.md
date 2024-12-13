@@ -4,13 +4,13 @@ description: Meer informatie over Meta-ervaringen in Adobe GenStudio for Perform
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
 role: User
 level: Beginner
-source-git-commit: f6483eeb9a4aadc81e1e99796754c978edfa334c
+exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
-
 
 # Meta-ervaringen
 
@@ -54,3 +54,9 @@ Elk veld en elke sectie van de Meta-advertentie worden geleidelijk in deze reeks
 1. Koppen
 1. Tekst in afbeelding
 1. Het proces van de merkbevestiging komt voor en de [_controle van de merkenrichtlijnen_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) bevolkt voor elke variant.
+
+## Aantal tekens
+
+Nadat u een set Meta-varianten hebt gegenereerd, kunt u het aantal tekens voor elke sectie zien. Houd de muis boven of klik in een gegenereerde sectie, zoals de onderwerpregel of de hoofdtekst, en zie de sectienaam en het aantal tekens voor die sectie.
+
+![ Aantal van het Karakter ](/help/assets/character-count.png){width="500" zoomable="yes"}

@@ -1,14 +1,14 @@
 ---
 title: Een meta-advertentie maken
-description: Leer hoe u een on-brand Meta-advertentie maakt—voor Facebook of Instagram—met Adobe GenStudio for Performance Marketing.
+description: Leer hoe u onmerkbare metagegevens kunt maken—voor Facebook of Instagram—met Adobe GenStudio for Performance Marketing.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: bd24c4e25df1210dd6ff2b7f17f999963133294a
+source-git-commit: 5f5ab9647aab3c928d04c464f47bb3924b0bb73a
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Dit leerprogramma toont aan hoe te om branded [ Meta te produceren en ervaart ](/help/user-guide/create/meta-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
-Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtlijnen ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio voor de Marketing van Prestaties op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
+Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtsnoeren ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
 
 ## Een sjabloon kiezen
 
@@ -42,7 +42,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
    ![ kies persona ](/help/assets/persona-select.png){width="600" zoomable="yes"}
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio voor de Marketing van Prestaties ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Voeg inhoud voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
@@ -86,9 +86,9 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 **om geproduceerde varianten** te herzien:
 
 * **[ om Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
-* **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel) tweemaal,
+* **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel,
 (of bodykopie) en bewerk indien nodig.
-* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. Voer in _[!UICONTROL Link]_een URL in voor de aanroepingstekst.
+* **om vraag-aan-actie** te veranderen of te selecteren, klik de knoop tonend vraag-aan-actie en selecteer van de beschikbare opties van de knooptekst.<!-- In _[!UICONTROL Link]_, enter a new URL or revise an existing URL. -->
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
 * **[ om aMeta te schrappen advertentie](/help/user-guide/create/manage-variants.md#delete-variant)**, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
@@ -135,12 +135,12 @@ Als u de gegenereerde metagegevensadvertenties beschikbaar wilt maken voor huidi
 
 1. **om uw nieuwe Meta en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
 1. **om uw nieuwe Meta uit te voeren en ervaring(en)**, klik **[!UICONTROL Export]** in de hoogste toolbar.
-   1. Selecteer de indeling (alleen CSV en afbeeldingen of HTML) en klik op **[!UICONTROL Export]** .
+   1. Selecteer de indeling (HTML en afbeeldingen of CSV en afbeeldingen (JPG of PNG)) en klik op **[!UICONTROL Export]** .
 
 Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) voor meer informatie.
 
 ## Connect Meta
 
-U kunt GenStudio voor de Marketing van Prestaties met Meta verbinden om geavanceerde analyses en [ inzichten ](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
+U kunt GenStudio for Performance Marketing met Meta verbinden om geavanceerde analyses en [ inzichten ](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
 
 Zie [ Connect kanaalrekening ](/help/user-guide/insights/connect-channel.md) voor meer informatie.

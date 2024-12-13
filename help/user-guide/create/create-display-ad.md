@@ -5,9 +5,10 @@ feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, 
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: 885900eb259246c2d86a07791a1b7070e0dbf12a
+exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ Om een dwingende vertoning en ervaring te ontwerpen, adviseert men dat u [ richt
 
 ## Een sjabloon kiezen
 
-Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden.
+Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden. Zie [ Beste praktijken voor malplaatjes ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde vertoning en dimensies.
 
 **om een vertoning en malplaatje** te kiezen:
 
@@ -75,6 +76,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 * **[ om de vertoning en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **[ om een vertoningsadvertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke vertoning en secties of gebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de beschikbare opties om, nieuwe tekst te herformuleren verkorten, te verlengen of te produceren.
 * **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 * **aan [ bebouwen of beelden](/help/user-guide/create/manage-variants.md#crop-assets)** verplaatsen, over het beeld, klik het bebouwingspictogram dat verschijnt, en pas de beeldgrootte en de plaatsing aan. Klik op **[!UICONTROL Apply]**.
 
@@ -123,7 +125,7 @@ Als u de gegenereerde weergaveadvertenties beschikbaar wilt maken voor huidige e
       ![ Publish a vertoningsadvertentie ](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
 
 1. **om uw nieuwe vertoning en ervaring(en) uit te voeren**, klik **[!UICONTROL Export]** in de hoogste toolbar.
-   1. Selecteer de indeling (alleen JPG) en klik op **[!UICONTROL Export]** .
+   1. Selecteer de indeling (HTML en afbeeldingen, PNG of JPG) en klik op **[!UICONTROL Export]** .
 
       Geëxporteerde HTML moet binnen een vooraf gedefinieerde webeigenschap worden geplaatst, zoals een sjabloon of een `div` -container. Zonder deze ingestelde afmetingen kunnen afbeeldingen er vervormd uitzien als ze onafhankelijk worden bekeken.
 

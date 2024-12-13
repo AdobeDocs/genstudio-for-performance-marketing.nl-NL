@@ -3,9 +3,9 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 5e1702b26d34f519c4ab321b2adc04754fa1fcb6
+source-git-commit: cd3cfface9121788c1dd0808f7f7db36c36766df
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -54,25 +54,53 @@ Door de gebruiker gedefinieerde metagegevens voegen marketingcontext toe aan de 
 
 Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploadt, kunt u een reeks facultatieve activadetails bepalen die in GenStudio for Performance Marketing als meta-gegevens bestaan. Het opnemen van meer details kan activa identificatie in onderzoeken en het filtreren verbeteren.
 
+**om de user-defined meta-gegevens** uit te geven:
+
+1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon.
+
+1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
+
+1. Klik op **[!UICONTROL Edit details]** (potlood) om metagegevens van elementen te bewerken.
+
+   Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio for Performance Marketing ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
+
 ### Metagegevens
 
-In de volgende tabel staan de metagegevens (elementdetails) die u kunt definiëren bij het maken van een element.
+In de volgende tabel worden de metagegevens (elementdetails) weergegeven die u kunt definiëren wanneer u een element maakt.
 
 | Veld | Beschrijving |
-| ------------- | ----------- |
-| Campagnes (projectnaam) | Standaardmetagegevens die zijn vastgelegd en opgeslagen met het element |
+| -------------- | ----------- |
+| Titel | Naam van het element; de standaardtitel kan de oorspronkelijke bestandsnaam zijn |
+| [!DNL Campaigns] | [[!DNL Campaigns]](/help/user-guide/campaigns/overview.md) omvat promotionele inhoud met verenigbaar overseinen voor het bereiken van een bedrijfsdoel <br> het klikken op een campagneverbinding neemt u aan de overzichtspagina van de campagne |
 | [!DNL Brands] | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) toegevoegd aan GenStudio for Performance Marketing en gepubliceerd voor gebruik |
 | [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) toegevoegd aan GenStudio for Performance Marketing voor gebruik |
 | [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) toegevoegd aan GenStudio for Performance Marketing voor gebruik |
-| Kanalen | Inhoudstypen in GenStudio for Performance Marketing waarvoor het element wordt gebruikt, zoals e-mail- en Meta-advertenties |
+| Kanalen | Platforms voor het distribueren van bepaalde inhoudstypen, zoals e-mail- en weergaveadvertenties |
 | [!UICONTROL Timeframe] | Tijdsduur waarvoor het actief wordt gebruikt, zoals kwartaal, seizoen, jaar enz. Voorbeeld: `Winter 2023` |
 | Regio | Regio’s waarvoor het actief wordt gebruikt. Voorbeelden: `North America` , `APAC` , `Italy` |
 | Taal | Talen waarvoor het middel wordt gebruikt. Voorbeeld: `Spanish` |
-| Trefwoorden | Door de gebruiker gedefinieerde trefwoorden die worden gebruikt voor de verdere identificatie van de eigenschappen en het doel van het activum |
+| Trefwoorden | Door de gebruiker gedefinieerde trefwoorden worden gebruikt voor de verdere identificatie van de kenmerken en het doel van het element |
 
-<!-- ## History
+>[!TIP]
+>
+>Klik op **[!UICONTROL Edit details]** (potlood) om metagegevens van elementen te bewerken. U kunt bijvoorbeeld de elementnaam wijzigen of trefwoorden toevoegen of verwijderen.
 
-Expand the _[!UICONTROL History]_ section to view a timeline of approvals and activity.
+## Algemene context
 
-list other activity, show screenshot?
--->
+In de sectie [!UICONTROL Generative Context] ziet u welke informatie is gebruikt om de ervaring te genereren, zoals de sectie `Prompt` die tijdens het [!DNL Create] -proces wordt gebruikt. Dit inzicht kan u helpen om nog succesvollere varianten te bouwen.
+
+De informatie kan omvatten:
+
+- parameters `Brand` , `Product` en `Persona`
+- `Subject line` en `Pre Header` voor e-mailervaringen
+- `Headline` en `Body` voor Meta-advertenties
+
+## Historie
+
+Vouw de sectie _[!UICONTROL History]_in een ervaring uit om een tijdlijn van goedkeuringen en activiteit weer te geven. Een goedgekeurde ervaring onthult bijvoorbeeld de goedkeuringsdatum, -tijd en -fiatteur:
+
+```
+Approved
+
+December 10, 2024 at 6:00 PM by Username
+```

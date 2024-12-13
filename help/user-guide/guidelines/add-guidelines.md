@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: b644a69fd63c8b1deaf42736659dfe9b3b6bd8ab
+source-git-commit: a308972afc9fa6aeced0168b14d3c5f864d678f8
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1637'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Klik in het linkernavigatiegebied op **[!DNL Brands]** . In het _[!DNL Brands]_p
 
 ### Een merk uploaden
 
-U kunt uw eigen merkdocumenten uploaden om een nieuw merk te vullen.
+U kunt uw eigen documenten met merkrichtlijnen (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketing om automatisch een merk te maken.
 
 Zie [[!DNL Brands]](/help/user-guide/guidelines/brands.md) .
 
@@ -85,7 +85,7 @@ Alvorens uw merk te publiceren, klik door de _stemrichtlijnen van het Merk_, _ri
 
 1. Klik in het linkernavigatiegebied op **[!UICONTROL [!DNL Brands]]** .
 
-   A _Gepubliceerde_ badge is zichtbaar voor alle merken die momenteel worden gepubliceerd.
+   A _Gepubliceerde_ badge en de laatste datum het merk werd gepubliceerd is zichtbaar voor alle merken die momenteel worden gepubliceerd.
 
 1. Klik om een niet-gepubliceerd merk te openen. Als het merk niet wordt gepubliceerd, is een knop **[!UICONTROL Publish]** zichtbaar.
 1. In het _merk van Publish_ popup, verifieer wie toegang tot mening heeft en het gepubliceerde merk gebruikt.
@@ -98,23 +98,30 @@ Alvorens uw merk te publiceren, klik door de _stemrichtlijnen van het Merk_, _ri
 
 Het merk bevat een groene stip en een knop &quot;Published&quot;, waarna een knop **[!UICONTROL Publish]** verschijnt.
 
-**om het publiceren van een gepubliceerd merk** ongedaan te maken, klik om het te openen en **[!UICONTROL Publish]** te klikken.
+**om het publiceren van een gepubliceerd merk** ongedaan te maken, klik om het te openen en **[!UICONTROL Unpublish]** te klikken.
 
-Het gepubliceerde merk kan nu worden gebruikt in _[!DNL Create]_of_[!DNL Content]_ .
+Het gepubliceerde merk kan nu worden gebruikt in [_[!DNL Create]_](/help/user-guide/create/overview.md) of [_[!DNL Content]_](/help/user-guide/content/overview.md) .
 
 ### [!DNL Brands] beheren
 
 In de _[!DNL Brands]_home kunt u klikken om een al gemaakt merk te openen en het te beheren of te publiceren.
 
-**om een merk** te bekijken of te wijzigen:
+Om **merkinformatie van de meningsmening**, klik **[!UICONTROL [!DNL Brands]]** in het linkernavigatiegebied en klik om een bestaand merk te openen.
 
-1. Klik in het linkernavigatiegebied op **[!UICONTROL [!DNL Brands]]** .
-1. Als u de overzichtsinformatie van een merk wilt bekijken, klikt u om een bepaald merk te openen.
+**om een merk** in de [!DNL Brands] mening te wijzigen:
+
+1. Klik in **[!DNL Brands]** om een gedefinieerd merk te openen.
 1. Als u afzonderlijke details wilt weergeven of de richtlijnen voor het merk wilt wijzigen, klikt u boven in het scherm op [**[!UICONTROL Brand voice guidelines]**](#brand-voice-guidelines) , [**[!UICONTROL Channel guidelines]**](#channel-guidelines) , **[!UICONTROL Image guidelines]** of **[!UICONTROL Logos]** .
-1. Als u de naam van een bestaand merk wilt wijzigen, selecteert u **[!UICONTROL Rename]** in het actiemenu [!DNL Brands] .
+1. Als u de naam van een bestaand merk wilt wijzigen, selecteert u **[!UICONTROL Rename]** in het actiemenu _[!DNL Brands]_.
+1. Als u een bestaand merk wilt dupliceren, selecteert u **[!UICONTROL Duplicate]** in het actiemenu _[!DNL Brands]_.
+   1. Ga een merknaam in _Duplicate merk_ popup in en klik **[!UICONTROL Duplicate brand]**.
+
+      De popup bevestigt dat het merk gedupliceerd is: &quot;Nieuw merk gemaakt&quot;. Het gedupliceerde merk is aanvankelijk op _Unpublished_ wijze.
+
+   1. Pas het gedupliceerde merk aan en [ publiceer het ](#publish-brand) dan om het voor gebruik beschikbaar te maken.
 1. Als u een merk wilt verwijderen, selecteert u **[!UICONTROL Delete]** in het actiemenu [!DNL Brands] .
 
-U kunt documenten met brandrichtlijnen (maximaal drie PDF- of DOC-bestanden) uploaden naar GenStudio for Performance Marketing om automatisch een merk te maken.
+U kunt ook merken beheren in de weergave [!DNL Brands] vanuit het actiemenu _[!DNL Brands]_(drie punten).
 
 ## Toevoegen [!DNL Products]
 

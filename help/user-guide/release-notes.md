@@ -2,12 +2,12 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-last-substantial-update: 2024-11-14T00:00:00Z
+last-substantial-update: 2024-12-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 00359960b6cf314203382d74faa23bae3e753875
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 2%
+source-wordcount: '1256'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,87 @@ ht-degree: 2%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2024 11,14 {#latest}
+## 2024 12 12 {#latest}
 
 ### Nieuwe functies
 
-Toegevoegde steun voor rijke media malplaatjes, toelatend klanten om activa opnieuw te gebruiken die reeds door hun eigen beheerde inhoudskanalen hebben gepubliceerd. <!-- GS-6107 -->
+Editors kunnen nu de volgende aan metagegevens gerelateerde taken uitvoeren:
+
+* Middelen, ervaring en sjabloonmetagegevens bewerken. Zie [ de details van Activa ](/help/user-guide/content/asset-details.md#user-defined-metadata). <!-- GS-4905 6935-->
+
+* Bekijk de geproduceerde markeringen van activa in de _mening van Details_ van om het even welke ervaring die de activa gebruikt. Zie _Gegenereerde markeringen_ in [ details van Activa ](/help/user-guide/content/asset-details.md#generated-tags). <!-- GS-3705 -->
+
+Editors kunnen nu aangepaste waarden opgeven voor de volgende aspecten van gegenereerde varianten:
+
+* Breedte en hoogte voor webbanners in weergave- en sjablonen. Deze waarden worden nu opgeslagen als sjabloonmetagegevens. <!-- GS-6735 -->
+
+* Dimensionen aan beelden in vertoning en ervaart tijdens beeldupload.<!-- GS-7166 -->
+
+* Zie kanaal-specifieke richtlijnen in [ Beste praktijken voor malplaatjes ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+
+Exportopties zijn nu:
+
+* Exporteer weergaveadvertenties en metagegevensadvertenties als HTML, JPEG of PNG. Zie [ een vertoning en ervaring ](/help/user-guide/create/create-display-ad.md) creëren en [ een meta en ervaring ](/help/user-guide/create/create-meta-ad.md) creëren. <!-- GS-7093 6655 5152-->
+
+Met extra nieuwe functies kunnen editors:
+
+* Gebruik de **[!UICONTROL Refresh]** knoop op het [!DNL Content] Malplaatje _gedetailleerde gegevens van Activa_ mening om het geselecteerde malplaatje te verfrissen. <!-- GS-7102 -->
+
+* Regenereer gedeelten van weergave- en e-mailvarianten. Zie [ een vertoning en ervaring ](/help/user-guide/create/create-display-ad.md#revise-generated-display-ads) creëren en [ een e-mailervaring ](/help/user-guide/create/create-email-experience.md#revise-generated-emails) creëren. <!-- GS-5080 5078-->
+
+* Dupliceer bestaande merken. Zie [ merken beheren ](/help/user-guide/guidelines/brands.md#manage-brands). <!-- BRANDS-548 -->
+
+### Oplossingen en verbeteringen
+
+* Weergave-advertentielijsten worden nu op [!DNL Content] opgeslagen zoals u had verwacht. <!-- GS-7239 -->
+
+* De promptlade wordt niet meer gesloten wanneer een editor buiten het keuzemenu van de lade klikt. <!-- GS-7275 -->
+
+* Het vervolgkeuzemenu [!DNL Create] [!DNL Persona]/ [!DNL Product] wordt nu geladen zoals u had verwacht wanneer een miniatuur-URL-servicefout optreedt. <!-- GS-7277 -->
+
+* Weergaveadvertenties die elementen bevatten die bedekkingsfragmenten zijn nu bewerkbaar. <!-- GS-7186 -->
+
+* De knop Canvas **[!UICONTROL Brand]** wordt nu uitgeschakeld wanneer er geen merkscores worden gegenereerd voor een ervaring. <!-- GS-6429 -->
+
+* Op het canvas worden nu ervaringen met vergroten of verkleinen in consistente volgorde weergegeven. <!-- GS-7123 -->
+
+* Bij handmatig uitsnijden worden nu bij het bewerken van weergaveadvertenties afbeeldingsafmetingen gebruikt, niet sjabloonafmetingen. Wanneer een afbeelding kleiner was dan de afmetingen die in de weergave- en sjabloon zijn opgegeven, werden bij het selectiekader sjabloonafmetingen gebruikt, niet de afmetingen van de afbeelding. <!-- GS-7315 -->
+
+* Editors kunnen nu maximaal vier afbeeldingen selecteren wanneer ze een advertentie maken. <!-- GS-7189 -->
+
+* Advertenties en concepten voor metagegevens worden nu naar behoren geladen wanneer de grootte wordt gewijzigd in een andere browser. <!-- GS-7204 -->
+
+* Niet-gebruikte sjabloonvelden worden niet meer weergegeven in gegenereerde inhoud.  <!-- GS-5670 -->
+
+* Editors kunnen nu met één klik op koppelingen klikken om de gewenste wijzigingen in gegenereerde varianten door te voeren. <!-- GS-7423 -->
+
+* [!DNL Create] respecteert nu de rechten van deelnemers op de juiste wijze. <!-- GS-7614 -->
+
+* De knop Canvas **[!UICONTROL Resize]** wordt nu uitgeschakeld nadat alle opties voor het vergroten of verkleinen zijn geselecteerd en gerenderd. <!-- GS-5940 -->
+
+* Revisoren met alleen-weergavetoegang kunnen nu inzoomen op varianten en deze uitzoomen tijdens revisies. <!-- GS-7371 -->
+
+* De nadruk van het toetsenbord is toegevoegd aan slechts actionable knopen op de [!DNL Create] _Recente het werk_ mening. <!-- GS-4060 -->
+
+* Het **Opslaan van lopend** bericht dat tijdens e-mailfragment sparen verrichtingen wordt getoond wordt nu getoond slechts tijdens sparen verrichting. Eerder, toonde het Canvas dit bericht voor onbepaalde tijd. <!-- GS-6964 -->
+
+* De redacteurs zien nu een foutenmelding zoals verwacht wanneer een ontwerp er niet in slaagt om in het [!DNL Create] _Recente 2} gebied van het Werk {te laden.  <!-- GS-8081 -->_
+
+* Op het canvas worden nu vergroot of verkleind Meta-advertenties weergegeven en worden advertenties in de juiste volgorde weergegeven.  <!-- GS-7375 -->
+
+* Editors kunnen nu met één klik in velden op e-mail- en weergaveadvertenties klikken. <!-- GS-6297 -->
+
+* Fragmentmogelijkheden voor e-mail- en metaadvertenties bewerken wordt nu geactiveerd, zoals u met één klik verwacht. <!-- GS-8081 -->
+
+* Verbeterde prestaties van de knop [!DNL Create] **[!UICONTROL Back]** . <!-- GS-6767 -->
+
+## Opmerkingen bij eerdere releases
+
++++Opmerkingen van 2024.11.14
+
+### Nieuwe functies
+
+Toegevoegde ondersteuning voor rich media-sjablonen, zodat klanten elementen die al via hun eigen beheerde inhoudskanalen zijn gepubliceerd, opnieuw kunnen gebruiken. <!-- GS-6107 -->
 
 ### Oplossingen en verbeteringen
 
@@ -38,10 +114,10 @@ Toegevoegde steun voor rijke media malplaatjes, toelatend klanten om activa opni
 Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterface, waaronder:
 
 * Alle koorden in [!DNL Content] _uploadt activa_ popup worden nu correct gelokaliseerd. <!-- GS-6872 6770 -->
-* Alle tooltips in [!DNL Content] _Assets_ mening **[!UICONTROL Search]** gebied worden gelokaliseerd. <!-- GS-6879 -->
+* Alle tooltips in het [!DNL Content] _**[!UICONTROL Search]**gebied van de 1} mening van Assets {worden gelokaliseerd. <!-- GS-6879 -->_
 * Wanneer het vervangen van een bestaand beeld in een e-mailvariant op het [!DNL Create] Canvas, _Uitgezocht van de mening van de Inhoud_ wordt nu gelokaliseerd. <!-- GS-6906 -->
 
-## Opmerkingen bij eerdere releases
++++
 
 +++Opmerkingen van 2024.11.07
 
@@ -105,9 +181,11 @@ Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterfa
 
 * Layoutproblemen met e-mailranden zijn opgelost. <!-- GS-6631 -->
 
-* Toetsenbordfocus werkt nu zoals u had verwacht op de knop **[!DNL Content]** **[!UICONTROL Delete]** . Eerder kon deze knoop niet worden bereikt of door het toetsenbord in werking worden gesteld.  <!-- GS-4065 -->
+* Toetsenbordfocus werkt nu zoals u had verwacht op de knop **[!DNL Content]** **[!UICONTROL Delete]** . Eerder hadden gebruikers geen toegang tot deze knop via het toetsenbord.  <!-- GS-4065 -->
 
-## 2024.10.14 Algemene beschikbaarheidsrelease
++++
+
++++Opmerkingen van 2024.10.14 Algemene beschikbaarheid
 
 Deze release introduceert Adobe GenStudio for Performance Marketing, een generatieve AI-toepassing die de planning, ontwikkeling en analyse van marketingcampagnes versnelt. Met GenStudio for Performance Marketing kunnen marketingteams on-brand- en multikanaalsinhoud voor advertenties, e-mails en campagnes maken en real-time inzichten bieden om de prestaties van inhoud te optimaliseren.
 
@@ -115,7 +193,7 @@ Deze release introduceert Adobe GenStudio for Performance Marketing, een generat
 
 De belangrijkste productfuncties zijn:
 
-**[!DNL Create]** introduceert het canvas, dat een gestructureerde herinneringservaring biedt die inhoudsredacteurs toelaat om inhoud en varianten snel te produceren. Systeembeheerders trainen het product op volgens richtlijnen voor organisatiemerken. [!DNL Create] zorgt ervoor dat alle door AI gegenereerde inhoud aansluit bij uw richtlijnen voor merken (merken, klantspecifieke kenmerken en productbeschrijvingen) en de productie van merkconsistente marketinginhoud stroomlijnt.
+**[!DNL Create]** introduceert het canvas, dat een gestructureerde herinneringservaring biedt die inhoudsredacteurs toelaat om inhoud en varianten snel te produceren. Systeembeheerders trainen het product op volgens richtlijnen voor organisatiemerken. [!DNL Create] zorgt ervoor dat alle door AI gegenereerde inhoud aansluit bij uw richtlijnen voor merken (merken, klantkenmerken en productbeschrijvingen) en de productie van merkconsistente marketinginhoud stroomlijnt.
 
 **[!DNL Content]** slaat gekrulde, merkcompatibele, goedgekeurde middelen en ervaringen op. GenStudio for Performance Marketing-gebruikers kunnen eenvoudig goedgekeurde middelen zoeken, bewerken, opnieuw gebruiken en delen, waardoor het voor elke campagne minder nodig is om inhoud helemaal opnieuw te maken.
 

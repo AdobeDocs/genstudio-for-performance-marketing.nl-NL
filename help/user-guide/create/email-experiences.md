@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 333d40a733f5417ea182d7708bef38907dfd5722
+source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -58,6 +58,6 @@ Elk veld en elke sectie van e-mailervaringen worden in deze reeks geleidelijk ge
 
 ## Aantal tekens
 
-Nadat u een set e-mailvarianten hebt gegenereerd, ziet u het aantal tekens dat voor elke e-mailsectie wordt weergegeven. Houd de muis boven of klik in een gegenereerde sectie, zoals de onderwerpregel of de hoofdtekst, en zie de sectienaam en het aantal tekens voor die sectie.
+Nadat u een set e-mailvarianten hebt gegenereerd, ziet u het aantal tekens dat voor elke sectie wordt weergegeven. Houd de muis boven of klik in een gegenereerde sectie, zoals de onderwerpregel of de hoofdtekst, en zie de sectienaam en het aantal tekens voor die sectie.
 
 ![ Aantal van het Karakter ](/help/assets/character-count.png){width="500" zoomable="yes"}
