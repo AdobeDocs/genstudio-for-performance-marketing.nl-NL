@@ -1,11 +1,11 @@
 ---
 title: Inhoud controleren en bewerken
-description: Leer hoe u inhoud interactief kunt reviseren en bewerken.
+description: Leer hoe u inhoud interactief kunt reviseren en bewerken met Adobe GenStudio for Performance Marketing.
 feature: Approval
 exl-id: 9a3a15aa-355f-439e-9417-850704402f39
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ U kunt inhoud goedkeuren als u een e-mail hebt ontvangen waarin u wordt gevraagd
 
 ## Aanvraagwijzigingen
 
-U kunt van voorgestelde veranderingen een lijst maken of vragen over het ontwerp van het Tevreden _paneel van de Goedkeuring_ stellen. De **het werkschemastatus van het Werk van Vereist** brengt de tevreden schepper op de hoogte dat de veranderingen worden gevraagd.
+U kunt van voorgestelde veranderingen een lijst maken of vragen over het ontwerp van het [!DNL Content] _paneel van de Goedkeuring_ stellen. De **het werkschemastatus van het Werk van Vereist** brengt de tevreden schepper op de hoogte dat de veranderingen worden gevraagd.
 
 Dit proces van revisie, het voorstellen van bewerkingen aan de maker van de inhoud, het herzien van de inhoud en het optioneel vragen van extra invoer via `@mention` -opmerkingen is zeer iteratief. In dit deel van de cyclus zie je de tijdbesparende mogelijkheden van GenStudio for Performance Marketing.
 

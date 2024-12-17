@@ -1,10 +1,10 @@
 ---
 title: Revisies en goedkeuringen aanvragen
-description: Vraag om een nieuw onderzoek.
+description: Vraag Adobe GenStudio for Performance Marketing om een revisie van gegenereerde inhoud.
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
