@@ -4,9 +4,9 @@ description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketi
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: f95848546abc2decbb5ac52491307977820ce503
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -160,6 +160,10 @@ Houd rekening met twee opties om ervoor te zorgen dat deze bronnen beschikbaar z
 1. **de Kopballen van CORS van het Gebruik**: De gastheerserver moet reacties met een `Access-Control-Allow-Origin` kopbal verzenden die aan `https://experience.adobe.com` waarde voor productiemilieu&#39;s wordt geplaatst. Met deze methode kan GenStudio for Performance Marketing toegang krijgen tot de bronnen en deze opnemen.
 
 1. **Gegevens URLs van het Gebruik**: Sluit direct de externe middelen in het malplaatje in gebruikend Gegevens URLs. Deze methode omzeilt de beperkingen van CORS en zorgt ervoor dat de middelen tijdens duimnagelgeneratie beschikbaar zijn.
+
+>[!TIP]
+>
+>Het gebruik [ verfrist zich ](/help/user-guide/content/use-templates.md#refresh-template) om de malplaatjevoorproef met de recentste statische inhoud bij te werken.
 
 ## Sjabloonvoorbeelden
 

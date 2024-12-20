@@ -3,9 +3,9 @@ title: Werken met sjablonen
 description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: bfe1ae2c734b19e474ab1614fa72afea7d35a73e
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 0%
 # Werken met sjablonen
 
 GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat.
+
+Hoewel GenStudio for Performance Marketing het rechtstreeks maken van sjablonen in de toepassing niet ondersteunt, kunt u eenvoudig sjablonen ontwerpen en voorbereiden met populaire ontwerpgereedschappen, zoals Adobe InDesign, Illustrator of Express. Zodra uw ontwerp volledig is, kunt u het voor gebruik in GenStudio for Performance Marketing aanpassen. Voer de volgende stappen uit om sjablonen te gebruiken:
+
+1. **Ontwerp Uw Malplaatje**: Gebruik uw aangewezen ontwerphulpmiddel om de visuele lay-out van uw [ malplaatje met elementen ](#template-elements) zoals preheader, titel, lichaam, CTA, beelden, en footer tot stand te brengen.
+
+2. **Code Uw Malplaatje**: Zet uw ontwerp in HTML en gealigneerde CSS om ervoor te zorgen het schoon en ontvankelijk over diverse apparaten is. Overweeg de [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) om in het bereiken van uw maximum voorgenomen publiek te helpen.
+
+3. **voorbereidingen voor GenStudio for Performance Marketing**: Pas uw malplaatje van HTML aan gebruikend de het malplaatjetaal van Handlebars. Voeg plaatsaanduidingen in om aan te geven waar GenStudio for Performance Marketing inhoud dynamisch moet genereren. Zie hoe te [ een malplaatje ](customize-template.md) voor GenStudio for Performance Marketing aanpassen.
+
+Met deze stappen kunt u professionele en effectieve sjablonen maken die klaar zijn voor gebruik in GenStudio for Performance Marketing, zodat u on-brand-inhoud snel en efficiënt kunt produceren.
 
 ## Sjabloonelementen
 
@@ -81,9 +91,15 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Pe
 >
 >Volg [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) en [ beste praktijken ](/help/user-guide/content/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
 
-## Een sjabloon uploaden
+## Sjablonen beheren
 
-Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het voorbereiden van een malplaatje voor GenStudio for Performance Marketing. Zie [ toegankelijkheidsrichtlijnen voor malplaatjes ](accessibility-for-templates.md) voor begeleiding bij het verstrekken van een betere ervaring voor alle publiek.
+Op de galerie [!DNL Templates] wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing. U kunt sjablonen filteren op het kanaaltype, zoals e-mail-, weergave- en metagegevensadvertenties.
+
+![ het malplaatjelijst van de Inhoud ](/help/assets/content-templates.png){width="650" zoomable="yes"}
+
+### Een sjabloon toevoegen
+
+Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaar voor gebruik in GenStudio for Performance Marketing door [ te volgen past malplaatjes ](customize-template.md) begeleiding aan.
 
 **om een malplaatje** toe te voegen:
 
@@ -114,7 +130,19 @@ Het gebruik [ past malplaatjes ](customize-template.md) als gids aan wanneer het
 
 1. Klik op **[!UICONTROL Done]**.
 
-## Maken met een sjabloon
+### Sjabloon vernieuwen
+
+Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s. Met Vernieuwen kunt u de sjabloonvoorvertoning bijwerken met de meest recente versies van deze elementen.
+
+**om het malplaatje** te verfrissen:
+
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+
+1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
+
+1. Klik op **[!UICONTROL Refresh]** (cirkelende pijlen) in de rechterbovenhoek om alle elementen die in de sjabloon worden gebruikt, te vernieuwen.
+
+### Een ervaring maken met een sjabloon
 
 Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om meer ervaringen te creëren.
 
@@ -122,9 +150,7 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
-   ![ het malplaatjelijst van de Inhoud ](/help/assets/content-templates.png){width="650" zoomable="yes"}
-
-1. Selecteer een sjabloon voor een volledige weergave en een lijst met details.
+1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
 1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 

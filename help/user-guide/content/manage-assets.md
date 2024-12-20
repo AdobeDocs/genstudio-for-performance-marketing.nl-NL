@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 5785c807f0a674c95cada0aa3976dd7fb3d7f16e
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '1204'
+source-wordcount: '1231'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,9 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing [!DNL Content] vereenvoudigt en verbetert het beheer van merkgoedgekeurde middelen voor gebruik en hergebruik in uw digitale marketingreis.
 
-## Inhoudsgalerie
+## [!DNL Content] galerie
 
 Op de galerie ziet u een overzicht van goedgekeurde middelen, ervaringen of sjablonen, afhankelijk van de geselecteerde weergave. Met het filterpictogram (trechter) boven de linkerkant van de tabel opent u het menu **[!UICONTROL Filter]** . Hier kunt u uit veel categorieën kiezen om de inhoud in de galerie te filteren. Klik in de _[!UICONTROL Assets]_-weergave op het pictogram Zoeken (vergrootglas) om een trefwoord te gebruiken om een element te zoeken.
-
 
 In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UICONTROL Assets] -galerie:
 
@@ -27,9 +26,10 @@ In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UIC
 
 De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
 
-Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributencategorieën ](/help/user-guide/insights/attribute-category.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen.
+Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributencategorieën ](/help/user-guide/insights/attribute-category.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
 
-Wanneer het zoeken naar _Ervaringen_, kunt u de **[!UICONTROL Created by]** filter gebruiken om de lijst te beperken om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
+- **[!UICONTROL Uploaded by]** beperkt de lijst van _[!UICONTROL Assets]_om alleen de elementen te tonen die door u of een specifieke persoon zijn geüpload.
+- **[!UICONTROL Created by]** beperkt de lijst van _[!UICONTROL Experiences]_om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
 
 **om naar inhoud te zoeken om** opnieuw te gebruiken:
 
@@ -79,10 +79,9 @@ De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, e
 | [ creeer ervaring ](/help/user-guide/create/overview.md) |        |             | ✓ |
 | [ geef in Adobe Express uit ](#edit-in-express) | ✓ |             |           |
 | [ Uitvoer voor Activering ](#export-for-activation) |        | ✓ |           |
+| [ verfrissen zich ](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
 | [ Download ](#download-assets) | ✓ |             | ✓ |
 | [ Schrapping ](#delete-assets) | ✓ | ✓ | ✓ |
-
-<!-- | [Refresh]                                                 |        |             |     ✓     | -->
 
 ### Elementen toevoegen
 
@@ -116,7 +115,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 **om activa** te downloaden:
 
-1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer een element of sjabloon in _[!DNL Content]_. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op het pictogram **[!UICONTROL Download]** (pijl die omlaag wijst) rechtsboven.
 
@@ -126,7 +125,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 **om activa** te schrappen:
 
-1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op **[!UICONTROL Delete]** (prullenbak) rechtsboven.
 

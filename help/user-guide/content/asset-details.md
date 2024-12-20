@@ -3,9 +3,9 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: cd3cfface9121788c1dd0808f7f7db36c36766df
+source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,11 @@ Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploa
 
 **om de user-defined meta-gegevens** uit te geven:
 
-1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon.
+1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
-1. Klik op **[!UICONTROL Edit details]** (potlood) om metagegevens van elementen te bewerken.
+1. Klik op **[!UICONTROL Edit details]** (potlood) om de metagegevens van elementen, ervaringen of sjablonen te bewerken.
 
    Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio for Performance Marketing ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
 
@@ -91,8 +91,8 @@ In de sectie [!UICONTROL Generative Context] ziet u welke informatie is gebruikt
 
 De informatie kan omvatten:
 
-- parameters `Brand` , `Product` en `Persona`
-- `Subject line` en `Pre Header` voor e-mailervaringen
+- De parameters `Brand` , `Product` en `Persona` zijn geselecteerd tijdens het [!DNL Create] -proces
+- `Subject line` en `Preheader` voor e-mailervaringen
 - `Headline` en `Body` voor Meta-advertenties
 
 ## Historie
