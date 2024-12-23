@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: d5efabbaf3dd0817bd3158acb59d997a727e5f62
 workflow-type: tm+mt
-source-wordcount: '1231'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,8 @@ Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij
 De AEM opslagplaats is read-only, wat betekent dat u tot de inhoud kunt toegang hebben maar u kunt concepten, nieuwe activa, of meta-gegevens niet opslaan aan AEM bewaarplaats. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
+
+Een AEM opslagplaats kan bepaalde licentievereisten afdwingen, zoals het vervallen van activa. Deze elementen zijn mogelijk niet beschikbaar voor gebruik in [!DNL Create] -workflows. Verlopen activa kunnen moeten worden vernieuwd of worden vervangen om de continuïteit van uw projecten te handhaven. Raadpleeg de [!DNL AEM Assets Content Hub] -beheerder voor hulp bij deze middelen.
 
 ## Assets-beheer
 
