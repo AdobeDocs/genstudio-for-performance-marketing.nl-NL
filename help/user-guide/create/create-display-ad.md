@@ -2,13 +2,14 @@
 title: Een weergave en ervaring maken
 description: Leer hoe te om vertoning en ervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 9cc284cdb00a204baf6b0a2d9d7f67cf9bc9c81f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---

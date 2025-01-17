@@ -2,11 +2,11 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-last-substantial-update: 2024-12-13T00:00:00Z
+last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 00359960b6cf314203382d74faa23bae3e753875
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '1256'
+source-wordcount: '1631'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,49 @@ ht-degree: 1%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2024 12 12 {#latest}
+## 2025,1,16 {#latest}
+
+### Integratie met Adobe Workfront Proof
+
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+
+Het Beta-programma voor de integratie van GenStudio for Performance Marketing en Adobe Workfront Proof wordt deze maand gestart. Workfront Proof versterkt de levenscyclus van het maken en activeren van inhoud met goedkeuringssjablonen, workflows met meerdere fasen en annotaties. GenStudio for Performance Marketing-gebruikers met Workfront Proof-rechten kunnen de geavanceerde mogelijkheden van Proof in GenStudio for Performance Marketing gebruiken om door GenStudio gegenereerde inhoud te beoordelen en er opmerkingen over te maken.
+
+Beta-programma&#39;s bieden een manier om de ontwikkeling van producten te helpen bepalen en de gereedheid voor algemene beschikbaarheid te bepalen. Neem contact op met Etienne Bosch (etienneb@adobe.com) voor informatie over het Beta-programma voor integratie tussen GenStudio for Performance Marketing en Workfront Proof.
+
+### Nieuwe oproepen naar handeling genereren
+
+U kunt nieuwe vraag-aan-actie (CTA) uitdrukkingen nu produceren wanneer het beheren van varianten. Gebruik nieuwe _herhaal_ en _verbindings_ opties toevoegen om nieuwe uitdrukkingen te produceren en de verbinding van CTA uit te geven. Deze nieuwe CTA-functies werken alleen als uw sjabloon correct is ingesteld. Volg de richtlijnen in _aanpassen een malplaatje_: [ Vraag aan actie ](/help/user-guide/content/customize-template.md#calls-to-action). Voor richtlijnen bij het beheren van CTAs in varianten, zie [ Vraag van de Herziening aan actie ](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+
+### Oplossingen en verbeteringen
+
+* Het aantal tekens wordt nu weergegeven in alle gegenereerde en handmatige velden voor weergaveadvertenties. Zie _Tellingen van het Karakter_ in [ Ervaringen van Meta ](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->
+
+* _de Medewerkers_ kunnen activa nu bekijken maar creëren, uitgeven, of schrappen deze activa niet. Eerder werden machtigingen voor medewerkers niet afgedwongen zoals werd verwacht in [!DNL Create] . <!-- GS-7614 -->
+
+* Inhoudseditors kunnen nu de metagegevens voor elementen, ervaringen en sjablonen bewerken. <!-- GS-4905 -->
+
+* Aangepaste afbeeldingsgrootten in Meta-advertentiesjablonen worden nu ondersteund. <!-- GS-7512 -->
+
+* Persona-, merk- en productselecties worden nu vooraf geladen tijdens het genereren van sjablonen. <!-- GS-8069 -->
+
+* De e-mailaanroep naar de koppeling Actie is niet langer een verplicht veld. <!-- GS-8103 -->
+
+* De keuzelijst met [!DNL Brand] kiezers werkt nu zoals u had verwacht voor sjablonen. Eerder is de kiezer voor sommige sjablonen niet geladen. <!-- GS-8908 -->
+
+* Editors kunnen nu maximaal vier afbeeldingen selecteren voor e-mails met één pod en metagegevens. <!-- GS-2631 -->
+
+* De jaarwaarde van het veld `Created by` van een goedgekeurde ervaring blijft nu consistent, zoals wordt verwacht nadat de metagegevens van de ervaring zijn bewerkt. <!-- GS-8344 -->
+
+* Inhoudeditors kunnen nu een sjabloon selecteren vanuit [!DNL Create] . Eerder, veroorzaakte de toepassing een consolefout toen een redacteur een malplaatje selecteerde.  <!-- GS-8798 -->
+
+* Problemen met het vergroten/verkleinen en opnieuw genereren van bewerkingen voor Meta-advertenties zijn opgelost. <!-- GS-8900 -->
+
+* Met de knop **[!UICONTROL Back]** kunnen gebruikers nu terugkeren naar de vorige pagina of de landingspagina van [!DNL Create] . <!-- GS-8622 -->
+
+## Opmerkingen bij eerdere releases
+
++++Opmerkingen van 2024.12.12
 
 ### Nieuwe functies
 
@@ -89,7 +131,7 @@ Met extra nieuwe functies kunnen editors:
 
 * Verbeterde prestaties van de knop [!DNL Create] **[!UICONTROL Back]** . <!-- GS-6767 -->
 
-## Opmerkingen bij eerdere releases
++++
 
 +++Opmerkingen van 2024.11.14
 

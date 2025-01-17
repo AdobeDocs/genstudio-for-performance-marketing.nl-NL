@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 763c907598d92779483938295a99d640ee3f4d20
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Wanneer u wordt gebeëindigd toevoegend parameters, kunt u de snelle lade doen i
 
 ## Een vraag invoeren
 
-Nadat u richtlijnen hebt geselecteerd, kunt u vragen in een natuurlijke taal te schrijven om inhoud te genereren voor uw nieuwe e-mailervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of beschrijvende aanwijzingen.
+Nadat u richtlijnen hebt geselecteerd, kunt u vragen in een natuurlijke taal te schrijven om inhoud te genereren voor uw nieuwe e-mailervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of dubbelzinnige aanwijzingen.
 
 Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
@@ -83,6 +83,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 * **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) en geef uit zoals nodig
+* **om [ te veranderen of de Vraag aan actie](/help/user-guide/create/manage-variants.md#revise-call-to-action)** te selecteren, klik de vraag-aan-actie knoop en selecteer _[!UICONTROL Rephrase]_of_[!UICONTROL Add link]_.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik **[!UICONTROL Select/swap from content]** of **[!UICONTROL Upload New Image]** om een beeld in een individuele variant toe te voegen of te ruilen.
 * **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.

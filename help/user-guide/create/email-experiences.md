@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Bewerkbare gedeelten van een e-mailervaring zijn:
 * Pre-header
 * Titel
 * Lichaam
-* Call-to-action (CTA)
+* Oproep tot actie (CTA)
 * Afbeelding
 * Merk-logo
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 5f5ab9647aab3c928d04c464f47bb3924b0bb73a
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '1020'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ ric
 
 ## Een sjabloon kiezen
 
-Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden.
+Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden. Zie [ Beste praktijken voor malplaatjes ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteund Meta en aspectverhoudingen.
 
 **om een Meta en malplaatje** te kiezen:
 
@@ -58,7 +58,7 @@ Wanneer u klaar bent toevoegend parameters, kunt u de snelle lade doen ineenstor
 
 ## Een vraag invoeren
 
-Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing met een natuurlijke taal maken om inhoud te genereren voor uw nieuwe metagegevens en ervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of beschrijvende aanwijzingen.
+Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing met een natuurlijke taal maken om inhoud te genereren voor uw nieuwe metagegevens en ervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of dubbelzinnige aanwijzingen.
 
 Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
@@ -88,7 +88,8 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 * **[ om Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel,
 (of bodykopie) en bewerk indien nodig.
-* **om vraag-aan-actie** te veranderen of te selecteren, klik de knoop tonend vraag-aan-actie en selecteer van de beschikbare opties van de knooptekst.<!-- In _[!UICONTROL Link]_, enter a new URL or revise an existing URL. -->
+* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de vraag-aan-actie tekst in.
+<!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
 * **[ om aMeta te schrappen advertentie](/help/user-guide/create/manage-variants.md#delete-variant)**, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.

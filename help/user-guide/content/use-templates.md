@@ -3,9 +3,9 @@ title: Werken met sjablonen
 description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,9 @@ Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enke
    - Kan tekst, afbeeldingen en andere media opnemen
    - Gebruikt in e-mail en Meta-advertentiesjablonen
 
-- **CTA (Vraag-aan-Actie)**
+- **CTA**
 
+   - De vraag-aan-actie knoop gebruikt een uitdrukking en een verbinding
    - moedigt de ontvanger aan een specifieke actie te ondernemen, zoals het klikken op een koppeling of het doen van een aankoop
    - Gebruikt in e-mail en Meta-advertentiesjablonen
 

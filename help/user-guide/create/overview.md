@@ -1,11 +1,11 @@
 ---
 title: Overzicht van GenStudio for Performance Marketing  [!DNL Create]
-description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio voor de Marketing van Prestaties  [!DNL Create] produceren.
+description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio for Performance Marketing  [!DNL Create] produceren.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 8f77f877eb09f91160cb149d5df55e1030989370
+source-git-commit: ef4e6f48fe9aeffdd575dd83d49368cd438d62f2
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -27,41 +27,74 @@ Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) 
 ## [!DNL Create] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Nieuwe inhoud maken" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong> creeer een e-mailervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Een meta-advertentie maken" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong> creeer een Meta en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong> creeer een vertoning en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
-GenStudio voor de Marketing van Prestaties laat marketers toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
+GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
 
 ## [!DNL Create] mogelijkheden
 
@@ -77,7 +110,7 @@ De malplaatjes worden [ geupload en opgeslagen in  [!DNL Content]](/help/user-gu
 
 In de herinnering lade, kunt u _Parameters_ zoals [!DNL Brands] toevoegen, [!DNL Products], en [!DNL Personas] (richtlijnen) en [!DNL Content] (activa) om de geproduceerde ervaring te vormen.
 
-Deze toegevoegde parameters injecteren [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in het generatieproces, die ervoor zorgen dat de inhoud wordt aangepast om met de uitvoerige identiteit van een merk te richten. U wordt aangeraden richtlijnen toe te voegen aan uw GenStudio for Performance Marketing en deze te gebruiken tijdens het genereren van inhoud, aangezien deze richtlijnen het maken van geschikte on-brand-inhoud aanzienlijk verbeteren.
+Deze toegevoegde parameters injecteren [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in het generatieproces, die ervoor zorgen dat de inhoud wordt aangepast om met de uitvoerige identiteit van een merk te richten. U wordt aangeraden richtlijnen toe te voegen aan uw GenStudio for Performance Marketing en deze te gebruiken tijdens het genereren van inhoud, omdat deze richtlijnen het maken van geschikte on-brand-inhoud aanzienlijk verbeteren.
 
 Inhoud-geüpload of toegevoegd beeld activa-in _Parameters_ worden gebruikt in geproduceerde varianten en informeren de exemplaarinhoud (tekst) die voor varianten wordt geproduceerd. U kunt elementen uploaden of elementen selecteren die al aanwezig zijn in [!DNL Content] of in gekoppelde AEM Content Hub-opslagruimten.
 
@@ -89,7 +122,7 @@ Om AI-Gegenereerde inhoud tot stand te brengen, ga a [ beschrijvende herinnering
 
 ### Merkwaardvalidatie
 
-GenStudio voor de Marketing van Prestaties leidt merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [ richtlijnen ](/help/user-guide/guidelines/overview.md) wordt bepaald). ](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk [ is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
+GenStudio for Performance Marketing voert merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [ richtlijnen ](/help/user-guide/guidelines/overview.md) wordt bepaald). ](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk [ is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
 
 ### Revisies en goedkeuringen
 
@@ -99,12 +132,14 @@ Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw con
 
 ### Concepten
 
-In de _Recente het werk_ sectie van [!DNL Create], toegang en beheer alle recente concepten. Bekijk en voltooi uw vorige werk om het voor publicatie aan [[!DNL Content]](/help/user-guide/content/overview.md) klaar te maken.
+In de _Recente het werk_ sectie van [!DNL Create], toegang en beheer alle recente concepten. Bekijk en voltooi uw vorige werk om het klaar te maken voor publicatie naar [[!DNL Content]](/help/user-guide/content/overview.md) of om te exporteren voor gebruik.
 
-Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug naar het [!DNL Create] huis navigeert, wordt de _Recente het werk_ sectie bijgewerkt met uw meest recente concepten. Voor elk ontwerp, kunt u zien of het __ is goedgekeurd of nog in _3} vorm van het Ontwerp {is._
+Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug naar het [!DNL Create] huis navigeert, wordt de _Recente het werk_ sectie bijgewerkt met uw meest recente concepten. Elk ontwerp in deze sectie toont een status, zoals _Ontwerp_ of _Goedgekeurd_.
+
+Klik de het sorteren pictogrammen (net of lijst) om _Recente het werk_ punten in of een net of lijstmening te tonen.
 
 ### Varianten beheren
 
-GenStudio voor de Marketing van Prestaties staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
+GenStudio for Performance Marketing staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
 
 U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.

@@ -3,9 +3,9 @@ title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1262'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing [!DNL Create] laat u toe om geproduceerde varianten aan te passen en te verbeteren - [ e-mails ](/help/user-guide/create/email-experiences.md), [ advertenties van Meta ](/help/user-guide/create/meta-experiences.md), en meer-voor gebruik in digitale marketing initiatieven.
 
-Wanneer [ het creëren van ervaringen ](/help/user-guide/create/overview.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stukje gegenereerde inhoud expliciet beheren.
+Wanneer [ het creëren van ervaringen ](/help/user-guide/create/overview.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stuk gegenereerde inhoud beheren.
 
 ## Conceptnaam wijzigen
 
@@ -32,7 +32,7 @@ Gegenereerde variantconcepten hebben een standaardnaam die boven aan het canvas 
 
 U kunt de tekstvelden in gegenereerde varianten bewerken. Verfijn de tekst voor uw publiek door te experimenteren met verschillende zinnen en verbeeldingen. U kunt tekst in varianten bijvoorbeeld handmatig wijzigen om een voorvertoning weer te geven van een kop met een gekozen afbeelding.
 
-**om tekst in geproduceerde varianten** manueel uit te geven:
+**om tekst manueel in geproduceerde varianten uit te geven**:
 
 1. Nadat u een set varianten hebt gegenereerd, dubbelklikt u op bewerkbare tekst in een variant.
 1. Voer nieuwe tekst in.
@@ -52,22 +52,38 @@ U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw generer
 1. Als u de bestaande tekst wilt wijzigen, selecteert u _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ of _[!UICONTROL Lengthen]_.
 1. Selecteer _[!UICONTROL Generate new text]_en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
    1. Klik op **[!UICONTROL Generate]**.
-1. Terwijl u de tekst van een sectie opnieuw genereert, klikt u op het pictogram Opnieuw genereren om meer tekstopties weer te geven.
+1. Terwijl u de tekst van een sectie opnieuw genereert, klikt u op het pictogram Opnieuw genereren (omcirkelende pijlen) om meer tekstopties weer te geven.
 1. Selecteer de gewenste optie in het resultaat dat wordt weergegeven en klik op **[!UICONTROL Replace]** .
 
    De variant wordt bijgewerkt met de herziene tekst.
 
-## Herzie vraag-aan-actie
+## Oproep tot actie herzien
 
 Na het produceren van een reeks varianten, kunt u de vraag-aan-actie (CTA) tekst en de verbinding herzien.
 
+>[!NOTE]
+>
+>U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
+
 **om CTA in een variant** te herzien:
 
-1. Nadat u een set varianten hebt gegenereerd, klikt u op de knop met de CTA-tekst.
-1. Om de de knooptekst van CTA te veranderen, selecteer van de beschikbare opties in de _Vraag aan acties_ lijst.
-1. Klik op **[!UICONTROL Link]** om de koppeling in de CTA te wijzigen.
-   1. Ga of deeg in een nieuwe verbinding in of herzie de bestaande verbinding in _verbinding_ sectie uitgeven en klik **[!UICONTROL Apply]**. U kunt op **[!UICONTROL Remove link]** klikken om de bestaande koppeling te verwijderen voordat u een nieuwe koppeling invoert.
+1. Klik op een CTA-knop in een van de varianten.
 
+   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ .
+
+1. Klik op **[!UICONTROL Rephrase]**.
+
+   1. Kies een optie in de lijst met opnieuw gegenereerde woordgroepen of klik op **[!UICONTROL Refresh results]** voor meer opties.
+
+   1. Klik op **[!UICONTROL Replace]**.
+
+      De tekst van CTA verfrist zich en a _&quot;Een knoopetiket werd vervangen&quot;_ bericht lijkt bevestigend de verandering.
+
+1. Klik op **[!UICONTROL Add link]**.
+
+   1. Typ of plak een URL en klik op **[!UICONTROL Apply]** .
+
+      Als u een bestaande koppeling in uw CTA wilt wijzigen, bewerkt u de bestaande URL of plakt u deze in een nieuwe URL en klikt u op **[!UICONTROL Apply]** .
 
 De toegevoegde of herziene koppeling wordt toegepast op alle CTA&#39;s in de reeks varianten.
 

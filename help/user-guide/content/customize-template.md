@@ -4,9 +4,9 @@ description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketi
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8930d3284f9dd1223067239c0077e481ea98335a
+source-git-commit: 229d16019d71b8228acf16e651885ce8c6d325e5
 workflow-type: tm+mt
-source-wordcount: '1173'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt een sjabloon aanpassen voor gebruik in GenStudio for Performance Marketing door plaatsaanduidingen voor inhoud of velden in te voegen die de generatieve AI gebruikt om inhoud in te voegen.
 
-De volgende paar secties verklaren hoe te om uw HTML malplaatjes voor GenStudio for Performance Marketing aan te passen door de _sjabloontaal te gebruiken 0} Handlebars {._ In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [ wat is  [!DNL Handlebars]?](https://handlebarsjs.com/guide/#what-is-handlebars) in de _de taalgids van Handels_ leren hoe te om uw malplaatje voor te bereiden.
+In de volgende secties wordt uitgelegd hoe u de sjablonen voor HTML voor GenStudio for Performance Marketing kunt aanpassen met de sjabloontaal _[!DNL Handlebars]_. In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [ wat  [!DNL Handlebars] ](https://handlebarsjs.com/guide/#what-is-handlebars) in de_ de taalgids van Handlebars _is om te leren hoe te om uw malplaatje voor te bereiden.
 
 
 Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
@@ -123,6 +123,32 @@ Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt 
 GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
 
 Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in e-mail produceert.
+
+### Oproepen tot actie
+
+Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De CTA- _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ -mogelijkheden werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in uw sjabloon opneemt.
+
+Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
+
+- CTA herfrase is beschikbaar en de koppeling kan worden bewerkt
+
+  ```html
+  <a class="button" href="{{pod1_link}}" >{{cta}}</a>
+  ```
+
+- CTA herfragment is beschikbaar, maar de verbinding is **niet** editable omdat de daadwerkelijke verbinding in het malplaatje wordt verstrekt
+
+  ```html
+  <a align="center" href="https://link">{{cta}}</a>
+  ```
+
+- De verbinding van CTA is editable, maar het herformuleren is **niet** beschikbaar omdat de uitdrukking in het malplaatje wordt verstrekt
+
+  ```html
+  <a class="button" href="{{pod1_link}}" >Register now</a>
+  ```
+
+GenStudio for Performance Marketing kan variantvraag-aan-actie uitdrukkingen, ook verstrekken. Zie {de Vraag van 0} herzien aan actie ](/help/user-guide/create/manage-variants.md#revise-call-to-action).[
 
 ## Sjabloonvoorbeeld
 

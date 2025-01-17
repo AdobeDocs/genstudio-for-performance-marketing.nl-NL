@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 6d70de011493e34a72a3d25e1aae23491034a9e2
+source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,13 @@ Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken o
 
 Wanneer het produceren van Meta ervaart worden vier variaties gecreeerd en in het Canvas getoond.
 
+GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).[
+
 Bewerkbare gedeelten van een e-mailervaring zijn:
 
 * Titel
 * Lichaam
-* Call-to-action (CTA)
+* Oproep tot actie (CTA)
 * Tekst in afbeelding
 * Afbeelding
 * Merk-logo
