@@ -4,9 +4,9 @@ description: Meer informatie over de nieuwste functies en verbeteringen voor Ado
 recommendations: noDisplay
 last-substantial-update: 2025-01-16T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 9bddfe4118715b13f893fc9b8fbc24eda6c8cf66
 workflow-type: tm+mt
-source-wordcount: '1631'
+source-wordcount: '1651'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,10 @@ Beta-programma&#39;s bieden een manier om de ontwikkeling van producten te helpe
 ### Nieuwe oproepen naar handeling genereren
 
 U kunt nieuwe vraag-aan-actie (CTA) uitdrukkingen nu produceren wanneer het beheren van varianten. Gebruik nieuwe _herhaal_ en _verbindings_ opties toevoegen om nieuwe uitdrukkingen te produceren en de verbinding van CTA uit te geven. Deze nieuwe CTA-functies werken alleen als uw sjabloon correct is ingesteld. Volg de richtlijnen in _aanpassen een malplaatje_: [ Vraag aan actie ](/help/user-guide/content/customize-template.md#calls-to-action). Voor richtlijnen bij het beheren van CTAs in varianten, zie [ Vraag van de Herziening aan actie ](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
+
+In het volgende voorbeeld ziet u het aantal CTA-tekens, de nieuwe opties en een voorbeeld voor herformuleren en vervangen:
+
+![ CTA herfraai in actie ](/help/assets/animation/rephrase-cta.gif " CTA herfragment "){width="250" zoomable="yes"}
 
 ### Oplossingen en verbeteringen
 
