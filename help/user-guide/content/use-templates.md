@@ -3,9 +3,9 @@ title: Werken met sjablonen
 description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -133,7 +133,7 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 ### Sjabloon vernieuwen
 
-Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s. Met Vernieuwen kunt u de sjabloonvoorvertoning bijwerken met de meest recente versies van deze elementen.
+Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s. [ de Statische inhoud ](/help/user-guide/content/customize-template.md#static-content) wordt niet opgeslagen na het creëren van de malplaatjevoorproef. GenStudio for Performance Marketing blijft verwijzen naar de bronkoppeling in de sjabloon. Met Vernieuwen kunt u de sjabloonvoorvertoning bijwerken met de meest recente versies van deze elementen.
 
 **om het malplaatje** te verfrissen:
 
@@ -155,4 +155,4 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
-1. Ga aan [ ](/help/user-guide/create/overview.md) tot stand brengen een ervaring.
+1. Ga aan [ ](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.

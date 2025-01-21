@@ -4,9 +4,9 @@ description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketi
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 229d16019d71b8228acf16e651885ce8c6d325e5
+source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1278'
 ht-degree: 0%
 
 ---
@@ -181,17 +181,13 @@ Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer
 
 ## Statische inhoud
 
-E-mail- en metasjablonen zijn vaak gekoppeld aan afbeeldingen en CSS-bestanden die buiten GenStudio for Performance Marketing worden gehost. Wanneer GenStudio for Performance Marketing miniaturen voor deze sjablonen of de ervaringen die hiervan zijn afgeleid genereert, kunnen deze externe bronnen worden genegeerd als ze niet de juiste koppen CORS (Cross-Origin Resource Sharing) hebben.
+E-mail- en metasjablonen zijn vaak gekoppeld aan afbeeldingen en CSS-bestanden die op andere domeinen worden gehost. Wanneer GenStudio for Performance Marketing miniaturen genereert voor sjabloonvoorvertoningen of de ervaringen die daaruit zijn afgeleid, wordt de inhoudsbron gevalideerd en wordt een kopie ingesloten voor voorvertoningen.
 
-Houd rekening met twee opties om ervoor te zorgen dat deze bronnen beschikbaar zijn tijdens het genereren van miniaturen:
+Externe bestanden worden alleen tijdelijk ingesloten om de voorvertoning van de sjabloon te maken, zodat de voorvertoning de inhoud correct weergeeft zoals deze wordt weergegeven op het moment dat u de sjabloon maakt. Deze externe dossiers worden **niet** permanent opgeslagen in GenStudio for Performance Marketing. Nadat de sjabloonvoorvertoning is gemaakt, gaat GenStudio for Performance Marketing door met het verwijzen naar de oorspronkelijke bronkoppeling in de sjabloon.
 
-1. **de Kopballen van CORS van het Gebruik**: De gastheerserver moet reacties met een `Access-Control-Allow-Origin` kopbal verzenden die aan `https://experience.adobe.com` waarde voor productiemilieu&#39;s wordt geplaatst. Met deze methode kan GenStudio for Performance Marketing toegang krijgen tot de bronnen en deze opnemen.
+### Inhoud vernieuwen
 
-1. **Gegevens URLs van het Gebruik**: Sluit direct de externe middelen in het malplaatje in gebruikend Gegevens URLs. Deze methode omzeilt de beperkingen van CORS en zorgt ervoor dat de middelen tijdens duimnagelgeneratie beschikbaar zijn.
-
->[!TIP]
->
->Het gebruik [ verfrist zich ](/help/user-guide/content/use-templates.md#refresh-template) om de malplaatjevoorproef met de recentste statische inhoud bij te werken.
+Als de bron na het creëren van de aanvankelijke voorproef verandert, gebruik [ verfrist ](/help/user-guide/content/use-templates.md#refresh-template) functie om de malplaatjevoorproef met de meest recente versie van de inhoud van de externe bronnen bij te werken.
 
 ## Sjabloonvoorbeelden
 
