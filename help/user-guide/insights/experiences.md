@@ -3,9 +3,9 @@ title: Overzicht van ervaringen
 description: Bekijk een overzicht van de betrokkenheid van klanten, het budget en de uitgaven voor ervaringen en plaatsingsprestaties in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 693557104bc880445c021f942b728af10243fe27
+source-git-commit: c027d5fa15b05feb95c976805d06d8fe3204c5d1
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '1061'
 ht-degree: 0%
 
 ---
@@ -60,11 +60,11 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | Metrisch | Definitie | Inzicht |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Experience name]** | Een lijst met ervaringen voor de verbonden kanaalaccount. Filter advertenties door een campagne te selecteren. | U kunt de lijst met ervaringen sorteren door op een van de belangrijkste meetgegevens te klikken. |
-| **[!UICONTROL Campaign]** | Een campagne is een reeks ervaringen om een specifieke doelstelling te bereiken. | |
-| **[!UICONTROL Placements]** | Een telling van ad [ plaatsen ](#ad-placements), plaatsen waar een ervaring in de campagne verscheen. | Plaatsen vergroten het bereik van het publiek. |
-| **[!UICONTROL Assets]** | Een telling van de in de advertentie of ervaring gebruikte activa. | |
-| **[!UICONTROL Impressions]** | Een telling van elke keer dat de plaatsing van de advertentie of ervaring in het kanaal laadt, ongeacht interactie of het bekijken. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht, denk aan andere betrokkenheidsmetriek. |
-| **[!UICONTROL Clicks]** | Aantal tijden de gebruikers met een klikbaar element, zoals een verbinding of een vraag-aan-actie knoop, in een ervaringsplaatsing in wisselwerking staan. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
+| **[!UICONTROL Campaign]** | Een campagne is een reeks ervaringen om een specifieke doelstelling te bereiken. | Wanneer u de lijst van Ervaringen door campagne filtreert, kunnen de summiere metriek van alle ervaringen voor de campagne verschillend zijn dan de summiere rij van de campagne in de [!UICONTROL Channels] mening. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
+| **[!UICONTROL Placements]** | Een telling van ad [ plaatsen ](#ad-placements), plaatsen waar een ervaring in de campagne verscheen. | Plaatsen vergroten het bereik van het publiek.<p>Adds die nul plaatsen en nul activa tonen kunnen op een [ niet gestaafd advertentietype ](#unsupported-placements) wijzen.</p> |
+| **[!UICONTROL Assets]** | Het aantal elementen dat in de advertentie of ervaring wordt gebruikt. | De telling in de lijst van Ervaring kan verschillend zijn dan de telling in de mening van de Details van de Ervaring. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
+| **[!UICONTROL Impressions]** | Een telling van elke keer dat de plaatsing van de advertentie of ervaring in het kanaal laadt, ongeacht interactie of het bekijken. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht kunt u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
+| **[!UICONTROL Clicks]** | Het aantal tijden de gebruikers met een klikbaar element, zoals een verbinding of een vraag-aan-actie knoop, in een ervaringsplaatsing in wisselwerking staan. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen dat heeft geresulteerd in klikken op de ervaringsplaatsing binnen een campagne.<br>**Berekening**: `clicks` verdeeld door `impressions` | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend beelden voor de ervaringsplaatsing.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten die worden uitgegeven om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Gebruik om uitgaven aan ervaringen te controleren die in waardevolle klantenacties resulteren. |

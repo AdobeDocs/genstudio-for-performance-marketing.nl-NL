@@ -3,9 +3,9 @@ title: Overzicht van kenmerken
 description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudio for Performance Marketing kunt beoordelen.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: d6ea1a34a8679ae958fb184e40ad0673abbab0a4
+source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: '761'
 ht-degree: 0%
 
 ---
@@ -48,10 +48,10 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Attribute]** | De kenmerknaam. | U kunt de tabel sorteren door op de kolomkop voor een van de belangrijkste maateenheden te klikken. |
 | **[!UICONTROL Category]** | De [ categorie ](#categories) die de inherente kwaliteit van een attribuut vertegenwoordigt. |  |
-| **[!UICONTROL # of images]** | Een aantal afbeeldingen met dit kenmerk. |  |
-| **[!UICONTROL # of videos]** | Een aantal video&#39;s met dit kenmerk. |  |
-| **[!UICONTROL Impressions]** | Een telling van elke keer dat een afbeelding of video&#39;s met dit kenmerk in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht, denk aan andere betrokkenheidsmetriek. |
-| **[!UICONTROL Clicks]** | Aantal keren dat gebruikers met een afbeelding of video werken met dit kenmerk. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
+| **[!UICONTROL # of images]** | Het aantal afbeeldingen met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
+| **[!UICONTROL # of videos]** | Het aantal video&#39;s met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
+| **[!UICONTROL Impressions]** | Een telling van elke keer dat een afbeelding of video&#39;s met dit kenmerk in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht kunt u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
+| **[!UICONTROL Clicks]** | Het aantal keren dat gebruikers met een afbeelding of video communiceren met dit kenmerk. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen dat heeft geresulteerd in klikken op afbeeldingen of video&#39;s met dit kenmerk.<br>**Berekening**: `clicks` verdeeld door `impressions` | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend beelden van een beeld of video met dit attribuut.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten die worden uitgegeven om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Helpt om attributen te identificeren die in waardevolle klantenacties resulteren. |
