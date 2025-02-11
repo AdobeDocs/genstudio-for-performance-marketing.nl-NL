@@ -5,10 +5,10 @@ feature: Insights, Attributes, Generative AI
 recommendations: noDisplay
 last-substantial-update: 2024-11-11T00:00:00Z
 exl-id: c3b51ef2-56ac-4dd8-98b7-79185b5998d0
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 976358742e598b55b1f0c4ca4664d2bcd8f1e9b9
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 1%
+source-wordcount: '603'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 Een kenmerkcategorie is een classificatiegroep die gerelateerde kenmerken organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
 
-GenStudio for Performance Marketing gebruikt de AI- en computerleermogelijkheden van Adobe om afbeeldingen, video&#39;s en tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen op basis van de waarschijnlijkheid van juistheid. De lijst met kenmerken van een element is niet uitputtend. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd.
+GenStudio for Performance Marketing maakt gebruik van Adobe AI en mogelijkheden voor machinaal leren om afbeeldingen, video&#39;s en tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen op basis van de waarschijnlijkheid van juistheid. De lijst met kenmerken van een element is niet uitputtend. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd.
 
 ## Afbeeldingsfuncties
 
@@ -29,7 +29,8 @@ Afbeeldingsfuncties vertegenwoordigen duidelijke en informatieve elementen of pa
 | Camerahoek | De locatie en hoek van de camera ten opzichte van het onderwerp. |                                                                                                                                                                                |
 | Onderwerpafstand | De afstand tussen de camera en het onderwerp van een afbeelding. | `close up`, `mid shot`, `long shot` |
 | Camera instellen | De configuratie van de besturingselementen van de camera om de afbeelding te produceren. |                                                                                                                                                                                |
-| Kleur en toon | Evalueert de kleuren die worden gebruikt in afbeeldingselementen. Identificeert één tot drie kleuren van een reeks van 40 vooraf bepaalde kleuren in de volgende beeldlagen:<br>**[!UICONTROL Foreground colors]**- elementen in de voorlaag van beeld<br>**[!UICONTROL Background colors]** - elementen in de achterlaag van een beeld<p>In **[!UICONTROL Color temperature]** wordt de algemene warmte of koude van kleuren in de afbeelding beschreven.<br> Kleur- of temperatuurwaarden: `warm`, `cool`, `neutral` | ![ kleuren en koele tonen ](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
+| Kleur en toon | Evalueert de kleuren die worden gebruikt in afbeeldingselementen. Identificeert één tot drie kleuren van een reeks van 40 vooraf bepaalde kleuren in de volgende beeldlagen:<br>**[!UICONTROL Foreground colors]**- elementen in de voorlaag van beeld<br>**[!UICONTROL Background colors]** - elementen in de achterlaag van een beeld | Kleurwaarden: `Red`, `Dark_Red`, `Green`, `Bright_Green`, `Dark_Green`, `Light_Green`, `Mud_Green`, `Blue`, `Dark_Blue`, `Light_Blue`, `Royal_Blue`, `Black`, `White`, `Off_White`, `Gray`, `Dark_Gray`, `Silver`, `Cream`, `Magenta` 9}, `Yellow`, `Mustard`, `Cyan`, `Brown`, `Dark_Brown`, `Violet`, `Pink`, `Dark_Pink`, `Maroon`, `Tan`, `Purple`, `Lavender`, `Turquoise`, `Plum`, `Gold`, `Emerald`, 36}, `Beige`, `Lilac`, `Olive``Khaki``Orange` |
+| Kleurtemperatuur | Beschrijft de algemene warmte of koude van kleuren in het beeld. | Toon of temperatuurwaarden: `warm`, `cool`, `neutral`<br>![ kleuren en koele tonen ](../../assets/category/image-color-temp.png){width="200" zoomable="yes"} |
 | Afbeeldingsstijl | De visuele behandeling van een afbeelding. |                                                                                                                                                                                |
 | Belichtingsvoorwaarde | Het type licht in een afbeelding. |                                                                                                                                                                                |
 | Objecten | Identificeert een of meer items, entiteiten en elementen waaruit de afbeelding bestaat. | ![ zonnebloem, vliegtuig, bloemvoorwerp ](../../assets/category/image-objects.png){width="200" zoomable="yes"} |
