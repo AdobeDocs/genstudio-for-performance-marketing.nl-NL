@@ -2,11 +2,11 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-last-substantial-update: 2025-01-16T00:00:00Z
+last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a14da101907c3e7dd990082723f7c59f7f5ff3fd
+source-git-commit: a48ffd2147f79109803c49cc1a696c083c44e879
 workflow-type: tm+mt
-source-wordcount: '1663'
+source-wordcount: '1733'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,19 @@ ht-degree: 1%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2025,1,16 {#latest}
+## 2025.2.13 {#latest}
+
+### Verbeteringen op de bestemmingspagina voor [!DNL Create]
+
+De landingspagina van [!DNL Create] in GenStudio for Performance Marketing bevat UI-verbeteringen die de gebruikerservaring verbeteren. De _Recente het werk_ sectie wordt verfijnd en gevormd met de lijstmening als standaardmening. Door opvulling en andere visuele verbeteringen kunt u het uiterlijk van het [!DNL Create] canvas stroomlijnen.
+
+### Uitvoer van inzichten naar CSV
+
+U kunt de weergavetabel nu vanuit elke [!DNL Insights] -weergave downloaden naar een CSV-bestand. Met deze functie kunt u eenvoudig gegevens uit verschillende [!DNL Insights] weergaven exporteren en analyseren, waardoor opties voor gegevensanalyse en -rapportage eenvoudiger worden.
+
+## Opmerkingen bij eerdere releases
+
++++Opmerkingen van 2025.1.16
 
 ### Integratie met Adobe Workfront Proof
 
@@ -28,10 +40,6 @@ Beta-programma&#39;s bieden een manier om de ontwikkeling van producten te helpe
 ### Nieuwe oproepen naar handeling genereren
 
 U kunt nieuwe vraag-aan-actie (CTA) uitdrukkingen nu produceren wanneer het beheren van varianten. Gebruik nieuwe _herhaal_ en _verbindings_ opties toevoegen om nieuwe uitdrukkingen te produceren en de verbinding van CTA uit te geven. Deze nieuwe CTA-functies werken alleen als uw sjabloon correct is ingesteld. Volg de richtlijnen in _aanpassen een malplaatje_: [ Vraag aan actie ](/help/user-guide/content/customize-template.md#calls-to-action). Voor richtlijnen bij het beheren van CTAs in varianten, zie [ Vraag van de Herziening aan actie ](/help/user-guide/create/manage-variants.md#revise-call-to-action). <!-- GS-6676 -->
-
-In het volgende voorbeeld ziet u het aantal CTA-tekens, de nieuwe opties en een voorbeeld voor herformuleren en vervangen:
-
-![ CTA herfraai in actie ](/help/assets/animation/rephrase-cta.gif " CTA herfragment "){width="250" zoomable="yes"}
 
 ### Oplossingen en verbeteringen
 
@@ -59,7 +67,7 @@ In het volgende voorbeeld ziet u het aantal CTA-tekens, de nieuwe opties en een 
 
 * Met de knop **[!UICONTROL Back]** kunnen gebruikers nu terugkeren naar de vorige pagina of de landingspagina van [!DNL Create] . <!-- GS-8622 -->
 
-## Opmerkingen bij eerdere releases
++++
 
 +++Opmerkingen van 2024.12.12
 
@@ -75,7 +83,7 @@ Editors kunnen nu aangepaste waarden opgeven voor de volgende aspecten van gegen
 
 * Breedte en hoogte voor webbanners in weergave- en sjablonen. Deze waarden worden nu opgeslagen als sjabloonmetagegevens. <!-- GS-6735 -->
 
-* Dimensionen aan beelden in vertoning en ervaart tijdens beeldupload.<!-- GS-7166 -->
+* Dimensies tot afbeeldingen die worden weergegeven en die worden weergegeven tijdens het uploaden van de afbeelding.<!-- GS-7166 -->
 
 * Zie kanaal-specifieke richtlijnen in [ Beste praktijken voor malplaatjes ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
@@ -147,7 +155,7 @@ Toegevoegde ondersteuning voor het weergeven van statische inhoud op externe dom
 
 * Wanneer de grootte wordt gewijzigd in een andere browser dan de browser die wordt gebruikt om de eerste inhoud te genereren, worden concepten nu naar behoren geladen. <!-- GS-7204 -->
 
-* Alle tekens worden nu op de juiste wijze weergegeven in de geëxporteerde HTML. <!-- GS-7246 -->
+* Alle tekens worden nu correct weergegeven in geëxporteerde HTML. <!-- GS-7246 -->
 
 * De knopen op [!DNL Content] _Ervaringen_ **[!UICONTROL Export]** popup zijn niet meer beknot in bepaalde talen. <!-- GS-6873 -->
 
@@ -193,7 +201,7 @@ Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterfa
 
 * De merkenscore wordt nu bijgewerkt en behouden zoals verwacht voor opnieuw gegenereerde ervaringen. <!-- GS-6535 -->
 
-* HTML exporteren van Meta-advertenties en weergaveadvertenties bevat niet langer de elementen wrapper `div` en `chrome` . <!-- GS-7116 -->
+* HTML-export van Meta-advertenties en -weergaveadvertenties bevatten geen omvattende elementen `div` en `chrome` meer. <!-- GS-7116 -->
 
 * Problemen met het renderen van concepten via e-mail tijdens publicatie zijn nu opgelost. <!-- GS-6394 -->
 
@@ -249,6 +257,6 @@ De belangrijkste productfuncties zijn:
 
 **[!DNL Insights]** biedt realtime evaluatie van de prestaties van inhoud, zodat marketeers hun strategieën kunnen optimaliseren en gegevensgestuurde beslissingen kunnen nemen.
 
-GenStudio for Performance Marketing integreert met andere Adobe Experience Cloud-producten, waaronder Adobe Express en Adobe AEM Assets.
+GenStudio for Performance Marketing kan worden geïntegreerd met andere Adobe Experience Cloud-producten, waaronder Adobe Express en Adobe AEM Assets.
 
 +++

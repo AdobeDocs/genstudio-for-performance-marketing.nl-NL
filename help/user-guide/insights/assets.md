@@ -3,9 +3,9 @@ title: Assets-overzicht
 description: Leer hoe u de prestaties van bedrijfsmiddelen in Adobe GenStudio for Performance Marketing kunt evalueren.
 feature: Insights, Assets
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -14,18 +14,20 @@ ht-degree: 0%
 
 In de weergave [!DNL Insights] _[!UICONTROL Assets]_ziet u een lijst met elementen die worden gebruikt in ervaringen en advertentiecampagnes voor het geselecteerde kanaalaccount.
 
-De galerie _[!UICONTROL Assets]_is de standaardweergave met een collage van voorvertoningen van elementen en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om een van de drie zichtbare meeteenheden in of uit te schakelen:
+{{connect-insights}}
+
+De tabel _[!UICONTROL Assets]_wordt ingedeeld met [!UICONTROL Asset ID] . U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen.
+
+![ de filter en lijst van Assets ](/help/assets/insights-assets-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
+
+In de galerieweergave van _[!UICONTROL Assets]_ziet u een collage van voorvertoningen van elementen en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
 
 - CPA (Kosten per actie)
 - CTR (Klikdoorhalingsfrequentie)
 - CPC (kosten per klik)
 - Draaien
-
-De tabel _[!UICONTROL Assets]_wordt ingedeeld met [!UICONTROL Asset ID] . Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen.
-
-![ de filter en lijst van Assets ](/help/assets/insights-assets-filter.png){zoomable="yes"}
-
-U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster).
 
 ## Gegevens van element
 

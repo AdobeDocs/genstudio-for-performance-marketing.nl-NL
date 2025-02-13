@@ -3,9 +3,9 @@ title: Overzicht van  [!DNL Insights]
 description: Leer hoe u ervaringen kunt optimaliseren op basis van real-time waarden voor inhoudsprestaties.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a06b226ffc6bfc0bd371a2f5045d5a422a2983bd
+source-git-commit: f2850d3f535cc06dd8da4e744c081dda299e27f4
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,7 @@ Vanuit het dashboard van [!DNL Insights] kunt u:
 - **optimaliseer laag-presterende inhoud**: Vind inhoud die niet goed presteert en gebruik geïntegreerde generatieve AI om variaties onmiddellijk tot stand te brengen, potentieel verbeterend zijn doeltreffendheid zonder van kras te beginnen.
 - **Revitaliseer hoog-presterende inhoud**: Neem succesvolle inhoud en verbeter het om de ervaring voor het publiek te verfrissen of heldeninhoud voor gebruik in nieuwe campagnes aan te passen, potentieel uitbreidend zijn levenscyclus en prestaties.
 
->[!TIP]
->
->Zie [ Connect kanaalrekening ](connect-channel.md) voor stappen om GenStudio for Performance Marketing toe te laten om gegevens van uw huidige marketing campagnes, activa, en ervaringen te ontvangen.
+{{connect-insights}}
 
 ## Dashboard
 

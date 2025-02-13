@@ -1,11 +1,17 @@
 ---
-source-git-commit: e3745e1eed08512f9f2c7d62a2f3af6812e2019f
+source-git-commit: f2850d3f535cc06dd8da4e744c081dda299e27f4
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 # GenStudio for Performance Marketing-fragmenten
+
+## Connect-inzichten {#connect-insights}
+
+>[!TIP]
+>
+>GenStudio for Performance Marketing vereist dat u verbinding maakt met een kanaalaccount om gegevens te ontvangen. Zie [ Connect kanaalrekening ](/help/user-guide/insights/connect-channel.md).
 
 ## Opmerking AEM Assets {#note-aem-assets}
 
@@ -17,4 +23,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Verrijk uw vaardigheden op dit onderwerp met [ Academie van de Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy).
+>Verrijk uw vaardigheden op dit onderwerp met [ de Academie van Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy).

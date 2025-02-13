@@ -3,9 +3,9 @@ title: Overzicht van kanalen
 description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 94cb773f63584eb28e843b8d4ef94d6141a8a2f1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
 
->[!TIP]
->
->GenStudio for Performance Marketing vereist dat u verbinding maakt met een kanaalaccount om gegevens te ontvangen. Zie [ Connect kanaalrekening ](connect-channel.md).
+{{connect-insights}}
 
 De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u een keuze kunt maken uit de lijsten [!UICONTROL Account] , [!UICONTROL Status] en [!UICONTROL Objective] om de campagnes in de tabel te filteren.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 Wanneer u een campagne selecteert, opent [[!UICONTROL Experiences] lusje ](experiences.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke ervaringen aan zijn algemeen succes hebben bijgedragen.
 

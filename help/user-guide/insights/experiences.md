@@ -3,7 +3,7 @@ title: Overzicht van ervaringen
 description: Bekijk een overzicht van de betrokkenheid van klanten, het budget en de uitgaven voor ervaringen en plaatsingsprestaties in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: c027d5fa15b05feb95c976805d06d8fe3204c5d1
+source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
 workflow-type: tm+mt
 source-wordcount: '1061'
 ht-degree: 0%
@@ -12,11 +12,15 @@ ht-degree: 0%
 
 # Overzicht van ervaringen
 
-In de weergave [!DNL Insights] _[!UICONTROL Experiences]_ziet u een lijst met ervaringen voor het aangesloten kanaal en account. Voor Facebook zijn de ervaringen Meta-advertenties.
+In de weergave [!DNL Insights] _[!UICONTROL Experiences]_ziet u een lijst met ervaringen voor het aangesloten kanaal en account. Voor Facebook zijn de ervaringen Meta-advertentienamen.
+
+{{connect-insights}}
 
 De tabel _[!UICONTROL Experiences]_wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u uit de lijsten [!UICONTROL Account] en [!UICONTROL Campaign] kunt selecteren om de namen van de advertenties in de tabel te filteren.
 
 ![ de filter en lijst van Ervaringen ](/help/assets/insights-experiences-filter.png){zoomable="yes"}
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Ervaar details
 
@@ -40,7 +44,7 @@ GenStudio for Performance Marketing biedt ondersteuning voor advertentievormen, 
 
 | Instagram | Facebook/Meta | Messenger | Poortnetwerk |
 | ------------ | ---------------- | ------------ | ---------------- |
-| Verken <br> het huis van het 1} ontdekken van het roosterhuis <br> Gegeven <br> Reels <br> het voer van het Profiel <br> Onderzoek <br> Shop <br> Artikelen<br> | De zaken onderzoeken <br> In-stroom video <br> Van de Marketplace <br> Reels <br> Reels bedekking <br> Rechterkolom <br> de resultaten van het Onderzoek <br> van de Verhalen <br> Videofeed <br> Adds op Facebook reels<br> | Inbox <br> Artikelen | Inheemse, banner, en interstitiële <br> Verkochte video |
+| Verken <br> het huis van het 1} ontdekken van het roosterhuis <br> Gegeven <br> Reels <br> het voer van het Profiel <br> Onderzoek <br> Shop <br> Artikelen<br> | De zaken onderzoeken <br> In-stroom video <br> Van de Marktplaats {<br> Reels <br> Reels bedekking <br> Juiste kolom <br> de resultaten van het Onderzoek <br> de Videoframes van de Verhalen <br> <br> Adds op de realen van Facebook<br> | Inbox <br> Artikelen | Inheemse, banner, en interstitiële <br> Verkochte video |
 
 #### Niet-ondersteunde plaatsingen
 
