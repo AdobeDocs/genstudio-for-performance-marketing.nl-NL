@@ -4,9 +4,9 @@ description: Meer informatie over de nieuwste functies en verbeteringen voor Ado
 recommendations: noDisplay
 last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: a48ffd2147f79109803c49cc1a696c083c44e879
+source-git-commit: 0d55b89d550a8e44e7dd354d809f00699fccf468
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: '1716'
 ht-degree: 1%
 
 ---
@@ -35,7 +35,7 @@ U kunt de weergavetabel nu vanuit elke [!DNL Insights] -weergave downloaden naar
 
 Het Beta-programma voor de integratie van GenStudio for Performance Marketing en Adobe Workfront Proof wordt deze maand gestart. Workfront Proof versterkt de levenscyclus van het maken en activeren van inhoud met goedkeuringssjablonen, workflows met meerdere fasen en annotaties. GenStudio for Performance Marketing-gebruikers met Workfront Proof-rechten kunnen de geavanceerde mogelijkheden van Proof in GenStudio for Performance Marketing gebruiken om door GenStudio gegenereerde inhoud te beoordelen en er opmerkingen over te maken.
 
-Beta-programma&#39;s bieden een manier om de ontwikkeling van producten te helpen bepalen en de gereedheid voor algemene beschikbaarheid te bepalen. Neem contact op met Etienne Bosch (etienneb@adobe.com) voor informatie over het Beta-programma voor integratie tussen GenStudio for Performance Marketing en Workfront Proof.
+Beta-programma&#39;s bieden een manier om de ontwikkeling van producten te helpen bepalen en de gereedheid voor algemene beschikbaarheid te bepalen.
 
 ### Nieuwe oproepen naar handeling genereren
 
