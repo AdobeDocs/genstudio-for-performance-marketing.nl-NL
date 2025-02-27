@@ -4,10 +4,10 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestatiemarketing. Meer informatie over hoe u snel merkgerichte assets maakt, variaties genereert en ervaringen optimaliseert.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: c76e0584c049b77e5e5742f4b52e959503422016
+source-git-commit: 3309dfa13e476d6acce60bfdcd4e5e9801b74149
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 20%
+source-wordcount: '171'
+ht-degree: 19%
 
 ---
 
@@ -44,11 +44,11 @@ ht-degree: 20%
    + [ de overzicht en goedkeuring van het verzoek van inhoud ](approvals/request-review.md)
    + [ Overzicht en geef inhoud ](approvals/review-and-edit.md) uit
    + [ keur inhoud ](approvals/approve-content.md) goed
-   + [ Publish erkende inhoud ](approvals/publish-content.md)
+   + [ publiceer goedgekeurde inhoud ](approvals/publish-content.md)
 + Inhoud {#content}
    + [ Overzicht van de Inhoud ](content/overview.md)
    + [ beheert activa en ervaringen ](content/manage-assets.md)
-   + [ verbind een AEM bewaarplaats ](content/connect-aem-repo.md)
+   + [ verbind een bewaarplaats van AEM ](content/connect-aem-repo.md)
    + [ de details van Activa ](content/asset-details.md)
    + Sjablonen {#templates}
       + [ Werk met malplaatjes ](content/use-templates.md)
@@ -66,7 +66,10 @@ ht-degree: 20%
    + [ Ervaringen ](insights/experiences.md)
    + [ Assets ](insights/assets.md)
    + [ Attributen ](insights/attributes.md)
-   + [ categorieën van Attributen ](insights/attribute-category.md)
+   + Kenmerkcategorieën {#categories}
+      + [ eigenschappen van het Beeld ](insights/image-features.md)
+      + [ Videoeigenschappen ](insights/video-features.md)
+      + [ eigenschappen van de Tekst - Verborgen ](insights/text-features.md)
    + [ het beheer van Gegevens ](insights/data-management.md)
-+ [ de Academie van GenStudio - Verborgen ](genstudioacademy.md)
++ [ GenStudio Academy - Verborgen ](genstudioacademy.md)
 + [ prijsdaling van de Test - Verborgen ](test-markdown.md)

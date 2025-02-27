@@ -3,9 +3,9 @@ title: Overzicht van kanalen
 description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Op het moment dat u een campagne hebt gemaakt met Meta-advertenties, hebt u moge
 
 ## Kanaalprestaties
 
-Afhankelijk van uw prestatiedoelstellingen, kunnen de metriek van Inzichten u helpen evalueren of u uw doel bereikt.
+Afhankelijk van uw prestatiedoelen kunnen meetgegevens van [!DNL Insights] u helpen evalueren of u uw doel bereikt.
 
 Als bewustzijn bijvoorbeeld uw doel is, kan een verhoging van de snelheid van `impressions` erop wijzen dat u uw bereik uitbreidt. Om te begrijpen of dat uw doel bereikt, kunt u meetgegevens bekijken die aangeven dat de inhoud aantrekkelijk is, zoals `clicks` of `video plays` . Hoe effectief communiceert uw publiek met uw inhoud?
 

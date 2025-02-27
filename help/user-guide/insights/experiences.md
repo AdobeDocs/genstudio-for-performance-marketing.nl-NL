@@ -3,9 +3,9 @@ title: Overzicht van ervaringen
 description: Bekijk een overzicht van de betrokkenheid van klanten, het budget en de uitgaven voor ervaringen en plaatsingsprestaties in Adobe GenStudio for Performance Marketing.
 feature: Insights, Experiences, Attributes
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
 workflow-type: tm+mt
-source-wordcount: '1061'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ In de weergave [!DNL Insights] _[!UICONTROL Experiences]_ziet u een lijst met er
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Experiences]_wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u uit de lijsten [!UICONTROL Account] en [!UICONTROL Campaign] kunt selecteren om de namen van de advertenties in de tabel te filteren.
+De tabel _[!UICONTROL Experiences]_wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u uit de lijsten [!UICONTROL Account] en [!UICONTROL Campaign] kunt selecteren om de namen van de advertenties in de tabel te filteren. Klik **Terugstellen**om alle filterselecties te ontruimen.
 
 ![ de filter en lijst van Ervaringen ](/help/assets/insights-experiences-filter.png){zoomable="yes"}
 
@@ -26,7 +26,7 @@ De tabel _[!UICONTROL Experiences]_wordt ingedeeld met [!UICONTROL Ad names] . K
 
 Een _ervaring_ is een promotieactiva die visuele en interactieve inhoud voorgenomen voor distributie aan een specifiek publiek als deel van een marketing campagne omvat.
 
-Selecteer een ervaring (advertentienaam) en bekijk de prestatiesmetriek, tekstattributen, en plaatsingen verbonden aan elke advertentie. In de detailweergave kunt u de maatstaven van een ervaring analyseren op basis van de advertentie-plaatsing en marketinginspanningen binnen een opgegeven datumbereik.
+Selecteer een ervaring en bekijk de prestatiesmetriek, tekstattributen, en plaatsingen verbonden aan elke advertentie. In de detailweergave kunt u de maatstaven van een ervaring analyseren op basis van de advertentie-plaatsing en marketinginspanningen binnen een opgegeven datumbereik.
 
 De gedetailleerde weergave bevat een algemene advertentie `click-through rate` , `cost per action` en `spend` waarmee u kunt aangeven hoeveel van het budget op de advertentie is geplaatst. Omdat advertenties meerdere plaatsingen kunnen hebben, zoals een feed of een banner, ziet u een uitsplitsing van dezelfde meetwaarden voor elke advertentie-plaatsing. Met de pijl-links en pijl-rechts onder **[!UICONTROL Performance by ad placement]** doorloopt u de plaatsingswaarden.
 
@@ -34,7 +34,7 @@ De gedetailleerde weergave bevat een algemene advertentie `click-through rate` ,
 
 ### Tekstkenmerken
 
-Onder de ervaringsvoorvertoning bevindt zich een lijst met [!UICONTROL Text attributes] die aan de advertentie is gekoppeld. Wanneer elementen en ervaringen in [!DNL Content] worden goedgekeurd en opgeslagen, genereert GenStudio for Performance Marketing tags op basis van de inherente functies. Zie [ details van Activa ](../content/asset-details.md#system-metadata) voor details over systeemmeta-gegevens.
+Onder de ervaringsvoorvertoning bevindt zich een lijst met [!UICONTROL Text attributes] die aan de advertentie is gekoppeld. Wanneer elementen en ervaringen in [!DNL Content] worden goedgekeurd en opgeslagen, genereert GenStudio for Performance Marketing tags op basis van de inherente functies. Zie [ details van Activa ](/help/user-guide/content/asset-details.md#system-metadata) voor details over systeemmeta-gegevens.
 
 ### Plaatsen toevoegen
 
@@ -73,15 +73,17 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend beelden voor de ervaringsplaatsing.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten die worden uitgegeven om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Gebruik om uitgaven aan ervaringen te controleren die in waardevolle klantenacties resulteren. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten voor elke klik in een ervaringsplaatsing.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |
-| **[!UICONTROL Spend]** | Het bedrag dat gedurende een bepaalde periode uit de begroting is besteed. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgavenbedrag bij de belangrijkste prestatiemetriek om het algemene rendement op investering te helpen controleren. |
+| **[!UICONTROL Spend]** | Het bedrag dat gedurende een bepaalde periode uit de campagnebegroting wordt besteed om deze advertentie-ervaring te plaatsen. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgegeven bedrag tegen zeer belangrijke prestatiesmetriek bij helpen het algemene rendement op investering controleren. |
 
 ## Plaatsingsprestaties
 
-In de _mening van de Details van de Ervaring_, wijzen de hoogste drie metriek op de algemene prestaties van de geselecteerde ervaring. Nochtans, toont de _Prestaties door plaats_ sectie de gedetailleerde metriek voor elke advertentisplaatsing. De volgende tabel bevat definities voor de maatstaven voor plaatsingsprestaties:
+In de _mening van de Details van de Ervaring_, wijzen de hoogste drie metriek op de algemene prestaties van de geselecteerde ervaring. Nochtans, toont de _Prestaties door plaats_ sectie de gedetailleerde metriek voor elke advertentisplaatsing. Gebruik de rechter- en linkerpijlen om door de verschillende advertentiepunten te navigeren.
 
-| Metrisch | Definitie | Berekening |
+De volgende tabel bevat definities voor maatstaven voor plaatsingsprestaties:
+
+| Metrisch | Definitie | Inzicht |
 | ---------------------- | ----------------------------- | ----------- |
-| **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen die hebben geresulteerd in het klikken in de advertentie-plaatsing van de ervaring. | `clicks` gedeeld door `impressions` |
-| **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten die aan deze advertentie worden besteed om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken. | totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties |
-| **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten voor elke klik in een ervaringsplaatsing. | totaal bedrag `spent` gedeeld door `clicks` |
-| **[!UICONTROL Spend]** | Het bedrag dat gedurende een bepaalde periode uit de begroting is besteed. | |
+| **[!UICONTROL CTR]**<br>_klik-door tarief _ | Het percentage (%) van de afbeeldingen voor één advertentie-plaatsing dat heeft geresulteerd in klikken.<p>**Berekening**:`clicks` verdeeld door `impressions`<p>Deze metrische hulp bepaalt de doeltreffendheid van de advertentie in het in dienst nemen van het publiek. | Een hoge CTR geeft aan dat de advertentie relevant en aantrekkelijk is voor het publiek, wat leidt tot meer interacties. |
+| **[!UICONTROL CPA]**<br>_Kosten per Actie _ | De gemiddelde kosten die aan één enkele advertentie worden besteed om een gewenste klantenactie, zoals een aankoop of een abonnement te bereiken.<p>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties<p>Deze maatstaf helpt de kosteneffectiviteit van de advertentie evalueren bij het aansturen van waardevolle acties. | Een lagere CPA suggereert dat de advertentie efficiënt in het omzetten van publieksinteractie in gewenste acties tegen lagere kosten is. |
+| **[!UICONTROL CPC]**<br>_Kosten per klik _ | De gemiddelde kosten verbonden aan elke klik in één enkele advertentie plaatsing.<p>**Berekening**: totaal bedrag `spent` gedeeld door `clicks`<p>Deze metrische hulp beoordeelt de kosten-efficiency van de advertentie plaatsing in het produceren van kliks. | Een lagere CPC wijst erop dat de advertentie klikt tegen lagere kosten produceert, die voor het maximaliseren van het rendement van investering kunnen nuttig zijn. |
+| **[!UICONTROL Spend]** | Het bedrag dat aan één enkele advertentie wordt uitgegeven, die een fractie van het totale bedrag vertegenwoordigt dat aan de volledige ervaring wordt uitgegeven. Deze maatstaf helpt de begrotingstoewijzing en de bestedingsefficiency voor elke advertentie-plaatsing te volgen. | Toezicht op de uitgaven kan helpen ervoor te zorgen dat de middelen effectief worden gebruikt over verschillende plaatsen. |

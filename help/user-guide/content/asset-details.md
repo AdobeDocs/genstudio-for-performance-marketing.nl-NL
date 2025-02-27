@@ -3,7 +3,7 @@ title: Gegevens van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: e9c398cc81413fc22746d85abd6444c6bd42efe4
+source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Het volgende afbeeldingselement bevat systeemmetagegevens die het bestandstype, 
 
 >[!NOTE]
 >
->Assets van AEM opslagplaatsen geeft verschillende metagegevens weer. Zie [ activa zicht ](connect-aem-repo.md#step-4-configure-asset-visibility) vormen om te leren hoe te om [!DNL AEM Assets Content Hub] activa details te vormen.
+>Assets van AEM-opslagplaatsen geven verschillende metagegevens weer. Zie [ activa zicht ](connect-aem-repo.md#step-4-configure-asset-visibility) vormen om te leren hoe te om [!DNL AEM Assets Content Hub] activa details te vormen.
 
 ## Systeemmetagegevens
 
@@ -40,9 +40,9 @@ Bepaalde metagegevens van elementen worden automatisch verzameld wanneer een ele
 
 ### Gegenereerde tags
 
-Wanneer u een goedgekeurd element opslaat in [!DNL Content] , gebruikt GenStudio for Performance Marketing de AI- en computerleermogelijkheden van Adobe om het element te bestuderen en labels toe te passen op basis van de functies van het element. Een afbeelding van een kat kan bijvoorbeeld kenmerkcodes als `pet photography` of `cat` opleveren en kleurcodes die dominante kleuren in de afbeelding identificeren. U kunt geen labels bewerken die worden gedetecteerd en automatisch worden toegepast.
+Als u een goedgekeurd element opslaat in [!DNL Content] , gebruikt GenStudio for Performance Marketing de leermogelijkheden van Adobe AI en computers om het middel te bestuderen en labels toe te passen op basis van de functies van het element. Een afbeelding van een kat kan bijvoorbeeld kenmerkcodes als `pet photography` of `cat` opleveren en kleurcodes die dominante kleuren in de afbeelding identificeren. U kunt geen labels bewerken die worden gedetecteerd en automatisch worden toegepast.
 
-Zie [!DNL Insights] [ categorieën van Attributen ](/help/user-guide/insights/attribute-category.md) voor gedetailleerde lijsten van beeld, video, en teksteigenschappen.
+Zie [!DNL Insights] [ categorieën van Attributen ](/help/user-guide/insights/attributes.md#categories) voor gedetailleerde lijsten van beeld, video, en teksteigenschappen.
 
 ### Metagegevens over gegenereerde inhoud
 

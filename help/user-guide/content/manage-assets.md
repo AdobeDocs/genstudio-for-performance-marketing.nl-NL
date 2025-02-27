@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: d5efabbaf3dd0817bd3158acb59d997a727e5f62
+source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UIC
 
 De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
 
-Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributencategorieën ](/help/user-guide/insights/attribute-category.md) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
+Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributencategorieën ](/help/user-guide/insights/attributes.md#categories) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
 
 - **[!UICONTROL Uploaded by]** beperkt de lijst van _[!UICONTROL Assets]_om alleen de elementen te tonen die door u of een specifieke persoon zijn geüpload.
 - **[!UICONTROL Created by]** beperkt de lijst van _[!UICONTROL Experiences]_om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
@@ -39,7 +39,7 @@ Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user
 
    >[!IMPORTANT]
    >
-   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [ met een AEM bewaarplaats ](connect-aem-repo.md) verbindt.
+   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [ met een bewaarplaats van AEM ](connect-aem-repo.md) verbindt.
 
 1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
 
@@ -55,23 +55,23 @@ Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user
 
 Elementen die u via het [!DNL Create] -proces of uploaden toevoegt aan [!DNL Content] , worden standaard opgeslagen in de `GenStudio assets` -opslagplaats. De gegevensopslagruimte van `GenStudio assets` is een gegevensopslagruimte voor lezen en schrijven in GenStudio for Performance Marketing. Dit betekent dat u elementen kunt opslaan, bewerken en verwijderen in de `GenStudio assets` -opslagplaats.
 
-In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aan de rechterkant kunt u een van de verbonden opslagplaatsen voor Adobe Experience Manager (AEM) [!DNL Assets Content Hub] selecteren.
+In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aan de rechterkant kunt u een van de verbonden Adobe Experience Manager (AEM) [!DNL Assets Content Hub] -opslagruimten selecteren.
 
 ![ lijst van Plaats van bewaarplaatsen ](../../assets/content-location-selection.png){width="350"}
 
-Wanneer u een AEM opslagplaats selecteert, toont de galerie een inventaris van activa van die bewaarplaats, die u toestaat om goedgekeurde activa van deze bewaarplaatsen als input voor inhoudsverwezenlijking te gebruiken. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
+Wanneer u een AEM-opslagplaats selecteert, wordt in de galerie een overzicht van de middelen van die opslagplaats weergegeven, zodat u goedgekeurde elementen van deze opslagplaatsen kunt gebruiken als input voor het maken van inhoud. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
-Zie [ verbinden een AEM bewaarplaats ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
+Zie [ verbinden een bewaarplaats van AEM ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
 
-De AEM opslagplaats is read-only, wat betekent dat u tot de inhoud kunt toegang hebben maar u kunt concepten, nieuwe activa, of meta-gegevens niet opslaan aan AEM bewaarplaats. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
+De AEM-opslagplaats heeft het kenmerk Alleen-lezen, wat betekent dat u toegang kunt krijgen tot de inhoud, maar dat u geen concepten, nieuwe elementen of metagegevens kunt opslaan in de AEM-opslagplaats. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 
-Een AEM opslagplaats kan bepaalde licentievereisten afdwingen, zoals het vervallen van activa. Deze elementen zijn mogelijk niet beschikbaar voor gebruik in [!DNL Create] -workflows. Verlopen activa kunnen moeten worden vernieuwd of worden vervangen om de continuïteit van uw projecten te handhaven. Raadpleeg de [!DNL AEM Assets Content Hub] -beheerder voor hulp bij deze middelen.
+Een AEM-opslagplaats kan bepaalde licentievereisten afdwingen, zoals het vervallen van activa. Deze elementen zijn mogelijk niet beschikbaar voor gebruik in [!DNL Create] -workflows. Verlopen activa kunnen moeten worden vernieuwd of worden vervangen om de continuïteit van uw projecten te handhaven. Raadpleeg de [!DNL AEM Assets Content Hub] -beheerder voor hulp bij deze middelen.
 
 ## Assets-beheer
 
-In [!UICONTROL Content] kunt u uw digitale elementen eenvoudig opslaan, ophalen en beheren. Door gebruik te maken van zowel de `GenStudio assets` opslagplaats als AEM opslagplaatsen, kunt u ervoor zorgen dat uw activa goed georganiseerd en toegankelijk zijn voor verschillende marketingcampagnes. Deze benadering met meerdere opslagplaatsen biedt flexibiliteit en controle over het gebruik van bedrijfsmiddelen in verschillende omgevingen, zodat bij marketingactiviteiten alleen goedgekeurde en actuele bedrijfsmiddelen worden gebruikt.
+In [!UICONTROL Content] kunt u uw digitale elementen eenvoudig opslaan, ophalen en beheren. Door gebruik te maken van zowel de `GenStudio assets` repository als de AEM repositories, kunt u ervoor zorgen dat uw middelen goed zijn georganiseerd en toegankelijk zijn voor verschillende marketingcampagnes. Deze benadering met meerdere opslagplaatsen biedt flexibiliteit en controle over het gebruik van bedrijfsmiddelen in verschillende omgevingen, zodat bij marketingactiviteiten alleen goedgekeurde en actuele bedrijfsmiddelen worden gebruikt.
 
 De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, ervaringen, en malplaatjes:
 
@@ -95,7 +95,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 1. Klik in _[!DNL Content]_op **[!UICONTROL Add assets]**.
 
-1. In _voeg uw goedgekeurde activa_ mening toe, laat vallen een dossier of dossiers in de dalingsruimte. U kunt desgewenst bestanden van lokale bestanden selecteren met **[!UICONTROL Browse]** of bestanden importeren van Dropbox of Microsoft OneDrive.
+1. In _voeg uw goedgekeurde activa_ mening toe, laat vallen een dossier of dossiers in de dalingsruimte. U kunt desgewenst bestanden van lokale bestanden selecteren met **[!UICONTROL Browse]** of bestanden importeren uit Dropbox of Microsoft OneDrive.
 
 1. In _voeg details_ sectie toe, selecteer a **[!UICONTROL Campaign name]** of ga een nieuwe naam in.
 
@@ -152,7 +152,7 @@ Zie [ Activering ](/help/user-guide/activation/overview.md).
 
 ## Bewerken in Express
 
-U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met behulp van Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
+U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
 
 >[!BEGINSHADEBOX]
 
@@ -175,7 +175,7 @@ Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe
 
 1. Als u tevreden bent met de bijgewerkte afbeelding, klikt u op **[!UICONTROL Save a copy]** rechtsboven.
 
-1. Selecteer de bestandsindeling (JPG of PNG) en klik op **[!UICONTROL Save a copy]** .
+1. Selecteer de bestandsindeling JPG of PNG en klik op **[!UICONTROL Save a copy]** .
 
 1. Werk de **[!UICONTROL Asset name]** bij in het pop-upmenu _[!UICONTROL Save a copy of asset]_.
 

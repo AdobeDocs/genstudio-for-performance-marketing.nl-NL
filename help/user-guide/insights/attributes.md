@@ -3,9 +3,9 @@ title: Overzicht van kenmerken
 description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudio for Performance Marketing kunt beoordelen.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 2abd2d874fb9ce515c9ec15bd6130b5a4dc8bd48
+source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ In de weergave [!DNL Insights] _[!UICONTROL Attributes]_ziet u een lijst met ken
 
 De tabel _[!UICONTROL Attributes]_wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
-Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u de kenmerken in de tabel kunt selecteren in de [!UICONTROL Account] en [!UICONTROL Attribute category] om deze te filteren. In het volgende voorbeeld wordt een lijst met kenmerken in de categorie `Lighting Condition` getoond.
+Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u de kenmerken in de tabel kunt selecteren in de [!UICONTROL Account] en [!UICONTROL Attribute category] om deze te filteren. In het volgende voorbeeld wordt een lijst met kenmerken in de categorie `Lighting Condition` getoond. Klik **Terugstellen** om alle filterselecties te ontruimen.
 
 ![ de filter en lijst van Attributen ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
@@ -36,11 +36,17 @@ GenStudio for Performance Marketing detecteert bepaalde functies en past het jui
 
 ## Categorieën
 
-GenStudio for Performance Marketing herkent bepaalde functies van afbeeldingen, video&#39;s en tekst en past een functietag toe op het element. A _categorie_ is een reeks eigenschappen die een specifiek kenmerk delen. Bijvoorbeeld, heeft de _categorie van de beeldrichtlijn_ een `landscape`, `portrait`, of `square` waarde.
+Een kenmerkcategorie is een classificatiegroep die gerelateerde kenmerken organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
 
-U kunt geen labels bewerken die worden gedetecteerd en automatisch worden toegepast.
+GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md), [ video&#39;s ](video-features.md), en tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen die op een waarschijnlijkheid van correctheid wordt gebaseerd.
 
-Zie [ categorieën van Attributen ](/help/user-guide/insights/attribute-category.md) voor gedetailleerde lijsten van beeld, video, en teksteigenschappen.
+De lijst met gedetecteerde kenmerken voor een element is niet limitatief. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd. De volgende illustratie bevat bijvoorbeeld verschillende gedetecteerde afbeeldingskenmerken, waaronder meerdere objecten, voorgrond- en achtergrondkleuren.
+
+![ beeld activa attributen ](/help/assets/category/asset-attributes.png " Beeld van Toucan omvat veelvoudige ontdekte attributen "){width="300" zoomable="yes"}
+
+>[!INFO]
+>
+>U kunt geen labels bewerken die worden gedetecteerd en automatisch worden toegepast.
 
 ## Kenmerkprestaties
 
@@ -60,4 +66,4 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend beelden van een beeld of video met dit attribuut.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten die worden uitgegeven om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Helpt om attributen te identificeren die in waardevolle klantenacties resulteren. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten voor elke klik op afbeeldingen of video&#39;s met dit kenmerk.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |
-| **[!UICONTROL Spend]** | Het uit de begroting uitgegeven bedrag heeft betrekking op kenmerken gedurende een bepaalde periode. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgavenbedrag bij de belangrijkste prestatiemetriek om het algemene rendement op investering te helpen controleren. |
+| **[!UICONTROL Spend]** | Het uit de begroting uitgegeven bedrag heeft betrekking op kenmerken gedurende een bepaalde periode. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgegeven bedrag tegen zeer belangrijke prestatiesmetriek bij helpen het algemene rendement op investering controleren. |
