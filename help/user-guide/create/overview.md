@@ -3,9 +3,9 @@ title: Overzicht van GenStudio for Performance Marketing  [!DNL Create]
 description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio for Performance Marketing  [!DNL Create] produceren.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: ef4e6f48fe9aeffdd575dd83d49368cd438d62f2
+source-git-commit: 11d86ddddd1289c0bd198f21fe75a84b1459253e
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '617'
 ht-degree: 0%
 
 ---
@@ -24,41 +24,76 @@ Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 
 Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products], en [!DNL Personas] - [ Inhoud ](/help/user-guide/content/overview.md), [ Reviews en Goedkeuringen ](/help/user-guide/approvals/overview.md), en [ Inzichten ](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
 
+Editors en systeembeheerders hebben volledige toegang tot [!DNL Create] . Zie [ de rollen en de toestemmingen van de Gebruiker ](/help/user-guide/user-roles.md) voor gedetailleerde informatie van de roltoegang.
+
 ## [!DNL Create] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Nieuwe inhoud maken" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong> creeer een e-mailervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Een meta-advertentie maken" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong> creeer een Meta en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong> creeer een vertoning en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
