@@ -112,3 +112,4 @@ Klik de het sorteren pictogrammen (net of lijst) om _Recente het werk_ punten in
 GenStudio for Performance Marketing staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
 
 U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
+
