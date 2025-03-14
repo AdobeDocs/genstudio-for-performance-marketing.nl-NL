@@ -2,13 +2,12 @@
 title: Weergave en ervaringen
 description: Meer informatie over weergave en ervaringen in Adobe GenStudio for Performance Marketing.
 feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
-badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 25c3ad69774301d82573f2eec89f0eb0ea15404b
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken o
 
 Bij het genereren van weergaveadvertenties worden vier variaties gemaakt en weergegeven in het canvas.
 
-GenStudio for Performance Marketing steunt zowel standaard als de vertoningsadvertenties van de douanegrootte ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).[
+Zie [ kanaal-specifieke malplaatjerichtsnoeren ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer volgen.
 
 Bewerkbare gedeelten van een weergave en ervaring zijn:
 

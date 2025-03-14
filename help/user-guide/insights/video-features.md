@@ -2,9 +2,10 @@
 title: Videofuncties
 description: Meer informatie over de videofunctie van kenmerkcategorieën die in GenStudio for Performance Marketing worden gebruikt.
 feature: Insights, Attributes, Generative AI
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -35,7 +36,7 @@ Bij audiodetectie in GenStudio for Performance Marketing wordt de audiotrack van
 
 1. Wissel **unmute** (die in de laag-linkerhoek van een videovoorproef wordt gevestigd) knoop in en luister aan de audio van de videovoorproef.
 
-In de volgende tabel worden de categorieën met videofuncties weergegeven die door de GenStudio for Performance Marketing AI worden herkend. De lijst met gedetecteerde kenmerken voor een element is niet limitatief. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd.
+In de volgende tabel worden de categorieën met videofuncties weergegeven die door de GenStudio for Performance Marketing AI worden herkend. De lijst met gedetecteerde kenmerken voor media-inhoud is niet limitatief. Media die een uitgebreide reeks kenmerken bevatten, kunnen worden beperkt tot de drie belangrijkste kenmerken die door de AI worden geïdentificeerd.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

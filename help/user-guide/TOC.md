@@ -4,10 +4,10 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestatiemarketing. Meer informatie over hoe u snel merkgerichte assets maakt, variaties genereert en ervaringen optimaliseert.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: 3309dfa13e476d6acce60bfdcd4e5e9801b74149
+source-git-commit: 86eeac0231ffc465365709eb42250383868a4462
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 19%
+source-wordcount: '189'
+ht-degree: 17%
 
 ---
 
@@ -34,11 +34,15 @@ ht-degree: 19%
    + [[!DNL Create]  overzicht ](create/overview.md)
    + [ E-mailervaringen ](create/email-experiences.md)
    + [ Ervaringen van Meta ](create/meta-experiences.md)
+   + [ LinkedIn ervaringen ](create/linkedin-experiences.md)
    + [ Vertoning en ervaringen ](create/display-ad-experiences.md)
+   + [ ervaringen van de Banner ](create/banner-experiences.md)
    + [ beheert varianten ](create/manage-variants.md)
    + [ creeer een e-mailervaring ](create/create-email-experience.md)
    + [ creeer een Meta en ervaring ](create/create-meta-ad.md)
+   + [ creeer een ervaring LinkedIn ](create/create-linkedin.md)
    + [ creeer een vertoning en ervaring ](create/create-display-ad.md)
+   + [ creeer een bannerervaring ](create/create-banner-experience.md)
 + Revisies en goedkeuringen {#approve}
    + [ Overzicht van het Overzicht en van Goedkeuringen ](approvals/overview.md)
    + [ de overzicht en goedkeuring van het verzoek van inhoud ](approvals/request-review.md)
@@ -53,6 +57,7 @@ ht-degree: 19%
    + Sjablonen {#templates}
       + [ Werk met malplaatjes ](content/use-templates.md)
       + [ pas een malplaatje ](content/customize-template.md) aan
+      + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
       + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
       + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
 + Campagnes {#campaigns}
@@ -63,8 +68,8 @@ ht-degree: 19%
    + [ Overzicht van Inzichten ](insights/overview.md)
    + [ Connect kanaalrekening ](insights/connect-channel.md)
    + [ Kanalen ](insights/channels.md)
-   + [ Ervaringen ](insights/experiences.md)
-   + [ Assets ](insights/assets.md)
+   + [ Advertenties en advertentie plaatsing ](insights/ads.md)
+   + [ Media ](insights/media.md)
    + [ Attributen ](insights/attributes.md)
    + Kenmerkcategorieën {#categories}
       + [ eigenschappen van het Beeld ](insights/image-features.md)

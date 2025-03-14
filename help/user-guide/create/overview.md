@@ -3,9 +3,9 @@ title: Overzicht van GenStudio for Performance Marketing  [!DNL Create]
 description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStudio for Performance Marketing  [!DNL Create] produceren.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 11d86ddddd1289c0bd198f21fe75a84b1459253e
+source-git-commit: cccf207ce1cb2773a18ed553e14d1dbe3b77635b
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -14,53 +14,130 @@ ht-degree: 0%
 
 GenStudio for Performance Marketing [!DNL Create] maakt gebruik van de kracht van Adobe GenAI om marketers en gedistribueerde teams in staat te stellen hoogwaardige, on-brand ervaringen te creëren.
 
-![ creeer dashboard ](/help/assets/create.png){width="600" zoomable="yes"}
+![ creeer huis ](/help/assets/create-home.png){width="600" zoomable="yes"}
+
+Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8} sectie van Recenten {die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
 
 Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 
 * [ E-mail ](email-experiences.md)
 * [ Metaadvertenties ](meta-experiences.md)
+* [ LinkedIn advertenties ](linkedin-experiences.md)
 * [ de advertenties van de Vertoning ](display-ad-experiences.md)
+* [ Banners ](banner-experiences.md)
 
-Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products], en [!DNL Personas] - [ Inhoud ](/help/user-guide/content/overview.md), [ Reviews en Goedkeuringen ](/help/user-guide/approvals/overview.md), en [ Inzichten ](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
+Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md) - [!DNL Brands], [!DNL Products], en [!DNL Personas] - [ Inhoud ](/help/user-guide/content/overview.md), [ Campagnes ](/help/user-guide/campaigns/overview.md), [ Recensies en Goedkeuringen ](/help/user-guide/approvals/overview.md), [ Activering ](/help/user-guide/activation/overview.md), en [ Inzichten ](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van gevolgen volledige merkgebonden marketinginhoud.
 
 Editors en systeembeheerders hebben volledige toegang tot [!DNL Create] . Zie [ de rollen en de toestemmingen van de Gebruiker ](/help/user-guide/user-roles.md) voor gedetailleerde informatie van de roltoegang.
 
 ## [!DNL Create] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Nieuwe inhoud maken" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong> creeer een e-mailervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Een meta-advertentie maken" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong> creeer een Meta en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/create-display-ad.md">
-      <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
+      <a href="/help/user-guide/create/create-linkedin.md">
+
+      <img alt="Een LinkedIn-advertentie-ervaring maken" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
-         <a href="/help/user-guide/create/create-display-ad.md">
-         <strong> creeer een vertoning en ervaring </strong>
+
+         <a href="/help/user-guide/create/create-linkedin.md">
+
+         <strong> creeer een LinkedIn advertentie ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="/help/user-guide/create/create-display-ad.md">
+
+      <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
+      </a>
+
+      <div>
+
+         <a href="/help/user-guide/create/create-display-ad.md">
+
+         <strong> creeer een vertoning en ervaring </strong>
+
+         </a>
+
+      </div>
+
+   </td>
+
+   <td align="center" valign="top" width="100">
+
+      <a href="/help/user-guide/create/create-banner-experience.md">
+
+      <img alt="Een bannerervaring maken" src="../../assets/icons/icon-search.png" width="35">
+
+      </a>
+
+      <div>
+
+         <a href="/help/user-guide/create/create-banner-experience.md">
+
+         <strong> creeer een bannerervaring </strong>
+
+         </a>
+
+      </div>
+
+   </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
@@ -89,9 +166,9 @@ Inhoud-geüpload of toegevoegd beeld activa-in _Parameters_ worden gebruikt in g
 
 Om AI-Gegenereerde inhoud tot stand te brengen, ga a [ beschrijvende herinnering ](/help/user-guide/effective-prompts.md) in die de context of de ervaring beschrijft u, samen met [ richtlijnen ](/help/user-guide/guidelines/overview.md) en [_Parameters_](#parameters), in de snelle lade wilt produceren en **[!UICONTROL Generate]** wilt klikken.
 
-### Merkwaardvalidatie
+### Inhoudscontroles
 
-GenStudio for Performance Marketing voert merkbevestiging op diverse aspecten van de identiteit van een merk (zoals die in [ richtlijnen ](/help/user-guide/guidelines/overview.md) wordt bepaald). ](/help/user-guide/guidelines/brand-validation.md) informatie van de Bevestiging van het merk [ is beschikbaar voor om het even welke geproduceerde inhoud, die op zijn naleving van merkrichtlijnen en coherentie tussen tekst en beelden wijzen. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
+GenStudio for Performance Marketing voert [ inhoudscontroles ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) tegen [ merkrichtlijnen ](/help/user-guide/guidelines/brands.md), platformrichtlijnen, en [ toegankelijkheidsnormen ](/help/user-guide/guidelines/overview.md#compliance) op elke variant uit om ervoor te zorgen het het grootste in [!DNL Brand], platform, en toegankelijkheidsnormen voldoet. [ de controle van de Inhoud ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) informatie is beschikbaar voor om het even welke geproduceerde inhoud, wijzend op zijn naleving van uitvoerige inhoudscontroles en samenhang tussen tekst en beelden. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
 
 ### Revisies en goedkeuringen
 
@@ -112,4 +189,3 @@ Klik de het sorteren pictogrammen (net of lijst) om _Recente het werk_ punten in
 GenStudio for Performance Marketing staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
 
 U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
-

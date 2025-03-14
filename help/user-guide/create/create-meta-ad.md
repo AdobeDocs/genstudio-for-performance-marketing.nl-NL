@@ -1,14 +1,14 @@
 ---
 title: Een meta-advertentie maken
-description: Leer hoe u onmerkbare metagegevens kunt maken—voor Facebook of Instagram—met Adobe GenStudio for Performance Marketing.
+description: Leer hoe u op merk Meta-advertenties maakt—voor Facebook of Instagram—met Adobe GenStudio for Performance Marketing.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,8 @@ Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een b
 ## Parameters toevoegen
 
 Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade verbetert het proces van de inhoudsgeneratie en is een cruciale stap in het voorbereiden om een advertentie van het Meta te produceren.
+
+Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], [!DNL Personas], of [!DNL Products] - deze richtlijnen zijn op uw varianten van toepassing. U kunt deze desgewenst wijzigen.
 
 **om parameters en activa** toe te voegen:
 
@@ -75,11 +77,11 @@ Gegenereerde inhoud wordt progressief geladen. Elke sectie van de Meta-ervaring 
 
 Wanneer u een Meta-advertentie genereert, kunt u kiezen tussen Facebook- of Instagram-advertenties.
 
-Wissel het kanaal van Meta-advertenties optie-tussen **Facebook** en **Instagram**-in de juiste menubar (de pictogrammen van Facebook en van Instagram) om varianten voor elk kanaal te zien en te beheren.
+Wissel het kanaal van Meta-advertenties optie-tussen **Facebook** en **Installagram**-in de juiste menubar (pictogrammen Facebook en Instagram) om varianten voor elk kanaal te zien en te beheren.
 
-Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-meta-ads), kunt u de aspectverhouding van de advertenties van Facebook en van Instagram veranderen.
+Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-variants), kunt u de aspectverhouding van Facebook en de advertenties van het Installagram veranderen.
 
-## Gegenereerde metagegevensadvertenties reviseren
+## Door revisie gegenereerde varianten
 
 Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u de metagegevensadvertenties bewerken of een variant uit de set gegenereerde advertenties verwijderen.
 
@@ -90,33 +92,33 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 (of bodykopie) en bewerk indien nodig.
 * **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de vraag-aan-actie tekst in.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
+* **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
+* **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
-* **[ om aMeta te schrappen advertentie](/help/user-guide/create/manage-variants.md#delete-variant)**, de advertentietitel (bijvoorbeeld, &quot;Meta 4&quot;) te klikken en **[!UICONTROL Delete variant]** te klikken.
+* **[ om aMeta te schrappen en](/help/user-guide/create/manage-variants.md#delete-variant)**, het optiemenu voor een variant te klikken en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback op generatie verzenden
 
 Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
 
-## De uitlijning van merken controleren
+## Uitlijning van inhoud controleren
 
-Om de geproduceerde advertenties te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van merkgroepering voor een variant-en [_het paneel van de Bevestiging van de Merk_ ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1} ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).[_ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
-**om brandgroepering** te verifiëren:
+**om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
-1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
-   ![ het paneel van de Bevestiging van de Merk ](/help/assets/brand-validation-panel-meta.png){width="600" zoomable="yes"}
+   ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. U kunt elke advertentie doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat de inhoud meer op het merk wordt afgestemd.
-1. [ herzien manueel advertenties ](#revise-generated-meta-ads) om uw advertenties te verzekeren dicht met uw merk wordt gericht.
+1. [ herziet manueel varianten ](#revise-generated-variants) om uw varianten te verzekeren dicht met de uitgevoerde inhoudscontroles worden gericht.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 
 ## Revisies en goedkeuringen ophalen
 
-Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubalk van het canvas, om revisies te verkrijgen, revisieopmerkingen bij te houden en om goedkeuring te krijgen van belanghebbenden.
+Gebruik het deelvenster Goedkeuringen, dat als een pictogram op de rechteractiebalk van het canvas kan worden weergegeven, om revisies op te vragen, revisieopmerkingen bij te houden en om goedkeuring te krijgen van belanghebbenden.
 
 **om overzichten en goedkeuringen** te verkrijgen:
 
@@ -130,13 +132,13 @@ Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubal
 
 Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor meer informatie.
 
-## Publish en exportervaring
+## Publiceren en exporteren
 
 Als u de gegenereerde metagegevensadvertenties beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
 1. **om uw nieuwe Meta en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
 1. **om uw nieuwe Meta uit te voeren en ervaring(en)**, klik **[!UICONTROL Export]** in de hoogste toolbar.
-   1. Selecteer de indeling (HTML en afbeeldingen of CSV en afbeeldingen (JPG of PNG)) en klik op **[!UICONTROL Export]** .
+   1. Selecteer de indeling: HTML en afbeeldingen of CSV en afbeeldingen (JPG of PNG). Klik op **[!UICONTROL Export]** .
 
 Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content) voor meer informatie.
 

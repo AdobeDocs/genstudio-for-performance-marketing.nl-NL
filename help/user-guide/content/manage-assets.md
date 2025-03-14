@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: f8b22221f4fee0e1430740e670f580926ac33862
+source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1290'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,9 @@ Adobe GenStudio for Performance Marketing [!DNL Content] vereenvoudigt en verbet
 
 Op de galerie ziet u een overzicht van goedgekeurde middelen, ervaringen of sjablonen, afhankelijk van de geselecteerde weergave. Met het filterpictogram (trechter) boven de linkerkant van de tabel opent u het menu **[!UICONTROL Filter]** . Hier kunt u uit veel categorieën kiezen om de inhoud in de galerie te filteren. Klik in de _[!UICONTROL Assets]_-weergave op het pictogram Zoeken (vergrootglas) om een trefwoord te gebruiken om een element te zoeken.
 
-In het volgende voorbeeld ziet u een zoekopdracht naar de term `dog` in de [!UICONTROL Assets] -galerie:
+In het volgende voorbeeld ziet u een zoekopdracht naar de term `space` in de [!UICONTROL Assets] -galerie:
 
-![ mening van Assets met onderzoek op hond ](/help/assets/content-assets.png)
+![ de mening van Assets met onderzoek op ruimte ](/help/assets/content-assets-filter.png " die naar activa met ruimteattributen zoekt ")
 
 ### Inhoud zoeken
 
@@ -57,7 +57,7 @@ Elementen die u via het [!DNL Create] -proces of uploaden toevoegt aan [!DNL Con
 
 In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aan de rechterkant kunt u een van de verbonden Adobe Experience Manager (AEM) [!DNL Assets Content Hub] -opslagruimten selecteren.
 
-![ lijst van Plaats van bewaarplaatsen ](../../assets/content-location-selection.png){width="350"}
+![ lijst van de Plaats van bewaarplaatsen ](/help/assets/content-location-selection.png " Selecteer een inhoudsbewaarplaats "){width="350"}
 
 Wanneer u een AEM-opslagplaats selecteert, wordt in de galerie een overzicht van de middelen van die opslagplaats weergegeven, zodat u goedgekeurde elementen van deze opslagplaatsen kunt gebruiken als input voor het maken van inhoud. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
@@ -89,7 +89,7 @@ De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, e
 
 Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_is alleen beschikbaar wanneer de_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
-![ gebied van de Plaats ](../../assets/content-location.png){width="350"}
+![ het gebied van de Plaats ](/help/assets/content-location.png " gebied van de Plaats "){width="350"}
 
 **om één of meerdere activa** toe te voegen:
 
@@ -146,7 +146,7 @@ U kunt een goedgekeurde ervaring voor activering exporteren in een indeling die 
 1. In de _Uitvoer voor activering_ popup, selecteer één van de beschikbare formaten:
 
    - E-mail: `HTML`, `CSV`
-   - Meta- en weergaveadvertenties: `HTML`, `JPEG`, `PNG`
+   - Meta-, Banner- en Display-advertentie: `HTML`, `JPEG`, `PNG`
 
 Zie [ Activering ](/help/user-guide/activation/overview.md).
 

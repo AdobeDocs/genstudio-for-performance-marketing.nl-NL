@@ -1,42 +1,40 @@
 ---
-title: Een weergave en ervaring maken
-description: Leer hoe te om vertoning en ervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
+title: Een bannerervaring maken
+description: Leer hoe te om bannerervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
 feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 role: User
 level: Beginner
 recommendations: noDisplay
-exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '948'
 ht-degree: 0%
 
 ---
 
-# Een weergave en ervaring maken
+# Een bannerervaring maken
 
-Dit leerprogramma toont aan hoe te om brandde [ vertoning en ervaringen ](display-ad-experiences.md) te produceren gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
+Dit leerprogramma toont u hoe te om brandde [ bannerervaringen tot stand te brengen ](banner-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schildpenseel in het linkernavigatiegebied).
 
-Om een dwingende vertoning en ervaring te ontwerpen, adviseert men dat u [ richtlijnen aan GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toevoegt en de [ grondbeginselen van het schrijven herinneringen ](/help/user-guide/effective-prompts.md) herzien alvorens u begint.
+Om een het in dienst nemen bannerervaring te ontwerpen, wordt het geadviseerd om [ richtlijnen aan GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe te voegen en de [ grondbeginselen van het schrijven herinneringen ](/help/user-guide/effective-prompts.md) te herzien alvorens begonnen te worden.
 
 ## Een sjabloon kiezen
 
-Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden. Zie [ Beste praktijken voor malplaatjes ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde vertoning en dimensies.
+Om een bannerervaring te creëren, gebruik een beschikbare malplaatje om het kader voor uw inhoud te verstrekken. Zie [ Beste praktijken voor malplaatjes ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde bannerdimensies.
 
-**om een vertoning en malplaatje** te kiezen:
+**om een bannermalplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL Display ads]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifieke vertoning en malplaatje te vinden.
-1. In de _Uitgezochte malplaatje_ mening, klik op een vertoning en malplaatje.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Banners]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
+1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek bannermalplaatje te vinden.
+1. In de _Uitgezochte malplaatje_ mening, klik op een bannermalplaatje.
 1. Klik op **[!UICONTROL Use]**.
 
-   Het canvas, dat fungeert als het centrale knooppunt voor het maken van inhoud, wordt weergegeven.
+   Het canvas, dat de thuisbasis is voor het maken van inhoud, wordt weergegeven.
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een vertoning en ervaring.
-
-Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], [!DNL Personas], of [!DNL Products] - deze richtlijnen zijn op uw varianten van toepassing. U kunt deze desgewenst wijzigen.
+Het opnemen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ binnen de snelle lade verbetert het proces van de inhoudgeneratie en is een cruciale voorbereidende stap voor het creëren van een bannerervaring.
 
 **om parameters en activa** toe te voegen:
 
@@ -57,7 +55,7 @@ Wanneer u wordt gebeëindigd toevoegend parameters, de snelle lade door het _pic
 
 ## Een vraag invoeren
 
-Nadat u richtlijnen hebt geselecteerd, kunt u een aanwijzing met een natuurlijke taal maken en beginnen met het genereren van inhoud voor uw nieuwe weergave en ervaring. Om de kwaliteit van de gegenereerde weergave en ervaringen te verbeteren, is het van cruciaal belang om gedetailleerde en beschrijvende herinneringen op te stellen.
+Nadat u de richtlijnen hebt geselecteerd, gebruikt u de natuurlijke taal om een vraag te maken om de inhoud te genereren voor uw nieuwe bannerervaring. Om resultaten van hoge kwaliteit te garanderen, is het van essentieel belang dat er gedetailleerde en beschrijvende herinneringen komen.
 
 ![ ga een herinnering ](/help/assets/prompt-displayad.png){width="650" zoomable="yes"} in
 
@@ -70,14 +68,14 @@ Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijv
 
 Standaard worden vier variaties gegenereerd, die worden gevoed door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
 
-## Door revisie gegenereerde varianten
+## Gegenereerde banners reviseren
 
-Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u de weergave en secties en tekstvelden bewerken of een gegenereerde variant verwijderen.
+Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u bannersecties en tekstvelden bewerken of een gegenereerde variant verwijderen.
 
 **om geproduceerde varianten** te herzien:
 
-* **[ om de vertoning en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
-* **[ om een vertoningsadvertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke vertoning en secties of gebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
+* **[ om de naam van het bannerontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **om [ een banner](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke bannersecties of gebieden (zoals de titel of CTA) tweemaal en geef zoals nodig uit.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
 * **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
 * **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
@@ -98,7 +96,7 @@ Om de geproduceerde varianten te optimaliseren en strikte naleving van merkident
 
 **om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het _overzicht van Behoeften_ en _overgegaan_ controles om te zien welke secties en richtlijnen verbetering vergen.
 
    ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
@@ -108,28 +106,28 @@ Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md)
 
 ## Revisies en goedkeuringen ophalen
 
-Gebruik het deelvenster Goedkeuringen, dat als een pictogram op de rechteractiebalk van het canvas kan worden weergegeven, om revisies op te vragen, revisieopmerkingen bij te houden en om goedkeuring te krijgen van belanghebbenden.
+Gebruik het _goedkeurt_ paneel, dat als pictogram op de juiste actiebar van het Canvas toegankelijk is, om overzichten, de commentaren van het spooroverzicht te verkrijgen, en goedkeuringen van belanghebbenden te krijgen.
 
 **om overzichten en goedkeuringen** te verkrijgen:
 
-1. [ Lanceer een goedkeuringsverzoek ](/help/user-guide/approvals/request-review.md) om een [ goedkeuring van geschreven vertoning en ervaringen ](/help/user-guide/approvals/approve-content.md) te vragen.
+1. [ Lanceer een goedkeuringsverzoek ](/help/user-guide/approvals/request-review.md) om een [ goedkeuring van geschreven bannerervaringen ](/help/user-guide/approvals/approve-content.md) te vragen.
 1. [ verwijdert of voegt recensenten ](/help/user-guide/approvals/review-and-edit.md#manage-approvals) tijdens het overzichtsproces toe.
 1. [ heb toegang tot de inhoud voor overzicht ](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
-1. Bewerk de concepten per overzichtscommentaren en [ publiceer uw vertoning en ervaringen ](#publish-and-export-experience).
+1. Bewerk de concepten per overzichtscommentaren en [ publiceer uw bannerervaringen ](#publish-and-export-experience).
 
 Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md).
 
 ## Publiceren en exporteren
 
-Als u de gegenereerde weergaveadvertenties beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
+Als u de gegenereerde banners beschikbaar wilt maken voor gebruik in de huidige en toekomstige versie, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
-1. **om uw nieuwe vertoning en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
+1. **om uw nieuwe bannerervaringen** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
    1. Selecteer _[!UICONTROL [!DNL Campaigns]]_en voeg desgewenst_[!UICONTROL More details]_ toe.
    1. Klik op **[!UICONTROL Publish]**.
 
-      ![ publiceer een vertoningsadvertentie ](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
+      ![ publiceer een banner ](/help/assets/publish-displayad.png){width="450" zoomable="yes"}
 
-1. **om uw nieuwe vertoning en ervaring(en) uit te voeren**, klik **[!UICONTROL Export]** in de hoogste toolbar.
+1. **om uw nieuwe banners** uit te voeren, klik **[!UICONTROL Export]** in de hoogste toolbar.
    1. Selecteer de indeling HTML en afbeeldingen, PNG of JPG en klik op **[!UICONTROL Export]** .
 
       Geëxporteerde HTML moet worden geplaatst binnen een vooraf gedefinieerde webeigenschap, zoals een sjabloon of `div` container. Zonder deze ingestelde afmetingen kunnen afbeeldingen er vervormd uitzien als ze onafhankelijk worden bekeken.

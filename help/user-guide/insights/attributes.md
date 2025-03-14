@@ -3,9 +3,9 @@ title: Overzicht van kenmerken
 description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudio for Performance Marketing kunt beoordelen.
 feature: Insights, Attributes
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 4284026bf14d58eecb547d80b4bdae6ac0422078
+source-git-commit: e4507e53896348bca2ebec4ae299be50a0d277a7
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ In de weergave [!DNL Insights] _[!UICONTROL Attributes]_ziet u een lijst met ken
 
 De tabel _[!UICONTROL Attributes]_wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
-Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]** , waarin u de kenmerken in de tabel kunt selecteren in de [!UICONTROL Account] en [!UICONTROL Attribute category] om deze te filteren. In het volgende voorbeeld wordt een lijst met kenmerken in de categorie `Lighting Condition` getoond. Klik **Terugstellen** om alle filterselecties te ontruimen.
+Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]** geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]** boven de tabel om alle filters te verwijderen.
 
 ![ de filter en lijst van Attributen ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
@@ -26,23 +26,23 @@ Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu *
 
 ## Kenmerkdetails
 
-Kenmerken helpen elementen te identificeren aan de hand van de inherente details, zoals kleur, compositie, visuele elementen en andere eigenschappen.
+De attributen helpen om [ media ](media.md#media-details) door hun inherente details, zoals kleur, samenstelling, visuele elementen, en andere eigenschappen te identificeren.
 
-In de weergave met kenmerkdetails kunt u zien welke ervaringen het geselecteerde kenmerk gebruiken. De details omvatten totale kenmerkprestaties en een uitsplitsing van de prestatiesmetriek met betrekking tot elke ervaring.
+In de weergave met kenmerkdetails kunt u zien welke advertenties het geselecteerde kenmerk gebruiken. De details omvatten totale kenmerkprestaties en een uitsplitsing van de prestatiesmetriek met betrekking tot elke advertentie.
 
 ![ de prestatiemetriek van Attributen ](/help/assets/insights-attribute-details.png){zoomable="yes"}
 
-GenStudio for Performance Marketing detecteert bepaalde functies en past het juiste kenmerk toe op een element of ervaring als tag. Zie [ Categorieën ](#categories) om voorbeelden van deze markeringen te zien. Klik op het pictogram Instellingen (cog) boven de rechterkant van de tabel om de kolom **[!UICONTROL Attributes]** te selecteren om alle kenmerken weer te geven die aan een ervaring zijn gekoppeld.
+GenStudio for Performance Marketing detecteert bepaalde functies en past het juiste kenmerk toe op media-inhoud of advertentie als tag. Zie [ Categorieën ](#categories) voor voorbeelden van deze markeringen. Als u alle kenmerken wilt zien die aan een advertentie zijn gekoppeld, klikt u op het pictogram voor instellingen (cog) boven de rechterkant van de tabel om de kolom **[!UICONTROL Attributes]** te selecteren.
 
 ## Categorieën
 
-Een kenmerkcategorie is een classificatiegroep die gerelateerde kenmerken organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
+Een attribuut _categorie_ is een classificatiegroep die verwante attributen organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
 
-GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md), [ video&#39;s ](video-features.md), en tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen die op een waarschijnlijkheid van correctheid wordt gebaseerd.
+GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md), [ video&#39;s ](video-features.md), en tekst te bestuderen en [!UICONTROL Media attributes] toe te passen die op een waarschijnlijkheid van correctheid wordt gebaseerd.
 
-De lijst met gedetecteerde kenmerken voor een element is niet limitatief. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd. De volgende illustratie bevat bijvoorbeeld verschillende gedetecteerde afbeeldingskenmerken, waaronder meerdere objecten, voorgrond- en achtergrondkleuren.
+De lijst met gedetecteerde kenmerken voor media-inhoud is niet limitatief. Media die een uitgebreide reeks kenmerken bevatten, kunnen worden beperkt tot de drie meest voorkomende kenmerken die door de AI worden geïdentificeerd. De volgende illustratie bevat bijvoorbeeld verschillende gedetecteerde afbeeldingskenmerken, waaronder meerdere objecten, voorgrond- en achtergrondkleuren.
 
-![ beeld activa attributen ](/help/assets/category/asset-attributes.png " Beeld van Toucan omvat veelvoudige ontdekte attributen "){width="300" zoomable="yes"}
+![ beeldattributen ](/help/assets/category/asset-attributes.png " Beeld van Toucan omvat veelvoudige ontdekte attributen "){width="300" zoomable="yes"}
 
 >[!INFO]
 >
@@ -52,7 +52,7 @@ De lijst met gedetecteerde kenmerken voor een element is niet limitatief. Assets
 
 Metrische gegevens over inzichten kunnen u helpen te evalueren welke kenmerken de klant inspireren tot meer betrokkenheid.
 
-In de volgende tabel vindt u definities en inzichten voor de belangrijkste maatstaven voor digitale marketing in de tabelweergave van [!UICONTROL Attributes] . Elke metrisch omvat een korte definitie aangezien het op een activa betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect op een advertentiecampagne begrijpen.
+In de volgende tabel vindt u definities en inzichten voor de belangrijkste maatstaven voor digitale marketing in de tabelweergave van [!UICONTROL Attributes] . Elke metrisch omvat een korte definitie aangezien het op attributen betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect op een advertentiecampagne begrijpen.
 
 | Metrisch | Definitie | Inzicht |
 | ---------------------- | ----------------------------- | -------------------------------- |

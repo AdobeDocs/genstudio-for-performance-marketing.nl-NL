@@ -1,100 +1,88 @@
 ---
-title: Merkwaardvalidatie in Adobe GenStudio voor prestatiemarketing
-description: Leer hoe het ingebouwde systeem voor merkvalidatie werkt in GenStudio for Performance Marketing.
+title: Merkvalidatie in Adobe GenStudio for Performance Marketing
+description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 816aeb55eee92758e7ef022ced0ebc3308d27dc9
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '713'
 ht-degree: 0%
 
 ---
 
 # Merkwaardvalidatie
 
-In GenStudio for Performance Marketing is merkvalidatie een essentieel onderdeel dat samenwerkt met de generatieve AI-functionaliteit en -richtlijnen— [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) . Zo weet u zeker dat al uw inhoud wordt uitgelijnd op uw merkidentiteit.
+In GenStudio for Performance Marketing is merkvalidatie een essentieel onderdeel dat samenwerkt met de generatieve AI-functionaliteit en -richtlijnen— [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) . Zo weet u zeker dat al uw inhoud is afgestemd op uw merkidentiteit, ADA-standaarden en de richtlijnen voor afzonderlijke kanaalplatformen.
 
-GenStudio for Performance Marketing voert de merkvalidatie uit op verschillende aspecten, waaronder:
+GenStudio for Performance Marketing voert de validatie van merken en andere inhoudcontroles uit op verschillende aspecten, waaronder:
 
-* Merk richtlijnen specifiek voor elke klant
-* Richtlijnen kopiëren voor verschillende kanaalplatforms
+* Richtlijnen [!DNL Brand], [!DNL Persona] en [!DNL Product] gedefinieerd of standaard
+* Richtlijnen voor platformen
 * Ethische overwegingen in verband met geslacht, etniciteit, ras, gehandicaptenstatus en leeftijd in door AI gegenereerde inhoud
+* American with Disabilities Act (ADA)-standaarden
 
-## [!DNL Brand] controle van hulplijnen
+## Overzicht van inhouds controle
 
-Een samenvatting van de informatie van de merkbevestiging voor elke geproduceerde inhoudvariant is toegankelijk door het _[!DNL Brand]pictogram van de richtingencontrole_ naast elke variant in het Canvas.
+Een samenvatting van merkbevestiging en andere informatie van de inhoudscontrole voor elke geproduceerde inhoudvariant is toegankelijk door het _summiere pictogram van de controle van de Inhoud_ voor elke variant in het Canvas.
 
-De _[!DNL Brand]controle van richtlijnen_ toont het percentage van naleving van uw [ merk ](brands.md). Het percentage wordt berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen.
+De _controle van de Inhoud_ samenvatting toont:
 
-![[!DNL Brand] Guidelines check ](/help/assets/brand-guidelines-check.png){width="450" zoomable="yes"}
+* Percentage van naleving met uw [[!DNL Brand]](brands.md) berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen
+* `Pass` of `Fail` voor de platformrichtlijnen, zoals Meta of LinkedIn
+* `Pass` of `Fail` resultaat voor ADA-toegankelijkheidsstandaarden
 
-Klik op het pictogram om te zien hoeveel richtlijnen voldoen aan uw merk en hoeveel richtlijnen u wilt controleren.
+![ overzicht van de de controlecontrole van de Inhoud ](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
-Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
-
-## Deelvenster Handtekeningvalidatie
-
-Het _paneel van de Bevestiging van het Merk_ opent op de rechterkant van het Canvas wanneer geklikt van de hoogste menubar _of_ van het _pictogram van de de richtingencontrole van het Merk_ voor een variant. Dit paneel verstrekt gedetailleerde informatie van de merkbevestiging en belicht kansen voor verbetering voor elke variantsectie.
-
-![[!DNL Brand] Het deelvenster Validatie ](/help/assets/brand-validation-panel.png){width="650" zoomable="yes"}
-
-Het _paneelvertoningeninformatie van de bevestiging van het merk van 0} {voor:_
-
-* **E-mail**:
-   * Onderwerpsectie
-   * Sectie Preheader
-   * Sectie Koptekst
-   * Hoofdgedeelte
-   * CTA-sectie (oproepen tot actie)
-   * Richtlijnen voor spraak van merken
-* **Meta en**:
-   * Sectie Titel
-   * Sectie Hoofdtekst
-   * CTA-sectie (oproepen tot actie)
-   * Tekstsectie Op afbeelding
+Klik het percentage om te zien hoe volgzaam de variant is. De scores worden automatisch bijgewerkt wanneer u de varianten bewerkt. U kunt _Mening klikken en kwesties_ bevestigen om verdere compliantie te verzekeren.
 
 Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
-### Filter
+## Deelvenster Inhoud controleren
 
-In het _paneel van de Bevestiging van de Merk_ kunt u filteren welke richtlijnen worden getoond. Klik op het filterpictogram boven in het deelvenster om het weer te geven:
+Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram ](#content-check-summary) voor een variant. Dit deelvenster biedt gedetailleerde validatie van merken. platformrichtlijnen, en informatie over toegankelijkheidsstandaarden en belicht mogelijkheden voor verbetering voor elke variantsectie.
 
-* **Richtlijnen die** worden ontmoet - Toont slechts de richtlijnen die merkbevestiging overgingen.
-* **Richtlijnen die aandacht** nodig hebben - toont slechts de richtlijnen die geen merkbevestiging overgingen en verdere veranderingen nodig hebben om merkvolgzaam te zijn.
-* **allebei** - toont alle richtlijnen waarvoor de varianten tegen worden gemeten.
+![ het controlepaneel van de Inhoud ](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
+
+De _controle van de Inhoud_ paneelvertoningen bevestiging en [ nalevingsinformatie ](/help/user-guide/guidelines/overview.md#compliance) voor elke sectie van de variant:
+
+* Vertegenwoordiging van de _controle van de Inhoud_ summiere informatie voor [!DNL Brand], platformrichtlijnen, en toegankelijkheidsnormen
+* _vereist overzicht_ sectie die het aantal ontbroken richtlijnen en gedetailleerde informatie over elke richtlijn toont die revisie vereist
+* _overgegaan_ sectie die het aantal overgegaan richtlijnen en gedetailleerde informatie over elk overgaan richtlijn tonen
+
+Zie [ brandgroepering ](#improve-brand-alignment) verbeteren om te leren hoe te om de _controle van de Inhoud_ paneelscores te verbeteren.
+
+### Inhoudstype
+
+In het _paneel van de controle van de Inhoud_ kunt u van een knevel voorzien welke richtlijn en toegankelijkheidscontroles worden uitgevoerd. Klik het _type van Inhoud_ pictogram (niveaupictogram) bij de bovenkant van het paneel om of weg van een knevel te voorzien:
+
+* **[!DNL Brand]** - Voert de controles uit die zijn gekoppeld aan [!DNL Brand] -richtlijnen
+* **Richtlijnen van het Platform** - voert de controles verbonden aan het kanaal-specifieke platform, zoals Meta uit
+* **Toegankelijkheid** - voert de controles verbonden aan de toegankelijkheidsnormen van ADA uit
+
+Om **het inhoudstype** voor de controles te plaatsen u uitgevoerd wilt, klik om of op de beschikbare types van een knevel te voorzien en **te klikken** van toepassing is.
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _controle van de richtlijnen van het Merk_ en het _paneel van de Bevestiging van het Merk_. U kunt specifieke secties manueel wijzigen om met uw [ merkrichtlijnen ](brands.md) te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _samenvatting ](#content-check-summary) van de controle van de Inhoud[_ en het _paneel van de controle van de Inhoud ](#content-check-panel).[_ U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
 
-**om merkgroepering voor geproduceerde inhoudsvarianten te verbeteren**:
+**om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik op het pictogram **[!UICONTROL [!DNL Brand] guidelines check]** voor een afzonderlijke variant. De controle van de [!DNL Brand] richtlijnen toont een percentage van merkgroepering voor een variant.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om bevestiging en toegankelijkheidsinformatie voor één enkele variant te zien._
 
-   Bekijk een overzicht van het aantal richtlijnen voor merken dat voldoet aan de validatie van merken of meer aandacht nodig heeft.
-
-1. Om de details van de secties en de richtlijnen te krijgen die verbetering vereisen, klik **[!UICONTROL Review]** _of_ klik het _pictogram van de Bevestiging van het Merk_ in hoogste menubar om het _paneel van de Bevestiging van de Merk_ te openen.
-
-   Zie alle secties en merkrichtlijnen die u aandacht behoeven.
+   U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien welke secties en richtlijnen verbetering vergen.
 
    >[!NOTE]
    >
-   > De _stem van het Merk_ richtlijn die in het _wordt genoteerd paneel van de Bevestiging van het Merk_ is op de volledige variant, niet een individuele sectie van toepassing. De volledige inhoudvariant wordt gemarkeerd voor een voorgestelde verbetering.
+   > De _stem van het Merk_ richtlijn die in het _wordt genoteerd controle_ paneel van de Inhoud is op de volledige variant, niet een individuele sectie van toepassing. De volledige inhoudvariant wordt gemarkeerd voor een voorgestelde verbetering.
 
-1. Klik met de knoppen **[!UICONTROL Next]** en **[!UICONTROL Previous]** door de hulplijnen die aandacht behoeven.
+1. Klik om richtlijnen te bevestigen die momenteel niet volgzaam zijn.
+1. Klik om elke controle uit te breiden en te inspecteren die overzicht in beschikbare secties zoals _Koplijn_ en _stem van de Merk_ vereist.
 
-1. Gebruik de redenering die voor elk richtsnoer wordt genoteerd om het even welke herzieningen van variantsecties mee te delen om de sterkste aanpassing aan uw merk te bereiken.
+   Gebruik de redenering voor elke controle om u te helpen bij het wijzigen van de varianten.
 
+1. Nadat u de benodigde wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Recheck score]** om uw wijzigingen opnieuw te controleren en te valideren om ervoor te zorgen dat deze beter zijn afgestemd op uw merkidentiteit, platformrichtlijnen en toegankelijkheidsstandaarden.
 
-1. Nadat u de benodigde wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Check again]** om uw wijzigingen opnieuw te controleren en te valideren om ervoor te zorgen dat deze beter aansluiten op uw merkidentiteit.
+   Het proces voor inhoudscontrole wordt opnieuw uitgevoerd. Als de gereviseerde items zijn gevalideerd, wordt onder aan het canvas een groene banner weergegeven om te bevestigen dat de score is bijgewerkt. Als er na een nieuwe controle geen wijziging is opgetreden, bevestigt de banner dat de score niet is gewijzigd. Het percentage in de _controle van de Inhoud_ summiere pictogram voor de herziene variant toont ook uw vooruitgang.
 
-   Het merkvalidatieproces wordt opnieuw uitgevoerd. Als de sectie/hulplijn de validatie doorgeeft, verschijnt een groene banner onder aan het canvas om te bevestigen dat de score van de merkenrichtlijnen is bijgewerkt. Als er na een nieuwe controle geen wijziging is opgetreden, bevestigt de banner &quot;Geen wijziging van de score van de merkoriëntatie&quot;. Het percentage in de _pictogram van de de richtingcontrole van het Merk_ voor de herziene variant toont ook uw vooruitgang.
+1. Ga door met het reviseren van secties om ervoor te zorgen dat de hele variant validatie- en toegankelijkheidscontroles doorgeeft. Navigeer door elke variant met behulp van de pijlen naast een afzonderlijke variant op het canvas.
 
-1. Ga door met het reviseren van secties om ervoor te zorgen dat de hele variant de validatie van het merk doorgeeft.
-
-   Navigeer tussen richtlijnen in het _paneel van de Bevestiging van de Merk_ gebruikend de **[!UICONTROL Next]** en **[!UICONTROL Previous]** knopen.
-
-1. Navigeer door elke variant met behulp van de pijlen naast een afzonderlijke variant op het canvas. Gebruik bijvoorbeeld de pijl om van `Email 1/4` naar `Email 2/4` te gaan.
-1. Blijf de secties herzien om je merk beter aan te passen.
-
-   Zie [ de stemrichtlijnen van het Merk ](/help/user-guide/guidelines/brands.md#brand-voice-guidelines) voor meer informatie over overwogen richtlijnen.

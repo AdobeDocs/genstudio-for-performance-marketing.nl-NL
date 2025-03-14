@@ -2,7 +2,8 @@
 title: Afbeeldingsfuncties
 description: Meer informatie over de afbeeldingsfunctie van kenmerkcategorieën die in GenStudio for Performance Marketing worden gebruikt.
 feature: Insights, Attributes, Generative AI
-source-git-commit: c15140ed3fe3d07e9112e9ad4781cb8fcf65045d
+exl-id: b7e3d202-4085-48a4-a6ba-c950dfd52233
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
 source-wordcount: '1036'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Als de afbeeldingsstijl wordt geïdentificeerd als een `sketch` of een `digital 
 
 1. De _details van Attributen_ pagina maakt een lijst van alle beelden met dit attribuut.
 
-In de volgende tabel worden de categorieën met afbeeldingsfuncties weergegeven die door de GenStudio for Performance Marketing AI worden herkend. De lijst met gedetecteerde kenmerken voor een element is niet limitatief. Assets met een uitgebreide reeks kenmerken kan worden beperkt tot de drie belangrijkste kenmerken die door de AI zijn geïdentificeerd.
+In de volgende tabel worden de categorieën met afbeeldingsfuncties weergegeven die door de GenStudio for Performance Marketing AI worden herkend. De lijst met gedetecteerde kenmerken voor media-inhoud is niet limitatief. Media die een uitgebreide reeks kenmerken bevatten, kunnen worden beperkt tot de drie belangrijkste kenmerken die door de AI worden geïdentificeerd.
 
 <!-- For the writer: turn off word wrap to work with these tables. Option + Z -->
 

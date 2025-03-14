@@ -3,9 +3,9 @@ title: Werken met sjablonen
 description: Ontdek hoe u sjablonen effectief kunt gebruiken om uw creatieve proces in Adobe GenStudio for Performance Marketing te stroomlijnen.
 feature: Templates, Content
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 62ab3849296195ca4d9525cb5688f74ce8bede54
+source-git-commit: 624629700d8bf7d9e4c0e6d8b4373f40b14d4e05
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '1132'
 ht-degree: 0%
 
 ---
@@ -26,59 +26,21 @@ Met deze stappen kunt u professionele en effectieve sjablonen maken die klaar zi
 
 ## Sjabloonelementen
 
-Een sjabloon is een set instructies die zijn gedefinieerd met HTML en inline CSS die kunnen worden gebruikt om een e-mail, sociale advertentie of een weergave en ervaring te maken. Sjabloonelementen bieden de structuur voor het maken van inhoud.
+Een sjabloon is een set instructies die zijn gedefinieerd met HTML en inline CSS en die kunnen worden gebruikt om een e-mail, sociale advertentie of advertentie-ervaring te produceren. Sjabloonelementen bieden de structuur voor het maken van inhoud.
 
 Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enkele details over de kenmerken ervan:
 
-- **Preheader**
-
-   - Handelt als secundaire onderwerpregel in een e-mail, die de belangrijkste onderwerpregel verbetert
-   - Tussen 40 en 50 tekens
-   - Zichtbaar in het Postvak IN naast het onderwerp voordat het e-mailbericht wordt geopend
-   - Gebruikt in e-mailsjablonen
-
-- **Kopbal**
-
-   - Bovenste gedeelte van de e-mail die de ontvanger ziet bij het openen van de e-mail
-   - Hiermee wordt de tint ingesteld en wordt de context voor de opgenomen inhoud aangegeven
-   - Gebruikt in e-mailsjablonen
-
-- **Titel**
-
-   - Eerste inhoud die de ontvanger ziet
-   - Moet dwingend zijn om rente te vangen
-   - Gebruikt in metagegevenssjablonen
-
-- **Lichaam**
-
-   - Belangrijkste inhoudsgebied waar het primaire bericht wordt overgebracht
-   - Kan tekst, afbeeldingen en andere media opnemen
-   - Gebruikt in e-mail en Meta-advertentiesjablonen
-
-- **CTA**
-
-   - De vraag-aan-actie knoop gebruikt een uitdrukking en een verbinding
-   - moedigt de ontvanger aan een specifieke actie te ondernemen, zoals het klikken op een koppeling of het doen van een aankoop
-   - Gebruikt in e-mail en Meta-advertentiesjablonen
-
-- **Beelden**
-
-   - Verbetert visuele aantrekkingskracht
-   - Tekst opdelen
-   - Het bericht ondersteunen
-   - Moet van hoge kwaliteit zijn en moet opgevangen worden
-   - Gebruikt in e-mail en Meta-advertentiesjablonen
-
-- **Voettekst**
-
-   - Sectie onder met aanvullende inhoud, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het afmelden van abonnementen
-   - Gebruikt in e-mailsjablonen
-
-- **de Bedekking van de Tekst**
-
-   - Tekst op een afbeelding
-   - Gebruik om de kop en het lichaam te ondersteunen en te verbeteren
-   - Gebruikt in metagegevenssjablonen
+| **Element** | **Kanaal** | **Beschrijving** |
+|----------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Preheader** | E-mail | Een secundaire onderwerpregel in een e-mail, meestal tussen 40 en 50 tekens, die de hoofdonderwerpregel verbetert. Het is zichtbaar in het postvak naast het onderwerp voordat het e-mailbericht wordt geopend. |
+| **Kopbal** | E-mail | In het bovenste gedeelte van de e-mail die de ontvanger ziet wanneer deze de e-mail opent, wordt de toon en context voor de opgenomen inhoud ingesteld. |
+| **Titel** | Metaadvertentie, banner en weergaveadvertenties, LinkedIn | De eerste inhoud die de ontvanger ziet, zou dwingend moeten zijn om interesse te vangen. |
+| **Inleidende tekst** | LinkedIn | Het primaire bericht brengt het kernbericht over, gelijkend op lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
+| **Lichaam** | E-mail-, metagegevens-, banner- en weergaveadvertenties | De hoofdtekst van de advertentie geeft het kernbericht weer. Het zou moeten engageren, informatief, en overtuigend zijn om de gewenste actie van het publiek aan te moedigen. |
+| **CTA** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Een call-to-action knoop gebruikt een uitdrukking en een verbinding om de ontvanger aan te moedigen om een specifieke actie te nemen, zoals het klikken van een verbinding of het maken van een aankoop. |
+| **Beelden** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Verbeter visuele aantrekkingskracht, verbreek tekst en ondersteun het bericht. Afbeeldingen moeten van hoge kwaliteit en opvallend zijn. |
+| **Voettekst** | E-mail | Het onderste gedeelte van het e-mailbericht bevat aanvullende inhoud, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het opzeggen van abonnementen. |
+| **de Bedekking van de Tekst** | Meta en | Tekst die op een afbeelding wordt geplaatst ter ondersteuning en verbetering van de kop- en tekstinhoud. |
 
 >[!TIP]
 >
@@ -94,9 +56,9 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Pe
 
 ## Sjablonen beheren
 
-Op de galerie [!DNL Templates] wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing. U kunt sjablonen filteren op het kanaaltype, zoals e-mail-, weergave- en metagegevensadvertenties.
+Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing. U kunt sjablonen filteren op het kanaaltype, zoals e-mail, advertenties weergeven, metagegevensadvertenties en LinkedIn-advertenties.
 
-![ het malplaatjelijst van de Inhoud ](/help/assets/content-templates.png){width="650" zoomable="yes"}
+![ de lijst van het malplaatje van de Inhoud ](/help/assets/content-templates-filter.png " Onderzoek LinkedIn malplaatjes "){width="650" zoomable="yes"}
 
 ### Een sjabloon toevoegen
 
@@ -108,24 +70,26 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 1. Klik op **[!UICONTROL Add template]**.
 
-1. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het sjabloonbestand HTML of sleep het sjabloonbestand HTML naar de dropruimte. Klik op **[!UICONTROL Next]**.
+1. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
 
-1. Controleer de gedetecteerde velden in het deelvenster _[!UICONTROL Review discovered fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn. Klik op **[!UICONTROL Next]**.
+1. Controleer de velden in het deelvenster _[!UICONTROL Check detected fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn.
 
    Voorbeeld van een e-mailsjabloon:
 
-   ![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650"}
+   ![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
 
    >[!TIP]
    >
-   >Als de sjabloon niet correct is, klikt u op **[!UICONTROL Back]** en gaat u terug naar de vorige stap. Upload het gecorrigeerde sjabloonbestand.
+   >Als de sjabloon niet correct is, klikt u op **[!UICONTROL Back]** en gaat u terug naar de vorige stap. Upload het gecorrigeerde sjabloonbestand. Of gebruik de [ redacteur van de malplaatjecode ](/help/user-guide/content/code-editor.md) om eenvoudige correcties aan te brengen.
+
+1. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
 
 1. Geef in het deelvenster _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
    - **Meta**: vereist Verhouding
-   - **de advertenties van de Vertoning**: vereist Dimensionen
+   - **Banner en de advertentie van de Vertoning**: vereist Dimensies
 
 1. Voeg zoveel details toe als u kunt om sjabloonidentificatie in zoekopdrachten en filteren te verbeteren.
 
@@ -156,3 +120,23 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
 1. Ga aan [ ](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
+
+## Sjablonen uit AJO en Marketo
+
+U kunt een sjabloon uploaden die u in Adobe Journey Optimizer (AJO) of Marketo hebt gemaakt. GenStudio for Performance Marketing detecteert toepassingsspecifieke patronen en negeert deze, waarbij het oorspronkelijke formulier behouden blijft voor verder gebruik in AJO of Marketo. U hoeft geen wijzigingen aan te brengen in de oorspronkelijke AJO- of Marketo-syntaxis.
+
+Herkende toepassingspatronen zijn onder meer:
+
+- **AJO**: `{{profile.*}}`, `{{context.*}}`
+- **Marketo**: `{{my.*}}`, `{{lead.*}}`, `{{system.*}}`
+
+>[!BEGINSHADEBOX]
+
+**Eerste vereisten**
+
+- De toepassing (AJO, Marketo) en GenStudio for Performance Marketing moeten tot dezelfde IMS Org voor integratie behoren
+- Gebruikers moeten de rol Medewerker (het laagste niveau) of hoger hebben
+
+>[!ENDSHADEBOX]
+
+Daarna, [ pas uw malplaatje ](/help/user-guide/content/customize-template.md) met placeholders aan om erop te wijzen waar GenStudio for Performance Marketing inhoud voor u zou moeten produceren. [ voeg uw malplaatje ](#add-a-template) aan de [!DNL Content] bewaarplaats toe en bevestig het malplaatje. Breng eventuele kleine correcties aan met de code-editor.

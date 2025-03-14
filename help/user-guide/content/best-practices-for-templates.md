@@ -4,9 +4,9 @@ description: Volg de beste praktijken wanneer het gebruiken van malplaatjes met 
 feature: Templates, Content
 last-substantial-update: 2024-12-13T00:00:00Z
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 9cc284cdb00a204baf6b0a2d9d7f67cf9bc9c81f
+source-git-commit: cdba0ef2cc359a6ed0fd25ce946bcf89f9b712f9
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ Volg deze tips en trucs bij het aanpassen van e-mailsjablonen om met GenStudio f
    - Een basissjabloon (slechts één sectie) kan één set sjabloonelementen genereren.
    - Een complexe sjabloon (meerdere secties) kan maximaal drie sets sjabloonelementen genereren.
 - Een sjabloon mag maximaal 20 velden bevatten
-- De maximale bestandsgrootte van HTML is 102 kB
+- De maximale HTML-bestandsgrootte is 102 kB
 
 **Erkende gebiedsnamen**:
 
@@ -72,7 +72,7 @@ Voor e-mail wordt het veld `subject` automatisch opgenomen. Gebruik plaatsaandui
 - `headline`
 - `body`
 - `cta`
-- `image` (geselecteerd uit inhoud)
+- `image` (geselecteerd in Content JPEG, PNG of GIF)
 - `brand_logo`
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
@@ -86,7 +86,7 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 - Gebruik **niet** relatieve doopvontgrootte
 - Bepaal **geen** viewports
 - Gebruik **niet** JavaScript
-- Overschrijf **** geen HTML element in CSS
+- Overschrijf **** geen element van HTML in CSS
 - Gebruik de volgende instellingen voor achtergrondafbeeldingen:
 
   Voeg `object-fit: cover` value toe aan `background-image` CSS-klasse:
@@ -115,17 +115,15 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 
 Voor Meta-advertenties worden de velden `headline` , `body` en `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
 
-- `image` (geselecteerd uit inhoud)
-- `on-image-text`
+- `image` (geselecteerd in Content JPEG, PNG of GIF)
+- `on_image_text`
 - `brand_logo`
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
->[!TAB  Vertoning ]
+>[!TAB  Banner &amp; de advertentie van de Vertoning ]
 
-[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
-
-Volg deze aanbevolen werkwijzen bij het aanpassen van weergave- en sjablonen voor GenStudio for Performance Marketing:
+Volg de onderstaande tips en trucs bij het aanpassen van banners en advertentiesjablonen om met GenStudio for Performance Marketing te werken:
 
 - Adobe- of Google-lettertypen gebruiken
 - Elementen voorbereiden die goed worden weergegeven in dunne afmetingen
@@ -159,7 +157,55 @@ Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
 - `headline`
 - `body`
 - `cta`
-- `image` (geselecteerd uit inhoud)
+- `image` (geselecteerd in Content JPEG, PNG of GIF)
+
+Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+
+>[!TAB  LinkedIn en ]
+
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+
+Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om met GenStudio for Performance Marketing te werken:
+
+**Beperkingen**:
+
+- Gebruik van [ secties ](customize-template.md#sections-or-groups):
+   - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
+- Maximale afbeeldingsgrootte van 5 MB
+- Maximale kop 70 tekens
+- Maximaal, inleidende tekst, 150 tekens
+
+**Gesteunde aspectverhoudingen**:
+
+- Vierkant 1:1
+   - desktop of mobiel
+   - Min.: 360 x 360 pixels
+   - Max.: 4320 x 4320 pixels
+- Horizontaal 1,91:1
+   - desktop
+   - Min.: 640 x 360 pixels
+   - Max.: 7.680 x 4.320 pixels
+- Verticaal 1:1,91
+   - mobiel
+   - Min.: 360 x 640 pixels
+   - Max.: 2430 x 4320 pixels
+- Artikel 2.3
+   - mobiel
+   - Min.: 360 x 640 pixels
+   - Max.: 2430 x 4320 pixels
+- Artikel 4.5 (aanbevolen)
+   - mobiel
+   - Min.: 360 x 640 pixels
+   - Max.: 2430 x 4320 pixels
+
+**Erkende gebiedsnamen**:
+
+Voor LinkedIn-advertenties worden de velden `headline` en `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
+
+- `image` (geselecteerd in Content JPEG, PNG of GIF)
+- `introductory_text`
+- `on_image_text`
+- `brand_logo`
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 

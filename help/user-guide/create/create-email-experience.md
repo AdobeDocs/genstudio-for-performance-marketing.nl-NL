@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '991'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,8 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 
 Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade vult het proces van de inhoudgeneratie op en is een integrale voorbereidende stap voor het produceren van een e-mailervaring.
 
+Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], [!DNL Personas], of [!DNL Products] - deze richtlijnen zijn op uw varianten van toepassing. U kunt deze desgewenst wijzigen.
+
 **om parameters en activa** toe te voegen:
 
 1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
@@ -54,9 +56,9 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
    * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
 
->[!NOTE]
->Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie. U kunt vanuit [!DNL Content] alleen visuele elementen toevoegen aan e-mailberichten met meerdere secties. U kunt vanuit uw lokale bron geen elementen slepen en neerzetten of uploaden.
->![Inhoud en parameters toevoegen voor elke e-mailsectie ](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"}
+   >[!NOTE]
+   >Als uw e-mailmalplaatje veelvoudige secties heeft, selecteer [!DNL Products] en inhoud (visuele activa) voor elke e-mailsectie in _multi-sectiemails_. E-mailberichten met meerdere secties ondersteunen één visueel middel per sectie. U kunt vanuit [!DNL Content] alleen visuele elementen toevoegen aan e-mailberichten met meerdere secties. U kunt vanuit uw lokale bron geen elementen slepen en neerzetten of uploaden.
+   >![ voegt inhoud en parameters voor elke e-mailsectie ](/help/assets/parameters-multisection-email.png){width="450" zoomable="yes"} toe
 
 Wanneer u wordt gebeëindigd toevoegend parameters, kunt u de snelle lade doen ineenstorten door het _pictogram van Parameters_ opnieuw te klikken.
 
@@ -75,7 +77,7 @@ Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd doo
 
 Gegenereerde inhoud wordt progressief geladen. Elke sectie van de e-mailervaring wordt gegenereerd en wordt weergegeven op het canvas. Zie [ E-mailervaringen ](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.
 
-## Gegenereerde e-mails reviseren
+## Door revisie gegenereerde varianten
 
 Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u e-mailsecties bewerken of een variant uit de set gegenereerde e-mailberichten verwijderen.
 
@@ -85,7 +87,8 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 * **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) en geef uit zoals nodig
 * **om [ te veranderen of de Vraag aan actie](/help/user-guide/create/manage-variants.md#revise-call-to-action)** te selecteren, klik de vraag-aan-actie knoop en selecteer _[!UICONTROL Rephrase]_of_[!UICONTROL Add link]_.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
-* **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik **[!UICONTROL Select/swap from content]** of **[!UICONTROL Upload New Image]** om een beeld in een individuele variant toe te voegen of te ruilen.
+* **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
+* **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
 * **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback op generatie verzenden
@@ -96,29 +99,23 @@ Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#ge
 
 Wanneer het herzien van en het voorbereiden van e-mailervaringen, kunt u [ schakelen tussen voorproeven voor Desktop en mobiele meningen ](/help/user-guide/create/manage-variants.md#preview-for-device) om coherentie en visuele aantrekkingskracht van ontwerp varianten te verzekeren.
 
-## De uitlijning van merken controleren
+## Uitlijning van inhoud controleren
 
-Om de geproduceerde e-mails te optimaliseren en strikte gehechtheid aan merkidentiteit te verzekeren, hefboomwerking de macht van de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) - verstrekkend een samenvatting van brandgroepering voor een variant-en [_het 3} paneel ](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) - tonend uitvoerige details van de brandbevestiging en verlichtende verbeteringsgebieden._
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1} ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).[_ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
-**om brandgroepering** te verifiëren:
+**om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik op het pictogram [**[!UICONTROL [!DNL Brand] guidelines check]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) voor een variant en bekijk een overzicht van de prestaties van die variant wanneer deze wordt gecontroleerd op uw merk.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
-   ![ controle van de Merk richtlijnen ](/help/assets/brand-guidelines-check.png){width="350" zoomable="yes"}
+   ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. Om de details van de secties en de richtlijnen te krijgen die verbetering vergen, klik **[!UICONTROL Review]** _of_ klik het pictogram van de Bevestiging van het Merk in hoogste menubar om het [_paneel van de Bevestiging van het Merk_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel) te openen.
-
-1. U kunt elke e-mail doorlopen om te zien hoe u de gegenereerde inhoud kunt verbeteren, zodat deze meer op het merk wordt afgestemd.
-
-   ![ het paneel van de Bevestiging van de Merk ](/help/assets/brand-validation-panel.png){width="600" zoomable="yes"}
-
-1. [ herziet manueel e-mail ](#revise-generated-emails) om ervoor te zorgen uw e-mails nauw met uw merk worden gericht.
+1. [ herziet manueel varianten ](#revise-generated-variants) om uw varianten te verzekeren dicht met de uitgevoerde inhoudscontroles worden gericht.
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 
 ## Revisies en goedkeuringen ophalen
 
-Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubalk van het canvas, om revisies te verkrijgen, revisieopmerkingen bij te houden en om goedkeuring te krijgen van belanghebbenden.
+Gebruik het deelvenster Goedkeuringen, dat als een pictogram op de rechteractiebalk van het canvas kan worden weergegeven, om revisies op te vragen, revisieopmerkingen bij te houden en om goedkeuring te krijgen van belanghebbenden.
 
 **om overzichten en goedkeuringen** te verkrijgen:
 
@@ -129,7 +126,7 @@ Gebruik het deelvenster Goedkeuringen, dat beschikbaar is op de bovenste menubal
 
 Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor meer informatie.
 
-## Publish en exportervaring
+## Publiceren en exporteren
 
 Als u de gegenereerde e-mails beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 

@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,9 @@ Elk veld en elke sectie van e-mailervaringen worden in deze reeks geleidelijk ge
 1. Voorkop
 1. Koppen, hoofdtekst van e-mail (voor e-mails met één sectie) en oproepen-naar-actie
 1. Hoofdtekst van e-mail voor volgende secties (voor e-mails met meerdere secties)
-1. Het proces van de de bevestiging van het merk komt voor en de [_controle van de Merk_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) bevolkt voor elke variant.
+1. Merkwaardvalidatie
+
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
 
 ## Aantal tekens
 

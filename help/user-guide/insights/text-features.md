@@ -5,7 +5,8 @@ feature: Insights, Attributes, Generative AI
 hide: true
 hidefromtoc: true
 recommendations: noDisplay, noCatalog
-source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
+exl-id: 7b81b0ae-0c62-468f-965c-fd8070644fb3
+source-git-commit: 808ffdb7f55f7ff938e9346b8513fab46f86df7c
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 Tekstfuncties omvatten tellingen voor bepaalde tekstelementen, zoals woorden, zinnen, emojis en classificaties voor semantiek, emotie en toon die worden gebruikt voor analyse met [!DNL Insights] . De tekst kan ook een leesbaarheidsscore ontvangen.
 
-GenStudio for Performance Marketing maakt gebruik van Adobe AI- en computerleermogelijkheden om tekst te bestuderen en [!UICONTROL Asset attributes] toe te passen op basis van de bijbehorende teksttonen en marketingcommentaar. De invoertekst wordt gevalideerd om ervoor te zorgen dat deze alfanumerieke tekens bevat, extra witruimten en niet-afdrukbare tekens worden verwijderd en de tekst wordt afgekapt tot maximaal 1500 woorden. Voordat gedetecteerde kenmerkcodes worden toegepast, voorspelt de AI de prevalente toon.
+GenStudio for Performance Marketing maakt gebruik van Adobe AI- en computerleermogelijkheden om tekst te bestuderen en [!UICONTROL Media attributes] toe te passen op basis van de bijbehorende teksttonen en marketingcommentaar. De invoertekst wordt gevalideerd om ervoor te zorgen dat deze alfanumerieke tekens bevat, extra witruimten en niet-afdrukbare tekens worden verwijderd en de tekst wordt afgekapt tot maximaal 1500 woorden. Voordat gedetecteerde kenmerkcodes worden toegepast, voorspelt de AI de prevalente toon.
 
 ## Tint van stem
 
@@ -52,7 +53,7 @@ Andere secundaire waarden voor de kleurtint zijn: `Enthusiastic`, `Assertive`, `
 
 ## Narratief
 
-Met behulp van de commentaarkenmerken kunt u elementen identificeren die de waarden, het doel of de identiteit communiceren die op het doelpubliek reageren.
+Met de commentaarkenmerken kunt u media identificeren die de waarden, het doel of de identiteit communiceren die op het doelpubliek reageren.
 
 | Narratief | Beschrijving | Voorbeeld |
 | ----------------- | ----------- | ------- |

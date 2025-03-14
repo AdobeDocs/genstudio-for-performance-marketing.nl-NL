@@ -2,12 +2,11 @@
 title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
-last-substantial-update: 2025-02-13T00:00:00Z
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 0d55b89d550a8e44e7dd354d809f00699fccf468
+source-git-commit: 41fb13b1067851194871a1101f2630de7ca1c008
 workflow-type: tm+mt
-source-wordcount: '1716'
-ht-degree: 1%
+source-wordcount: '2054'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +14,50 @@ ht-degree: 1%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2025.2.13 {#latest}
+## 2025,03,13 {#latest}
+
+### LinkedIn-ervaringen maken
+
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+
+Toegevoegde steun voor [ het creëren van ervaringen LinkedIn ](/help/user-guide/create/create-linkedin.md). Zie [ LinkedIn en ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) lusje in kanaal-specifieke richtlijnen.
+
+### Bannervaringen maken
+
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+
+Toegevoegde steun voor [ creërend bannerervaringen ](/help/user-guide/create/create-banner-experience.md). Zie het [ lusje van de Banner ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanaal-specifieke richtlijnen.
+
+### Compatibiliteit
+
+Als deel van het proces van de merkbevestiging, [ nalevingsnormen ](/help/user-guide/guidelines/overview.md) zijn geïntroduceerd in [ controles van de Inhoud ](/help/user-guide/guidelines/brand-validation.md). Deze controles controleren elke variant in een ervaring aan de hand van [!DNL Brand], [!DNL Product] en [!DNL Persona] richtlijnen, platformrichtlijnen (zoals voor Meta), ethische overwegingen en ADA-standaarden. Dit proces biedt een uitgebreid overzicht van de richtsnoeren en normen die moeten worden herzien om betere naleving te bereiken.
+
+### Uitbreidbaarheid
+
+Het nieuwe GenStudio for Performance Marketing [ rekbaarheidskader ](/help/extensibility/overview.md) verstrekt hulpmiddelen voor organisaties om hun eigen eisen nalevingsprotocollen in het werkschema van de inhoudsverwezenlijking en bevestiging door toe:voegen-ons, of verlengbare toepassingen op te nemen.
+
+### Sjablonen
+
+* **de coderedacteur van het Malplaatje** - de nieuwe [ redacteur van de code van het Malplaatje ](/help/user-guide/content/code-editor.md) helpt u verifiëren en uw malplaatje voor optimaal gebruik raffineren wanneer het produceren van nieuwe ervaringen met GenStudio for Performance Marketing.
+
+  ![ de redacteursmening van de Code ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){width="500" zoomable="yes"}
+
+* **Verbindingen op beeld** - pas uw e-mailmalplaatje aan door beeldverbindingen toe te laten. Zie [ een malplaatje aanpassen: Verbinding op beeld ](/help/user-guide/content/customize-template.md#link-on-image).
+* **AJO en de malplaatjes van Marketo** - upload een malplaatje dat u in Adobe Journey Optimizer (AJO) of Marketo creeerde. Zie [ Werk met malplaatjes van AJO en Marketo ](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
+
+### Oplossingen en verbeteringen
+
+* Toegelaten functionaliteit voor [ standaardkanaal ](/help/user-guide/guidelines/brands.md#channel-guidelines), [ beeld ](/help/user-guide/guidelines/brands.md#image-guidelines), [ embleem ](/help/user-guide/guidelines/brands.md#logos), en [ kleur ](/help/user-guide/guidelines/brands.md#colors) richtlijnen voor [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
+* Toegevoegde capaciteit om [ verbindingen aan beelden ](/help/user-guide/create/manage-variants.md#add-image-link) binnen een variant toe te voegen.
+* Verplaatste de [ controle van de Inhoud ](/help/user-guide/guidelines/brand-validation.md) en van het Overzicht en goedkeuring functionaliteit aan de nieuwe juiste actiebar om ruimte op het Canvas te maximaliseren en de gebruikerservaring te verbeteren.
+* Vereenvoudigde de stroom voor [ uploadend of manueel toevoegend een merk ](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Introduceerde de capaciteit om beeldactiva binnen een variant ](/help/user-guide/create/manage-variants.md#swap-image) op het Canvas toe te voegen of te ruilen.[
+* Verbeterde gebruikerservaring en zicht van kanaalcategorieën [ op Create huis ](/help/user-guide/create/overview.md) door hen in de Bezit media, Betaalde media, en de secties van de Inhoud te scheiden.
+* Verbeterd filteren in tabel- en galerieweergaven in [!DNL Insights] .
+
+## Opmerkingen bij eerdere releases
+
++++Opmerkingen van 2025.02.13
 
 ### Verbeteringen op de bestemmingspagina voor [!DNL Create]
 
@@ -23,11 +65,11 @@ De landingspagina van [!DNL Create] in GenStudio for Performance Marketing bevat
 
 ### Uitvoer van inzichten naar CSV
 
-U kunt de weergavetabel nu vanuit elke [!DNL Insights] -weergave downloaden naar een CSV-bestand. Met deze functie kunt u eenvoudig gegevens uit verschillende [!DNL Insights] weergaven exporteren en analyseren, waardoor opties voor gegevensanalyse en -rapportage eenvoudiger worden.
+U kunt de weergavetabel nu vanuit elke [!DNL Insights] -weergave downloaden naar een CSV-bestand. Met deze functie kunt u gegevens uit verschillende weergaven van [!DNL Insights] exporteren en analyseren, zodat u gemakkelijker gegevensanalyses kunt uitvoeren en rapportopties kunt maken.
 
-## Opmerkingen bij eerdere releases
++++
 
-+++Opmerkingen van 2025.1.16
++++Opmerkingen van 2025.01.16
 
 ### Integratie met Adobe Workfront Proof
 

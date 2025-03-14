@@ -3,7 +3,7 @@ title: Overzicht van kanalen
 description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes in Adobe GenStudio for Performance Marketing.
 feature: Insights, Channels, Campaigns
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 5cff6d1dd097b18e4fa3d286afddc1db553a415d
+source-git-commit: e4507e53896348bca2ebec4ae299be50a0d277a7
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -16,13 +16,13 @@ In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campag
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Het filterpictogram (trechter) boven de linkerkant van de tabel opent het menu **[!UICONTROL Filter]**, waarin u een keuze kunt maken uit de lijsten [!UICONTROL Account] , [!UICONTROL Status] en [!UICONTROL Objective] om de campagnes in de tabel te filteren.
+De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]**boven de tabel om alle filters te verwijderen.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
 {{$include /help/_includes/download-insights.md}}
 
-Wanneer u een campagne selecteert, opent [[!UICONTROL Experiences] lusje ](experiences.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke ervaringen aan zijn algemeen succes hebben bijgedragen.
+Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
 
 ## Doelstellingen
 

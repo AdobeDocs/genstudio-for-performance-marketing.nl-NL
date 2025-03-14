@@ -3,9 +3,9 @@ title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Content, Assets, Experiences
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: 504f556825c5645172c2315877cb6c06f015cf0e
 workflow-type: tm+mt
-source-wordcount: '1262'
+source-wordcount: '1370'
 ht-degree: 0%
 
 ---
@@ -139,18 +139,31 @@ U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toev
 
 **om beelden in een variant** toe te voegen of te ruilen:
 
+1. Nadat u een set varianten hebt gegenereerd, klikt u op een afbeeldingselement (of op het gebied met afbeeldingselementen als er momenteel geen afbeelding bestaat).
+1. Klik op het pictogram **[!UICONTROL Swap from content]** .
+1. Gebruik de filters en zoekfunctie in de weergave GenStudio-elementen [!DNL Content] om uw zoekresultaten verder te verfijnen.
+
+   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**menu ](/help/user-guide/content/manage-assets.md#location) .
+
+1. Klik om een afbeelding te selecteren en klik op **[!UICONTROL Use]** .
+
+   De afbeelding wordt toegevoegd of omgewisseld in de desbetreffende variant.
+
+## Afbeeldingskoppeling toevoegen
+
+Net als bij het toevoegen of wisselen van afbeeldingen in gegenereerde varianten, kunt u een koppeling naar afbeeldingen toevoegen. Het malplaatje u gebruikte om varianten _te produceren moet_ a [ inhoudplaceholder voor de verbinding ](/help/user-guide/content/customize-template.md#content-placeholders) bevatten om deze functionaliteit toe te laten.
+
+**om een beeldverbinding in een variant** toe te voegen:
+
 1. Nadat u een set varianten hebt gegenereerd, klikt u op een afbeeldingselement.
 
    Als de variant momenteel geen geplaatst afbeeldingselement heeft, klikt u op het gebied met afbeeldingselementen.
 
-1. Selecteer een afbeeldingselement dat al is gepubliceerd naar [!DNL Content] :
-   1. Klik op **[!UICONTROL Select from content]**. Gebruik de filters om de zoekresultaten verder te verfijnen.
-   1. Klikken **[!UICONTROL Use]**
-1. Een afbeeldingselement uploaden:
-   1. Klik op **[!UICONTROL Upload New Image]** om door uw bestanden te bladeren en elementen te kiezen die u wilt gebruiken. Naast het bladeren door uw apparaat kunt u ook importeren vanuit Microsoft OneDrive of Dropbox.
-   1. Klik op **[!UICONTROL Add Assets]**.
+1. Klik op het koppelingspictogram
+1. Klik op **[!UICONTROL Remove link]** om de bestaande standaardkoppeling te verwijderen.
+1. Voeg een koppeling toe aan het tekstveld en klik op **[!UICONTROL Apply]** .
 
-   De afbeeldingen worden toegevoegd of omgewisseld in de desbetreffende variant.
+   De gedefinieerde koppeling wordt toegepast op alle afbeeldingen in de variantenset.
 
 ## Voorvertoning voor apparaat
 
@@ -176,9 +189,9 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 ## Merkvalidatie per variant
 
-Gebruik _[!UICONTROL Brand guidelines check]_en_[!UICONTROL Brand validation panel]_ om een consistente merkidentiteit en uitlijning van varianten te behouden.
+Gebruik het _paneel van de controle van de Inhoud 0} {om verenigbare merkidentiteit, [ de toegankelijkheidsnormen van ADA, platformrichtlijnen ](/help/user-guide/guidelines/overview.md#content-checks), en groepering van varianten te handhaven._
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 
 ## Feedback genereren
 

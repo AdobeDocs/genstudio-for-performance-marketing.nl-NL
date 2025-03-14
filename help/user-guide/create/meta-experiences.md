@@ -5,9 +5,9 @@ feature: Experiences, Content Generation, Create, Generative AI, Variant Generat
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 72a3b62d02e391d2127982e7c3a6f437f868a3c1
+source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Content creators and marketers can produce brand-consistent Meta ad experiences 
 
 ## Meta-advertentiekanalen
 
-Bij het maken van Meta-advertenties kunt u varianten voor zowel Facebook- als Instagram-kanalen genereren. Schakel heen en weer tussen Facebook- en Instagram-advertenties om varianten voor elk kanaal voor te vertonen.
+Bij het maken van Meta-advertenties kunt u varianten voor zowel Facebook- als Instagram-kanalen genereren. Schakel heen en weer tussen Facebook- en Instagram-advertenties om varianten voor elk kanaal te bekijken.
 
 Zie [ kiezen Meta advertenties kanaal ](/help/user-guide/create/create-meta-ad.md#choose-meta-ads-channel).
 
@@ -55,7 +55,9 @@ Elk veld en elke sectie van de Meta-advertentie worden geleidelijk in deze reeks
 1. Vraag-aan-actie en bijbehorende URLs
 1. Koppen
 1. Tekst in afbeelding
-1. Het proces van de merkbevestiging komt voor en de [_controle van de merkenrichtlijnen_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) bevolkt voor elke variant.
+1. Merkwaardvalidatie
+
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
 
 ## Aantal tekens
 
