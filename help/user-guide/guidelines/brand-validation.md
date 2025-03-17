@@ -3,9 +3,9 @@ title: Merkvalidatie in Adobe GenStudio for Performance Marketing
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
+source-git-commit: 8a8815d49ce4a950fcfc2f425ca58ae7fbd42c73
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ In GenStudio for Performance Marketing is merkvalidatie een essentieel onderdeel
 
 GenStudio for Performance Marketing voert de validatie van merken en andere inhoudcontroles uit op verschillende aspecten, waaronder:
 
-* Richtlijnen [!DNL Brand], [!DNL Persona] en [!DNL Product] gedefinieerd of standaard
+* Richtlijnen voor definitie of standaard [!DNL Brand]
 * Richtlijnen voor platformen
-* Ethische overwegingen in verband met geslacht, etniciteit, ras, gehandicaptenstatus en leeftijd in door AI gegenereerde inhoud
+<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 * American with Disabilities Act (ADA)-standaarden
 
 ## Overzicht van inhouds controle

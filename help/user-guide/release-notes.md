@@ -3,9 +3,9 @@ title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 86974fec02bd50fa36ef16bd4d1881794972fc79
+source-git-commit: 8a8815d49ce4a950fcfc2f425ca58ae7fbd42c73
 workflow-type: tm+mt
-source-wordcount: '2099'
+source-wordcount: '2096'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Toegevoegde steun voor [ creërend bannerervaringen ](/help/user-guide/create/cr
 
 ### Compatibiliteit
 
-Als deel van het proces van de merkbevestiging, [ nalevingsnormen ](/help/user-guide/guidelines/overview.md) zijn geïntroduceerd in [ controles van de Inhoud ](/help/user-guide/guidelines/brand-validation.md). Deze controles controleren elke variant in een ervaring aan de hand van [!DNL Brand], [!DNL Product] en [!DNL Persona] richtlijnen, platformrichtlijnen (zoals voor Meta), ethische overwegingen en ADA-standaarden. Dit proces biedt een uitgebreid overzicht van de richtsnoeren en normen die moeten worden herzien om betere naleving te bereiken.
+Als deel van het proces van de merkbevestiging, [ nalevingsnormen ](/help/user-guide/guidelines/overview.md) zijn geïntroduceerd in [ controles van de Inhoud ](/help/user-guide/guidelines/brand-validation.md). Deze controles evalueren elke variant in een ervaring aan de hand van [!DNL Brand] richtlijnen, platformrichtlijnen (zoals voor Meta) en ADA-standaarden. Dit proces biedt een uitgebreid overzicht van de richtsnoeren en normen die moeten worden herzien om betere naleving te bereiken.
 
 ### Uitbreidbaarheid
 
