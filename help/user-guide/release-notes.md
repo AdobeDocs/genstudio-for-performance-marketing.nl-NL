@@ -3,9 +3,9 @@ title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 recommendations: noDisplay
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 41fb13b1067851194871a1101f2630de7ca1c008
+source-git-commit: 86974fec02bd50fa36ef16bd4d1881794972fc79
 workflow-type: tm+mt
-source-wordcount: '2054'
+source-wordcount: '2099'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
 ## 2025,03,13 {#latest}
+
+### Metaadvertenties activeren
+
+De verkopers kunnen nu [ publiceren en ervaringen ](/help/user-guide/activation/overview.md) van GenStudio for Performance Marketing in de Manager van Advertenties van Meta. [!DNL Activate] ondersteunt gedetailleerde metagegevens en voorvertoningen voordat de toepassing wordt uitgevoerd. Metaadvertenties die via [!DNL Activate] worden gepubliceerd, worden automatisch in de [!DNL Insights] 1 keer live geplaatst, zodat gebruikers de prestaties van een advertentie kunnen volgen en rapporteren.
 
 ### LinkedIn-ervaringen maken
 
