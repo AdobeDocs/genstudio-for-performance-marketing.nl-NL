@@ -1,16 +1,21 @@
 ---
 title: Uw app distribueren
 description: Distribueer uw app, of invoegtoepassing, voor GenStudio for Performance Marketing.
-source-git-commit: 6830e345577ca44ef8dee8de6195314a899f4e57
+exl-id: 4935356b-08df-402c-b1a2-b89627afc188
+source-git-commit: 8884f3438a0010119f578ca9a3b7158e2e01cfa3
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
 # Uw app distribueren
 
-Door uw app te distribueren, maakt u deze beschikbaar voor leden van uw organisatie.
+Door de invoegtoepassing te distribueren, maakt u deze beschikbaar voor gebruik door uw organisatie en mogelijk andere organisaties.
+
+De privé distributie beperkt de plaatsing van uw toe:voegen-op aan de organisatie die door IMS org wordt geïdentificeerd waarvoor u uw toe:voegen-op ontwikkelde. De openbare distributie maakt toe:voegen-op beschikbaar als app op de Adobe Exchange. Uw distributiewerkschema hangt af van of uw toe:voegen-op voor openbare of privé distributie bestemd is.
+
+Dit onderwerp bespreekt privé distributie. [ Openbare Distributie ](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) in de _App Builder_ ontwikkelaarsdocumentatie beschrijft hoe te om uw app voor om het even welke organisatie van Adobe ter beschikking te stellen.
 
 >[!BEGINSHADEBOX]
 
@@ -26,7 +31,9 @@ Uw App Builder-app moet worden geïmplementeerd in een App Builder-project.
 
 >[!ENDSHADEBOX]
 
-**om uw app** te verspreiden:
+**om uw app privé te verdelen**:
+
+Met particuliere distributie is uw app alleen beschikbaar voor leden van uw organisatie.
 
 1. Van [ Adobe Developer Console ](https://developer.adobe.com/console/), selecteer de organisatie, het project, en de werkruimte waar app wordt opgesteld.
 
