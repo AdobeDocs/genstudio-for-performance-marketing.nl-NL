@@ -1,12 +1,12 @@
 ---
 title: Een weergave en ervaring maken
 description: Leer hoe te om vertoning en ervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
-feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 4fae540faafdf3f3b32e567e033ea6e8e44ad978
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '983'
 ht-degree: 0%

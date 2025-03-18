@@ -1,9 +1,9 @@
 ---
-title: GenStudio for Performance Marketing  [!DNL Personas]
-description: GenStudio voor Op de markt brengende van Prestaties  [!DNL Personas]  is een ware vertegenwoordiging van uw klantensegmenten, die hun belangen, pijnpunten, voorkeur, en gedragseigenschappen vangen.
-feature: Personas Service, Guidelines
+title: GenStudio for Performance Marketing [!DNL Personas]
+description: GenStudio for Performance Marketing  [!DNL Personas]  is een ware vertegenwoordiging van uw klantensegmenten, die hun belangen, pijnpunten, voorkeur, en gedragseigenschappen vangen.
+feature: Persona Personalization, Variant Generation, Generative AI
 exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
-source-git-commit: ea07473556386ee84d8c31a4607e6e3b11abbac8
+source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 [!DNL Personas] biedt een authentieke weergave van de klantsegmenten, waarin de gegevens, interesses, pijnpunten, voorkeuren en gedragseigenschappen zijn opgenomen.
 
-GenStudio for Performance Marketing gebruikt de macht van richtlijnen - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](overview.md) - en generatieve AI van de Adobe technologie om gepersonaliseerde marketing inhoud voor uw doelklanten te leiden. &#x200B;
+GenStudio for Performance Marketing hefboomwerkingen de macht van richtlijnen - [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](overview.md) - en de generatieve technologie van Adobe AI om gepersonaliseerde marketing inhoud voor uw doelklanten te leiden. &#x200B;
 
 **om een persona** te bekijken of te wijzigen:
 
@@ -22,7 +22,7 @@ GenStudio for Performance Marketing gebruikt de macht van richtlijnen - [[!DNL B
 1. Om [ individuele details te bekijken of een persoon ](add-guidelines.md#manage-personas) te wijzigen, klik het _[!DNL Personas]_actiemenu en selecteer **Open**.
 1. Wijzig de richtlijnen voor personen door in een tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtsnoeren ](add-guidelines.md) toevoegen om te leren hoe te om een persoon in GenStudio voor de Marketing van Prestaties toe te voegen of te wijzigen.
+Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een persoon in GenStudio for Performance Marketing toe te voegen of te wijzigen.
 
 ## [!DNL Personas] richtlijnen
 

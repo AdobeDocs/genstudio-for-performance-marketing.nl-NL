@@ -1,11 +1,12 @@
 ---
 title: LinkedIn-ervaringen
 description: Meer informatie over LinkedIn-ervaringen in Adobe GenStudio for Performance Marketing.
-feature: Experiences, Content Generation, Create, Generative AI, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 role: User
 level: Beginner
-source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
+exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

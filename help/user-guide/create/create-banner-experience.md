@@ -1,12 +1,13 @@
 ---
 title: Een bannerervaring maken
 description: Leer hoe te om bannerervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
-feature: Brands Service, Guidelines, Content Generation, Generative AI, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 role: User
 level: Beginner
 recommendations: noDisplay
-source-git-commit: e4f552016fe17d2d7eb61792b62859475f107094
+exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%

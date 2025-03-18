@@ -1,12 +1,13 @@
 ---
 title: Een LinkedIn-ervaring maken
 description: Leer hoe u uw eigen merkvriendelijke LinkedIn-ervaringen met Adobe GenStudio for Performance Marketing kunt maken.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 recommendations: noDisplay
-source-git-commit: 42a0fe67304b929ac3da265b746415cfd87cdaba
+exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
+source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
 workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 0%
