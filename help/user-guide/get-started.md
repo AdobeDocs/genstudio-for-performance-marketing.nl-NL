@@ -4,9 +4,9 @@ description: Meer informatie over hoe u met GenStudio voor prestatiemarketing aa
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: fd49abb491477b0a8ed5b1f646219458efc49365
+source-git-commit: 462834fb622dae4680a64e3de5c370b9268ee4cb
 workflow-type: tm+mt
-source-wordcount: '691'
+source-wordcount: '616'
 ht-degree: 2%
 
 ---
@@ -17,13 +17,13 @@ Adobe GenStudio for Performance Marketing biedt een uitgebreide reeks hulpmiddel
 
 ## Inhoud maken, delen en reviseren starten
 
-Als u aan generatieve op AI-Gebaseerde hulpmiddelen nieuw bent of eenvoudig nieuwsgierig over de kernbeginselen van GenStudio for Performance Marketing, zie [ Concepten ](concepts.md) en [ schrijven efficiënte herinneringen ](effective-prompts.md). U kunt uit [ Academie van de Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy) controleren, online het leren van de Adobe platform over het gebruiken van generatieve AI technologieën in het creatieve proces.
+Als u aan generatieve op AI-Gebaseerde hulpmiddelen nieuw bent of eenvoudig nieuwsgierig over de kernbeginselen van GenStudio for Performance Marketing, zie [ Concepten ](concepts.md) en [ schrijven efficiënte herinneringen ](effective-prompts.md). U kunt [ Academie van Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy) uitchecken, online het leren van Adobe platform over het gebruiken van generatieve AI technologieën in het creatieve proces.
 
 ## Train GenStudio for Performance Marketing
 
 GenStudio for Performance Marketing gebruikt informatie over uw merk en markten om de creatie van inhoud die aan uw merk voldoet, te verbeteren. De materialen van de opleiding omvatten voorbeelden, beschrijvingen van klant [ personas ](/help/user-guide/guidelines/personas.md) en [ producten ](/help/user-guide/guidelines/products.md), en [ merkrichtlijnen ](/help/user-guide/guidelines/overview.md).
 
-Systeembeheerders stellen Adobe GenStudio for Performance Marketing in door organisatorische specifieke informatie in te voeren of te uploaden. Deze voorbereiding zorgt ervoor dat de inhoudredacteurs en de medewerkers effectief de generatieve eigenschappen van AI kunnen gebruiken om campagneactiva tot stand te brengen en te herzien. Zodra een systeembeheerder van het systeem van de Adobe de productinstantie van uw organisatie voorziet en een de beheerstoestemmingen van het systeem van GenStudio toewijst, kan de systeembeheerder van GenStudio het onderliggende generatieve AI kader van het product opstellen gebruikend richtlijnen.
+Systeembeheerders stellen Adobe GenStudio for Performance Marketing in door organisatorische specifieke informatie in te voeren of te uploaden. Deze voorbereiding zorgt ervoor dat de inhoudredacteurs en de medewerkers effectief de generatieve eigenschappen van AI kunnen gebruiken om campagneactiva tot stand te brengen en te herzien. Als een Adobe-systeembeheerder de productinstantie van uw organisatie heeft ingericht en een GenStudio-systeembeheermachtiging heeft toegewezen, kan de GenStudio-systeembeheerder het onderliggende generatieve AI-framework van het product voorbereiden aan de hand van richtlijnen.
 
 ### Stap 1: Richtlijnen toevoegen
 
@@ -31,19 +31,7 @@ Het instellen van de belangrijkste bouwstenen van de merkidentiteit van uw organ
 
 #### De documenten met hulplijnen voorbereiden
 
-Uitgebreide en gerichte [[!DNL Brands]](./guidelines/brands.md) -, [[!DNL Products]](./guidelines/products.md) - en [[!DNL Personas]](./guidelines/personas.md) richtlijnen definiëren de kernaspecten van de marketingcampagnes van uw organisatie. GenStudio for Performance Marketing haalt informatie uit deze richtlijnen om uw merk te gaan maken.
-
-Volg deze beste praktijken wanneer het opstellen van richtlijnen:
-
-* Gebruik specifieke taal.
-
-* Neem de beste voorbeelden op die u kunt zien in welke stijl en toon u campagne-elementen wilt plaatsen.
-
-* Vermijd redundantie. U zou kunnen worden geneigd om een richtlijn veelvoudige tijden te herhalen, maar de overtolligheid in uw richtlijnen helpt niet de onderliggende LLM vangen en uw merkrichtlijnen uitvoeren.
-
-* Identificeer elementen die u LLM tijdens inhoudsgeneratie (bijvoorbeeld, uitroeppunten in tekst) wilt uitsluiten.
-
-U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens invoert in GenStudio for Performance Marketing. Zie [ richtlijnen ](./guidelines/overview.md) voor begeleiding toevoegen bij het uploaden van of het ingaan van deze informatie.
+Uitgebreide en gerichte [[!DNL Brands]](./guidelines/brands.md) -, [[!DNL Products]](./guidelines/products.md) - en [[!DNL Personas]](./guidelines/personas.md) richtlijnen definiëren de kernaspecten van de marketingcampagnes van uw organisatie. GenStudio for Performance Marketing haalt informatie uit deze richtlijnen om uw merk te gaan maken. U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens invoert in GenStudio for Performance Marketing. Zie [ richtlijnen ](./guidelines/overview.md) voor begeleiding toevoegen bij het uploaden van of het ingaan van deze informatie.
 
 #### Richtlijnen voor revisie
 
@@ -51,9 +39,9 @@ Een GenStudio-systeembeheerder kan het onderliggende generatieve AI-framework va
 
 ### Stap 2: Een Adobe Admin Console-project instellen voor GenStudio [!DNL Brands]
 
-Systeembeheerders moeten extra instellingstaken uitvoeren voordat medewerkers [!DNL Brands] kunnen bewerken of maken. Systeembeheerders van Adoben voeren deze taken uit in de Adobe Admin Console:
+Systeembeheerders moeten extra instellingstaken uitvoeren voordat medewerkers [!DNL Brands] kunnen bewerken of maken. Adobe-systeembeheerders voeren deze taken uit in de Adobe Admin Console:
 
-* Maak een nieuwe gebruikersgroep met alle gebruikers die [!DNL Brands] rechten moeten bewerken en maken.
+* Maak een nieuwe gebruikersgroep die alle gebruikers bevat die [!DNL Brands] rechten moeten bewerken en maken.
 
 * Maak een nieuw project in de Adobe Admin Console.
 
