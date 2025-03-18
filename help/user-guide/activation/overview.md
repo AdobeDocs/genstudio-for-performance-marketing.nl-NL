@@ -1,35 +1,43 @@
 ---
-title: Overzicht van activering
+title: Overzicht van Activeren
 description: Leer hoe u inhoud activeert met Adobe Experience Cloud en toepassingen van derden.
-feature: Assets, Approval, Experiences
+feature: Assets, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: ce08231cb723bec3d80a732837b72a435d3b552d
+source-git-commit: c3b8419deccd24cd565627fcb3f7d6376860e84a
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio for Performance Marketing-activering
+# Adobe GenStudio for Performance Marketing activeren
 
-_Activering_ is het proces om Adobe GenStudio for Performance Marketing-Gegenereerde activa en ervaringen beschikbaar te maken voor levering door uw uitgezochte kanalen en producten van Adobe Experience Cloud. U kunt goedgekeurde inhoud eenvoudig vanuit GenStudio for Performance Marketing exporteren in de optimale indelingen voor de toepassingen van derden die u in [!DNL Products] hebt opgenomen.
+GenStudio for Performance Marketing _[!DNL Activate]_biedt een centrale locatie voor het voorbereiden van uw advertentie voor activering om betaalde advertentiekanalen te selecteren._ Activering _is het proces om ad ervaring aan aangewezen kanalen in een inactieve staat te leveren, klaar voor definitieve overzicht en plaatsing van het kanaal. De ervaringen met advertenties kunnen vervolgens op de beoogde markten worden verspreid.
 
-De GenStudio for Performance Marketing-activeringsfunctie is native geïntegreerd in de leveringsproducten van de Adobe: Journey Optimizer, Journey Optimizer B2B-editie, Experience Manager, Marketo en Target.
+Inhoud-editors en systeembeheerders kunnen ervaringen publiceren waarvan de elementen worden gegenereerd in of geüpload naar GenStudio for Performance Marketing.
 
-**om een goedgekeurd activa** te activeren:
+In [!DNL Activate] wordt voor elk kanaal een productegel weergegeven. In deze tegel wordt het betaalde mediakanaal weergegeven en wordt het aantal geslaagde advertentie-activeringen in de afgelopen 30 dagen weergegeven. Het biedt ook een ingangspunt voor het beheren van activeringen en het maken van een nieuwe activering.
 
-1. Selecteer het element in [!DNL Content] .
+Elke betaalkanaalaccount moet zijn verbonden met GenStudio for Performance Marketing voordat u een advertentie kunt activeren.
 
-1. Klik het **[!UICONTROL Download]** (benedenpijl) pictogram boven de _mening van Details_.
+## [!DNL Activate] gebruik gevallen
 
-   Het middel wordt gedownload als dossier van het PIT aan uw lokale _Downloads_ omslag.
+* [ creeer een activering ](create-activation.md). U kunt een advertentie-ervaring opbouwen door visuele activa te selecteren, tekst toe te wijzen, en meta-gegevens te bepalen alvorens aan een betaald kanaal te duwen.
 
-**om een goedgekeurde ervaring** te activeren:
+* [ beheert actities ](manage-activations.md). _[!DNL Activate]_biedt een overzicht van alle geactiveerde ervaringen. U kunt ook de details van afzonderlijke activeringen bekijken.
 
-1. Selecteer de ervaring in [!DNL Content] > [!DNL Experiences] .
+## [!DNL Activate] mogelijkheden
 
-1. Klik op de knop **[!UICONTROL Export for activation]** in de weergave Details van de ervaring. GenStudio for Performance Marketing geeft de pop-up van **[!UICONTROL Export for activation]** weer en biedt twee downloadindelingen: CSV en HTML. (Alternatief, kunt u tot de *[!UICONTROL Export for activation]** knoop van _toegang hebben Meer opties_ menu (die door `...` worden vertegenwoordigd).
+_[!DNL Activate]_vergemakkelijkt de voorbereiding van advertentie-ervaring voor distributie naar de betaalkanalen waarvoor het is bestemd.
 
-1. Selecteer de downloadindeling van uw voorkeur door op de knop **[!UICONTROL Export CSV]** of **[!UICONTROL Export HTML]** in het pop-upmenu te klikken.
+### Activering voorbereiden
 
-   Het de uitvoerproces leidt tot een pakket van het PIT in uw lokale _Downloads_ omslag. Deze mapnaam is gelijk aan de naam van de ervaring.
+De _de opstellings_ pagina van Creative consolideert de hulpmiddelen die u de visuele elementen van een advertentie moet selecteren, en tekst (met inbegrip van vraag-aan-actie tekst) aanpassen, en nuttige meta-gegevens toevoegen die ervaring het volgen en zicht verbeteren.
+
+### Elementen selecteren voor een advertentie
+
+U kunt goedgekeurde visuele middelen zoeken en selecteren vanuit _[!DNL Content]_of elementen uploaden vanuit Dropbox of OneDrive. U kunt elementen ook rechtstreeks vanaf uw apparaat uploaden. Eén advertentie kan op meerdere plaatsen worden uitgevoerd. Assets kan worden geüpload in de hoogte-breedteverhoudingen die u voor advertentieplaatsen nodig hebt.
+
+### Een voorvertoning van uw ervaring weergeven en deze activeren op een advertentiekanaal
+
+Bevestig de betaalkanaalaccounts, advertentiesets en Meta-campagnes die bij deze activering van de advertentie horen. Het _paneel van de Voorproef_ laat u en ervaringen in verschillende plaatsen bekijken alvorens u het voltooit. (Wanneer u een plaatsing in het _paneel van de Voorproef_ selecteert, slechts wordt uw mening van de advertentie beïnvloed. Uw plaatsingsselectie in het _paneel van de Voorproef_ wordt niet bewaard.) Als u tevreden bent met uw advertentie, klikt u op **[!UICONTROL Publish]** om de ervaring en de bijbehorende metagegevens naar het betaalde advertentiekanaal te verplaatsen.
