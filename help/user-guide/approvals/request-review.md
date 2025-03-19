@@ -2,9 +2,9 @@
 title: Revisies en goedkeuringen aanvragen
 description: Vraag Adobe GenStudio for Performance Marketing om een revisie van gegenereerde inhoud.
 exl-id: 4d5cb23c-457f-47b6-a265-a283afbc54d4
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: 1e66e13df8f1d7ddb6b6a11af6f751ba3a9b8a04
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ Nadat u de varianten van de inhoud hebt gegenereerd, kunt u om revisie en goedke
 **om een overzicht** te verzoeken:
 
 1. Klik op de knop **[!UICONTROL Send for approver]** op de bovenste menubalk van het canvas. _verzendt voor goedkeuring_ pop-up opent en identificeert het ontwerp waarvoor u een overzicht verzoekt. Als u meerdere varianten genereert, wordt het gehele canvas verzonden voor revisie.
+
+1. Bevestig dat de concepttitel beschrijvend en informatief is en dat de fiatteurs de nadruk leggen op de controledoelstelling. Selecteer het _gebied van de Titel_ om de ontwerp titel indien nodig te veranderen. Als u de titel hier wijzigt, verandert ook de onderliggende conceptervaringstitel.
 
 1. Selecteer de fiatteur of fiatteurs waarvan u een revisie wilt aanvragen. Terwijl u begint te typen, wordt in het veld **[!UICONTROL Approver]** automatisch de gebruikersnaam van de fiatteur ingevuld in de lijst met gebruikers met GenStudio for Performance Marketing-weergave en -machtigingen voor goedkeuring. De knop **[!UICONTROL Send]** wordt geactiveerd nadat u ten minste één fiatternaam hebt ingevoerd.
 
