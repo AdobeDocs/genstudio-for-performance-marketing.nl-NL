@@ -2,12 +2,13 @@
 title: Een advertentiesjabloon voor metagegevens voorbereiden voor Adobe GenStudio for Performance Marketing
 description: Leer hoe u een aangepaste metagegevensadvertentiesjabloon voor Adobe GenStudio for Performance Marketing maakt.
 level: Intermediate
+feature: Media Templates
 hidefromtoc: true
-feature: Templates, Content
+recommendations: noCatalog
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
-source-git-commit: cf6e0679999614a4d14d224c9a8dce0b66f50262
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -42,7 +43,7 @@ Als de advertentie niet in één van deze aspectverhoudingen wordt ontworpen, sn
 
 ## Een metagegevensadvertentiesjabloon testen
 
-Test uw malplaatje gebruikend Creative Hub van Meta om te zien hoe de advertentie in verschillende plaatsen zoals in een voer of als verhaal kijkt.
+Test uw malplaatje gebruikend de Hub van Creative van Meta om te zien hoe de advertentie in verschillende plaatsen zoals in een voer of als verhaal kijkt.
 
 Test uw e-mailadres of testplatform om te controleren of deze correct wordt weergegeven op verschillende e-mailclients en apparaten.
 

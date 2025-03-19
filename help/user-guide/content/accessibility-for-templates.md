@@ -1,11 +1,11 @@
 ---
 title: Toegankelijke sjablonen maken
 description: Sjablonen maken in Adobe GenStudio for Performance Marketing waarmee u meer van uw publiek kunt bereiken en een optimale ervaring kunt bieden.
-feature: Templates, Content
+feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: cc1d750a8a520c793b1b605747c091f8a5f5e1a2
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---

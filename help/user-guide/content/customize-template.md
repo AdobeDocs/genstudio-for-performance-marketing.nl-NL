@@ -2,9 +2,9 @@
 title: Een sjabloon aanpassen
 description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketing kunt aanpassen en optimaliseren.
 level: Intermediate
-feature: Templates, Content
+feature: Media Templates, Content Generation
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: eb7f19ebc0854db3a33599b56c857875ee67982b
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
 source-wordcount: '1439'
 ht-degree: 0%

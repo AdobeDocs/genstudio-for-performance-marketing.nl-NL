@@ -2,11 +2,11 @@
 title: Verbind met een  [!DNL AEM Assets Content Hub]  bewaarplaats
 description: Leer hoe te om Adobe GenStudio for Performance Marketing met een Adobe Experience Manager (AEM) te verbinden  [!DNL Content Hub]  bewaarplaats en hefboomwerking bestaande goedgekeurde inhoud.
 level: Experienced
-feature: Assets, Content
+feature: Content Management
 exl-id: abb587fd-593c-4b9f-baad-993d92400d9b
-source-git-commit: abe1de42b81bff63d473a67632d27f96db7c1c7d
+source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ De volgende stappen vereisen administratieve toegang tot Admin Console en AEM As
 
 Volg **stel Content Hub** zelfbedieningsproces op om [!DNL Content Hub] voor uw bestaande AEM Assets in Cloud Manager toe te laten. Zie [ opstellen  [!DNL Content Hub] ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in de _AEM as a Cloud Service_ documentatie.
 
-Nadat u [!DNL AEM Assets Content Hub] hebt ingeschakeld, hebt u een nieuwe instantie met het `contenthub` achtervoegsel [!DNL AEM Assets as a Cloud Service] op de Admin Console.
+Nadat u [!DNL AEM Assets Content Hub] hebt ingeschakeld, hebt u een nieuwe instantie met het `contenthub` achtervoegsel [!DNL AEM Assets as a Cloud Service] op Admin Console.
 
 >[!IMPORTANT]
 >
