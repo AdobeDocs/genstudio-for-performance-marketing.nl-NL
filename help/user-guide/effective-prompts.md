@@ -1,12 +1,12 @@
 ---
 title: Effectieve aanwijzingen schrijven
 description: Meer informatie over hoe u effectieve opdrachten schrijft voor Adobe GenStudio voor prestatiemarketing.
-feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
+feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 79430c3279529c4871141489e409240852e1f4fc
+source-git-commit: 91b684d27f3205806e5e92ea14db45cee84b806b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '750'
+ht-degree: 1%
 
 ---
 

@@ -2,9 +2,9 @@
 title: Voorziening Adobe GenStudio for Performance Marketing
 description: Meer informatie over het leveren van het GenStudio for Performance Marketing-product.
 level: Beginner
-feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
+feature: Generative AI
 exl-id: 7a9f8de1-79e7-455c-ae0f-e7646febc483
-source-git-commit: 088bc6df481fb1e961a7df3c79515642ec39767d
+source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Voorziening Adobe GenStudio for Performance Marketing
 
-Een beheerder van het Adobe systeem voert aanvankelijke inrichtingstaken in [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) uit. Vanuit de Admin Console kan een Adobe systeembeheerder het GenStudio-productprofiel openen en beschikbare productlicenties toewijzen aan gebruikers.
+Een het systeembeheerder van Adobe voert aanvankelijke inrichtingstaken in [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) uit. Vanuit de Admin Console kan een Adobe-systeembeheerder het GenStudio-productprofiel openen en beschikbare productlicenties toewijzen aan gebruikers.
 
 >[!NOTE]
 >
->Alleen systeembeheerders van Adoben kunnen schakelingstaken implementeren die Adobe Admin Console-toegang vereisen.
+>Alleen Adobe-systeembeheerders kunnen schakelingstaken implementeren die Adobe Admin Console-toegang vereisen.
 
 >[!IMPORTANT]
 >
@@ -25,7 +25,7 @@ Een beheerder van het Adobe systeem voert aanvankelijke inrichtingstaken in [ Ad
 
 ## Stap 1: Toegang tot het productprofiel in Adobe Admin Console
 
-Binnen de Admin Console definieert het productprofiel regels en gebruikersprofielen die uniek zijn voor het maken en beheren van merken en campagnes in GenStudio for Performance Marketing.
+In de Admin Console definieert het productprofiel regels en gebruikersprofielen die uniek zijn voor het maken en beheren van merken en campagnes in GenStudio for Performance Marketing.
 
 **om tot het het productprofiel van GenStudio toegang te hebben**
 
@@ -35,7 +35,7 @@ Binnen de Admin Console definieert het productprofiel regels en gebruikersprofie
 
    Op succesvolle login, ziet u het _Overzicht_ lusje van Adobe Admin Console.
 
-1. Navigeer aan de _Producten_ tabel. Op dit tabblad ziet u alle Adobe producten die uw organisatie heeft aangeschaft.
+1. Navigeer aan de _Producten_ tabel. Op dit tabblad worden alle Adobe-producten weergegeven die uw organisatie heeft aangeschaft.
 
 1. Selecteer **[!UICONTROL GenStudio]** in de lijst met producten. In de Console wordt het GenStudio-productprofiel weergegeven. Dit profiel bevat belangrijke informatie over de productlicenties die uw organisatie heeft aangeschaft. Het biedt ook opties voor het beheer van deze licenties.
 
@@ -43,7 +43,7 @@ U kunt nu licenties toewijzen aan (provisioning)gebruikers aan GenStudio for Per
 
 ## Stap 2: Verstrekkingsgebruikers
 
-Gebruikers van provisioning in de Admin Console zijn het proces waarbij productlicenties worden toegewezen aan gebruikers. Deze gebruikers moeten behoren tot de IMS org die is opgegeven in het productprofiel. U kunt gebruikers op dezelfde manier aanbieden aan uw GenStudio for Performance Marketing-organisatie als aan andere Adobe producten. U kunt gebruikers handmatig toevoegen of gebruikers bulksgewijs importeren.
+Gebruikers van services in de Admin Console wijzen productlicenties toe aan gebruikers. Deze gebruikers moeten behoren tot de IMS org die is opgegeven in het productprofiel. U kunt gebruikers op dezelfde manier aanbieden aan uw GenStudio for Performance Marketing-organisatie als aan andere Adobe-producten. U kunt gebruikers handmatig toevoegen of gebruikers bulksgewijs importeren.
 
 >[!TIP]
 >
