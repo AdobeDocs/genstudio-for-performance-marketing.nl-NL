@@ -3,7 +3,7 @@ title: Merkvalidatie in Adobe GenStudio for Performance Marketing
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 29685c96353703705f3f742e88f3934644bc4282
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram ](#content-check-summary) voor een variant. Dit deelvenster biedt gedetailleerde validatie van merken. platformrichtlijnen, en informatie over toegankelijkheidsstandaarden en belicht mogelijkheden voor verbetering voor elke variantsectie.
 
-![ het controlepaneel van de Inhoud ](/help/assets/content-check-panel.png){height="250" zoomable="yes"}
+![ het controlepaneel van de Inhoud ](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
 De _controle van de Inhoud_ paneelvertoningen bevestiging en [ nalevingsinformatie ](/help/user-guide/guidelines/overview.md#compliance) voor elke sectie van de variant:
 
