@@ -1,19 +1,19 @@
 ---
-user-guide-title: Adobe GenStudio for Performance Marketing Extensible Guide
+user-guide-title: Handboek voor uitbreiding in Adobe GenStudio voor Peformance Marketing
 breadcrumb-title: Handleiding voor uitbreidbaarheid
-user-guide-description: Verken de mogelijkheden van het uitbreidbaarheidskader van Adobe GenStudio for Performance Marketing.
+user-guide-description: Ontdek de mogelijkheden van het uitbreidingskader in Adobe GenStudio voor Performance Marketing.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: Developer
 source-git-commit: bcf969f599279ba28354837b3949316a1bf7df27
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 1%
+ht-degree: 57%
 
 ---
 
 
-# Adobe GenStudio for Performance Marketing Extensible Guide {#ext-guide}
+# Handboek voor uitbreiding in Adobe GenStudio voor Peformance Marketing {#ext-guide}
 
 + [Handleiding voor uitbreidbaarheid](home.md)
 + Aan de slag {#get-started}
