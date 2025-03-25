@@ -1,11 +1,13 @@
 ---
 title: Aanbevolen procedures voor sjablonen
 description: Volg de beste praktijken wanneer het gebruiken van malplaatjes met Adobe GenStudio for Performance Marketing.
+level: Intermediate
+role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: daada794dd39c9bd2aea7815d887821454d162fc
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -41,7 +43,13 @@ Zie [ kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#channel-guidelin
 
 ## Volg kanaalspecifieke sjabloonrichtlijnen
 
-Bouw malplaatjes die de lay-out en visuele vereisten voor elk kanaal aanpassen. Houd rekening met de volgende tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties en compatibiliteit:
+Wanneer het creëren van malplaatjes, zorg ervoor zij aan de specifieke vereisten van het voorgenomen kanaal voldoen. Bouw malplaatjes die de lay-out en visuele vereisten voor elk kanaal aanpassen. Er zijn algemene richtlijnen die op om het even welk malplaatje van toepassing zijn, zoals:
+
+- Onbewerkte en responsieve HTML en inline CSS gebruiken
+- Adobe- of Google-lettertypen gebruiken
+- Gebruik **niet** JavaScript
+
+Houd rekening met de volgende tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties en compatibiliteit:
 
 >[!BEGINTABS]
 
@@ -83,20 +91,11 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 - De breedte van 360 pixels gebruiken voor kolomlay-outs
 - Een minimale resolutie van 1080 x 1080 pixels gebruiken voor afbeeldingen
 - Gebruik **niet** relatieve doopvontgrootte
-- Bepaal **geen** viewports
+- Bepaal **geen** viewport
 - Gebruik **niet** JavaScript
 - Overschrijf **** geen element van HTML in CSS
-- Gebruik de volgende instellingen voor achtergrondafbeeldingen:
-
-  Voeg `object-fit: cover` value toe aan `background-image` CSS-klasse:
-
-  ```css
-  .background-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  ```
+- De tag `<img>` gebruiken in plaats van `background-image`
+- Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
 
 **Beperkingen**:
 
@@ -151,11 +150,10 @@ Volg de onderstaande tips en trucs bij het aanpassen van banners en advertenties
 
 **Erkende gebiedsnamen**:
 
-Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
+Voor banner- en weergaveadvertenties wordt het veld `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
 
 - `headline`
 - `body`
-- `cta`
 - `image` (geselecteerd in Content JPEG, PNG of GIF)
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
@@ -188,21 +186,20 @@ Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om m
    - mobiel
    - Min.: 360 x 640 pixels
    - Max.: 2430 x 4320 pixels
-- Artikel 2.3
+- Verticaal 2,3
    - mobiel
    - Min.: 360 x 640 pixels
    - Max.: 2430 x 4320 pixels
-- Artikel 4.5 (aanbevolen)
+- Verticaal 4.5 (aanbevolen)
    - mobiel
    - Min.: 360 x 640 pixels
    - Max.: 2430 x 4320 pixels
 
 **Erkende gebiedsnamen**:
 
-Voor LinkedIn-advertenties worden de velden `headline` en `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
+Voor LinkedIn-advertenties worden de velden `headline` , `introductory_text` en `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
 
 - `image` (geselecteerd in Content JPEG, PNG of GIF)
-- `introductory_text`
 - `on_image_text`
 - `brand_logo`
 
