@@ -1,16 +1,16 @@
 ---
-title: Door Publish goedgekeurde inhoud
+title: Goedgekeurde inhoud publiceren
 description: Leer hoe u goedgekeurde inhoud publiceert met Adobe GenStudio for Performance Marketing.
-feature: Approval, Content
+feature: Content Review, Content Management
 exl-id: 2bb93815-8a7f-40db-a56a-2aefda40a2f4
-source-git-commit: 1a2e7fa6c107caea745c4898a863d6a3b17ac61f
+source-git-commit: bd8a077bf812761944eba1212843eff04a4943d1
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
-# Door Publish goedgekeurde inhoud
+# Goedgekeurde inhoud publiceren
 
 In de laatste fase van het maken van inhoud die is uitgelijnd op een merk, slaat u deze op in [!DNL Content] met de juiste metagegevens. U (de inhoudeditor of de maker) kunt het goedgekeurde element voltooien door het te publiceren of op te slaan naar [!DNL Content] .
 

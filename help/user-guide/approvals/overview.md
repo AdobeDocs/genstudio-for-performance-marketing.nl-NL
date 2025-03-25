@@ -1,9 +1,10 @@
 ---
 title: Adobe GenStudio for Performance Marketing Reviews and Approval
 description: Meer informatie over het GenStudio for Performance Marketing-proces voor beoordeling en goedkeuring.
-feature: Approval
+level: Beginner
+feature: Content Review, Content Management
 exl-id: c83f47c0-e8ae-4c54-84b3-c50f67d6b3c2
-source-git-commit: 478815d74a742cdc05d3f1faebf27d5adc04d417
+source-git-commit: d6f9673c7b6c8bc1aa051c2133759876a59217eb
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -29,7 +30,7 @@ De belangrijkste fasen van de evaluatie- en goedkeuringswerkstroom zijn:
 * [ overzicht van het verzoek en goedkeuring van inhoud u hebt gecreeerd ](./request-review.md)
 * [ Overzicht en geef inhoud ](./review-and-edit.md) uit
 * [ keur inhoud ](./approve-content.md) goed
-* [ de inhoud van Publish ](./publish-content.md)
+* [ publiceer inhoud ](./publish-content.md)
 
 ## Wie kan een revisie aanvragen of inhoud goedkeuren?
 
