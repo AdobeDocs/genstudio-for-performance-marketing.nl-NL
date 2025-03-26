@@ -1,9 +1,10 @@
 ---
 title: Overzicht van media
 description: Leer hoe u de mediaprestaties in Adobe GenStudio for Performance Marketing kunt evalueren.
+level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '639'
 ht-degree: 0%

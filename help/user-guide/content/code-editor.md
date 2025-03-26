@@ -2,9 +2,10 @@
 title: Sjablooncode-editor
 description: Leer hoe u de sjablooncode-editor in GenStudio for Performance Marketing kunt gebruiken.
 level: Intermediate
+role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%

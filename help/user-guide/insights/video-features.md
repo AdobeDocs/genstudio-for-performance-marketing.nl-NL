@@ -1,9 +1,10 @@
 ---
 title: Videofuncties
 description: Meer informatie over de videofunctie van kenmerkcategorieën die in GenStudio for Performance Marketing worden gebruikt.
+level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%

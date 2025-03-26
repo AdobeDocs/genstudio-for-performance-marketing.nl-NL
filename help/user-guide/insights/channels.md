@@ -1,9 +1,10 @@
 ---
 title: Overzicht van kanalen
 description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes in Adobe GenStudio for Performance Marketing.
+level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 3448392bc3f1496dafdbed2995f40bdba9c91c31
+source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
