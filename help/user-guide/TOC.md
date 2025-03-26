@@ -4,7 +4,8 @@ breadcrumb-title: Gebruikershandleiding
 user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestatiemarketing. Meer informatie over hoe u snel merkgerichte assets maakt, variaties genereert en ervaringen optimaliseert.
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
-source-git-commit: 26bc7f196af8b86c9bbc41e9fb8e6657645a065c
+role: User
+source-git-commit: f3fe4228b089ec71d0568b5e39830f2c1d7ae4d8
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 16%
