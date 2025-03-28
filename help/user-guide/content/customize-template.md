@@ -1,13 +1,13 @@
 ---
 title: Een sjabloon aanpassen
-description: Leer hoe u uw sjabloon voor Adobe GenStudio for Performance Marketing kunt aanpassen en optimaliseren.
+description: Leer hoe u uw HTML-sjabloon kunt aanpassen met plaatsaanduidingen voor inhoud die worden herkend door de generatieve AI van Adobe GenStudio for Performance Marketing.
 level: Intermediate
 role: Developer
-feature: Media Templates, Content Generation
+feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 0a1f13db9a976bac026f49e908b6b8c124bc5df7
+source-git-commit: 81133e4360a9ba7d7fb29f33e418fde8582b0f23
 workflow-type: tm+mt
-source-wordcount: '1439'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -46,18 +46,19 @@ In de volgende tabel staan de veldnamen die door GenStudio for Performance Marke
 | `{{headline}}` | Titel | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
 | `{{introductory_text}}` | Inleidende tekst | LinkedIn en |
 | `{{body}}` | Platte kopie | E-mail <br> Meta en <br> Banner en de advertentie van de Vertoning |
-| `{{cta}}` | Oproep tot actie | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
+| `{{cta}}` | Vraag aan actie <br> Zie [ Vraag aan actie ](#calls-to-action) | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
 | `{{image}}` | Afbeelding—selecteren vanuit [!DNL Content] | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
-| `{{on_image_text}}` | Op afbeeldingstekst | Meta en <br> LinkedIn ad |
+| `{{on_image_text}}` | Op beeldtekst <br> zie [ op beeldtekst ](#on-image-text). | Meta en <br> LinkedIn ad |
 | `{{link}}` | Vraag aan actie op beeld <br> zie [ Verbinding op beeld ](#link-on-image). | email |
-| `{{brand_logo}}` | Logo van geselecteerd merk <br> zie [ het merklogo gebiedsnaam ](#brand-logo-field-name). | e-mail <br> Meta en <br> LinkedIn en |
 
-GenStudio for Performance Marketing vult bepaalde velden automatisch in de volgende sjablonen in:
+<!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
+
+GenStudio for Performance Marketing genereert automatisch bepaalde velden in de volgende sjablonen:
 
 - **E-mailmalplaatje** vereist u niet om het `subject` gebied te identificeren
 - **Meta en malplaatje** vereist u niet om `headline` te identificeren, `body`, en `CTA` gebieden
 - **Banner en de advertentiesjabloon van de Vertoning** vereist u niet om het `CTA` gebied te identificeren
-- **LinkedIn en malplaatjes** vereisen u niet om `headline` te identificeren, `introductory_text`, en `CTA` gebieden
+- **LinkedIn en malplaatje** vereist u niet om `headline` te identificeren, `introductory_text`, en `CTA` gebieden
 
 >[!WARNING]
 >
@@ -109,17 +110,19 @@ In dit voorbeeld:
 - `src="image-source.jpg"` moet worden vervangen door de URL van de eigenlijke afbeeldingsbron.
 - `alt="description"` biedt een alternatieve tekst voor de afbeelding, die nuttig is voor toegankelijkheid en SEO.
 
-### Naam merklogo
+<!-- this field does not work in Create canvas 2025/03
 
-Op dit moment kunt u het merklogo voor het uploaden van de sjabloon niet selecteren. In de volgende voorbeelden worden twee methoden getoond die het merklogo voorwaardelijk weergeven. Elke methode verifieert de bron, biedt een standaard- of alternatieve afbeelding voor het geval het merklogo niet beschikbaar is en past een stijl toe:
+### Brand logo field name
 
-**Voorbeeld 1**: Het gebruiken van [!DNL Handlebars] Ingebouwde voorwaarde van Helpers direct in het HTML `img src` attribuut:
+At this time, you cannot select the brand logo for the template upload. The following examples demonstrate two methods that conditionally render the brand logo. Each method verifies the source, provides a default or alternative image in case the brand logo is not available, and applies a style:
+
+**Example 1**: Using [!DNL Handlebars] Built-in Helpers condition directly in the HTML `img src` attribute:
 
 ```html
 <img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-**Voorbeeld 2**: Het gebruiken van [!DNL Handlebars] Ingebouwde voorwaardelverklaring om de HTML `img` markering te verpakken:
+**Example 2**: Using [!DNL Handlebars] Built-in condition statement to wrap the HTML `img` tag:
 
 ```html
 {{#if brand_logo}}
@@ -128,6 +131,8 @@ Op dit moment kunt u het merklogo voor het uploaden van de sjabloon niet selecte
     <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
 {{/if}}
 ```
+
+-->
 
 ### Handmatige veldnamen
 
@@ -139,10 +144,18 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 <tbody>
     <tr>
         <td>
-            <p><span class="s1">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{ footerLegal }}</span></p>
         </td>
     </tr>
 </tbody>
+```
+
+## Op afbeeldingstekst
+
+De tijdelijke aanduiding `{{ on_image_text }}` wordt gebruikt om een tekstbedekking op te geven met korte, onzichtbare berichten die rechtstreeks in een ervaring op de afbeelding worden geplaatst.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
 ```
 
 ## Secties of groepen
@@ -179,7 +192,6 @@ Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt 
 GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
 
 Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in een multi-sectiee-mail produceert.
-
 
 ## Sjabloonvoorbeeld
 

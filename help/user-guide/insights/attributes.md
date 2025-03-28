@@ -4,7 +4,7 @@ description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudi
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 4afdde6fd08a9f33ff599f5f85b9c1b9d79870ec
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing detecteert bepaalde functies en past het jui
 
 Een attribuut _categorie_ is een classificatiegroep die verwante attributen organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
 
-GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md), [ video&#39;s ](video-features.md), en tekst te bestuderen en [!UICONTROL Media attributes] toe te passen die op een waarschijnlijkheid van correctheid wordt gebaseerd.
+GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md) te bestuderen, [ video&#39;s ](video-features.md), en [ tekst ](text-features.md) en [!UICONTROL Media attributes] toe te passen die op een waarschijnlijkheid van correctheid wordt gebaseerd.
 
 De lijst met gedetecteerde kenmerken voor media-inhoud is niet limitatief. Media die een uitgebreide reeks kenmerken bevatten, kunnen worden beperkt tot de drie meest voorkomende kenmerken die door de AI worden geïdentificeerd. De volgende illustratie bevat bijvoorbeeld verschillende gedetecteerde afbeeldingskenmerken, waaronder meerdere objecten, voorgrond- en achtergrondkleuren.
 

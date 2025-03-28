@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: daada794dd39c9bd2aea7815d887821454d162fc
+source-git-commit: 059c7271bcbe558d41f3df128c6a0681accec826
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -80,7 +80,6 @@ Voor e-mail wordt het veld `subject` automatisch opgenomen. Gebruik plaatsaandui
 - `body`
 - `cta`
 - `image` (geselecteerd in Content JPEG, PNG of GIF)
-- `brand_logo`
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
@@ -115,7 +114,6 @@ Voor Meta-advertenties worden de velden `headline` , `body` en `CTA` automatisch
 
 - `image` (geselecteerd in Content JPEG, PNG of GIF)
 - `on_image_text`
-- `brand_logo`
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
@@ -201,7 +199,6 @@ Voor LinkedIn-advertenties worden de velden `headline` , `introductory_text` en 
 
 - `image` (geselecteerd in Content JPEG, PNG of GIF)
 - `on_image_text`
-- `brand_logo`
 
 Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
