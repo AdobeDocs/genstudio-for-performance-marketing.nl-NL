@@ -6,9 +6,9 @@ badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bep
 role: User
 level: Beginner
 exl-id: 91d0c2ef-3610-4a1a-b1ab-a9e2a6cb3723
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: 7784f8a722d808159df9522ff7fce5fbddcc34ce
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing laat u toe om generatieve AI te gebruiken om de [ verwezenlijking van succesvolle bannerervaringen ](/help/user-guide/create/create-banner-experience.md) te verbeteren.
 
-[!DNL Create] laat moderne marketers aan [ ambachtelijke samenhangende bannerervaringen ](/help/user-guide/create/create-banner-experience.md) toe door [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakt ](/help/user-guide/effective-prompts.md) te gebruiken.
+[!DNL Create] laat moderne marketers aan [ ambachtelijke samenhangende bannerervaringen ](/help/user-guide/create/create-banner-experience.md) toe door [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken.
 
 Wanneer het produceren van bannerervaringen worden vier variaties gecreeerd en in het Canvas getoond.
 
