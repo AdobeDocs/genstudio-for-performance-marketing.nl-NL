@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: b53a6aeee056a987064833f1fc99bfd6bfe3556a
+source-git-commit: 1f62546f4fc2381bcc4d8fd3acadd1d6470ed9e8
 workflow-type: tm+mt
 source-wordcount: '1294'
 ht-degree: 0%
@@ -38,13 +38,12 @@ Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enke
 | **Kopbal** | E-mail | In het bovenste gedeelte van de e-mail die de ontvanger ziet wanneer deze de e-mail opent, wordt de toon en context voor de opgenomen inhoud ingesteld. |
 | **Titel** | Metaadvertentie, banner en weergaveadvertenties, LinkedIn | De eerste inhoud die de ontvanger ziet, zou dwingend moeten zijn om interesse te vangen. |
 | **sub-headline** | E-mail-, banner- en weergaveadvertenties | Een secundair tekstelement dat de kop ondersteunt. Het is doorgaans beknopt en ontworpen om de hoofdkop aan te vullen, zodat de aandacht van de lezer verder in de inhoud wordt getrokken. |
-
-| **Inleidende tekst**| LinkedIn                                 | Het primaire bericht brengt het kernbericht over, gelijkend op lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
-| **Lichaam**             | E-mail-, metagegevens-, banner- en weergaveadvertenties    | De hoofdtekst van de advertentie geeft het kernbericht weer. Het zou moeten engageren, informatief, en overtuigend zijn om de gewenste actie van het publiek aan te moedigen. |
-| **CTA**              | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Een call-to-action-knop gebruikt een uitdrukking en een koppeling om de ontvanger aan te moedigen een specifieke actie te ondernemen, zoals klikken op een koppeling of een aankoop doen.      |
-| **Beelden**           | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Verbeter visuele aantrekkingskracht, verbreek tekst en ondersteun het bericht. Afbeeldingen moeten van hoge kwaliteit en opvallend zijn.                                                   |
-| **Voettekst**           | E-mail                                    | Het onderste gedeelte van het e-mailbericht bevat aanvullende inhoud, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het opzeggen van abonnementen.            |
-| **de Bedekking van de Tekst**     | Meta en                                  | Tekst die op een afbeelding wordt geplaatst ter ondersteuning en verbetering van de kop- en tekstinhoud.                                                                                  |
+| **Inleidende tekst** | LinkedIn | Het primaire bericht brengt het kernbericht over, gelijkend op lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
+| **Lichaam** | E-mail-, metagegevens-, banner- en weergaveadvertenties | De hoofdtekst van de advertentie geeft het kernbericht weer. Het zou moeten engageren, informatief, en overtuigend zijn om de gewenste actie van het publiek aan te moedigen. |
+| **CTA** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Een call-to-action-knop gebruikt een uitdrukking en een koppeling om de ontvanger aan te moedigen een specifieke actie te ondernemen, zoals klikken op een koppeling of een aankoop doen. |
+| **Beelden** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Verbeter visuele aantrekkingskracht, verbreek tekst en ondersteun het bericht. Afbeeldingen moeten van hoge kwaliteit en opvallend zijn. |
+| **Voettekst** | E-mail | Het onderste gedeelte van het e-mailbericht bevat aanvullende inhoud, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het opzeggen van abonnementen. |
+| **de Bedekking van de Tekst** | Meta en | Tekst die op een afbeelding wordt geplaatst ter ondersteuning en verbetering van de kop- en tekstinhoud. |
 
 >[!TIP]
 >
