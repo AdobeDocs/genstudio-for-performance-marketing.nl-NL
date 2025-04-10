@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
 workflow-type: tm+mt
-source-wordcount: '1521'
+source-wordcount: '1531'
 ht-degree: 0%
 
 ---
@@ -72,15 +72,15 @@ In de volgende tabel ziet u elke kanaalsectie, kanalen waarvoor deze beschikbaar
 
 | Secties | Kanalen | Beschrijving | Aanbevolen procedures |
 | ------------------| --------- | --------- | -------- |
-| Algemeen | email, Meta, advertenties weergeven | Een tweede onderwerpregel of e-mailvoorbeeldtekst | Bepaal algemene toon/emotie om consistent te zijn door e-mail (2-5 richtlijnen).<br>_Voorbeelden_: &quot;handhaaf een vriendschappelijke en behandelbare toon&quot;, &quot;vermijd overdreven formele taal&quot;<br><br> |
+| Algemeen | E-mail, Meta, Banner en display advertenties | Een tweede onderwerpregel of e-mailvoorbeeldtekst | Bepaal algemene toon/emotie om consistent te zijn door e-mail (2-5 richtlijnen).<br>_Voorbeelden_: &quot;handhaaf een vriendschappelijke en behandelbare toon&quot;, &quot;vermijd overdreven formele taal&quot;<br><br> |
 | Onderwerp | email | Een boeiende en interessante titel om de inhoud van een e-mail samen te vatten | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, lengte, enz. Voeg eerder succesvolle onderwerplijnen in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeeld_: &quot;Richt onderwerp met e-maillichaam&quot; |
 | Preheader | email | Een tweede onderwerpregel of e-mailvoorbeeldtekst | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle preheaders in de _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeeld_: &quot;Beperk tot 60-80 karakters&quot; |
-| Titel | email, Meta, advertenties weergeven, LinkedIn | Een titel of woordgroep die de aandacht van de lezer trekt | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle koplijnen in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik punchy verklaringen om aandacht te grijpen&quot; |
-| Subkop | e-mail, advertenties weergeven | Een tweede of derde titel of zinsdeel om de aandacht van de lezer te trekken | Geef specifieke richtlijnen (2-5 richtlijnen) die de toon, de ideale lengte enz. definiëren. Voeg eerder succesvolle sub-headlines in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik punchy verklaringen om aandacht te grijpen&quot; |
+| Titel | e-mail, Meta, Banner en display advertenties, LinkedIn | Een titel of woordgroep die de aandacht van de lezer trekt | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle koplijnen in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik punchy verklaringen om aandacht te grijpen&quot; |
+| Subkop | advertenties via e-mail, banner en display weergeven | Een tweede of derde titel of zinsdeel om de aandacht van de lezer te trekken | Geef specifieke richtlijnen (2-5 richtlijnen) die de toon, de ideale lengte enz. definiëren. Voeg eerder succesvolle sub-headlines in _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik punchy verklaringen om aandacht te grijpen&quot; |
 | Beschrijving | LinkedIn | Beschrijvende zinnen die algemene tintemotie definiëren | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle beschrijvingen in _Voorbeelden_ sectie voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;handhaaf een vriendschappelijke en behandelbare toon&quot; |
-| Lichaam | email, Meta, advertenties weergeven, LinkedIn | Marketing-inhoud die bericht, koppelingen en afbeeldingen bevat | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvol exemplaar aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Beperk tot 80-100 karakters&quot;, &quot;vermijd bovenmatige acroniemen&quot; |
+| Lichaam | e-mail, Meta, Banner en display advertenties, LinkedIn | Marketing-inhoud die bericht, koppelingen en afbeeldingen bevat | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvol exemplaar aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Beperk tot 80-100 karakters&quot;, &quot;vermijd bovenmatige acroniemen&quot; |
 | Tekst in afbeelding | Meta, LinkedIn | Specifieke richtsnoeren voor de toon, ideale lengte, enz. Voor tekst die boven op afbeeldingen wordt weergegeven | Geef specifieke richtlijnen (1-2 zinnen) voor de toon, ideale lengte, enz. Voeg eerder succesvolle tekst aan _toe Voorbeelden_ sectie voor betere kwaliteitsoutput.<br>_Voorbeelden_: &quot;Focus op het moment&quot; |
-| Call-to-action (CTA) | email, Meta, advertenties weergeven | (Oproep tot actie) Een instructie die aan de lezer wordt gegeven en die een reactie opwekt. Doorgaans een of twee woorden, zoals `Get started` | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle CTAs aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik geen eind leestekens&quot; |
+| Call-to-action (CTA) | E-mail, Meta, Banner en display advertenties | (Oproep tot actie) Een instructie die aan de lezer wordt gegeven en die een reactie opwekt. Doorgaans een of twee woorden, zoals `Get started` | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle CTAs aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik geen eind leestekens&quot; |
 
 #### Standaardkanaalrichtlijnen
 

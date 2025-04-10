@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1080'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een b
 **om een Meta en malplaatje** te kiezen:
 
 1. Klik in _[!DNL Create]_op **[!UICONTROL Meta ads]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek Meta en malplaatje te vinden.
+1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Met deze actie opent u het canvas, dat het centrale knooppunt is voor het maken van inhoud.
@@ -85,12 +85,14 @@ Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-variants)
 
 Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u de metagegevensadvertenties bewerken of een variant uit de set gegenereerde advertenties verwijderen.
 
+Als u een afzonderlijke laag wilt markeren die u wilt herzien, klikt u op een bewerkbaar veld of een bewerkbare afbeelding en klikt u op _[!UICONTROL View Layers]_.
+
 **om geproduceerde varianten** te herzien:
 
 * **[ om Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel,
 (of bodykopie) en bewerk indien nodig.
-* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de vraag-aan-actie tekst in.
+* **om de vraag aan actie** te veranderen of te selecteren, klik de knoop van call-to-action en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de tekst van call-to-action in.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
 * **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
@@ -144,6 +146,6 @@ Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approv
 
 ## Connect Meta
 
-U kunt GenStudio for Performance Marketing met Meta verbinden om geavanceerde analyses en [ inzichten ](/help/user-guide/insights/overview.md) in inhoudsprestaties te ontvangen.
+U kunt GenStudio for Performance Marketing verbinden met Meta om geavanceerde analyses en inzichten in de prestaties van inhoud te ontvangen.
 
-Zie [ Connect kanaalrekening ](/help/user-guide/insights/connect-channel.md) voor meer informatie.
+Zie [ Metaadvertenties verbinden ](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).

@@ -4,9 +4,9 @@ description: Meer informatie over de nieuwste functies en verbeteringen voor Ado
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 2f5c79c8a339b10305a8c06f7036dd7182937cc5
 workflow-type: tm+mt
-source-wordcount: '2096'
+source-wordcount: '2181'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,17 @@ ht-degree: 0%
 
 Deze release bevat informatie over de meest recente updates voor de GenStudio for Performance Marketing-toepassing.
 
-## 2025,03,13 {#latest}
+## 2025,04,10 {#latest}
+
+### Oplossingen en verbeteringen
+
+* Nieuwe filteropties voor sjablonen! U kunt de lijst met _[!UICONTROL Select templates]_nu verfijnen in [!DNL Create] en in_[!UICONTROL Content]_ > _[!UICONTROL Templates]_. Zie [ malplaatjes van het Onderzoek ](/help/user-guide/content/use-templates.md#search-templates). Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
+* Toegelaten functionaliteit aan [ mening en selecteert individuele lagen ](/help/user-guide/create/manage-variants.md#view-layers) - editable tekstgebieden of editable beelden-van een ervaring om hen voor revisies, zoals het regenereren van inhoud of het bebouwen beelden te benadrukken.
+* Toegevoegd a [ nieuw malplaatjegebied ](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, voor extra tekst in ervaringen om publieksaandacht te pakken en marketing overseinen te benadrukken.
+
+## Opmerkingen bij eerdere releases
+
++++Opmerkingen van 2025.03.13
 
 ### Metaadvertenties activeren
 
@@ -60,7 +70,7 @@ Het nieuwe GenStudio for Performance Marketing [ rekbaarheidskader ](/help/exten
 * Verbeterde gebruikerservaring en zicht van kanaalcategorieën [ op Create huis ](/help/user-guide/create/overview.md) door hen in de Bezit media, Betaalde media, en de secties van de Inhoud te scheiden.
 * Verbeterd filteren in tabel- en galerieweergaven in [!DNL Insights] .
 
-## Opmerkingen bij eerdere releases
++++
 
 +++Opmerkingen van 2025.02.13
 
@@ -244,7 +254,7 @@ Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterfa
 
 * De aanroeplade van [!DNL Create] wordt nu gesloten zoals verwacht wanneer een gebruiker weg klikt. <!-- GS-5254 -->
 
-* Metaadvertenties die u exporteert, bevatten nu het geselecteerde aanroep-naar-actie-label zoals verwacht. <!-- GS-6504 -->
+* Metaadvertenties die u exporteert, bevatten nu het geselecteerde call-to-action-label zoals u had verwacht. <!-- GS-6504 -->
 
 * De merkenscore wordt nu bijgewerkt en behouden zoals verwacht voor opnieuw gegenereerde ervaringen. <!-- GS-6535 -->
 

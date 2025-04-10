@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 **om een e-mailmalplaatje** te kiezen:
 
 1. Klik in _[!DNL Create]_op **[!UICONTROL Email]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek e-mailmalplaatje te vinden.
+1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
 1. Klik om een e-mailsjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Het canvas, het epicentrum van het maken van inhoud, wordt weergegeven.
@@ -85,7 +85,7 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 * **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) en geef uit zoals nodig
-* **om [ te veranderen of de Vraag aan actie](/help/user-guide/create/manage-variants.md#revise-call-to-action)** te selecteren, klik de vraag-aan-actie knoop en selecteer _[!UICONTROL Rephrase]_of_[!UICONTROL Add link]_.
+* **om [ te veranderen of de Vraag te selecteren aan actie](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, de knoop van call-to-action te klikken en _[!UICONTROL Rephrase]_of_[!UICONTROL Add link]_ te selecteren.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
 * **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.

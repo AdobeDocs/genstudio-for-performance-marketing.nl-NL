@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Om een nieuwe ervaring te produceren LinkedIn, hebt u een malplaatje nodig om he
 **om een malplaatje LinkedIn** te kiezen:
 
 1. Klik in _[!DNL Create]_op **[!UICONTROL LinkedIn]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek malplaatje te vinden.
+1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Met deze actie opent u het canvas, dat het centrale knooppunt is voor het maken van inhoud.
@@ -80,7 +80,7 @@ Voordat u varianten ter goedkeuring of publicatie naar [!DNL Content] verzendt, 
 
 * **om [ LinkedIn uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
 * **om [ manueel een LinkedIn uit te geven en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) te klikken en uit te geven zoals nodig.
-* **om de vraag aan actie** te veranderen of te selecteren, klik de vraag-aan-actie knoop en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de vraag-aan-actie tekst in.
+* **om de vraag aan actie** te veranderen of te selecteren, klik de knoop van call-to-action en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de tekst van call-to-action in.
 * **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
 * **[ om een LinkedIn te schrappen en](/help/user-guide/create/manage-variants.md#delete-variant)**, het optiemenu voor een variant te klikken en **[!UICONTROL Delete variant]** te klikken.

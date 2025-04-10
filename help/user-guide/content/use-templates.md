@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: b53a6aeee056a987064833f1fc99bfd6bfe3556a
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1294'
 ht-degree: 0%
 
 ---
@@ -37,12 +37,14 @@ Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enke
 | **Preheader** | E-mail | Een secundaire onderwerpregel in een e-mail, meestal tussen 40 en 50 tekens, die de hoofdonderwerpregel verbetert. Het is zichtbaar in het postvak naast het onderwerp voordat het e-mailbericht wordt geopend. |
 | **Kopbal** | E-mail | In het bovenste gedeelte van de e-mail die de ontvanger ziet wanneer deze de e-mail opent, wordt de toon en context voor de opgenomen inhoud ingesteld. |
 | **Titel** | Metaadvertentie, banner en weergaveadvertenties, LinkedIn | De eerste inhoud die de ontvanger ziet, zou dwingend moeten zijn om interesse te vangen. |
-| **Inleidende tekst** | LinkedIn | Het primaire bericht brengt het kernbericht over, gelijkend op lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
-| **Lichaam** | E-mail-, metagegevens-, banner- en weergaveadvertenties | De hoofdtekst van de advertentie geeft het kernbericht weer. Het zou moeten engageren, informatief, en overtuigend zijn om de gewenste actie van het publiek aan te moedigen. |
-| **CTA** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Een call-to-action knoop gebruikt een uitdrukking en een verbinding om de ontvanger aan te moedigen om een specifieke actie te nemen, zoals het klikken van een verbinding of het maken van een aankoop. |
-| **Beelden** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Verbeter visuele aantrekkingskracht, verbreek tekst en ondersteun het bericht. Afbeeldingen moeten van hoge kwaliteit en opvallend zijn. |
-| **Voettekst** | E-mail | Het onderste gedeelte van het e-mailbericht bevat aanvullende inhoud, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het opzeggen van abonnementen. |
-| **de Bedekking van de Tekst** | Meta en | Tekst die op een afbeelding wordt geplaatst ter ondersteuning en verbetering van de kop- en tekstinhoud. |
+| **sub-headline** | E-mail-, banner- en weergaveadvertenties | Een secundair tekstelement dat de kop ondersteunt. Het is doorgaans beknopt en ontworpen om de hoofdkop aan te vullen, zodat de aandacht van de lezer verder in de inhoud wordt getrokken. |
+
+| **Inleidende tekst**| LinkedIn                                 | Het primaire bericht brengt het kernbericht over, gelijkend op lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
+| **Lichaam**             | E-mail-, metagegevens-, banner- en weergaveadvertenties    | De hoofdtekst van de advertentie geeft het kernbericht weer. Het zou moeten engageren, informatief, en overtuigend zijn om de gewenste actie van het publiek aan te moedigen. |
+| **CTA**              | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Een call-to-action-knop gebruikt een uitdrukking en een koppeling om de ontvanger aan te moedigen een specifieke actie te ondernemen, zoals klikken op een koppeling of een aankoop doen.      |
+| **Beelden**           | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Verbeter visuele aantrekkingskracht, verbreek tekst en ondersteun het bericht. Afbeeldingen moeten van hoge kwaliteit en opvallend zijn.                                                   |
+| **Voettekst**           | E-mail                                    | Het onderste gedeelte van het e-mailbericht bevat aanvullende inhoud, zoals contactgegevens, koppelingen naar sociale media, disclaimers en opties voor het opzeggen van abonnementen.            |
+| **de Bedekking van de Tekst**     | Meta en                                  | Tekst die op een afbeelding wordt geplaatst ter ondersteuning en verbetering van de kop- en tekstinhoud.                                                                                  |
 
 >[!TIP]
 >
@@ -58,13 +60,26 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Pe
 
 ## Sjablonen beheren
 
-Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing. U kunt sjablonen filteren op het kanaaltype, zoals e-mail, advertenties weergeven, metagegevensadvertenties en LinkedIn-advertenties.
+Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
+
+### Zoeksjablonen
+
+Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Er zijn filters die op [ richtlijnen ](/help/user-guide/guidelines/overview.md) worden gebaseerd, [ sleutelwoorden ](asset-details.md#user-defined-metadata), en [ kenmerkencategorieën ](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken.
+
+U kunt bijvoorbeeld een sjabloon zoeken met een specifiek kanaaltype of een bepaalde hoogte-breedteverhouding die door u is gemaakt:
+
+- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
+
+In het volgende voorbeeld wordt het filter weergegeven op basis van het kanaaltype, zoals e-mail, advertenties weergeven, metagegevensadvertenties en LinkedIn-advertenties.
 
 ![ de lijst van het malplaatje van de Inhoud ](/help/assets/content-templates-filter.png " Onderzoek LinkedIn malplaatjes "){width="650" zoomable="yes"}
 
+De zoekfunctie voor sjablonen is beschikbaar tijdens [!UICONTROL Create] wanneer u een sjabloon selecteert voor media die eigendom zijn van of betaald worden. Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen in de gegevensopslagruimte overeenkomen met de overeenkomstige metagegevenscriteria. Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
+
 ### Een sjabloon toevoegen
 
-Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaar voor gebruik in GenStudio for Performance Marketing door [ te volgen past malplaatjes ](customize-template.md) begeleiding aan.
+Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaar voor gebruik in GenStudio for Performance Marketing door de begeleiding in [ te volgen past malplaatjes ](customize-template.md) aan.
 
 **om een malplaatje** toe te voegen:
 
@@ -86,7 +101,7 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 1. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
 
-1. Geef in het deelvenster _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
+1. Geef in _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 

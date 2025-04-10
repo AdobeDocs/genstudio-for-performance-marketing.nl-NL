@@ -3,9 +3,9 @@ title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 8d4442a3eb9aaf500b3a0a249031214337caf0ff
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1457'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,18 @@ U kunt de tekstvelden in gegenereerde varianten bewerken. Verfijn de tekst voor 
 1. Nadat u een set varianten hebt gegenereerd, dubbelklikt u op bewerkbare tekst in een variant.
 1. Voer nieuwe tekst in.
 1. Klik buiten het tekstveld om het op te slaan.
+
+## Lagen weergeven
+
+U kunt snel een afzonderlijke laag van een variant selecteren en wijzigingen aanbrengen, zoals het opnieuw genereren van secties of het uitsnijden van afbeeldingen. Wanneer u een afzonderlijke laag selecteert, worden de bewerkbare velden of afbeeldingen in de laag gemarkeerd.
+
+**om de lagen van een variant** te bekijken:
+
+1. Nadat u een set varianten hebt gegenereerd, klikt u op een bewerkbaar veld of een bewerkbare afbeelding binnen een variant.
+1. Klik op _[!UICONTROL View Layers]_.
+1. Klik om een laag in de lijst te selecteren. De geselecteerde laag wordt gemarkeerd voor de variant.
+
+   Ga verder met het aanbrengen van de vereiste bewerkingen in de geselecteerde laag.
 
 ## Secties opnieuw genereren
 

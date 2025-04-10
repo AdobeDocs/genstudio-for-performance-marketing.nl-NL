@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 9d7d607b52c232612f5920fc4a6d4ccd8dff93c9
+source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon o
 **om een vertoning en malplaatje** te kiezen:
 
 1. Klik in _[!DNL Create]_op **[!UICONTROL Display ads]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifieke vertoning en malplaatje te vinden.
+1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
 1. In de _Uitgezochte malplaatje_ mening, klik op een vertoning en malplaatje.
 1. Klik op **[!UICONTROL Use]**.
 
@@ -73,6 +73,8 @@ Standaard worden vier variaties gegenereerd, die worden gevoed door de vraag, de
 ## Door revisie gegenereerde varianten
 
 Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!DNL Content] , kunt u de weergave en secties en tekstvelden bewerken of een gegenereerde variant verwijderen.
+
+Als u een afzonderlijke laag wilt markeren die u wilt herzien, klikt u op een bewerkbaar veld of een bewerkbare afbeelding en klikt u op _[!UICONTROL View Layers]_.
 
 **om geproduceerde varianten** te herzien:
 

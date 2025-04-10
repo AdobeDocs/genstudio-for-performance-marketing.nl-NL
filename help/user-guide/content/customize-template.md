@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 81133e4360a9ba7d7fb29f33e418fde8582b0f23
+source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
 workflow-type: tm+mt
-source-wordcount: '1388'
+source-wordcount: '1403'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ In de volgende tabel staan de veldnamen die door GenStudio for Performance Marke
 | ----------------------- | ------------------------- | ------------------------------------------------ |
 | `{{pre_header}}` | Preheader | email |
 | `{{headline}}` | Titel | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
+| `{{sub_headline}}` | Subkop | E-mail <br> Banner en de advertentie van de Vertoning |
 | `{{introductory_text}}` | Inleidende tekst | LinkedIn en |
 | `{{body}}` | Platte kopie | E-mail <br> Meta en <br> Banner en de advertentie van de Vertoning |
 | `{{cta}}` | Vraag aan actie <br> Zie [ Vraag aan actie ](#calls-to-action) | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
@@ -101,14 +102,14 @@ GenStudio for Performance Marketing kan variantvraag-aan-actie uitdrukkingen, oo
 U kunt uw e-mailsjabloon aanpassen, zodat ontwerpers een koppeling naar een afbeelding kunnen toevoegen. Net als bij de CTA-koppeling kunt u de volgende richtlijnen gebruiken om een tijdelijke aanduiding `link` toe te passen op een afbeeldingstag:
 
 ```html
-<a href="{{link}}"><img src="image-source.jpg" alt="description"></a>
+<a href="{{link}}"><img src="image-source.jpg" alt="{{imageDescription}}"></a>
 ```
 
 In dit voorbeeld:
 
 - `{{link}}` is een plaatsaanduiding voor de werkelijke URL.
 - `src="image-source.jpg"` moet worden vervangen door de URL van de eigenlijke afbeeldingsbron.
-- `alt="description"` biedt een alternatieve tekst voor de afbeelding, die nuttig is voor toegankelijkheid en SEO.
+- `{{imageDescription}}` is een door de gebruiker gedefinieerde veldnaam die een tijdelijke aanduiding voor de alternatieve tekst van de afbeelding biedt. Dit is handig voor toegankelijkheid en SEO.
 
 <!-- this field does not work in Create canvas 2025/03
 
@@ -136,7 +137,7 @@ At this time, you cannot select the brand logo for the template upload. The foll
 
 ### Handmatige veldnamen
 
-Alle andere veldnamen worden behandeld als handmatig gevulde velden. U wilt bijvoorbeeld een sectie reserveren voor voettekstinhoud.
+Alle andere veldnamen worden door de gebruiker gedefinieerd en worden behandeld als handmatig gevulde velden. U wilt bijvoorbeeld een sectie reserveren voor voettekstinhoud.
 
 Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sectienaam:
 

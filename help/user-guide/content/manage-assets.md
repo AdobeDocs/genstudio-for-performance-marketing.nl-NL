@@ -3,9 +3,9 @@ title: Middelen en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: f79fb713b5387fd305ecf4a1102b301aa547babb
 workflow-type: tm+mt
-source-wordcount: '1290'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,13 @@ In het volgende voorbeeld ziet u een zoekopdracht naar de term `space` in de [!U
 
 De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
 
-Er zijn filters die op [ worden gebaseerd sleutelwoorden ](asset-details.md#user-defined-metadata) en [ attributencategorieën ](/help/user-guide/insights/attributes.md#categories) aan smalle onderzoeksresultaten. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
+Er zijn filters die op [ richtlijnen ](/help/user-guide/guidelines/overview.md) worden gebaseerd, [ sleutelwoorden ](asset-details.md#user-defined-metadata), en [ kenmerkencategorieën ](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
 
-- **[!UICONTROL Uploaded by]** beperkt de lijst van _[!UICONTROL Assets]_om alleen de elementen te tonen die door u of een specifieke persoon zijn geüpload.
-- **[!UICONTROL Created by]** beperkt de lijst van _[!UICONTROL Experiences]_om slechts de ervaringen te tonen die door u of een specifieke persoon worden gecreeerd.
+- **[!UICONTROL Uploaded by]**: hiermee wordt de lijst in _[!UICONTROL Assets]_beperkt, zodat alleen de elementen worden weergegeven die door u of een bepaalde persoon zijn geüpload.
+- **[!UICONTROL Created by]**: beperkt de lijst van _[!UICONTROL Experiences]_om alleen de ervaringen te tonen die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Template]** : hiermee wordt de lijst in _[!UICONTROL Experiences]_beperkt, zodat alleen ervaringen worden weergegeven die met de geselecteerde sjabloon zijn gemaakt.
+
+Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen in de gegevensopslagruimte overeenkomen met de overeenkomstige metagegevenscriteria. Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
 
 **om naar inhoud te zoeken om** opnieuw te gebruiken:
 
