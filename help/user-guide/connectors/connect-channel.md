@@ -1,0 +1,79 @@
+---
+title: Betaalde media aansluiten
+description: Verbind een kanaalaccount om uw advertenties en media te activeren en te controleren met Adobe GenStudio for Performance Marketing.
+level: Intermediate
+role: Admin, Data Engineer
+feature: Reporting and Insights
+exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
+source-git-commit: 2844914d25d9bc3a2be7f47d0cd7f26f7c921555
+workflow-type: tm+mt
+source-wordcount: '419'
+ht-degree: 0%
+
+---
+
+# Betaalde mediaaccounts verbinden
+
+_[!DNL Data connectors]_maakt naadloze integratie mogelijk tussen GenStudio for Performance Marketing en uw betaalmedia netwerkaccounts. Door verbinding te maken met kanaalaccounts van derden, kunt u kritieke gegevens uitwisselen, zoals maatstaven voor campagneprestaties in [[!DNL Insights]](/help/user-guide/insights/overview.md) , en kunt u nieuwe ad-hoclocaties aanbieden met [[!DNL Activate]](/help/user-guide/activation/overview.md) . Dankzij deze integratie kan GenStudio for Performance Marketing uw media en advertenties beheren en tegelijkertijd waardevolle inzichten uit uw actieve campagnes krijgen, zoals afbeeldingen, klikken en conversies.
+
+**om met een betaalde media rekening** te verbinden:
+
+1. Klik op de ellips **[!UICONTROL ... More]** in de navigatie linksonder.
+
+1. Selecteer **[!UICONTROL Settings]** met het cogopictogram.
+
+1. Kies in _[!UICONTROL Settings]_een verbindingstype in de sectie_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
+
+   Naar keuze, als er verbonden rekeningen zijn, kunt u op _verbonden rekeningen_ klikken om een lijst van rekeningsnamen, details, en status te bekijken.
+
+1. Zie het [ schakelaartype ](#connector-types) u selecteerde, herzie de eerste vereisten, en ga met de verbindingsstappen verder.
+
+## Betaalde media
+
+GenStudio for Performance Marketing biedt ondersteuning voor verschillende connectortypen die u kunt integreren met uw favoriete marketingplatforms. Elk schakelaartype heeft specifieke eerste vereisten en opstellingsstappen om voor een succesvolle verbinding te voltooien.
+
+### Meta-advertenties verbinden
+
+>[!BEGINSHADEBOX]
+
+**Eerste vereisten**:
+
+- Facebook-/Meta-advertentieaccount
+- Toegang tot een Meta-advertentiesaccount met `View performance` machtigingsniveau voor het openen van rapporten en het weergeven van advertenties
+- Pop-upblokkeerprogramma&#39;s in uw browser verwijderen
+
+>[!ENDSHADEBOX]
+
+**om een Meta-advertentierekening** te verbinden:
+
+1. In de _sectie van 0} Verbindingen van Gegevens {, klik **[!UICONTROL Connect]**op de_ Advertentiekaart van Meta _._
+
+1. Log in bij je Facebook account.
+
+   U moet mogelijk de pop-upblokkeerprogramma&#39;s verwijderen en vervolgens **[!UICONTROL Refresh]** gebruiken om het opnieuw te proberen.
+
+1. Volg de Facebook-verificatieinstructies.
+
+1. Doorloop de volgende selecties in het pop-upmenu _[!UICONTROL Facebook Login for Business]_(symbool Meta naar Adobe).
+
+   - Controleer de accountgegevens en klik op **[!UICONTROL Continue as]**
+   - Toegang verlenen tot geselecteerde pagina&#39;s en klikken **[!UICONTROL Continue]**
+   - Toegang verlenen aan geselecteerde bedrijven en klikken **[!UICONTROL Continue]**
+   - Meld u aan bij een of meer Instagram-accounts en klik op **[!UICONTROL Continue]**
+   - Selecties bekijken en klikken **[!UICONTROL Save]**
+
+1. Selecteer een of meer accounts in de weergave _[!UICONTROL Meta Ads]_en klik op **[!UICONTROL Select]**.
+
+In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**om meer accounts aan de lijst toe te voegen.
+
+## Gegevensinvoer
+
+In eerste instantie importeert GenStudio for Performance Marketing de meest recente zes maanden van historische gegevens. Deze praktijk zorgt ervoor u directe toegang tot relevante inzichten voor het analyseren van tendensen, het evalueren van prestaties, en het nemen van geïnformeerde besluiten hebt. Het innameproces kan één tot vijf dagen duren, afhankelijk van het gegevensvolume in uw account.
+
+>[!BEGINSHADEBOX]
+
+**Beleid van de Ingestie en van het Behoud van Gegevens**
+
+GenStudio for Performance Marketing bewaart kanaalgegevens gedurende 13 maanden. Dit bewaarbeleid omvat de zes maanden gegevens die tijdens de eerste verbinding worden ingevoerd, waardoor een uitgebreide historische gegevensanalyse en rapportage wordt gewaarborgd.
+
+>[!ENDSHADEBOX]

@@ -4,9 +4,9 @@ description: Leer hoe u advertenties optimaliseert op basis van gegevens over de
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: c1c595f3be42b86d0e0aebd42c9c50c9d9aa4cdc
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,12 @@ Vanuit het dashboard van [!DNL Insights] kunt u:
 - **identificeer de meest efficiënte inhoud**: Pinpoint die de inhoud het beste voor verschillende publiek uitvoert en toekomstige inhoud of campagnes voor het trendvoorkeur aanpast.
 - **optimaliseer laag-presterende inhoud**: Vind inhoud die niet goed presteert en gebruik geïntegreerde generatieve AI om variaties onmiddellijk tot stand te brengen, potentieel verbeterend zijn doeltreffendheid zonder van kras te beginnen.
 - **Revitalize hoog-presterende inhoud**: Neem succesvolle inhoud en pas het aan om de advertentie voor het publiek te verfrissen of heldeninhoud voor gebruik in nieuwe campagnes aan te passen, potentieel uitbreidend zijn levenscyclus en prestaties.
+
+## Gegevensconnectors
+
+De eerste keer dat u [!DNL Insights] opent, ziet u mogelijk een banner die u begeleidt bij het tot stand brengen van een verbinding tussen Adobe GenStudio for Performance Marketing en een kanaalaccount.
+
+Met deze verbinding kan GenStudio for Performance Marketing statistische gegevens ontvangen van uw actieve marketingcampagnes, media en advertenties. In eerste instantie neemt GenStudio for Performance Marketing de laatste 6 maanden van de gegevens in, zodat u de gereedschappen hebt om de meest recente gegevens te analyseren en actie te ondernemen.
 
 {{connect-insights}}
 
@@ -35,7 +41,7 @@ In elke weergave wordt een bijbehorende tabel weergegeven die u kunt zoeken op t
 
 ### Kanalen
 
-De [[!DNL Insights] _[!UICONTROL Channels]_mening ](channels.md) is de standaardmening en toont een lijst van actieve campagnedetails, zoals doelstellingen, begroting, lanceringsdatum, en activiteit. Ben zeker om [ een kanaalrekening ](connect-channel.md) te verbinden zodat GenStudio for Performance Marketing begint uw statistische gegevens te ontvangen.
+De [[!DNL Insights] _[!UICONTROL Channels]_mening ](channels.md) is de standaardmening en toont een lijst van actieve campagnedetails, zoals doelstellingen, begroting, lanceringsdatum, en activiteit. Ben zeker om [ een kanaalrekening ](/help/user-guide/connectors/connect-channel.md) te verbinden zodat GenStudio for Performance Marketing begint uw statistische gegevens te ontvangen.
 
 ### Adds
 

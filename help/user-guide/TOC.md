@@ -5,9 +5,9 @@ user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestat
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: f3fe4228b089ec71d0568b5e39830f2c1d7ae4d8
+source-git-commit: beeaa7e9b434321b99c58827ea0ca62e31e114a5
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 16%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 16%
    + [ vorm  [!DNL Brand]  toestemmingen ](configure-brand-permissions.md)
    + [ de rollen van de Gebruiker ](user-roles.md)
    + [ Effectieve herinneringen ](effective-prompts.md)
++ Instellingen {#settings}
+   + [ verbindt betaalde media ](connectors/connect-channel.md)
 + Richtlijnen {#guidelines}
    + [ Overzicht van Richtlijnen ](guidelines/overview.md)
    + [ Banden ](guidelines/brands.md)
@@ -71,7 +73,6 @@ ht-degree: 16%
    + [ optimaliseer actities ](activation/troubleshooting.md)
 + Inzichten {#insights}
    + [ Overzicht van Inzichten ](insights/overview.md)
-   + [ Connect kanaalrekening ](insights/connect-channel.md)
    + [ Kanalen ](insights/channels.md)
    + [ Advertenties en advertentie plaatsing ](insights/ads.md)
    + [ Media ](insights/media.md)

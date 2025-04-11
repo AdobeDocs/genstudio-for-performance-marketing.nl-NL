@@ -3,9 +3,9 @@ title: Een metaadvertentie activeren
 description: Leer hoe u een Meta-advertentie activeert.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
@@ -33,13 +33,7 @@ U moet over machtigingen beschikken om inhoud naar Meta Ads Manager te verzenden
 
 Voordat uw organisatie ervaringen kan activeren, moet een GenStudio-systeembeheerder uw Meta-accounts verbinden met GenStudio for Performance Marketing. Dankzij deze verbinding kunnen gegevens worden uitgewisseld tussen GenStudio en externe marketingprogramma&#39;s, zoals Meta, waardoor de activeringsprocessen mogelijk worden.
 
-**om GenStudio for Performance Marketing met uw rekeningen van Meta te verbinden**:
-
-1. Van _Montages_, klik **[!UICONTROL Connect]** op de tegel van Advertenties van Meta. De _Meta adverteert rekening_ mening opent.
-
-1. Selecteer **[!UICONTROL Allow pop-ups]** in uw browser als hierom wordt gevraagd.
-
-1. Selecteer een of meer van uw advertentierekeningen om verbinding te maken en klik op **[!UICONTROL Select]** .
+Zie [ verbinden met een rekening van Meta (Facebook) ](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
 
 Nadat het synchroniseren is voltooid, kunt u de toegevoegde accounts bekijken. Het synchroniseren van grote hoeveelheden gegevens duurt langer.
 

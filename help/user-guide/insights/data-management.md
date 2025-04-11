@@ -6,7 +6,7 @@ level: Experienced
 role: Admin, Data Architect
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -19,7 +19,7 @@ GenStudio for Performance Marketing gebruikt Adobe Experience Platform (AEP) voo
 
 ## Gegevensverbindingen
 
-GenStudio for Performance Marketing gebruikt Customer Journey Analytics (CJA) om meerdere gegevensbronnen samen te voegen door een verbinding met een of meer AEP-gegevenssets te maken. CJA gebruikt deze gegevensverbindingen om gegevensmeningen tot stand te brengen voor het analyseren van metriek met [!DNL Insights].
+GenStudio for Performance Marketing gebruikt Customer Journey Analytics (CJA) om meerdere gegevensbronnen samen te voegen door een verbinding met een of meer AEP-gegevenssets te maken. CJA gebruikt deze gegevensverbindingen om gegevensweergaven te maken voor het analyseren van metriek met [!DNL Insights] .
 
 >[!BEGINSHADEBOX]
 
@@ -47,4 +47,4 @@ Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/en/docs
 
 GenStudio for Performance Marketing bewaart kanaalgegevens gedurende 13 maanden. Dit bewaarbeleid omvat de zes maanden gegevens die tijdens de eerste verbinding worden ingevoerd, waardoor een uitgebreide historische gegevensanalyse en rapportage wordt gewaarborgd.
 
-Zie [ Connect kanaal en rekening ](/help/user-guide/insights/connect-channel.md).
+Zie [ Connect kanaal en rekening ](/help/user-guide/connectors/connect-channel.md).
