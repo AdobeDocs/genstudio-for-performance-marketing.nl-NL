@@ -53,7 +53,7 @@ De [[!DNL Insights] _[!UICONTROL Media]_mening ](media.md) wordt ontworpen om u 
 
 Als u op media-inhoud klikt, krijgt u meer informatie over de prestaties van de inhoud op verschillende advertenties en advertenties:
 
-![ Details van Media ](/help/assets/insights-media-details.png){width="600" zoomable="yes"}
+![ Details van Media ](/help/assets/insights-media-details.png)
 
 In de weergave met mediadetails ziet u links een miniatuur van het element en een lijst met kenmerken. Er zijn drie gemarkeerde metriek: `Click-through rate` , `Cost per click` en `Spend` . De prestatie laat zien hoe werkelijke waarden (effen lijn) worden vergeleken met de gemiddelde waarde (stippellijn) over de geselecteerde tijdsperiode (de standaardwaarde is `Last 30 days` ).
 
