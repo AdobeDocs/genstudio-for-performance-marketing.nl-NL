@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '981'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 
 **om een e-mailmalplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL Email]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Email]**.
+1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek e-mailmalplaatje te vinden.
 1. Klik om een e-mailsjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Het canvas, het epicentrum van het maken van inhoud, wordt weergegeven.

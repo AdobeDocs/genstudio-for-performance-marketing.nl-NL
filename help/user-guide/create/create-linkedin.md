@@ -7,9 +7,9 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,8 @@ Om een nieuwe ervaring te produceren LinkedIn, hebt u een malplaatje nodig om he
 
 **om een malplaatje LinkedIn** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL LinkedIn]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
+1. Klik in _[!DNL Create]_op **[!UICONTROL LinkedIn]**.
+1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek malplaatje te vinden.
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Met deze actie opent u het canvas, dat het centrale knooppunt is voor het maken van inhoud.

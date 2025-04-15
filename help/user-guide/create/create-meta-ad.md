@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Als u een nieuwe meta-advertentie-ervaring wilt gaan genereren, gebruikt u een b
 
 **om een Meta en malplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL Meta ads]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Meta ads]**.
+1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek Meta en malplaatje te vinden.
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
    Met deze actie opent u het canvas, dat het centrale knooppunt is voor het maken van inhoud.

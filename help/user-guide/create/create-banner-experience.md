@@ -7,9 +7,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: c5d541a9-a97b-44da-a15c-61aceefd0e8c
-source-git-commit: 773e2d5c00688c36c1da8d0931c24e40754b7e8c
+source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '938'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,8 @@ Om een bannerervaring te creëren, gebruik een beschikbare malplaatje om het kad
 
 **om een bannermalplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL Banners]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Banners]**.
+1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek bannermalplaatje te vinden.
 1. In de _Uitgezochte malplaatje_ mening, klik op een bannermalplaatje.
 1. Klik op **[!UICONTROL Use]**.
 

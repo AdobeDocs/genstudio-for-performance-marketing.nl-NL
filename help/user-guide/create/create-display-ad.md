@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: 36f6c75152b25f3886f4b0c02f41ed495df49014
+source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon o
 
 **om een vertoning en malplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL Display ads]**in_ &quot;Wat wilt u vandaag maken?&quot;_.
-1. Gebruik het [ onderzoek en _Filter_ opties ](/help/user-guide/content/use-templates.md#search-templates) om een specifiek malplaatje te vinden.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Display ads]**.
+1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifieke vertoning en malplaatje te vinden.
 1. In de _Uitgezochte malplaatje_ mening, klik op een vertoning en malplaatje.
 1. Klik op **[!UICONTROL Use]**.
 
