@@ -4,9 +4,9 @@ description: Meer informatie over de nieuwste functies en verbeteringen voor Ado
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: 2f5c79c8a339b10305a8c06f7036dd7182937cc5
+source-git-commit: c51afb3decac43f3a71d5859ba4296a8c09730d7
 workflow-type: tm+mt
-source-wordcount: '2181'
+source-wordcount: '2235'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,7 @@ Deze release bevat informatie over de meest recente updates voor de GenStudio fo
 * Nieuwe filteropties voor sjablonen! U kunt de lijst met _[!UICONTROL Select templates]_nu verfijnen in [!DNL Create] en in_[!UICONTROL Content]_ > _[!UICONTROL Templates]_. Zie [ malplaatjes van het Onderzoek ](/help/user-guide/content/use-templates.md#search-templates). Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
 * Toegelaten functionaliteit aan [ mening en selecteert individuele lagen ](/help/user-guide/create/manage-variants.md#view-layers) - editable tekstgebieden of editable beelden-van een ervaring om hen voor revisies, zoals het regenereren van inhoud of het bebouwen beelden te benadrukken.
 * Toegevoegd a [ nieuw malplaatjegebied ](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, voor extra tekst in ervaringen om publieksaandacht te pakken en marketing overseinen te benadrukken.
+* Toegevoegde steun voor [ het publiceren en ervaringen ](/help/user-guide/activation/overview.md) van GenStudio for Performance Marketing in Manager 360 van de Campagne van Google. Activeren ondersteunt gedetailleerde voorvertoningen van Google Campaign Manager 360 voordat u deze publiceert naar een campagnebeheerder 360. Advertenties die via Activate worden gepubliceerd, worden automatisch in de Insights geplaatst zodra ze live zijn, zodat gebruikers de advertentie kunnen volgen en rapporteren.
 
 ## Opmerkingen bij eerdere releases
 
