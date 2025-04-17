@@ -4,9 +4,9 @@ description: Bekijk een overzicht van de betrokkenheid van klanten, het budget e
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 2d396b183084996c45616d29387e068a5d502c53
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1223'
 ht-degree: 0%
 
 ---
@@ -33,24 +33,23 @@ Selecteer een advertentie en bekijk de prestatiesmetriek, tekstattributen, en pl
 
 Onder de voorvertoning van de advertentie bevindt zich een lijst met [!UICONTROL Text attributes] die aan de advertentie is gekoppeld. Wanneer elementen en advertenties worden goedgekeurd en opgeslagen in [!DNL Content] , genereert GenStudio for Performance Marketing tags op basis van de inherente functies ervan. Zie [ details van Media ](/help/user-guide/content/asset-details.md#system-metadata) voor details over systeemmeta-gegevens.
 
+### Advertentievormen
+
+[!DNL Insights] in GenStudio for Performance Marketing ondersteunt momenteel de volgende beschikbare advertentievormen.
+
+| Ondersteund | Niet ondersteund |
+|-----------|-------------|
+| De Toespraak van de Diervoeders van activa (de Optimalisering van de Plaatsing) <br> Enig beeld of video <br> Verbinding | Carousel <br> Samenwerken {de 2} Onmiddellijke Ervaring van de Catalogus <br> van het Gegevensvoer Spec (buiten plaatsingsoptimalisering) <br> Vraag (beeld/video) <br> App (beeld/video) <br> Lood van het Overseinen <br> (beeld/video) <br> Diapresentatie (video) <br> Inzameling (beeld/video) <br> Winkel) <br> Foto of Video van Post van de Pagina/Instagram Post/media <br> Brandde Inhoud <br> Flexibele <br> Voordeel+ Catalogus<br><br> |
+
 ### Plaatsen toevoegen
 
-Op het tijdstip dat u een campagne met de advertenties van Meta creeerde, kunt u hebben geselecteerd waar te om uw advertenties in werking te stellen die op de campagne [ worden gebaseerd doelstelling ](channels.md#objectives). Met plaatsingen vergroot u het bereik van het publiek voor uw advertentie.
+Wanneer u een campagne met de advertenties van Meta creeert, kunt u hebben geselecteerd waar te om uw advertenties in werking te stellen die op de campagne [ worden gebaseerd doelstelling ](channels.md#objectives). Met plaatsingen vergroot u het bereik van het publiek voor uw advertentie.
 
-GenStudio for Performance Marketing biedt ondersteuning voor advertentievormen, zoals elementenfeeds, koppelingsadvertenties en één afbeelding of video. Hieronder volgt een lijst met advertentievormen per platform:
+Hieronder volgt een lijst met ondersteunde advertentieplaatsen:
 
-| Instagram | Facebook/Meta | Messenger | Poortnetwerk |
-| ------------ | ---------------- | ------------ | ---------------- |
-| Verken <br> het huis van het 1} ontdekken van het roosterhuis <br> Gegeven <br> Reels <br> het voer van het Profiel <br> Onderzoek <br> Shop <br> Artikelen<br> | De zaken onderzoeken <br> In-stroom video <br> Van de Marktplaats {<br> Reels <br> Reels bedekking <br> Juiste kolom <br> de resultaten van het Onderzoek <br> de Videoframes van de Verhalen <br> <br> Adds op de realen van Facebook<br> | Inbox <br> Artikelen | Inheemse, banner, en interstitiële <br> Verkochte video |
-
-#### Niet-ondersteunde plaatsingen
-
-GenStudio for Performance Marketing biedt geen ondersteuning voor de volgende advertentieplaatsen:
-
-- Samenwerken
-- Catalog/Advantage+-catalogus
-- Instantieervaring
-- Carousel
+| Poortnetwerk | [ Facebook/Meta ](https://www.facebook.com/business/help/407108559393196?id=369787570424415) | Instagram | Messenger |
+|--------------------|--------------------|-------------------------|---------------------|
+| Betaalde video | Het voer <br> Video van het voer van het voer <br> Verhalen <br> Rechterkolom van de Marketplace <br> Reels <br> Reels bedekking <br> In-stream video <br> Van het Onderzoek <br> Van Bedrijfs de terugtrek van het Debiet van het Profiel {<br> voer van het Profiel<br> | De verhalen van de verhalen <br> Geëxporteerd <br> ontdekken <br> Reels <br> onderzoeken het voedsel van het het netwerkhuis <br> van het Profiel <br> Onderzoek <br> | Artikelen <br> Inbox |
 
 ## Prestaties verhogen
 
@@ -64,8 +63,8 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | **[!UICONTROL Campaign]** | Een campagne is een reeks advertenties die zijn ontworpen om een specifiek doel te bereiken. | Wanneer u de Advertentietabel door campagne filtreert, kunnen de summiere metriek van alle advertenties voor de campagne verschillend zijn dan de samenvattingsrij van de campagne in de [!UICONTROL Channels] mening. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
 | **[!UICONTROL Placements]** | Een telling van ad [ plaatsen ](#ad-placements), plaatsen waar een advertentie in de campagne verscheen. | Plaatsen vergroten het bereik van het publiek.<p>Adds die nul plaatsen en nul media tonen kunnen op een [ niet gestaafd advertentietype ](#unsupported-placements) wijzen.</p> |
 | **[!UICONTROL Media]** | Het aantal elementen dat in de advertentie of advertentie wordt gebruikt. | Het aantal in de tabel Advertenties kan verschillen van het aantal in de weergave Advertentiedetails. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
-| **[!UICONTROL Impressions]** | Een telling van elke keer dat de advertentie of advertentie in het kanaal wordt geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht kunt u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
-| **[!UICONTROL Clicks]** | Het aantal tijden de gebruikers met een klikbaar element, zoals een verbinding of een vraag-aan-actie knoop, in een advertentieplaatsing in wisselwerking staan. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
+| **[!UICONTROL Impressions]** | Een telling van elke keer dat de advertentie of advertentie in het kanaal wordt geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echte prestaties, insight, moet u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
+| **[!UICONTROL Clicks]** | Het aantal keren dat gebruikers in een advertentie communiceren met een aanklikbaar element, zoals een koppeling of een call-to-action-knop. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen dat heeft geresulteerd in klikken op de advertentie binnen een campagne.<br>**Berekening**: `clicks` verdeeld door `impressions` | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend beelden.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | Gemiddelde kosten die worden uitgegeven om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Gebruik deze optie om de uitgaven voor advertenties te controleren die waardevolle acties van klanten tot gevolg hebben. |
