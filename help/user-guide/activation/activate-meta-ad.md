@@ -3,9 +3,9 @@ title: Een metaadvertentie activeren
 description: Leer hoe u een Meta-advertentie activeert.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
+source-git-commit: 19f36badd66a5dc90585b4399b87230847474a81
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing ondersteunt de activering van Meta-adv
 
 U kunt [ tot een ervaring van het Meta ](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing leiden en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentieervaringen voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta, of creatief, in GenStudio for Performance Marketing activeert, gebruik {de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Plaatsen van Meta en vóór definitieve publicatie te verfijnen.[
+Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw creatieve ervaringen op advertentievaardigheden voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta, of creatief, in GenStudio for Performance Marketing activeert, gebruik {de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Plaatsen van Meta en vóór definitieve publicatie te verfijnen.[
 
 ## Stap 1: Opstelling uw rekeningen van Meta
 
@@ -107,7 +107,7 @@ Gebruik de _sectie van de Tekst_ van _activeer Meta en_ pagina om dwingende, mer
 | URL website | ja | 1000 |
 | Afbeelding | ten minste één vereist |                                 |
 
-_Primaire tekst_ en _titel_ wordt vereist door GenStudio for Performance Marketing slechts, niet Meta.
+GenStudio for Performance Marketing vereist _Primaire tekst_ en _kopregel_, niet Meta.
 
 ### Metagegevens toewijzen
 
@@ -148,10 +148,10 @@ Klik op **[!UICONTROL Next]** rechtsboven om een voorvertoning van uw advertenti
 
 De _pagina van het Overzicht_ toont uw advertentie zoals die in de _opstelling van Creative_ wordt geassembleerd en verstrekt een definitieve kans om uw ervaring te bekijken en uit te geven. Klik **[!UICONTROL Edit section]** naast het _de opstellings_ etiket van Creative om uw veranderingen aan te brengen. U kunt **[!UICONTROL Back]** in het hogere recht ook klikken om aan de _de opstellings_ pagina van Creative terug te keren.
 
-### Volledige activering van uw advertentie-ervaring
+### Stap 6: je advertentie volledig activeren
 
-Klik op **[!UICONTROL Publish]**. De volledige metagegevens en de bijbehorende metagegevens worden rechtstreeks naar het geselecteerde Meta Ads Manager geduwd en ingesteld. De ervaringen worden doorgegeven aan Meta Ads Manager geïnactiveerd. Vanuit Meta Ads Manager kunt u de laatste stappen beheren voor het implementeren van de advertentie- en metacampagne.
+1. Klik op **[!UICONTROL Publish]**.
 
-### Meld u aan bij Meta Ads Manager om de activering te voltooien
+   De volledige metagegevens en de bijbehorende metagegevens worden rechtstreeks naar het geselecteerde Meta Ads Manager geduwd en ingesteld. De ervaringen worden in inactieve toestand aan Meta Ads Manager gegeven. Vanuit Meta Ads Manager kunt u de laatste stappen beheren voor het implementeren van de advertentie- en metacampagne.
 
-Nadat de activering is voltooid, moet u zich aanmelden bij Meta Ads Manager. Van [ Manager van Advertenties van Meta ](https://adsmanager.facebook.com/), kunt u uw advertentie herzien en publicatie aan specifieke kanalen van Meta voltooien.
+1. [ Login aan de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om uw advertentie te herzien en publicatie aan specifieke kanalen van Meta te voltooien.

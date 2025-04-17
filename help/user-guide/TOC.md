@@ -5,9 +5,9 @@ user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestat
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: a9da9ba1e93335896640e52837cc7226ec8e4bef
+source-git-commit: 291b287fec24acaa7b6be6bd663d918842764bd9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '209'
 ht-degree: 16%
 
 ---
@@ -66,9 +66,10 @@ ht-degree: 16%
       + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
 + Campagnes {#campaigns}
    + [ Overzicht van campagnes ](campaigns/overview.md)
-+ Activering {#activation}
++ Activeren {#activation}
    + [ Overzicht van de Activering ](activation/overview.md)
    + [ werkschema van de Activering ](activation/create-activation.md)
+   + [ activeer een Manager 360 van de Campagne van Google en ](activation/activate-cm360-ad.md)
    + [ activeer een advertentie van Meta ](activation/activate-meta-ad.md)
    + [ beheert actities ](activation/manage-activations.md)
    + [ optimaliseer actities ](activation/troubleshooting.md)

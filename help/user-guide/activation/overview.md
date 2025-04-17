@@ -4,16 +4,16 @@ description: Leer hoe u inhoud activeert met Adobe Experience Cloud en toepassin
 level: Beginner
 feature: Ad Activation
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 19f36badd66a5dc90585b4399b87230847474a81
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudio for Performance Marketing activeren
 
-GenStudio for Performance Marketing _[!DNL Activate]_biedt een centrale locatie voor het voorbereiden van uw advertentie voor activering om betaalde advertentiekanalen te selecteren._ Activering _is het proces om ad ervaring aan aangewezen kanalen in een inactieve staat te leveren, klaar voor definitieve overzicht en plaatsing van het kanaal. De ervaringen met advertenties kunnen vervolgens op de beoogde markten worden verspreid.
+GenStudio for Performance Marketing _[!DNL Activate]_biedt een centrale locatie voor het voorbereiden van uw advertentie voor activering om betaalde advertentiekanalen te selecteren._ Activering _is het proces om en ervaringen, activa, en tekst als creatief voor plaatsing in een specifiek betaald kanaal op unieke wijze te voorbereiden. Activering levert de creatieve naar aangewezen kanalen in een inactieve staat, klaar voor definitieve overzicht en plaatsing van het kanaal. De ervaringen met advertenties kunnen vervolgens op de beoogde markten worden verspreid.
 
 Inhoud-editors en systeembeheerders kunnen ervaringen publiceren waarvan de elementen worden gegenereerd in of geüpload naar GenStudio for Performance Marketing.
 
@@ -21,13 +21,13 @@ In [!DNL Activate] wordt voor elk kanaal een productegel weergegeven. In deze te
 
 Elke betaalkanaalaccount moet zijn verbonden met GenStudio for Performance Marketing voordat u een advertentie kunt activeren.
 
-## [!DNL Activate] gebruik gevallen
+## Gebruikskwesties activeren
 
 * [ creeer een activering ](create-activation.md). U kunt een advertentie-ervaring opbouwen door visuele activa te selecteren, tekst toe te wijzen, en meta-gegevens te bepalen alvorens aan een betaald kanaal te duwen.
 
 * [ beheert actities ](manage-activations.md). _[!DNL Activate]_biedt een overzicht van alle geactiveerde ervaringen. U kunt ook de details van afzonderlijke activeringen bekijken.
 
-## [!DNL Activate] mogelijkheden
+## Mogelijkheden activeren
 
 _[!DNL Activate]_vergemakkelijkt de voorbereiding van advertentie-ervaring voor distributie naar de betaalkanalen waarvoor het is bestemd.
 
@@ -37,7 +37,7 @@ De _de opstellings_ pagina van Creative consolideert de hulpmiddelen die u de vi
 
 ### Elementen selecteren voor een advertentie
 
-U kunt goedgekeurde visuele middelen zoeken en selecteren vanuit _[!DNL Content]_of elementen uploaden vanuit Dropbox of OneDrive. U kunt elementen ook rechtstreeks vanaf uw apparaat uploaden. Eén advertentie kan op meerdere plaatsen worden uitgevoerd. Assets kan worden geüpload in de hoogte-breedteverhoudingen die u voor advertentieplaatsen nodig hebt.
+U kunt goedgekeurde visuele middelen zoeken en selecteren vanuit _[!DNL Content]_of elementen uploaden vanuit Dropbox of OneDrive. U kunt elementen rechtstreeks vanaf uw apparaat uploaden. Eén advertentie-ervaring, of creatief, kan op meerdere plaatsen worden uitgevoerd. Assets kan worden geüpload in de hoogte-breedteverhoudingen die u voor advertentieplaatsen nodig hebt.
 
 ### Een voorvertoning van uw ervaring weergeven en deze activeren op een advertentiekanaal
 

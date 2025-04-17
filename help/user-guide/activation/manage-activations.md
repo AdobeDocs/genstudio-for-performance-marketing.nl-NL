@@ -1,9 +1,9 @@
 ---
 title: Activeringen beheren
-description: Leer hoe u de geactiveerde ervaringen beheert met Adobe Genstudio for Performance Marketing.
+description: Leer hoe u geactiveerde ervaringen met Adobe GenStudio for Performance Marketing kunt beheren.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: f6e0d0138f30527a1fdf7bef6fc4c30884316e0e
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 _[!DNL Activate]_biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De_ Geactiveerde 1} mening van Ervaringen {toont alle activeringen voor één verbonden kanaal en rekening._
 
-Geactiveerde ervaringen worden via het advertentiekanaal georganiseerd. Klik in _[!DNL Activate]_op **[!UICONTROL View]**op de kanaaltegel. De_ Geactiveerde ervaringen _mening voor het geselecteerde kanaal opent. Ervaringen worden weergegeven op naam en geordend op activeringsdatum. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]**.
+_[!DNL Activate]_organiseert geactiveerde ervaringen via het ad-hockanaal. Klik op **[!UICONTROL View]**op het kanaalelement. De_ Geactiveerde ervaringen _mening voor het geselecteerde kanaal opent. In deze weergave worden ervaringen op naam weergegeven en op activeringsdatum gesorteerd. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]**.
 
 ## Weergave voor activering
 
-Activaties worden weergegeven op naam van ervaring in aflopende chronologische volgorde (meest recente lijst eerst).
+In deze weergave worden de activeringen weergegeven op naam van de ervaring in aflopende chronologische volgorde (meest recente eerst weergegeven).
 
 In de volgende tabel staan de kenmerken die elke ervaring definiëren.
 

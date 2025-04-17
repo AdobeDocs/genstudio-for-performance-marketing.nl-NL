@@ -3,18 +3,18 @@ title: Workflow voor activering
 description: Meer informatie over de activeringsworkflow voor advertenties.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 8db25ba42a8eebc2d17f8b8b1a5f5fbede1a6e0f
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
 
 # Workflow voor activering
 
-_[!DNL Activate]_ondersteunt de activering van advertenties in kanaalspecifieke indelingen, zoals een metagegevensadvertentie.
+_[!DNL Activate]_biedt ondersteuning voor de activering van advertentiervaringen in de vorm van creatieve kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentie.
 
-Een GenStudio for Performance Marketing-ervaring is een marketingcampagne-onderdeel, zoals een advertentie, dat is toegesneden op een specifiek publiek op een betaald advertentiekanaal of e-mail. Toevoegingen bestaan uit drie hoofdonderdelen:
+Een GenStudio for Performance Marketing-ervaring is een marketingcampagne-onderdeel, zoals een advertentie, dat is voorbereid als een creatief onderdeel voor een bepaald publiek op een betaald advertentiekanaal of e-mail. Creatieve producten bestaan uit drie hoofdcomponenten:
 
 * **activa van Media**: De activa van media zijn de beelden (GIFs, PNG, JPEG) inbegrepen in uw advertentie. Activering ondersteunt momenteel statische afbeeldingen.
 Als u een afbeeldingselement wilt selecteren voor uw advertentie, moet u de juiste hoogte-breedteverhouding kiezen. De hoogte-breedteverhoudingen bepalen de proportionele verhouding tussen de breedte en hoogte van een afbeelding en zijn van cruciaal belang voor de doeltreffendheid van plaatsingen. Betaalde mediakanalen geven zorgvuldig geldige hoogte-breedteverhoudingen op voor elke advertentie op hun platform. Wanneer u afbeeldingselementen aan de activering toevoegt, moet u de hoogte-breedteverhouding selecteren op basis van de laatste en aanvullende informatie. Bestandstypen zijn beperkt tot JPEG, PNG en GIF.
@@ -33,12 +33,17 @@ Hoewel unieke plaatsingsvereisten elk betaald kanaal bepalen, delen alle en acti
 
 * **bereidt uw ervaring voor activering** voor. De voorbereiding omvat het selecteren van media activa in de aangewezen aspectverhouding voor uw specifieke plaatsing en het toewijzen van tekst aan vraag-aan-actie elementen en lichaamskopie. U kunt ook informatieve metagegevens toevoegen die gebruikers helpen bij het zoeken naar een ervaring na activering. Bij elke plaatsing van een ad-kanaal worden geldige hoogte-breedteverhoudingen opgegeven voor visuele elementen die in de plaatsing zijn opgenomen.
 
-* **Overzicht en publiceer uw ervaring aan het doelkanaal**.  Gebruik het _paneel van de Voorproef_ in creeer activeringswerkschema om uw keus van plaatsing en tekstelementen te beoordelen alvorens uw activering te voltooien. Uw laatste revisie vóór publicatie vindt plaats in de app voor advertentiebeheer van het doelkanaal. Nadat u bijvoorbeeld een Meta-advertentie-ervaring hebt geactiveerd in GenStudio for Performance Marketing, moet u zich aanmelden bij Meta Ads Manager, uw advertentie beoordelen en vervolgens de specifieke kenmerken ervan selecteren voordat u deze publiceert.
+>[!TIP]
+>
+>U kunt goedgekeurde en rechtstreeks vanuit de _[!DNL Content]_Experience-galerie selecteren en als Google Campagne Manager 360-ontwerpers voorbereiden. Nadat u een ervaring hebt geselecteerd in de galerie_[!DNL Content]_ , kunt u geen elementen meer bewerken of toevoegen aan uw creatieve projecten.
 
-Zodra een ervaring op zijn doel en kanaal levend is, kan _[!DNL Insights]_zijn prestatiesgegevens volgen en analyseren.
+* **Overzicht en publiceer uw ervaring aan het doelkanaal**. Gebruik het _paneel van de Voorproef_ tijdens creatieve opstelling om uw keus van plaatsing en tekstelementen te beoordelen alvorens uw activering te voltooien. Uw laatste revisie vóór publicatie vindt plaats in de app voor advertentiebeheer van het doelkanaal. Nadat u bijvoorbeeld een Meta-advertentie-ervaring hebt geactiveerd in GenStudio for Performance Marketing, moet u zich aanmelden bij Meta Ads Manager, uw creatieve werk bekijken en vervolgens de specifieke kenmerken ervan selecteren voordat u deze publiceert.
+
+Als een creatief programma eenmaal actief is op het doelmediakanaal voor betaald gebruik, kan _[!DNL Insights]_de prestatiegegevens bijhouden en analyseren.
 
 ## Ondersteunde kanalen
 
 Elk betaald mediakanaal heeft een unieke activeringsworkflow. Selecteer het betaalkanaal voor activeringsrichtlijnen:
 
 * [ Meta ](activate-meta-ad.md)
+* [ Manager 360 van de Campagne van Google ](activate-cm360-ad.md)
