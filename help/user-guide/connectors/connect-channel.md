@@ -5,9 +5,9 @@ level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 2844914d25d9bc3a2be7f47d0cd7f26f7c921555
+source-git-commit: af354448ef609db3c51026ee0e9991ac5cedeba5
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,31 @@ _[!DNL Data connectors]_maakt naadloze integratie mogelijk tussen GenStudio for 
 ## Betaalde media
 
 GenStudio for Performance Marketing biedt ondersteuning voor verschillende connectortypen die u kunt integreren met uw favoriete marketingplatforms. Elk schakelaartype heeft specifieke eerste vereisten en opstellingsstappen om voor een succesvolle verbinding te voltooien.
+
+### Google Campagne Manager 360 connect
+
+>[!BEGINSHADEBOX]
+
+**Eerste vereisten**:
+
+- Google Campagne Manager 360-account
+- Pop-upblokkeerprogramma&#39;s in uw browser verwijderen
+
+>[!ENDSHADEBOX]
+
+**om een Google Manager 360 van de Campagne te verbinden rekening**:
+
+1. In de _schakelaars van Gegevens_ sectie, klik **[!UICONTROL Connect]** op _Google Manager 360_ kaart van de Campagne.
+
+1. Meld u aan bij uw Google Campagne Manager 360-account.
+
+   U moet mogelijk de pop-upblokkeerprogramma&#39;s verwijderen en vervolgens **[!UICONTROL Refresh]** gebruiken om het opnieuw te proberen.
+
+1. Lees de voorwaarden en voorwaarden en klik op **[!UICONTROL Allow]** om toegang te verlenen.
+
+1. Selecteer een of meer adverteerders in de weergave _[!UICONTROL Google Campaign Manager 360]_en klik op **[!UICONTROL Select]**.
+
+In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**om meer accounts aan de lijst toe te voegen.
 
 ### Meta-advertenties verbinden
 
