@@ -4,9 +4,9 @@ description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudi
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: 4afdde6fd08a9f33ff599f5f85b9c1b9d79870ec
+source-git-commit: a7241193b38a45dbd927269d65c1edac05cab002
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het m
 
 ## Kenmerkdetails
 
-De attributen helpen om [ media ](media.md#media-details) door hun inherente details, zoals kleur, samenstelling, visuele elementen, en andere eigenschappen te identificeren.
+De attributen helpen om [ advertenties ](ads.md#ad-details) en [ media ](media.md#media-details) door hun inherente details, zoals kleur, samenstelling, visuele elementen, en andere eigenschappen te identificeren.
 
 In de weergave met kenmerkdetails kunt u zien welke advertenties het geselecteerde kenmerk gebruiken. De details omvatten totale kenmerkprestaties en een uitsplitsing van de prestatiesmetriek met betrekking tot elke advertentie.
 
@@ -39,9 +39,9 @@ GenStudio for Performance Marketing detecteert bepaalde functies en past het jui
 
 Een attribuut _categorie_ is een classificatiegroep die verwante attributen organiseert die een gemeenschappelijk kenmerk delen. Deze categorieën helpen de ontdekking, identificatie, en begrip van specifieke attributen te stroomlijnen door grotere context te verstrekken en hun toepassing en gebruik te vergemakkelijken.
 
-GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md) te bestuderen, [ video&#39;s ](video-features.md), en [ tekst ](text-features.md) en [!UICONTROL Media attributes] toe te passen die op een waarschijnlijkheid van correctheid wordt gebaseerd.
+GenStudio for Performance Marketing gebruikt Adobe AI en machine het leren mogelijkheden om [ beelden ](image-features.md) te bestuderen, [ video&#39;s ](video-features.md), en [ tekst ](text-features.md) en attributen op advertenties en media toe te passen die op een waarschijnlijkheid van correctheid worden gebaseerd.
 
-De lijst met gedetecteerde kenmerken voor media-inhoud is niet limitatief. Media die een uitgebreide reeks kenmerken bevatten, kunnen worden beperkt tot de drie meest voorkomende kenmerken die door de AI worden geïdentificeerd. De volgende illustratie bevat bijvoorbeeld verschillende gedetecteerde afbeeldingskenmerken, waaronder meerdere objecten, voorgrond- en achtergrondkleuren.
+De lijst met gedetecteerde kenmerken voor advertenties en media-inhoud is niet limitatief. Inhoud die een uitgebreide reeks functies bevat, kan worden beperkt tot de drie belangrijkste kenmerken die door de AI worden geïdentificeerd. De volgende afbeelding bevat bijvoorbeeld verschillende gedetecteerde afbeeldingskenmerken, waaronder meerdere objecten, voorgrond- en achtergrondkleuren:
 
 ![ beeldattributen ](/help/assets/category/asset-attributes.png " Beeld van Toucan omvat veelvoudige ontdekte attributen "){width="300" zoomable="yes"}
 
@@ -61,7 +61,7 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | **[!UICONTROL Category]** | De [ categorie ](#categories) die de inherente kwaliteit van een attribuut vertegenwoordigt. |  |
 | **[!UICONTROL # of images]** | Het aantal afbeeldingen met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
 | **[!UICONTROL # of videos]** | Het aantal video&#39;s met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
-| **[!UICONTROL Impressions]** | Een telling van elke keer dat een afbeelding of video&#39;s met dit kenmerk in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht kunt u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
+| **[!UICONTROL Impressions]** | Een telling van elke keer dat een afbeelding of video&#39;s met dit kenmerk in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echte prestaties, insight, moet u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
 | **[!UICONTROL Clicks]** | Het aantal keren dat gebruikers met een afbeelding of video communiceren met dit kenmerk. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen dat heeft geresulteerd in klikken op afbeeldingen of video&#39;s met dit kenmerk.<br>**Berekening**: `clicks` verdeeld door `impressions` | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend beelden van een beeld of video met dit attribuut.<br>**Berekening**: totaal bedrag `spent` verdeeld door bereik, dan vermenigvuldigd door 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |

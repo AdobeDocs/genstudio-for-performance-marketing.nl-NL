@@ -4,7 +4,7 @@ description: Meer informatie over de videofunctie van kenmerkcategorieën die in
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: c742fb33a04b36da35036a4554a475141fce8b01
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -44,9 +44,9 @@ In de volgende tabel worden de categorieën met videofuncties weergegeven die do
 | Categorie | Beschrijving | Voorbeeld |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | Audiovisuele stemming | Bepaalt de algemene emotionele toon of atmosfeer van de audiotrack, zoals `calm` , `upbeat` of `tense` . | `Energetic`, `Happy`, `Emotional Ambient/atmospheric`, `Relaxing`, `Dramatic`, `Expressive/characterful`, `Intense`, `Slow`, `Neutral` |
-| Audiotypen | Hiermee wordt de video gecodeerd met een of meer aanwezige typen audio, zoals `music` of `speech` . | `Music`, `Speech`, `Silence`, `Special effects`, `Ambience` |
+| Audiotypen | Hiermee wordt de video gecodeerd met een of meer aanwezige audio-inhoudstypen, zoals `music` of `speech` . | `Music`, `Speech`, `Silence`, `Special effects`, `Ambience` |
 | Categorieën | Hiermee classificeert u de video in een of meer brede inhoudscategorieën. | `Entertainment`, `Sports`, `Music`, `Gaming`, `Howto tutorials`, `Fashion and style`, `Film and animation`, `Science and technology`, `Autos and vehicles`, `Pets and animals`, `People and blogs`, `News and politics`, `Social causes and activism`, `Travel and events`, `Education`, `Sales and offers` |
-| Muziekcategorie | Brede classificatie van muziekgenre wanneer muziek in de video aanwezig is. Dit helpt bij het identificeren van het algemene type muziek, zoals `contemporary` - of `traditional` -stijlen. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
+| Muziekcategorie | Brede classificatie van muziekgenre wanneer muziek in de video aanwezig is. Genre helpt bij het identificeren van het algemene type muziek, zoals `contemporary` - of `traditional` -stijlen. | `Contemporary/pop music`, `Traditional/folk-based music`, `Instrumental/orchestral music`, `Rock music`, `Acoustic/unplugged music`, `Specialised/occasional music`, `Experimental/unique music` |
 | Muziek genre | Specifieke classificatie van muziekstijl wanneer muziek aanwezig is in de video, die een gedetailleerdere identificatie van de muziek, zoals `electronic` of `jazz` verstrekt. | `electronic`, `hip-hop`, `dance`, `novelty`, `rock`, `world`, `reggae`, `pop`, `film`, `jazz`, `background`, `latin` |
 | Objecten | Identificeert een of meer items, entiteiten en elementen die in de video worden weergegeven. | De waarden zijn te talrijk, maar enkele voorbeelden zijn: `backpack`, `book`, `hawk`, `glasses`, `fish`, `pencil`, `mountain bike`, `soap` |
 | Afdrukstand | De uitlijning van de video ten opzichte van de breedte en hoogte. Geeft aan of de breedte breder is dan de lengte (liggend), groter dan de breedte (staand) of gelijk aan de hoogte (vierkant). | `landscape`, `portrait`, `square` |

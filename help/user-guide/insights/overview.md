@@ -1,17 +1,17 @@
 ---
-title: Overzicht van  [!DNL Insights]
+title: Overzicht van inzichten
 description: Leer hoe u advertenties optimaliseert op basis van gegevens over de prestaties van realtime-inhoud.
 level: Intermediate
 feature: Reporting and Insights
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: c1c595f3be42b86d0e0aebd42c9c50c9d9aa4cdc
+source-git-commit: 42a211956854126798024a97fc0befc3626160b7
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 0%
 
 ---
 
-# Adobe GenStudio for Performance Marketing [!DNL Insights]
+# Adobe GenStudio for Performance Marketing Insights
 
 Adobe GenStudio for Performance Marketing [!DNL Insights] biedt geavanceerde analyses en inzichten in de prestaties van inhoud die u kunnen helpen gegevensgestuurde beslissingen te nemen.
 
@@ -53,7 +53,7 @@ De [[!DNL Insights] _[!UICONTROL Media]_mening ](media.md) wordt ontworpen om u 
 
 Als u op media-inhoud klikt, krijgt u meer informatie over de prestaties van de inhoud op verschillende advertenties en advertenties:
 
-![ Details van Media ](/help/assets/insights-media-details.png)
+![ Details van Media ](/help/assets/insights-media-details.png){width="600" zoomable="yes"}
 
 In de weergave met mediadetails ziet u links een miniatuur van het element en een lijst met kenmerken. Er zijn drie gemarkeerde metriek: `Click-through rate` , `Cost per click` en `Spend` . De prestatie laat zien hoe werkelijke waarden (effen lijn) worden vergeleken met de gemiddelde waarde (stippellijn) over de geselecteerde tijdsperiode (de standaardwaarde is `Last 30 days` ).
 
