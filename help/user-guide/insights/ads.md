@@ -4,7 +4,7 @@ description: Bekijk een overzicht van de betrokkenheid van klanten, het budget e
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: b4e0892af62be754f7b596537125458fc28930f3
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
@@ -20,6 +20,8 @@ In de weergave [!DNL Insights] _[!UICONTROL Ads]_ziet u een lijst met advertenti
 De tabel _[!UICONTROL Ads]_wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]**boven de tabel om alle filters te verwijderen.
 
 ![ filter en lijst van Adverten ](/help/assets/insights-ads-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 

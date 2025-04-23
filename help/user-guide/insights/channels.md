@@ -4,7 +4,7 @@ description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, 
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -20,6 +20,8 @@ In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campag
 De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]**boven de tabel om alle filters te verwijderen.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 
@@ -48,8 +50,8 @@ De volgende lijst verstrekt definities en inzichten voor zeer belangrijke digita
 | ----------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Meta campaign name]** | Een lijst met campagnemenamen voor de account van het aangesloten kanaal. De campagnestatus kan `Active`, `Paused`, `Deleted` of `Archived` zijn. Filtercampagnes op status en doel. | U kunt de tabel sorteren door op de kolomkop voor een van de belangrijkste maateenheden te klikken. |
 | **[!UICONTROL Launch]** | De datum waarop de campagne op de markt is gebracht of gepubliceerd. | Een hoog aantal indrukken kan erop wijzen dat de advertentie het beoogde publiek bereikt. |
-| **[!UICONTROL Impressions]** | Een telling van elke tijd de inhoud binnen het kanaal laadt, ongeacht interactie of het bekijken. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echt prestatieinzicht kunt u dit vergelijken met andere betrokkenheidsmetriek. |
-| **[!UICONTROL Clicks]** | Het aantal tijden de gebruikers met een klikbaar element, zoals een verbinding of een vraag-aan-actie knoop, binnen de advertentiecampagne in wisselwerking staan. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
+| **[!UICONTROL Impressions]** | Een telling van elke tijd de inhoud binnen het kanaal laadt, ongeacht interactie of het bekijken. | Een hoge indruk kan wijzen op brede zichtbaarheid, maar voor echte prestaties, insight, overweeg het naast andere betrokkenheidsmetriek. |
+| **[!UICONTROL Clicks]** | Het aantal keren dat gebruikers communiceren met een klikbaar element, zoals een koppeling of een call-to-action-knop, binnen de advertentiecampagne. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukken die tot campagneklikken binnen een kanaal hebben geleid.<br>**Berekening**: (`clicks` verdeeld door `impressions`) x 100 = % | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |
 | **[!UICONTROL CPM]**<br>_Kosten per duizend _ | Kosten voor elke duizend indrukken voor de advertentiecampagne. <br>**Berekening**: (totaal bedrag `spent` gedeeld door `impressions`) x 1000 | Een lage waarde kan op rendabele zichtbaarheid wijzen, vooral wanneer gecombineerd met een hoge doorkliksnelheid. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten voor elke klik in een advertentiecampagne.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` = $ | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |

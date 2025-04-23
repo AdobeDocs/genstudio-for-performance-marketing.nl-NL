@@ -4,7 +4,7 @@ description: Leer hoe u de mediaprestaties in Adobe GenStudio for Performance Ma
 level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: a7241193b38a45dbd927269d65c1edac05cab002
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -20,6 +20,8 @@ In de weergave [!DNL Insights] _[!UICONTROL Media]_ziet u een lijst met media di
 De tabel _[!UICONTROL Media]_wordt ingedeeld met **[!UICONTROL Media ID]**. U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]**boven de tabel om alle filters te verwijderen.
 
 ![ de filter en lijst van Media ](/help/assets/insights-media-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 

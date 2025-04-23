@@ -4,7 +4,7 @@ description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudi
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: a7241193b38a45dbd927269d65c1edac05cab002
+source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
 workflow-type: tm+mt
 source-wordcount: '824'
 ht-degree: 0%
@@ -22,6 +22,8 @@ De tabel _[!UICONTROL Attributes]_wordt ingedeeld met de naam [!UICONTROL Attrib
 Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]** geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]** boven de tabel om alle filters te verwijderen.
 
 ![ de filter en lijst van Attributen ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
+
+{{empty-table}}
 
 {{$include /help/_includes/download-insights.md}}
 
