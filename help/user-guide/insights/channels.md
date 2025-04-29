@@ -4,9 +4,9 @@ description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, 
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 999e415d791cfde0965ec119db1e36d364d41780
+source-git-commit: 997bd2ce2243bbfe59567c5dd3b389408446f5e7
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,21 @@ In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campag
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]**geopend waarin u uit meerdere lijsten kunt kiezen. Selecteer **[!UICONTROL Clear all]**boven de tabel om alle filters te verwijderen.
+De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
+Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
+
 {{empty-table}}
 
-{{$include /help/_includes/download-insights.md}}
+## Filterkanalen
 
-Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
+Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]** geopend waarin u uit meerdere lijsten kunt kiezen. Het toegepaste filter blijft in alle weergaven in [!DNL Insights] bestaan. Selecteer **[!UICONTROL Clear all]** boven de tabel of galerie met advertenties om alle geselecteerde filters te verwijderen.
+
+### Tabelresultaten downloaden
+
+{{$include /help/_includes/download-insights.md}}
 
 ## Doelstellingen
 
@@ -57,4 +63,4 @@ De volgende lijst verstrekt definities en inzichten voor zeer belangrijke digita
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | Gemiddelde kosten voor elke klik in een advertentiecampagne.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` = $ | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |
 | **[!UICONTROL Video plays]** | Het aantal keren dat een video begint met afspelen in een advertentiecampagne, met uitzondering van het aantal keren dat de video wordt afgespeeld. Een video wordt afgespeeld wanneer een gebruiker op Afspelen klikt of de video automatisch wordt afgespeeld. | Een hoog aantal videospellen kan erop wijzen dat de video aandacht vangt, en kan betekenen dat de duimnagel, de titel, of de plaatsing effectief in kijkers trekt. |
 | **[!UICONTROL Budget]** | Totale middelen die zijn toegewezen voor een advertentiecampagne om campagnedoelstellingen te bereiken. | Een hoge begroting betekent meer middelen voor een breder bereik en mogelijk grotere impact. |
-| **[!UICONTROL Spend]** | Het bedrag dat gedurende een bepaalde periode uit de begroting is uitgegeven om advertenties op verschillende platforms te plaatsen. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgavenbedrag bij de belangrijkste prestatiemetriek om het algemene rendement op investering te helpen controleren. |
+| **[!UICONTROL Spend]** | Het bedrag dat gedurende een bepaalde periode uit de begroting is uitgegeven om advertenties op verschillende platforms te plaatsen. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgegeven bedrag tegen zeer belangrijke prestatiesmetriek bij helpen het algemene rendement op investering controleren. |
