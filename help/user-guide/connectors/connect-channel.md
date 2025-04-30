@@ -5,9 +5,9 @@ level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: af354448ef609db3c51026ee0e9991ac5cedeba5
+source-git-commit: cf4be61925761c9630cb8ea5c995d017b3938a31
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -59,12 +59,32 @@ In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_worden de `Acc
 
 ### Meta-advertenties verbinden
 
+Wanneer u uw _Van Bedrijfs Meta_ profiel met GenStudio for Performance Marketing verbindt, verzekert het naadloze toegang tot reclamegegevens voor uw bedrijfspagina&#39;s, de rekeningen van Meta Adds, en andere activa van Meta.
+
 >[!BEGINSHADEBOX]
 
 **Eerste vereisten**:
 
-- Facebook-/Meta-advertentieaccount
-- Toegang tot een Meta-advertentiesaccount met `View performance` machtigingsniveau voor het openen van rapporten en het weergeven van advertenties
+- Facebook/Meta-aanmelding die toegang kan krijgen tot alle Meta-services, zoals het Meta Ads-account en het Facebook Business Profile
+- Toegang tot een Meta-advertentiesaccount met `View performance` machtigingsniveau voor het openen van rapporten en het weergeven van advertenties, waaronder de volgende
+   - Machtigingen vereist voor gebruik met [!DNL Insights] :
+
+      - `pages_show_list`
+      - `ads_read`
+      - `ads_management`
+      - `pages_read_engagement`
+
+   - Machtigingen vereist voor gebruik met [!DNL Activate] :
+
+      - `ads_management`
+      - `ads_read`
+      - `business_management`
+      - `instagram_basic`
+      - `instagram_content_publish`
+      - `pages_manage_ads`
+      - `pages_manage_posts`
+      - `pages_show_list`
+
 - Pop-upblokkeerprogramma&#39;s in uw browser verwijderen
 
 >[!ENDSHADEBOX]
@@ -77,19 +97,26 @@ In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_worden de `Acc
 
    U moet mogelijk de pop-upblokkeerprogramma&#39;s verwijderen en vervolgens **[!UICONTROL Refresh]** gebruiken om het opnieuw te proberen.
 
-1. Volg de Facebook-verificatieinstructies.
+1. Volg de Facebook-verificatieinstructies, controleer de accountgegevens en klik op **[!UICONTROL Continue as ...]**
 
-1. Doorloop de volgende selecties in het pop-upmenu _[!UICONTROL Facebook Login for Business]_(symbool Meta naar Adobe).
+1. Ga in _[!UICONTROL Facebook Login for Business]_(Symbool Meta t/m Adobe) door de volgende selecties om GenStudio for Performance Marketing toegang te verlenen:
 
-   - Controleer de accountgegevens en klik op **[!UICONTROL Continue as]**
-   - Toegang verlenen tot geselecteerde pagina&#39;s en klikken **[!UICONTROL Continue]**
-   - Toegang verlenen aan geselecteerde bedrijven en klikken **[!UICONTROL Continue]**
-   - Meld u aan bij een of meer Instagram-accounts en klik op **[!UICONTROL Continue]**
+   - Selecteer een of meer zakelijke profielen voor metagegevens en klik op **[!UICONTROL Continue]**
+   - Selecteer een of meer metapagina&#39;s en klik op **[!UICONTROL Continue]**
+   - Selecteer een of meer Instagram-accounts en klik op **[!UICONTROL Continue]**
    - Selecties bekijken en klikken **[!UICONTROL Save]**
 
-1. Selecteer een of meer accounts in de weergave _[!UICONTROL Meta Ads]_en klik op **[!UICONTROL Select]**.
+1. Klik op **[!UICONTROL Got it]** wanneer u hebt gecontroleerd of uw account is verbonden.
 
-In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**om meer accounts aan de lijst toe te voegen.
+   Deze stap zorgt ervoor dat GenStudio for Performance Marketing toegang krijgt tot alle advertenties, metagegevens en meetgegevens voor optimale prestaties.
+
+1. Selecteer in _[!UICONTROL Meta Ads]_een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
+
+1. Zodra u a _Platform verbonden_ bevestiging ontvangt, klik **[!UICONTROL View accounts]**.
+
+   In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
+
+Gebruik **[!UICONTROL Add account]** om meer accounts aan de lijst toe te voegen. De machtigingsstroom kan enigszins afwijken wanneer u accounts toevoegt die zijn gekoppeld aan hetzelfde Meta Business-profiel. Tijdens het verbindingsproces selecteert u alleen de nieuwe metagegevensaccounts.
 
 ## Gegevensinvoer
 
