@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Overzicht van kanalen
 
-In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
+In de weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Channels]_&#x200B;wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
