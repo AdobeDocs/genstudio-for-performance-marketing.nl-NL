@@ -104,9 +104,9 @@ Nadat u afbeeldingsvarianten hebt gegenereerd, kunt u deze rechtstreeks in Adobe
 
    A _Aangedreven door Adobe Express_ venster verschijnt.
 
-1. Voer beeld uit het uitgeven, zoals [ uitsnijdend een beeld ](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), [ verwijderend een voorwerp ](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), en het toepassen van gevolgen.
+1. Voer beeld uit het uitgeven, zoals [ uitsnijdend een beeld ](https://helpx.adobe.com/nl/express/create-and-edit-images/edit-images/crop-images.html), [ verwijderend een voorwerp ](https://helpx.adobe.com/nl/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), en het toepassen van gevolgen.
 
-   Zie {de documentatie van 0} Adobe Express [&#128279;](https://helpx.adobe.com/express/user-guide.html) leren hoe te herzien beelden in GenStudio for Performance Marketing met Adobe Express.
+   Zie {de documentatie van 0} Adobe Express [&#128279;](https://helpx.adobe.com/nl/express/user-guide.html) leren hoe te herzien beelden in GenStudio for Performance Marketing met Adobe Express.
 
 1. Klik op _[!UICONTROL Apply changes]_&#x200B;om uw bewerkingen op te slaan.
 1. Bewerk de afzonderlijke afbeeldingsvarianten naar wens en pas de wijzigingen toe om de voortgang op te slaan.

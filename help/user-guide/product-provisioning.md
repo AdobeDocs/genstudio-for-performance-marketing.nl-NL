@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Voorziening Adobe GenStudio for Performance Marketing
 
-Een het systeembeheerder van Adobe voert aanvankelijke inrichtingstaken in [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) uit. Vanuit de Admin Console kan een Adobe-systeembeheerder het GenStudio-productprofiel openen en beschikbare productlicenties toewijzen aan gebruikers.
+Een het systeembeheerder van Adobe voert aanvankelijke inrichtingstaken in [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html#Overview) uit. Vanuit de Admin Console kan een Adobe-systeembeheerder het GenStudio-productprofiel openen en beschikbare productlicenties toewijzen aan gebruikers.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ In de Admin Console definieert het productprofiel regels en gebruikersprofielen 
 
 **om tot het het productprofiel van GenStudio toegang te hebben**
 
-1. Klik **krijgen begonnen** verbinding in uw welkome e-mail om aan [ Adobe Admin Console ](https://helpx.adobe.com/enterprise/using/admin-console.html#Overview) te navigeren.
+1. Klik **krijgen begonnen** verbinding in uw welkome e-mail om aan [ Adobe Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html#Overview) te navigeren.
 
 1. Meld u aan bij de Admin Console met uw Adobe ID.
 
@@ -62,8 +62,8 @@ Zie [ de rollen en de toestemmingen van de Gebruiker ](user-roles.md) voor begel
 
 U kunt gebruikers afzonderlijk toevoegen of accountgegevens importeren voor meerdere gebruikers:
 
-* [ beheert individueel gebruiker ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html#add-users)
+* [ beheert individueel gebruiker ](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html#add-users)
 
-* [ beheer veelvoudige gebruikers/bulkCSV uploadt ](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html)
+* [ beheer veelvoudige gebruikers/bulkCSV uploadt ](https://helpx.adobe.com/nl/enterprise/using/bulk-upload-users.html)
 
 Zodra u aan boord van gebruikers aan GenStudio for Performance Marketing van uw organisatie, een het systeemmanager van GenStudio kan [ opstelling het merk van uw organisatie en media richtlijnen ](get-started.md).

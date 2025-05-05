@@ -19,7 +19,7 @@ u wordt verwacht deze code te handhaven. Geef een onacceptabel gedrag aan
 
 ## Documentatie voor de bijdragershandleiding
 
-Zie de [ Gids van de Medewerker voor de Documentatie van de Adobe ](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Zie de [ Gids van de Medewerker voor de Documentatie van de Adobe ](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction).
 
 ## Hebt u een vraag?
 

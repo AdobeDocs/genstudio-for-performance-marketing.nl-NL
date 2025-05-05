@@ -177,7 +177,7 @@ Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden 
 
 Vanwege deze regel kunnen de secties niet worden genest.
 
-Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
 
 Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt u drie kopregels en hoofdtekstsecties gebruiken:
 

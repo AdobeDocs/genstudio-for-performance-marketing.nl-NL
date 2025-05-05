@@ -39,7 +39,7 @@ Wees voorzichtig en verwijder de volgende gegevensverbindingen die GenStudio for
 - AEP-verbindingen: gegevensstromen vooraf vastgelegd met `GS Insights`
 - AEP Connections: GS Insights-account
 
-Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion) in de _Customer Journey Analytics_ gids alvorens u om het even welke gegevenscomponenten in AEP schrapt.
+Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/deletion) in de _Customer Journey Analytics_ gids alvorens u om het even welke gegevenscomponenten in AEP schrapt.
 
 >[!ENDSHADEBOX]
 
