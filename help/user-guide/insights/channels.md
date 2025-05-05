@@ -4,34 +4,26 @@ description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, 
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 997bd2ce2243bbfe59567c5dd3b389408446f5e7
+source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
 
 # Overzicht van kanalen
 
-In de weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
+In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Channels]_&#x200B;wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
 Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
 
-{{empty-table}}
-
-## Filterkanalen
-
-Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]** geopend waarin u uit meerdere lijsten kunt kiezen. Het toegepaste filter blijft in alle weergaven in [!DNL Insights] bestaan. Selecteer **[!UICONTROL Clear all]** boven de tabel of galerie met advertenties om alle geselecteerde filters te verwijderen.
-
-### Tabelresultaten downloaden
-
-{{$include /help/_includes/download-insights.md}}
+{{filter-table}}
 
 ## Doelstellingen
 

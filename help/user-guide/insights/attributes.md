@@ -4,37 +4,24 @@ description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudi
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: c619f092d0f64ca6d847f058e343578d0b22a3d6
+source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '795'
 ht-degree: 0%
 
 ---
 
 # Overzicht van kenmerken
 
-In de weergave [!DNL Insights] _[!UICONTROL Attributes]_&#x200B;ziet u een lijst met kenmerken die worden gebruikt in advertentiecampagnes voor het geselecteerde kanaalaccount.
+In de weergave [!DNL Insights] _[!UICONTROL Attributes]_ziet u een lijst met kenmerken die worden gebruikt in advertentiecampagnes voor het geselecteerde kanaalaccount.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Attributes]_&#x200B;wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**&#x200B;en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Attributes]_wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Attributen ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
-{{empty-table}}
-
-## Filterkenmerken
-
-Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]** geopend waarin u uit meerdere lijsten kunt kiezen. Zie {de media van 0} Filter [&#128279;](/help/user-guide/insights/media.md#filter-media) om over sleutelwoordfilters voor Campagnes en Advertenties te leren.
-
-
->[!NOTE]
->
->Het toegepaste filter blijft in alle weergaven in [!DNL Insights] bestaan. Selecteer **[!UICONTROL Clear all]** boven de tabel of galerie met advertenties om alle geselecteerde filters te verwijderen.
-
-### Tabelresultaten downloaden
-
-{{$include /help/_includes/download-insights.md}}
+{{filter-table}}
 
 ## Kenmerkdetails
 

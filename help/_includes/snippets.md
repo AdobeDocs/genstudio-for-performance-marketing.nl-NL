@@ -1,7 +1,7 @@
 ---
-source-git-commit: 9362ed03a54d5cbd661a2f278096b3a1fd692e36
+source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 >
 >Verrijk uw vaardigheden op dit onderwerp met [ de Academie van Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy).
 
-## Tip voor lege tabellen {#empty-table}
+## Tip voor het filteren van tabellen {#filter-table}
 
 >[!TIP]
 >
->Een `No results found` bericht bekijken? Pas filters aan door selecties te wijzigen, alle filters te wissen of het datumbereik uit te breiden.
+>Te veel resultaten of een `No results found` bericht bekijken? Pas filters aan door selecties te wijzigen, alle filters te wissen of het datumbereik aan te passen. Zie [ Filter voor de meningen van Inzichten ](/help/user-guide/insights/filter-views.md) om over de dynamische en veelzijdige filtermogelijkheden te leren.

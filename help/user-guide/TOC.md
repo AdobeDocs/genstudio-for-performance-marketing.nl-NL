@@ -5,9 +5,9 @@ user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestat
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 291b287fec24acaa7b6be6bd663d918842764bd9
+source-git-commit: 2b4563bfa1738462039ebc6303dbb8ef30019d6a
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 16%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 16%
    + [ Banden ](guidelines/brands.md)
    + [ Personas ](guidelines/personas.md)
    + [ Producten ](guidelines/products.md)
-   + [ voeg richtlijnen  toe](guidelines/add-guidelines.md)
+   + [ voeg richtlijnen ](guidelines/add-guidelines.md) toe
    + [ Bevestiging van de Merk ](guidelines/brand-validation.md)
 + Maken {#create}
    + [[!DNL Create]  overzicht ](create/overview.md)
@@ -50,8 +50,8 @@ ht-degree: 16%
 + Revisies en goedkeuringen {#approve}
    + [ Overzicht van het Overzicht en van Goedkeuringen ](approvals/overview.md)
    + [ de overzicht en goedkeuring van het verzoek van inhoud ](approvals/request-review.md)
-   + [ Overzicht en geef inhoud  uit](approvals/review-and-edit.md)
-   + [ keur inhoud  goed](approvals/approve-content.md)
+   + [ Overzicht en geef inhoud ](approvals/review-and-edit.md) uit
+   + [ keur inhoud ](approvals/approve-content.md) goed
    + [ publiceer goedgekeurde inhoud ](approvals/publish-content.md)
 + Inhoud {#content}
    + [ Overzicht van de Inhoud ](content/overview.md)
@@ -60,7 +60,7 @@ ht-degree: 16%
    + [ de details van Activa ](content/asset-details.md)
    + Sjablonen {#templates}
       + [ Werk met malplaatjes ](content/use-templates.md)
-      + [ pas een malplaatje  aan](content/customize-template.md)
+      + [ pas een malplaatje ](content/customize-template.md) aan
       + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
       + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
       + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
@@ -75,6 +75,7 @@ ht-degree: 16%
    + [ optimaliseer actities ](activation/troubleshooting.md)
 + Inzichten {#insights}
    + [ Overzicht van Inzichten ](insights/overview.md)
+   + [ filters van Inzichten ](insights/filter-views.md)
    + [ Kanalen ](insights/channels.md)
    + [ Advertenties en advertentie plaatsing ](insights/ads.md)
    + [ Media ](insights/media.md)
