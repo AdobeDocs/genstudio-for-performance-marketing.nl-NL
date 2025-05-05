@@ -26,7 +26,7 @@ Om een nieuwe ervaring te produceren LinkedIn, hebt u een malplaatje nodig om he
 
 **om een malplaatje LinkedIn** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL LinkedIn]**.
+1. Klik in _[!DNL Create]_&#x200B;op **[!UICONTROL LinkedIn]**.
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek malplaatje te vinden.
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -50,7 +50,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
      ![ kies visuele inhoud ](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
-     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
+     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2&rbrace; dropdown menu van de Plaats &lbrace;._ Filter een of meer afbeeldingen en selecteer deze.
 
    * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
@@ -78,10 +78,10 @@ Voordat u varianten ter goedkeuring of publicatie naar [!DNL Content] verzendt, 
 
 **om geproduceerde varianten** te herzien:
 
-* **om [ LinkedIn uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
+* **om [ LinkedIn uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
 * **om [ manueel een LinkedIn uit te geven en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) te klikken en uit te geven zoals nodig.
 * **om de vraag aan actie** te veranderen of te selecteren, klik de knoop van call-to-action en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de tekst van call-to-action in.
-* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_&#x200B;opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
 * **[ om een LinkedIn te schrappen en](/help/user-guide/create/manage-variants.md#delete-variant)**, het optiemenu voor een variant te klikken en **[!UICONTROL Delete variant]** te klikken.
 
@@ -91,11 +91,11 @@ Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#ge
 
 ## Uitlijning van inhoud controleren
 
-Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1} ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).[_ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1&rbrace; [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)._ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
 **om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
    ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 

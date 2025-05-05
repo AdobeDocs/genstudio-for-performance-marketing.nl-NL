@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Workflow voor activering
 
-_[!DNL Activate]_biedt ondersteuning voor de activering van advertentiervaringen in de vorm van creatieve kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentie.
+_[!DNL Activate]_&#x200B;biedt ondersteuning voor de activering van advertentiervaringen in de vorm van creatieve kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentie.
 
 Een GenStudio for Performance Marketing-ervaring is een marketingcampagne-onderdeel, zoals een advertentie, dat is voorbereid als een creatief onderdeel voor een bepaald publiek op een betaald advertentiekanaal of e-mail. Creatieve producten bestaan uit drie hoofdcomponenten:
 
@@ -36,11 +36,11 @@ Hoewel unieke plaatsingsvereisten elk betaald kanaal bepalen, delen alle en acti
 
   >[!TIP]
   >
-  >U kunt goedgekeurde en rechtstreeks vanuit de _[!DNL Content]_Experience-galerie selecteren en als Google Campagne Manager 360-ontwerpers voorbereiden. Nadat u een ervaring hebt geselecteerd in de galerie_[!DNL Content]_ , kunt u geen elementen meer bewerken of toevoegen aan uw creatieve projecten.
+  >U kunt goedgekeurde en rechtstreeks vanuit de _[!DNL Content]_&#x200B;Experience-galerie selecteren en als Google Campagne Manager 360-ontwerpers voorbereiden. Nadat u een ervaring hebt geselecteerd in de galerie&#x200B;_[!DNL Content]_ , kunt u geen elementen meer bewerken of toevoegen aan uw creatieve projecten.
 
 * **Overzicht en publiceer uw ervaring aan het doelkanaal**. Gebruik het _paneel van de Voorproef_ tijdens creatieve opstelling om uw keus van plaatsing en tekstelementen te beoordelen alvorens uw activering te voltooien. Uw laatste revisie vóór publicatie vindt plaats in de app voor advertentiebeheer van het doelkanaal. Nadat u bijvoorbeeld een Meta-advertentie-ervaring hebt geactiveerd in GenStudio for Performance Marketing, moet u zich aanmelden bij Meta Ads Manager, uw creatieve werk bekijken en vervolgens de specifieke kenmerken ervan selecteren voordat u deze publiceert.
 
-Als een creatief programma eenmaal actief is op het doelmediakanaal voor betaald gebruik, kan _[!DNL Insights]_de prestatiegegevens bijhouden en analyseren.
+Als een creatief programma eenmaal actief is op het doelmediakanaal voor betaald gebruik, kan _[!DNL Insights]_&#x200B;de prestatiegegevens bijhouden en analyseren.
 
 ## Ondersteunde kanalen
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing stelt GenStudio-systeembeheerders en -editors in staat om creatieve artikelen te publiceren naar het Google Campaign Manager 360-platform.
 
-U kunt de publicatie van een Google Campagne Manager 360 starten en een ervaring opdoen via de _[!DNL Content]_galerie of_[!DNL Activate]_ home.
+U kunt de publicatie van een Google Campagne Manager 360 starten en een ervaring opdoen via de _[!DNL Content]_&#x200B;galerie of&#x200B;_[!DNL Activate]_ home.
 
 ## Stap 1: Stel uw Google Campagne Manager 360-accounts in
 
@@ -29,11 +29,11 @@ Nadat de synchronisatie is voltooid, kunt u de toegevoegde accounts bekijken.
 
 ## Stap 3: kies inhoud voor uw creatieve projecten
 
-U kunt het publicatieproces starten via de galerie _[!DNL Content]_Ervaring of de startpagina van_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
+U kunt het publicatieproces starten via de galerie _[!DNL Content]_&#x200B;Ervaring of de startpagina van&#x200B;_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
 
 **om een ervaring** te selecteren:
 
-1. Gebruik de zoek- en filtergereedschappen van de _[!DNL Content]_-galerie om te bepalen welke ervaring u wilt activeren en klik vervolgens op **[!UICONTROL Activate]**. (U kunt ook een ervaring selecteren in_[!DNL Activate]_ door op **[!UICONTROL New]** te klikken op de productkaart van Google Campagne Manager 360.)
+1. Gebruik de zoek- en filtergereedschappen van de _[!DNL Content]_-galerie om te bepalen welke ervaring u wilt activeren en klik vervolgens op **[!UICONTROL Activate]**. (U kunt ook een ervaring selecteren in&#x200B;_[!DNL Activate]_ door op **[!UICONTROL New]** te klikken op de productkaart van Google Campagne Manager 360.)
 
    De 360 _de opstellings_ pagina van Creative van de Manager van de Campagne van Google opent voor deze ervaring. Deze is vooraf gevuld met details, die u niet kunt herzien, op basis van de geselecteerde ervaring.
 
@@ -59,7 +59,7 @@ Klik op **[!UICONTROL Next]** rechtsboven om een voorvertoning van uw advertenti
 
 De _pagina van het Overzicht_ biedt een definitieve kans om uw advertentie te bekijken alvorens te publiceren.
 
-Als u deze activering van _[!DNL Activate]_lanceerde, kunt u **[!UICONTROL Edit section]**naast het_ de opstellings _etiket van Creative klikken om uw veranderingen aan te brengen. U kunt **[!UICONTROL Back]**in het hogere recht ook klikken om aan de_ de opstellings _pagina van Creative terug te keren. U kunt ervaringsinhoud niet bewerken.
+Als u deze activering van _[!DNL Activate]_&#x200B;lanceerde, kunt u **[!UICONTROL Edit section]**&#x200B;naast het_ de opstellings _etiket van Creative klikken om uw veranderingen aan te brengen. U kunt **[!UICONTROL Back]**&#x200B;in het hogere recht ook klikken om aan de_ de opstellings _pagina van Creative terug te keren. U kunt ervaringsinhoud niet bewerken.
 
 ## Stap 6: Volledige publicatie van uw advertentie-ervaring
 

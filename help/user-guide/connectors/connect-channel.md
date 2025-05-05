@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Betaalde mediaaccounts verbinden
 
-_[!DNL Data connectors]_maakt naadloze integratie mogelijk tussen GenStudio for Performance Marketing en uw betaalmedia netwerkaccounts. Door verbinding te maken met kanaalaccounts van derden, kunt u kritieke gegevens uitwisselen, zoals maatstaven voor campagneprestaties in [[!DNL Insights]](/help/user-guide/insights/overview.md) , en kunt u nieuwe ad-hoclocaties aanbieden met [[!DNL Activate]](/help/user-guide/activation/overview.md) . Dankzij deze integratie kan GenStudio for Performance Marketing uw media en advertenties beheren en tegelijkertijd waardevolle inzichten uit uw actieve campagnes krijgen, zoals afbeeldingen, klikken en conversies.
+_[!DNL Data connectors]_&#x200B;maakt naadloze integratie mogelijk tussen GenStudio for Performance Marketing en uw betaalmedia netwerkaccounts. Door verbinding te maken met kanaalaccounts van derden, kunt u kritieke gegevens uitwisselen, zoals maatstaven voor campagneprestaties in [[!DNL Insights]](/help/user-guide/insights/overview.md) , en kunt u nieuwe ad-hoclocaties aanbieden met [[!DNL Activate]](/help/user-guide/activation/overview.md) . Dankzij deze integratie kan GenStudio for Performance Marketing uw media en advertenties beheren en tegelijkertijd waardevolle inzichten uit uw actieve campagnes krijgen, zoals afbeeldingen, klikken en conversies.
 
 **om met een betaalde media rekening** te verbinden:
 
@@ -22,7 +22,7 @@ _[!DNL Data connectors]_maakt naadloze integratie mogelijk tussen GenStudio for 
 
 1. Selecteer **[!UICONTROL Settings]** met het cogopictogram.
 
-1. Kies in _[!UICONTROL Settings]_een verbindingstype in de sectie_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
+1. Kies in _[!UICONTROL Settings]_&#x200B;een verbindingstype in de sectie&#x200B;_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
 
    Naar keuze, als er verbonden rekeningen zijn, kunt u op _verbonden rekeningen_ klikken om een lijst van rekeningsnamen, details, en status te bekijken.
 
@@ -53,9 +53,9 @@ GenStudio for Performance Marketing biedt ondersteuning voor verschillende conne
 
 1. Lees de voorwaarden en voorwaarden en klik op **[!UICONTROL Allow]** om toegang te verlenen.
 
-1. Selecteer een of meer adverteerders in de weergave _[!UICONTROL Google Campaign Manager 360]_en klik op **[!UICONTROL Select]**.
+1. Selecteer een of meer adverteerders in de weergave _[!UICONTROL Google Campaign Manager 360]_&#x200B;en klik op **[!UICONTROL Select]**.
 
-In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**om meer accounts aan de lijst toe te voegen.
+In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**&#x200B;om meer accounts aan de lijst toe te voegen.
 
 ### Meta-advertenties verbinden
 
@@ -91,7 +91,7 @@ Wanneer u uw _Van Bedrijfs Meta_ profiel met GenStudio for Performance Marketing
 
 **om een Meta-advertentierekening** te verbinden:
 
-1. In de _sectie van 0} Verbindingen van Gegevens {, klik **[!UICONTROL Connect]**op de_ Advertentiekaart van Meta _._
+1. In de _sectie van 0&rbrace; Verbindingen van Gegevens &lbrace;, klik **[!UICONTROL Connect]**&#x200B;op de_ Advertentiekaart van Meta _._
 
 1. Log in bij je Facebook account.
 
@@ -110,11 +110,11 @@ Wanneer u uw _Van Bedrijfs Meta_ profiel met GenStudio for Performance Marketing
 
    Deze stap zorgt ervoor dat GenStudio for Performance Marketing toegang krijgt tot alle advertenties, metagegevens en meetgegevens voor optimale prestaties.
 
-1. Selecteer in _[!UICONTROL Meta Ads]_een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
+1. Selecteer in _[!UICONTROL Meta Ads]_&#x200B;een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
 
 1. Zodra u a _Platform verbonden_ bevestiging ontvangt, klik **[!UICONTROL View accounts]**.
 
-   In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
+   In de weergave _[!UICONTROL Meta Ads accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
 
 Gebruik **[!UICONTROL Add account]** om meer accounts aan de lijst toe te voegen. De machtigingsstroom kan enigszins afwijken wanneer u accounts toevoegt die zijn gekoppeld aan hetzelfde Meta Business-profiel. Tijdens het verbindingsproces selecteert u alleen de nieuwe metagegevensaccounts.
 

@@ -28,7 +28,7 @@ Het creëren van de toevoeging omvat deze taken op hoog niveau:
 
 ## Uw omgeving instellen
 
-Ontwikkelaars gebruiken Adobe App Builder om aangepaste invoegtoepassingen voor GenStudio for Performance Marketing te maken. Als u voor het eerst een aangepaste app voor een Adobe Creative Experience-product ontwikkelt, dient u bekend te zijn met het Adobe App Builder-framework. Zie {de documentatie van 0} App Builder ](https://developer.adobe.com/app-builder/docs/overview/) voor leerprogramma&#39;s en bespreking.[
+Ontwikkelaars gebruiken Adobe App Builder om aangepaste invoegtoepassingen voor GenStudio for Performance Marketing te maken. Als u voor het eerst een aangepaste app voor een Adobe Creative Experience-product ontwikkelt, dient u bekend te zijn met het Adobe App Builder-framework. Zie {de documentatie van 0} App Builder [&#128279;](https://developer.adobe.com/app-builder/docs/overview/) voor leerprogramma&#39;s en bespreking.
 
 ### Ontwikkelingsinstrumenten
 

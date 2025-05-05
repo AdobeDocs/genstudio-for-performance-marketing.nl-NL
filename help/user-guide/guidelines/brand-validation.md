@@ -63,11 +63,11 @@ Om **het inhoudstype** voor de controles te plaatsen u uitgevoerd wilt, klik om 
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _samenvatting ](#content-check-summary) van de controle van de Inhoud[_ en het _paneel van de controle van de Inhoud ](#content-check-panel).[_ U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _samenvatting [&#128279;](#content-check-summary) van de controle van de Inhoud[_ en het _paneel van de controle van de Inhoud ](#content-check-panel)._ U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
 
 **om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om bevestiging en toegankelijkheidsinformatie voor één enkele variant te zien._
+1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om bevestiging en toegankelijkheidsinformatie voor één enkele variant te zien._
 
    U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien welke secties en richtlijnen verbetering vergen.
 

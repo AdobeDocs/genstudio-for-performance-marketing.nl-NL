@@ -59,7 +59,7 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Pe
 
 ## Sjablonen beheren
 
-Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
+Op de galerie _[!DNL Templates]_&#x200B;wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
 
 ### Zoeksjablonen
 
@@ -67,8 +67,8 @@ Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken 
 
 U kunt bijvoorbeeld een sjabloon zoeken met een specifiek kanaaltype of een bepaalde hoogte-breedteverhouding die door u is gemaakt:
 
-- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
-- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
+- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_&#x200B;beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_&#x200B;beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
 
 In het volgende voorbeeld wordt het filter weergegeven op basis van het kanaaltype, zoals e-mail, advertenties weergeven, metagegevensadvertenties en LinkedIn-advertenties.
 
@@ -82,11 +82,11 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 **om een malplaatje** toe te voegen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 1. Klik op **[!UICONTROL Add template]**.
 
-1. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
+1. Blader in het deelvenster _[!UICONTROL Add your approved template]_&#x200B;naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
 
 1. Controleer de velden in het deelvenster _[!UICONTROL Check detected fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn.
 
@@ -100,7 +100,7 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 1. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
 
-1. Geef in _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
+1. Geef in _[!UICONTROL Provide template details and upload]_&#x200B;de sjabloon een naam en selecteer een **[!UICONTROL Channel]**&#x200B;type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
@@ -117,7 +117,7 @@ Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s.
 
 **om het malplaatje** te verfrissen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
@@ -129,13 +129,13 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 **om een ervaring met een malplaatje** tot stand te brengen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
 1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
-1. Ga aan [ ](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
+1. Ga aan [&#128279;](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
 
 ## Sjablonen uit AJO en Marketo
 

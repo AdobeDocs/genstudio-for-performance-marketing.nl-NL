@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Afbeeldingen genereren
 
-Met het gebruiken van GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schilderpenseel), kunt u _[!DNL On-brand images]_produceren - geproduceerde activa die inspiratie uit een gekozen beeld trekken, die zijn visuele invloed en algemene esthetie vangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
+Met het gebruiken van GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schilderpenseel), kunt u _[!DNL On-brand images]_&#x200B;produceren - geproduceerde activa die inspiratie uit een gekozen beeld trekken, die zijn visuele invloed en algemene esthetie vangen.<!-- [two types of images](#image-types) using GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (paintbrush icon)—_[!DNL On-brand images]_ and _[!DNL Similar images]_. -->
 
 Om een oog-vangend en efficiënt beeld te ontwerpen, adviseert men dat u [ richtsnoeren aan GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toevoegt en de [ grondbeginselen van het schrijven herinneringen ](/help/user-guide/effective-prompts.md) herziet.
 
 ## Afbeeldingstypen
 
-_[!DNL On-brand images]_zijn gegenereerde elementen die inspiratie putten uit een gekozen afbeelding en die de visuele impact en algehele esthetische effecten vastleggen. Deze afbeeldingen worden gemaakt met behulp van afbeeldingen die al beschikbaar zijn in [!DNL Content] en een zorgvuldig gemaakte aanwijzing die het ontwerp begeleidt. Zij houden zich strikt aan zowel de merkrichtlijnen als de parameters die tijdens het productieproces worden gekozen.
+_[!DNL On-brand images]_&#x200B;zijn gegenereerde elementen die inspiratie putten uit een gekozen afbeelding en die de visuele impact en algehele esthetische effecten vastleggen. Deze afbeeldingen worden gemaakt met behulp van afbeeldingen die al beschikbaar zijn in [!DNL Content] en een zorgvuldig gemaakte aanwijzing die het ontwerp begeleidt. Zij houden zich strikt aan zowel de merkrichtlijnen als de parameters die tijdens het productieproces worden gekozen.
 
 _[!DNL On-brand images]_<!-- and _[!DNL Similar images]_ --> neem vastgestelde richtlijnen, parameters, en a [ bewust-gemaakte herinnering ](/help/user-guide/effective-prompts.md) op om oog-vangstbeeldactiva te leveren.
 
@@ -37,7 +37,7 @@ Als u een _[!DNL On-brand images]_-bestand wilt maken, selecteert u een bestaand
 
 **om een verwijzingsbeeld** te kiezen:
 
-1. Klik in _[!DNL Create]_op **[!UICONTROL On-brand image]**.
+1. Klik in _[!DNL Create]_&#x200B;op **[!UICONTROL On-brand image]**.
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek beeld te vinden.
 
    ![ Uitgezochte verwijzingsbeeld ](/help/assets/select-img.png){width="400" zoomable="yes"}
@@ -62,7 +62,7 @@ Het opnemen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en para
 
    Als er geen merken beschikbaar van dit menu zijn, [ voeg richtlijnen aan uw GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe.
 
-1. Selecteer in _[!UICONTROL Image category]_een afbeeldingscategorie die het beste bij het gewenste resultaat past.
+1. Selecteer in _[!UICONTROL Image category]_&#x200B;een afbeeldingscategorie die het beste bij het gewenste resultaat past.
 
    Afbeeldingscategorieën zijn beschikbaar als er een [!DNL Brand] is geselecteerd. De opties worden bepaald door de geselecteerde [!DNL Brand].
 
@@ -71,7 +71,7 @@ Het opnemen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en para
    Models are available if you access to [custom models in Firefly](https://adobedx.slack.com/archives/CMF1JGMLY/p1743534402774569). The _Models_ list will be blank if you do not have access. -->
 
 1. Selecteer de gewenste hoogte-breedteverhouding in _[!UICONTROL Aspect ratio]_.
-1. Klik op **[!UICONTROL Select from Content]** in _[!UICONTROL Style reference]_om een referentieafbeelding toe te voegen. De afbeelding die u selecteert, beïnvloedt de visuele esthesie en diepte van de afbeeldingen die u genereert.
+1. Klik op **[!UICONTROL Select from Content]** in _[!UICONTROL Style reference]_&#x200B;om een referentieafbeelding toe te voegen. De afbeelding die u selecteert, beïnvloedt de visuele esthesie en diepte van de afbeeldingen die u genereert.
 
    Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _drop-down menu van de Plaats_. Filter en selecteer één afbeelding.
 
@@ -106,18 +106,18 @@ Nadat u afbeeldingsvarianten hebt gegenereerd, kunt u deze rechtstreeks in Adobe
 
 1. Voer beeld uit het uitgeven, zoals [ uitsnijdend een beeld ](https://helpx.adobe.com/express/create-and-edit-images/edit-images/crop-images.html), [ verwijderend een voorwerp ](https://helpx.adobe.com/express/create-and-edit-images/create-and-modify-with-generative-ai/remove-objects-generative-fill.html), en het toepassen van gevolgen.
 
-   Zie {de documentatie van 0} Adobe Express ](https://helpx.adobe.com/express/user-guide.html) leren hoe te herzien beelden in GenStudio for Performance Marketing met Adobe Express.[
+   Zie {de documentatie van 0} Adobe Express [&#128279;](https://helpx.adobe.com/express/user-guide.html) leren hoe te herzien beelden in GenStudio for Performance Marketing met Adobe Express.
 
-1. Klik op _[!UICONTROL Apply changes]_om uw bewerkingen op te slaan.
+1. Klik op _[!UICONTROL Apply changes]_&#x200B;om uw bewerkingen op te slaan.
 1. Bewerk de afzonderlijke afbeeldingsvarianten naar wens en pas de wijzigingen toe om de voortgang op te slaan.
 
 ### Uitlijning van inhoud controleren
 
-Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1} ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).[_ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1&rbrace; [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)._ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
 **om inhoudcontroles uit te voeren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
    ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-img.png){width="500" zoomable="yes"}
 
@@ -150,7 +150,7 @@ De geproduceerde beeldontwerpen worden getoond in de _sectie van Recenten_ van h
 Als u de gegenereerde afbeeldingen beschikbaar wilt maken voor gebruik in de huidige en toekomstige versie, publiceert u ze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
 1. **om uw nieuwe beelden** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar.
-   1. _[!UICONTROL Add details]_, zoals_[!UICONTROL Campaigns]_ of _[!UICONTROL Channels]_, indien gewenst.
+   1. _[!UICONTROL Add details]_, zoals&#x200B;_[!UICONTROL Campaigns]_ of _[!UICONTROL Channels]_, indien gewenst.
    1. Klik op **[!UICONTROL Publish]**.
 
 1. **om uw nieuwe beelden** uit te voeren, klik **[!UICONTROL Export]** in de hoogste toolbar.

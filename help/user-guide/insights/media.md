@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Overzicht van media
 
-In de weergave [!DNL Insights] _[!UICONTROL Media]_ziet u een lijst met media die worden gebruikt in advertenties en advertentiecampagnes voor de geselecteerde account._ Media _vertegenwoordigt een beeld, een video, tekst, of andere creatieve inhoud die voor gebruik in uw marketing initiatieven wordt goedgekeurd.
+In de weergave [!DNL Insights] _[!UICONTROL Media]_&#x200B;ziet u een lijst met media die worden gebruikt in advertenties en advertentiecampagnes voor de geselecteerde account._ Media _vertegenwoordigt een beeld, een video, tekst, of andere creatieve inhoud die voor gebruik in uw marketing initiatieven wordt goedgekeurd.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Media]_wordt ingedeeld met **[!UICONTROL Media ID]**. U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Media]_&#x200B;wordt ingedeeld met **[!UICONTROL Media ID]**. U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Media ](/help/assets/insights-media-filter.png){zoomable="yes"}
 
-In de galerieweergave van _[!UICONTROL Media]_ziet u een collage van voorvertoningen van media en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
+In de galerieweergave van _[!UICONTROL Media]_&#x200B;ziet u een collage van voorvertoningen van media en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**&#x200B;te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
 
 - CPA (Kosten per actie)
 - CTR (Klikdoorhalingsfrequentie)
@@ -51,7 +51,7 @@ Met sommige filters kunt u exacte trefwoorden gebruiken om de lijst met criteria
 
 1. Selecteer een of meer campagnes in de resulterende zoekopdracht en klik op **[!UICONTROL Apply]** .
 
-   De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_boven de advertentietabel of galerie, zodat u zich kunt concentreren op de media die aan de geselecteerde campagnes zijn gekoppeld.
+   De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_&#x200B;boven de advertentietabel of galerie, zodat u zich kunt concentreren op de media die aan de geselecteerde campagnes zijn gekoppeld.
 
 1. _Facultatief_: Aan verdere filtermedia, voer een gelijkaardige sleutelwoordfilter op **[!UICONTROL Ads]** uit.
 
