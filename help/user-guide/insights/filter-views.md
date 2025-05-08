@@ -3,9 +3,10 @@ title: Weergaven met inzichten filteren
 description: Leer hoe u de verbeterde filtermogelijkheden met Inzichten kunt gebruiken.
 level: Intermediate
 feature: Reporting and Insights
-source-git-commit: 656395e517fcb334b64865dcdbde09d8d982dc0a
+exl-id: fbc53c2a-388c-4b51-94e2-626cd1e18e63
+source-git-commit: 04bc6f911394d0f4c324abc347ce125203011960
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Het dashboard van [!DNL Insights] verstrekt een uitvoerige reeks filters voor ee
 
 ## Basisbegrippen voor filters
 
-Elke weergave in [!DNL Insights] biedt een lijst met filteropties. Met het filterpictogram (trechter) boven de linkerzijde van de tabel wordt het menu **[!UICONTROL Filter]** geopend. Of u nu de tabel of de galerie weergeeft, de toegepaste filters worden weergegeven in de lijst **[!UICONTROL Filter by]** boven de tabel of galerie. Standaard zijn een kanaal en een account geselecteerd.
+Elke weergave in [!DNL Insights] biedt een lijst met filteropties. Met de filtertrechter aan de linkerkant wordt het menu **[!UICONTROL Filter]** geopend. Of u nu de tabel of de galerie weergeeft, de toegepaste filters worden weergegeven in de lijst **[!UICONTROL Filter by]** boven de tabel of galerie. Standaard zijn een kanaal en een account geselecteerd.
 
 ![ Filter door ](/help/assets/insights-filter-by.png " Filter door "){width=600 zoomable="yes"}
 
@@ -24,9 +25,9 @@ Toegepaste filters blijven in alle weergaven aanwezig. Selecteer **[!UICONTROL C
 
 ### Zoekveld
 
-Klik op het pictogram Zoeken (vergrootglas) om een zoekterm te gebruiken om specifieke items in de tabel of galerie te zoeken. Als u bijvoorbeeld de term `pink` opgeeft in de [!UICONTROL Ads] -tabel, worden de resultaten gefilterd zodat alleen advertenties worden weergegeven met de term `pink` in de naam.
+Klik op het pictogram Zoeken (vergrootglas) om een zoekterm te typen om specifieke items in de tabel of galerie te zoeken. Als u bijvoorbeeld de term `Gear` opgeeft in de [!UICONTROL Ads] -tabel, worden de resultaten gefilterd zodat alleen advertenties worden weergegeven met de term `Gear` in de naam.
 
-![&#128279;](/help/assets/insights-search.png " Onderzoek van het het gebiedsvoorbeeld van het 0&rbrace; Onderzoek naar advertenties met roze "){width=600 zoomable="yes"}
+](/help/assets/insights-search.png " Onderzoek van het het gebiedsvoorbeeld van het 0} Onderzoek naar advertenties met Gear in de naam "){width=600 zoomable="yes"}![
 
 ### Datumbereik
 
@@ -42,25 +43,25 @@ Sommige tabellen kunnen meerdere pagina&#39;s beslaan, zoals aangegeven onder de
 
 ### Diabesturingselement
 
-Sommige filteropties bevatten een diabesturingselement waarmee u een waarde binnen een gedefinieerd bereik kunt selecteren. Met de schuifregelaar **[!UICONTROL Media count]** in _[!UICONTROL Attributes]_&#x200B;kunt u bijvoorbeeld kenmerken filteren op basis van het aantal gekoppelde afbeeldingen of video&#39;s. Sleep de schuifregelaar om een bereik op te geven, beginnend bij een minimum van 0 tot een maximum van 100.
+Sommige filteropties bevatten een diabesturingselement waarmee u een waarde binnen een gedefinieerd bereik kunt selecteren. Met de schuifregelaar **[!UICONTROL Media count]** in _[!UICONTROL Attributes]_kunt u bijvoorbeeld kenmerken filteren op basis van het aantal gekoppelde afbeeldingen of video&#39;s. Sleep de schuifregelaar om een bereik op te geven, beginnend bij een minimum van 0 tot een maximum van 100.
 
 ## Geavanceerde filtering
 
-Met _[!UICONTROL Campaigns]_- en&#x200B;_[!UICONTROL Ads]_ -filters kunt u exacte trefwoorden gebruiken om de lijst te verfijnen. Trefwoordfilters zijn vooral handig voor het filteren van campagnes of advertenties die een complexe naamgevingsconventie gebruiken met meerdere unieke id&#39;s. Een campagnenaam kan bijvoorbeeld het volgende bevatten:
+Met _[!UICONTROL Campaigns]_- en_[!UICONTROL Ads]_ -filters kunt u exacte trefwoorden gebruiken om de lijst te verfijnen. Trefwoordfilters zijn vooral handig voor het filteren van campagnes of advertenties die een complexe naamgevingsconventie gebruiken met meerdere unieke id&#39;s. Een campagnenaam kan bijvoorbeeld het volgende bevatten:
 
 - Naam of code van specifiek gebied: `NA`, `EMEA`
 - Inhoudstype acroniemen: `EB`, `CHT` of `DSP`
 - Aanbiedingscodes of acroniemen: `OFFER2023`, `PROMO`
 
-In de loop der tijd wordt de lijst met campagnes en advertenties exponentieel groter. Houd rekening met het volgende scenario als u het filter _[!UICONTROL Campaigns]_&#x200B;wilt gebruiken om de tabel [!UICONTROL Ads] te verfijnen.
+In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groeien. Houd rekening met het volgende scenario als u het filter _[!UICONTROL Campaigns]_wilt gebruiken om de tabel [!UICONTROL Ads] te verfijnen.
 
 **om de lijst van Advertenties te verfijnen gebruikend de filter van Campagnes**:
 
 1. Selecteer de weergave **[!UICONTROL Ads]** in _[!DNL Insights]_.
 
-   ![ Adds filter en lijst ](/help/assets/insights-ads-filter.png " Advertentie mening met filterlijst "){zoomable="yes"}
+   ![ Adds filter en lijst ](/help/assets/insights-ads-filter.png " Advertentie mening met filtermenu "){zoomable="yes"}
 
-1. Klik op het filterpictogram (trechter) boven de linkerkant van de tabel om het menu **[!UICONTROL Filter]** te openen.
+1. Klik op het filter (trechter) boven de linkerkant van de tabel om het menu **[!UICONTROL Filter]** te openen.
 
 1. Controleer of het juiste `Filter by` -kanaal en -account is geselecteerd.
 
@@ -68,13 +69,19 @@ In de loop der tijd wordt de lijst met campagnes en advertenties exponentieel gr
 
    ![ campagnes van de Filter ](/help/assets/insights-filter-campaigns-expand.png " breid campagnecilter "){width=200} uit
 
-1. Voer in het zoekveld van _[!UICONTROL Select campaigns]_&#x200B;trefwoorden in, gescheiden door komma&#39;s.
+1. Voer in het zoekveld van _[!UICONTROL Select campaigns]_trefwoorden in, gescheiden door komma&#39;s.
 
-   - Gebruik zoveel trefwoorden als u nodig hebt om de lijst te verfijnen. In het volgende voorbeeld worden campagnes gezocht met `evergreen` , `ROI` en `Meta` in de naam:
+   Gebruik trefwoorden om uw zoekopdracht te verfijnen met logische en nauwkeurige filtering.
 
-     {het onderzoek van het 0} Sleutelwoord ![&#128279;](/help/assets/insights-select-campaigns-keywords.png " gaat sleutelwoorden aan de namen van de onderzoekscampagne in "){width=500}
+   - Om campagnemenamen te vinden die zowel `adventure` **EN** `ready` bevatten, ga beide sleutelwoorden in die door een komma worden gescheiden:
 
-   - U kunt nog een set trefwoorden toevoegen om uw zoekopdracht uit te breiden. Wanneer u meerdere sets trefwoorden gebruikt, kunt u campagnes opnemen die overeenkomen met de eerste set trefwoorden of met de tweede set trefwoorden. Bijvoorbeeld, kunt u naar campagnes zoeken geëtiketteerd `evergreen` en `web` _OF_ campagnes geëtiketteerd `photoshop` en `roi`:
+     ![ Onderzoek alle sleutelwoorden ](/help/assets/insights-select-campaigns-and.png " Onderzoek naar campagnemenamen die beide sleutelwoorden "){width=500} bevatten
+
+   - Om campagnemenamen te vinden die of `adventure` **OF** `ready` bevatten, ga elk sleutelwoord afzonderlijk in:
+
+     ![ Onderzoek of sleutelwoorden ](/help/assets/insights-select-campaigns-or.png " Onderzoek naar campagnemenamen die minstens één sleutelwoord "){width=500} bevatten
+
+   - Als u geavanceerde zoekopdrachten wilt uitvoeren, combineert u meerdere sets trefwoorden. Bijvoorbeeld, onderzoek campagnemenamen met `adventure` en `apparel` **OF** `sun` en `gear`:
 
      ![ Onderzoek met veelvoudige reeksen van sleutelwoorden ](/help/assets/insights-advanced-or.png " campagnemenamen van het Onderzoek gebruikend veelvoudige reeksen sleutelwoorden "){width=500}
 
@@ -82,7 +89,7 @@ In de loop der tijd wordt de lijst met campagnes en advertenties exponentieel gr
 
    ![ Lijst van campagnes ](/help/assets/insights-select-campaigns-list.png " Uitgezochte campagnes om te omvatten ")
 
-De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_&#x200B;boven de tabel of galerie met advertenties. U kunt zich uitsluitend richten op de advertenties die gekoppeld zijn aan de gekozen campagnes. In dit voorbeeld bevatten de gefilterde resultaten 28 advertenties, waarmee u een meer doelgerichte weergave voor analyse kunt maken.
+De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_boven de tabel of galerie met advertenties. U kunt zich uitsluitend richten op de advertenties die gekoppeld zijn aan de gekozen campagnes. In dit voorbeeld bevatten de gefilterde resultaten zes advertenties, waarmee u een meer doelgerichte weergave voor analyse kunt maken.
 
 ![ Lijst die door campagnes ](/help/assets/insights-filter-by-campaigns.png " Lijst met campagnefilter "){zoomable="yes"} wordt gefiltreerd
 
