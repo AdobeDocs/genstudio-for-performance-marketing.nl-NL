@@ -3,9 +3,9 @@ title: Een metaadvertentie activeren
 description: Leer hoe u een Meta-advertentie activeert.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 19f36badd66a5dc90585b4399b87230847474a81
+source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1334'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing ondersteunt de activering van Meta-adv
 
 U kunt [ tot een ervaring van het Meta ](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing leiden en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw creatieve ervaringen op advertentievaardigheden voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta, of creatief, in GenStudio for Performance Marketing activeert, gebruik &lbrace;de Manager van Advertenties van Meta [&#128279;](https://adsmanager.facebook.com/) om de ervaring voor specifieke Plaatsen van Meta en vóór definitieve publicatie te verfijnen.
+Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw creatieve ervaringen op advertentievaardigheden voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta, of creatief, in GenStudio for Performance Marketing activeert, gebruik {de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Plaatsen van Meta en vóór definitieve publicatie te verfijnen.[
 
 ## Stap 1: Opstelling uw rekeningen van Meta
 
@@ -33,7 +33,7 @@ U moet over machtigingen beschikken om inhoud naar Meta Ads Manager te verzenden
 
 Voordat uw organisatie ervaringen kan activeren, moet een GenStudio-systeembeheerder uw Meta-accounts verbinden met GenStudio for Performance Marketing. Dankzij deze verbinding kunnen gegevens worden uitgewisseld tussen GenStudio en externe marketingprogramma&#39;s, zoals Meta, waardoor de activeringsprocessen mogelijk worden.
 
-Zie [ verbinden met een rekening van Meta (Facebook) ](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
+Zie [ verbinden met Meta Adds ](/help/user-guide/connectors/meta-ads.md).
 
 Nadat het synchroniseren is voltooid, kunt u de toegevoegde accounts bekijken. Het synchroniseren van grote hoeveelheden gegevens duurt langer.
 
@@ -43,7 +43,7 @@ GenStudio-systeembeheerders en -editors kunnen ad-hocervaringen activeren.
 
 **om uw ervaring voor activering** voor te bereiden:
 
-1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op de productegel Meta. De_ de opstellings _mening van Creative opent.
+1. Klik in _[!DNL Activate]_op **[!UICONTROL New]**op de productegel Meta. De_ de opstellings _mening van Creative opent.
 
    De Creative-instellingspagina biedt een centrale locatie voor het voorbereiden van uw Meta en activering. De voorbereiding van uw advertentie omvat de volgende drie taken:
 
@@ -62,9 +62,9 @@ Na het uploaden worden elementen opgeslagen naar _[!DNL Content]_. Het_ gebied v
 
 **om activa van Inhoud** te uploaden:
 
-_[!DNL Content]_&#x200B;biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de[_[!DNL Content]_ galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _filter_ menuopties.
+_[!DNL Content]_biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de[_[!DNL Content]_ galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _filter_ menuopties.
 
-1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;in het tegel Metaadvertenties. De_ de opstellings _mening van Creative opent.
+1. Klik in _[!DNL Activate]_op **[!UICONTROL New]**in het tegel Metaadvertenties. De_ de opstellings _mening van Creative opent.
 
 1. Klik op **[!UICONTROL Select]** en selecteer vervolgens **[!UICONTROL Select from Content]** . De _Uitgezochte inhoud_ mening opent, tonend een galerie van beeldactiva die u door of filter zoekt.
 
@@ -72,13 +72,13 @@ _[!DNL Content]_&#x200B;biedt een centrale weergave voor de goedgekeurde middele
 
 1. Klik op **[!UICONTROL Use]** om het geselecteerde element op te nemen in uw creatieve projecten. Het _de opstellings_ venster van Creative omvat de activa in zijn standaardaspectverhouding in het _Media_ gebied. Het _paneel van de Voorproef_ voorproeven de activa in de advertentie plaatsing die deze aspectverhouding steunt.
 
-Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_&#x200B;bevat.
+Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_bevat.
 
 **om externe activa** te uploaden:
 
 U kunt maximaal zes statische afbeeldingen buiten de _[!DNL Content]_-galerie uploaden van Microsoft OneDrive of Dropbox.
 
-1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op de tegel Meta. Het_ de opstellings _venster van Creative opent.
+1. Klik in _[!DNL Activate]_op **[!UICONTROL New]**op de tegel Meta. Het_ de opstellings _venster van Creative opent.
 
 1. In de _sectie van Media_, klik **[!UICONTROL Select]**. Een drop-down menuvertoningen opties om _te selecteren van Inhoud_ of _uploadt_.
 
@@ -88,7 +88,7 @@ U kunt maximaal zes statische afbeeldingen buiten de _[!DNL Content]_-galerie up
 
 1. (Facultatief) om activa van uw apparaat te uploaden, klik **[!UICONTROL Browse]**, dan selecteren _doorbladert dossiers_ of _doorbladert omslagen_ om activa voor te identificeren uploadt.
 
-1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_&#x200B;te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
+1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
 
 1. Wanneer u uw elementen hebt geüpload en details hebt toegewezen, klikt u op **[!UICONTROL Add Assets]** rechtsonder.
 

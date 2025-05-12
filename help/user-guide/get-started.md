@@ -5,9 +5,9 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: ac166245f5358c3bd050227b3ba9c53caa0e3622
+source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '614'
 ht-degree: 2%
 
 ---
@@ -62,4 +62,4 @@ Zie [ goedgekeurde activa ](./content/manage-assets.md) uploaden.
 
 ### Stap 5: Verbinding maken met een Meta-account (Facebook)
 
-Configureer een verbinding tussen GenStudio for Performance Marketing en de sociale accounts van uw organisatie om gegevens te ontvangen van uw actieve marketingcampagnes, middelen en ervaringen. [!DNL Insights] biedt hulpprogramma&#39;s voor het analyseren van gegevens die zijn afgeleid van kanalen. Zie [ verbinden met een rekening van Meta (Facebook) ](/help/user-guide/connectors/connect-channel.md#meta-ads-connect).
+Configureer een verbinding tussen GenStudio for Performance Marketing en de sociale accounts van uw organisatie om gegevens te ontvangen van uw actieve marketingcampagnes, middelen en ervaringen. [!DNL Insights] biedt hulpprogramma&#39;s voor het analyseren van gegevens die zijn afgeleid van kanalen. Zie [ verbinden met Meta Adds ](/help/user-guide/connectors/meta-ads.md).

@@ -6,7 +6,7 @@ level: Experienced
 role: Admin, Data Architect
 last-substantial-update: 2025-1-7
 exl-id: a5ab44d6-75c0-405b-82ad-9c65f6094bd6
-source-git-commit: 8e61fa5c08102c5dd9905e693d7f129105d9f633
+source-git-commit: f98a853965ce05420cd178c294b3b4d69500977b
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Wees voorzichtig en verwijder de volgende gegevensverbindingen die GenStudio for
 - AEP-verbindingen: gegevensstromen vooraf vastgelegd met `GS Insights`
 - AEP Connections: GS Insights-account
 
-Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/deletion) in de _Customer Journey Analytics_ gids alvorens u om het even welke gegevenscomponenten in AEP schrapt.
+Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/technotes/deletion) in de _Customer Journey Analytics_ gids alvorens u om het even welke gegevenscomponenten in AEP schrapt.
 
 >[!ENDSHADEBOX]
 
@@ -47,4 +47,4 @@ Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/nl/docs
 
 GenStudio for Performance Marketing bewaart kanaalgegevens gedurende 13 maanden. Dit bewaarbeleid omvat de zes maanden gegevens die tijdens de eerste verbinding worden ingevoerd, waardoor een uitgebreide historische gegevensanalyse en rapportage wordt gewaarborgd.
 
-Zie [ Connect kanaal en rekening ](/help/user-guide/connectors/connect-channel.md).
+Zie [ Connect betaalde media rekening ](/help/user-guide/connectors/connect-channel.md).
