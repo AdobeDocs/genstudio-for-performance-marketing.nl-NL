@@ -37,6 +37,6 @@ Sluit uw Google Campagne Manager 360-account aan op GenStudio for Performance Ma
 
 1. Lees de voorwaarden en voorwaarden en klik op **[!UICONTROL Allow]** om toegang te verlenen.
 
-1. Selecteer een of meer adverteerders in de weergave _[!UICONTROL Google Campaign Manager 360]_en klik op **[!UICONTROL Select]**.
+1. Selecteer een of meer adverteerders in de weergave _[!UICONTROL Google Campaign Manager 360]_&#x200B;en klik op **[!UICONTROL Select]**.
 
-In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**om meer accounts aan de lijst toe te voegen.
+In de weergave _[!UICONTROL Google Campaign Manager 360 accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven. Gebruik **[!UICONTROL Add account]**&#x200B;om meer accounts aan de lijst toe te voegen.

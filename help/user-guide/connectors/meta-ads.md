@@ -37,7 +37,7 @@ Sluit uw Meta Ads-profielaccount aan op GenStudio for Performance Marketing om c
 
 1. Klik op **[!UICONTROL More]** > **[!UICONTROL Settings]** .
 
-1. In de _sectie van 0} Verbindingen van Gegevens {, klik **[!UICONTROL Connect]**op de_ Advertentiekaart van Meta _._
+1. In de _sectie van 0&rbrace; Verbindingen van Gegevens &lbrace;, klik **[!UICONTROL Connect]**&#x200B;op de_ Advertentiekaart van Meta _._
 
 1. Log in bij je Facebook account.
 
@@ -58,12 +58,12 @@ Sluit uw Meta Ads-profielaccount aan op GenStudio for Performance Marketing om c
 
    Deze stap zorgt ervoor dat GenStudio for Performance Marketing toegang krijgt tot alle advertenties, metagegevens en meetgegevens voor optimale prestaties.
 
-1. Selecteer in _[!UICONTROL Meta Ads]_een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
+1. Selecteer in _[!UICONTROL Meta Ads]_&#x200B;een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
 
 1. Zodra u a _Platform verbonden_ bevestiging ontvangt, klik **[!UICONTROL View accounts]**.
 
-   In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
+   In de weergave _[!UICONTROL Meta Ads accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
 
-   {de rekeningenlijst van 0} Meta ](/help/assets/meta/meta-accounts-list.png " Lijst van verbonden rekeningen van Meta "){zoomable="yes"}![
+   {de rekeningenlijst van 0} Meta ![&#128279;](/help/assets/meta/meta-accounts-list.png " Lijst van verbonden rekeningen van Meta "){zoomable="yes"}
 
 Gebruik **[!UICONTROL Add account]** om meer accounts aan de lijst toe te voegen. De machtigingsstroom kan enigszins afwijken wanneer u accounts toevoegt die zijn gekoppeld aan hetzelfde Meta Business-profiel. Tijdens het verbindingsproces selecteert u alleen de nieuwe metagegevensaccounts.
