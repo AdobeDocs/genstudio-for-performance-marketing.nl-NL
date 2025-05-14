@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
+source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -48,6 +48,8 @@ Wanneer het creëren van malplaatjes, zorg ervoor zij aan de specifieke vereiste
 - Onbewerkte en responsieve HTML en inline CSS gebruiken
 - Adobe- of Google-lettertypen gebruiken
 - Gebruik **niet** JavaScript
+
+{{note-css-effects}}
 
 Houd rekening met de volgende tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties en compatibiliteit:
 
@@ -93,7 +95,7 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 - Gebruik **niet** relatieve doopvontgrootte
 - Bepaal **geen** viewport
 - Gebruik **niet** JavaScript
-- Overschrijf **&#x200B;**&#x200B;geen element van HTML in CSS
+- Overschrijf **** geen element van HTML in CSS
 - De tag `<img>` gebruiken in plaats van `background-image`
 - Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
 
@@ -160,7 +162,7 @@ Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) o
 
 >[!TAB  LinkedIn en ]
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om met GenStudio for Performance Marketing te werken:
 
