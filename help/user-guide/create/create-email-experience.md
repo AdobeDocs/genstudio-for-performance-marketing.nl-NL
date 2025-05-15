@@ -6,9 +6,9 @@ role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: d5019f1cdceccb8ce2fdd86c54cf2d36673a90aa
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '981'
+source-wordcount: '1009'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u een nieuwe e-mailervaring wilt maken, gebruikt u een beschikbare sjabloon 
 
 **om een e-mailmalplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_&#x200B;op **[!UICONTROL Email]**.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Email]**.
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifiek e-mailmalplaatje te vinden.
 1. Klik om een e-mailsjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -51,7 +51,7 @@ Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], 
 
      ![ kies visuele inhoud ](/help/assets/content-select-email.png){width="500" zoomable="yes"}
 
-     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2&rbrace; dropdown menu van de Plaats &lbrace;._ Filter een of meer afbeeldingen en selecteer deze.
+     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
    * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
@@ -83,12 +83,13 @@ Voordat u selecteert wat u wilt verzenden voor goedkeuring of publicatie naar [!
 
 **om geproduceerde varianten** te herzien:
 
-* **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **[ om de naam van het e-mailontwerp](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **om [ een e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke editable tekstgebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) en geef uit zoals nodig
-* **om [ te veranderen of de Vraag te selecteren aan actie](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, de knoop van call-to-action te klikken en _[!UICONTROL Rephrase]_&#x200B;of&#x200B;_[!UICONTROL Add link]_ te selecteren.
-* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_&#x200B;opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
+* **om [ te veranderen of de Vraag te selecteren aan actie](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, de knoop van call-to-action te klikken en _[!UICONTROL Rephrase]_of_[!UICONTROL Add link]_ te selecteren.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
 * **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
 * **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
+* **[ om alt tekst voor beelden in een variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** toe te voegen, klik een beeldactiva en gebruik de _alt tekst_ optie om alt tekst per beeld manueel toe te voegen of te produceren.
 * **[ om een e-mail](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, om de e-mailtitel (bijvoorbeeld, &quot;E-mail 1/4&quot;) te selecteren en **[!UICONTROL Delete variant]** te klikken.
 
 ## Feedback op generatie verzenden
@@ -101,11 +102,11 @@ Wanneer het herzien van en het voorbereiden van e-mailervaringen, kunt u [ schak
 
 ## Uitlijning van inhoud controleren
 
-Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1&rbrace; [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)._ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1} ](/help/user-guide/guidelines/brand-validation.md#content-check-panel).[_ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
 **om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
    ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 

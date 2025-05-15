@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 0f296fe6ec92178498e2e0eeb3e190a194e46aa0
+source-git-commit: d0fd0bd2ac98149ec4d6449a7490d55cc48d9ae2
 workflow-type: tm+mt
-source-wordcount: '1403'
+source-wordcount: '1477'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ In de volgende tabel staan de veldnamen die door GenStudio for Performance Marke
 | `{{cta}}` | Vraag aan actie <br> Zie [ Vraag aan actie ](#calls-to-action) | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
 | `{{image}}` | Afbeelding—selecteren vanuit [!DNL Content] | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
 | `{{on_image_text}}` | Op beeldtekst <br> zie [ op beeldtekst ](#on-image-text). | Meta en <br> LinkedIn ad |
-| `{{link}}` | Vraag aan actie op beeld <br> zie [ Verbinding op beeld ](#link-on-image). | email |
+| `{{link}}` | Call to action op beeld <br> zie [ Verbinding op beeld ](#link-on-image). | email |
 
 <!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
 
@@ -73,7 +73,7 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 ### Oproepen tot actie
 
-Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
+Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
 
 Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
 
@@ -95,7 +95,7 @@ Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor C
   <a class="button" href="{{pod1_link}}" >Register now</a>
   ```
 
-GenStudio for Performance Marketing kan variantvraag-aan-actie uitdrukkingen, ook verstrekken. Zie {de Vraag van 0} herzien aan actie [&#128279;](/help/user-guide/create/manage-variants.md#revise-call-to-action).
+GenStudio for Performance Marketing kan variantvraag-aan-actie uitdrukkingen, ook verstrekken. Zie [ herzien Call to action ](/help/user-guide/create/manage-variants.md#revise-call-to-action).
 
 ### Koppeling op afbeelding
 
@@ -110,6 +110,27 @@ In dit voorbeeld:
 - `{{link}}` is een plaatsaanduiding voor de werkelijke URL.
 - `src="image-source.jpg"` moet worden vervangen door de URL van de eigenlijke afbeeldingsbron.
 - `{{imageDescription}}` is een door de gebruiker gedefinieerde veldnaam die een tijdelijke aanduiding voor de alternatieve tekst van de afbeelding biedt. Dit is handig voor toegankelijkheid en SEO.
+
+### Alternatieve tekst
+
+Gebruik een door de gebruiker gedefinieerde veldnaam als plaatsaanduiding om een alternatieve tekstbeschrijving (HTML `alt="text"` -kenmerk) voor een afbeelding te genereren. De volgende tijdelijke aanduiding voor `{{imageDescription}}` wordt gebruikt met het `{{image}}` veld binnen dezelfde tag `<img>` , zodat de relatie tussen de afbeelding en de beschrijving behouden blijft.
+
+```html
+<img src="{{image}}" alt="{{imageDescription}}">
+```
+
+In dit voorbeeld:
+
+- `{{image}}` is de plaatsaanduiding voor de URL van de afbeeldingsbron.
+- `{{imageDescription}}` is de plaatsaanduiding voor de alt-tekst. Deze bevat een beschrijving van de afbeelding voor toegankelijkheids- en SEO-doeleinden.
+
+### Op afbeeldingstekst
+
+De tijdelijke aanduiding `{{ on_image_text }}` wordt gebruikt om een tekstbedekking op te geven met korte, onzichtbare berichten die rechtstreeks in een ervaring op de afbeelding worden geplaatst.
+
+```html
+<div class="image-text">{{ on_image_text }}</div>
+```
 
 <!-- this field does not work in Create canvas 2025/03
 
@@ -151,22 +172,14 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 </tbody>
 ```
 
-## Op afbeeldingstekst
-
-De tijdelijke aanduiding `{{ on_image_text }}` wordt gebruikt om een tekstbedekking op te geven met korte, onzichtbare berichten die rechtstreeks in een ervaring op de afbeelding worden geplaatst.
-
-```html
-<div class="image-text">{{ on_image_text }}</div>
-```
-
 ## Secties of groepen
 
 _Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
 
-Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. Gebruik een veldnaam (`headline`, `body`, `image` of `cta`) na het onderstrepingsteken (`_`).
+Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. Gebruik een veldnaam (zoals `headline` , `body` , `image` of `cta` ) na het onderstrepingsteken ( `_` ).
 
-- _Correct_ (??): `pod1_body`
-- _Onjuist_ ( ❌): `pod1_link`
+- _Correct_ (👍): `pod1_body`
+- _Onjuist_ (❌): `pod1body`
 
 Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden behoren bijvoorbeeld tot de sectie `pod1` :
 
@@ -177,9 +190,10 @@ Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden 
 
 Vanwege deze regel kunnen de secties niet worden genest.
 
-Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
 
 Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt u drie kopregels en hoofdtekstsecties gebruiken:
+
 
 - `pre_header`
 - `pod1_headline`
@@ -192,7 +206,9 @@ Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt 
 
 GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
 
-Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in een multi-sectiee-mail produceert.
+>[!TIP]
+>
+>Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in een multi-sectiee-mail produceert.
 
 ## Sjabloonvoorbeeld
 
@@ -200,7 +216,7 @@ Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant 
 
 Voorbeeld van een e-mailsjabloon:
 
-&lbrace;de gebieden van de Voorproef ontdekte ![&#128279;](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}
+{de gebieden van de Voorproef ontdekte ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}![
 
 Zie [ de coderedacteur van het Malplaatje ](/help/user-guide/content/code-editor.md).
 

@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -80,38 +80,13 @@ In de volgende tabel ziet u elke kanaalsectie, kanalen waarvoor deze beschikbaar
 | Beschrijving | LinkedIn | Beschrijvende zinnen die algemene tintemotie definiëren | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle beschrijvingen in _Voorbeelden_ sectie voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;handhaaf een vriendschappelijke en behandelbare toon&quot; |
 | Lichaam | e-mail, Meta, Banner en display advertenties, LinkedIn | Marketing-inhoud die bericht, koppelingen en afbeeldingen bevat | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvol exemplaar aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Beperk tot 80-100 karakters&quot;, &quot;vermijd bovenmatige acroniemen&quot; |
 | Tekst in afbeelding | Meta, LinkedIn | Specifieke richtsnoeren voor de toon, ideale lengte, enz. Voor tekst die boven op afbeeldingen wordt weergegeven | Geef specifieke richtlijnen (1-2 zinnen) voor de toon, ideale lengte, enz. Voeg eerder succesvolle tekst aan _toe Voorbeelden_ sectie voor betere kwaliteitsoutput.<br>_Voorbeelden_: &quot;Focus op het moment&quot; |
-| Call-to-action (CTA) | E-mail, Meta, Banner en display advertenties | (Oproep tot actie) Een instructie die aan de lezer wordt gegeven en die een reactie opwekt. Doorgaans een of twee woorden, zoals `Get started` | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle CTAs aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik geen eind leestekens&quot; |
+| Call-to-action (CTA) | E-mail, Meta, Banner en display advertenties | (Call to action) Een instructie die aan de lezer wordt gegeven en die aanleiding geeft tot een reactie. Doorgaans een of twee woorden, zoals `Get started` | Geef specifieke richtlijnen (2-5 richtlijnen) over tint, ideale lengte, enz. Voeg eerder succesvolle CTAs aan _sectie van Voorbeelden_ voor betere kwaliteitsoutput toe.<br>_Voorbeelden_: &quot;Gebruik geen eind leestekens&quot; |
 
 #### Standaardkanaalrichtlijnen
 
 De volgende standaardkanaalrichtlijnen voor [!DNL Brands] worden per kanaal toegepast, op basis van best practices uit de branche en individuele platformspecificaties.
 
 >[!BEGINTABS]
-
->[!TAB  E-mail ]
-
-| Sectie | Standaardhulplijn |
-|-----------|-------------------------------|
-| Onderwerp | Beperken tot 2 regels of minder |
-| Preheader | Beperken tot 2 regels of minder |
-| Titel | Maximaal 8 woorden |
-| Lichaam | Beperken tot 3-4 lijnen |
-| CTA | Maximaal 2 woorden |
-
->[!TAB  Betaalde sociale ]
-
-| Sectie | Standaardhulplijn |
-|-----------|-------------------------------|
-| Titel | Maximaal 40 tekens |
-| Lichaam | Maximaal 125 tekens |
-
->[!TAB  de advertenties van de Vertoning ]
-
-| Sectie | Standaardhulplijn |
-|-----------|-------------------------------|
-| Titel | Maximaal 6 woorden |
-| Lichaam | Maximaal 6 woorden |
-| CTA | Maximaal 2 woorden |
 
 >[!TAB  Meta ]
 

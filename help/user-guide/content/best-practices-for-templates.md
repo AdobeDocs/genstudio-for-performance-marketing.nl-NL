@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
+source-git-commit: f7913f4df1ae0f8d86bdaca778d102d21b0b6c3f
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '929'
 ht-degree: 0%
 
 ---
@@ -95,7 +95,7 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 - Gebruik **niet** relatieve doopvontgrootte
 - Bepaal **geen** viewport
 - Gebruik **niet** JavaScript
-- Overschrijf **&#x200B;**&#x200B;geen element van HTML in CSS
+- Overschrijf **** geen element van HTML in CSS
 - De tag `<img>` gebruiken in plaats van `background-image`
 - Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
 
@@ -107,8 +107,9 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 **Gesteunde aspectverhoudingen**:
 
 - Vierkant 1:1 (1080 x 1080 pixels)
-- Verticaal 4:5 (1080 x 1350 pixels)
+- Staand 4:5 (1080 x 1350 pixels)
 - Artikel 9:16 (1080 x 1920 pixels)
+- Liggend: 1,91:1 (breedte van 1080 pixels)
 - Aangepaste afbeeldingsgrootte: (minimale afbeeldingsbreedte van 50 x 50 pixels)
 
 **Erkende gebiedsnamen**:
@@ -137,17 +138,17 @@ Volg de onderstaande tips en trucs bij het aanpassen van banners en advertenties
 
 **Gesteunde afmetingen**:
 
-- Verticaal: (pixels)
+- Breedte x Hoogte (pixels)
+- Verticaal
    - 300 x 600
    - 160 x 600 &#x200B;
-- Horizontaal: (pixels)
+- Horizontaal:
    - 300 x 250
    - 728 x 90
    - 336 x 280
    - 320 x 50
    - 970 x 250 &#x200B;
-- Aangepast: (pixels)
-   - 50 x 50 tot 2000 x 2000
+- Aangepast: 50 x 50 tot 2000 x 2000
 
 **Erkende gebiedsnamen**:
 
@@ -162,7 +163,7 @@ Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) o
 
 >[!TAB  LinkedIn en ]
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om met GenStudio for Performance Marketing te werken:
 

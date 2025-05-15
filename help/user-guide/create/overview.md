@@ -4,9 +4,9 @@ description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStud
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 4eb45ec7e845847ebac86986924bbc39aaed42c0
+source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ GenStudio for Performance Marketing [!DNL Create] maakt gebruik van de kracht va
 
 ![ creeer huis ](/help/assets/create-home.png){width="600" zoomable="yes"}
 
-Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8&rbrace; sectie van Recenten &lbrace;die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
+Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8} sectie van Recenten {die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
 
 Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 
@@ -35,68 +35,131 @@ Editors en systeembeheerders hebben volledige toegang tot [!DNL Create] . Zie [ 
 ## [!DNL Create] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Nieuwe inhoud maken" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong> creeer een e-mailervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Een meta-advertentie maken" src="../../assets/icons/icon-addContent.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong> creeer een Meta en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="Een LinkedIn-advertentie-ervaring maken" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong> creeer een LinkedIn advertentie ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong> creeer een vertoning en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="Een bannerervaring maken" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong> creeer een bannerervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/generate-assets.md">
+
       <img alt="Afbeeldingen maken" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/generate-assets.md">
+
          <strong> produceer beelden </strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
 GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
@@ -137,11 +200,11 @@ Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw con
 
 ### Concepten
 
-In de _Recente het werk_ sectie van [!DNL Create], toegang en beheer alle recente concepten. Bekijk en voltooi uw vorige werk om het klaar te maken voor publicatie naar [[!DNL Content]](/help/user-guide/content/overview.md) of om te exporteren voor gebruik.
+In de _sectie van Recenten_ van [!DNL Create], kunt u tot alle recente concepten toegang hebben en leiden. Bekijk en voltooi uw vorige werk om het klaar te maken voor publicatie naar [[!DNL Content]](/help/user-guide/content/overview.md) of om te exporteren voor gebruik. Klik op het optiepictogram (drie punten) om een concept te verwijderen.
 
-Concepten die worden uitgevoerd, worden automatisch opgeslagen. Wanneer u terug naar het [!DNL Create] huis navigeert, wordt de _Recente het werk_ sectie bijgewerkt met uw meest recente concepten. Elk ontwerp in deze sectie toont een status, zoals _Ontwerp_ of _Goedgekeurd_.
+De concepten worden automatisch bewaard en getoond in de _sectie van Recenten_ van [!DNL Create] huis. Elk ontwerp in deze sectie toont een status, zoals _Ontwerp_ of _Goedgekeurd_.
 
-Klik de het sorteren pictogrammen (net of lijst) om _Recente het werk_ punten in of een net of lijstmening te tonen.
+Klik het pictogram van de galerijmening (net) om _Punten van Recenten_ in of een net of lijstmening te tonen.
 
 ### Varianten beheren
 
