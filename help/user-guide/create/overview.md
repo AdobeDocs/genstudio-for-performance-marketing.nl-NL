@@ -17,7 +17,7 @@ GenStudio for Performance Marketing [!DNL Create] maakt gebruik van de kracht va
 
 ![ creeer huis ](/help/assets/create-home.png){width="600" zoomable="yes"}
 
-Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8} sectie van Recenten {die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
+Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8&rbrace; sectie van Recenten &lbrace;die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
 
 Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 

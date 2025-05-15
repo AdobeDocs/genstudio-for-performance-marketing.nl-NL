@@ -95,7 +95,7 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 - Gebruik **niet** relatieve doopvontgrootte
 - Bepaal **geen** viewport
 - Gebruik **niet** JavaScript
-- Overschrijf **** geen element van HTML in CSS
+- Overschrijf **&#x200B;**&#x200B;geen element van HTML in CSS
 - De tag `<img>` gebruiken in plaats van `background-image`
 - Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
 
@@ -163,7 +163,7 @@ Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) o
 
 >[!TAB  LinkedIn en ]
 
-[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om met GenStudio for Performance Marketing te werken:
 
