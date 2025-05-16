@@ -5,9 +5,9 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: 8d79c2bd2347bebb18ecb432a7087fb3d1ac1356
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken o
 
 Wanneer het produceren van Meta ervaart worden vier variaties gecreeerd en in het Canvas getoond.
 
-GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties [&#128279;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).[
 
 Bewerkbare gedeelten van een e-mailervaring zijn:
 
@@ -29,7 +29,6 @@ Bewerkbare gedeelten van een e-mailervaring zijn:
 * Oproep tot actie (CTA)
 * Tekst in afbeelding
 * Afbeelding
-* Merk-logo
 
 Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
 
@@ -57,7 +56,7 @@ Elk veld en elke sectie van de Meta-advertentie worden geleidelijk in deze reeks
 1. Tekst in afbeelding
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
 
 ## Aantal tekens
 

@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: d0fd0bd2ac98149ec4d6449a7490d55cc48d9ae2
+source-git-commit: 04bb7adcc9ce7eaeca2ea1f3ef39882f8e43ff6d
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 0%
@@ -30,10 +30,10 @@ GenStudio for Performance Marketing erkent bepaalde [ elementen ](use-templates.
 
 In de kop of de hoofdtekst van een HTML-sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken om een tijdelijke aanduiding voor inhoud in te voegen op de plaats waar u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert de inhoudsplaceholders die op [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names).
 
-U kunt `{{ headline }}` bijvoorbeeld gebruiken met de syntaxis van [!DNL Handlebars] om aan te geven waar de kop van de e-mail moet worden geplaatst. GenStudio herkent dit veld, genereert een relevante kop op basis van uw richtlijnen en criteria en voegt de kop op deze locatie in:
+U kunt `{{headline}}` bijvoorbeeld gebruiken met de syntaxis van [!DNL Handlebars] om aan te geven waar de kop van de e-mail moet worden geplaatst. GenStudio herkent dit veld, genereert een relevante kop op basis van uw richtlijnen en criteria en voegt de kop op deze locatie in:
 
 ```handlebars
-<div>{{ headline }}</div>
+<div>{{headline}}</div>
 ```
 
 ### Erkende veldnamen
@@ -73,7 +73,7 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 ### Oproepen tot actie
 
-Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
+Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
 
 Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
 
@@ -126,10 +126,10 @@ In dit voorbeeld:
 
 ### Op afbeeldingstekst
 
-De tijdelijke aanduiding `{{ on_image_text }}` wordt gebruikt om een tekstbedekking op te geven met korte, onzichtbare berichten die rechtstreeks in een ervaring op de afbeelding worden geplaatst.
+De tijdelijke aanduiding `{{on_image_text}}` wordt gebruikt om een tekstbedekking op te geven met korte, onzichtbare berichten die rechtstreeks in een ervaring op de afbeelding worden geplaatst.
 
 ```html
-<div class="image-text">{{ on_image_text }}</div>
+<div class="image-text">{{on_image_text}}</div>
 ```
 
 <!-- this field does not work in Create canvas 2025/03
@@ -166,7 +166,7 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 <tbody>
     <tr>
         <td>
-            <p><span class="footer-text">{{ footerLegal }}</span></p>
+            <p><span class="footer-text">{{footerLegal}}</span></p>
         </td>
     </tr>
 </tbody>
@@ -190,7 +190,7 @@ Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden 
 
 Vanwege deze regel kunnen de secties niet worden genest.
 
-Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
 
 Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt u drie kopregels en hoofdtekstsecties gebruiken:
 
@@ -216,7 +216,7 @@ Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant 
 
 Voorbeeld van een e-mailsjabloon:
 
-&lbrace;de gebieden van de Voorproef ontdekte ![&#128279;](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}
+{de gebieden van de Voorproef ontdekte ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}![
 
 Zie [ de coderedacteur van het Malplaatje ](/help/user-guide/content/code-editor.md).
 
@@ -236,9 +236,9 @@ Een ander voorbeeld kan zijn om het gebruik van volgcodes te verhinderen wanneer
 
 ```html
 <a class="button" {{#if _genStudio.browser }}
-   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
-   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
-   target="_blank">{{ cta }}</a>
+   href="{{link}}"{{/if}}{{#if _genStudio.export }}
+   href="{{link}}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{cta}}</a>
 ```
 
 ## Statische inhoud
@@ -270,15 +270,15 @@ Hieronder ziet u een eenvoudig voorbeeld van een HTML-sjabloon voor een e-mailbe
             }
         </style>
     </head>
-    <body>{{ pre_header }}
+    <body>{{pre_header}}
         <div class="container">
-            <h1>{{ headline }}</h1>
-            <p><a href="{{ link }}">
-            <img alt="{{ headline }}"
-                    src="{{ image }}"
+            <h1>{{headline}}</h1>
+            <p><a href="{{link}}">
+            <img alt="{{headline}}"
+                    src="{{image}}"
                     width="600" height="600"
                     border="0"/></a></p>
-            <p>{{ body }}</p>
+            <p>{{body}}</p>
         </div>
     </body>
 </html>
@@ -315,22 +315,22 @@ In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee s
             }
         </style>
     </head>
-    <body>{{ pre_header }}
+    <body>{{pre_header}}
         <div class="container">
-            <h1>{{ headline }}</h1>
-            <p>{{ body }}</p>
+            <h1>{{headline}}</h1>
+            <p>{{body}}</p>
             <!-- Pod1 -->
             <div class="pod">
-                <h2>{{ pod1_headline }}</h2>
-                <p><img alt="{{ headline }}" src="{{ pod1_image }}" width="200" height="200" border="0"></p>
-                <p>{{ pod1_body }}</p>
+                <h2>{{pod1_headline}}</h2>
+                <p><img alt="{{ headline }}" src="{{pod1_image}}" width="200" height="200" border="0"></p>
+                <p>{{pod1_body}}</p>
             </div>
             <!-- End of Pod1 -->
             <!-- Pod2 -->
             <div class="pod">
-                <h2>{{ pod2_headline }}</h2>
-                <p><img alt="{{ headline }}" src="{{ pod2_image }}" width="200" height="200" border="0"></p>
-                <p>{{ pod2_body }}</p>
+                <h2>{{pod2_headline}}</h2>
+                <p><img alt="{{headline}}" src="{{pod2_image}}" width="200" height="200" border="0"></p>
+                <p>{{pod2_body}}</p>
             </div>
             <!-- End of Pod2 -->
         </div>
@@ -377,8 +377,8 @@ Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop 
     </head>
     <body>
         <div class="ad-container">
-            <img src="{{ image }}" alt="Ad Image" class="ad-image" />
-            <div class="ad-text">{{ on_image_text }}</div>
+            <img src="{{image}}" alt="Ad Image" class="ad-image" />
+            <div class="ad-text">{{on_image_text}}</div>
         </div>
     </body>
 </html>
