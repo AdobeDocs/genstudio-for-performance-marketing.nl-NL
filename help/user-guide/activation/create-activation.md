@@ -3,18 +3,18 @@ title: Workflow voor activering
 description: Meer informatie over de activeringsworkflow voor advertenties.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-source-git-commit: 09090a57a0f41c23e8787bfb267e74427d9b7356
+source-git-commit: 46453d7cf1901312001aa3b304be9d0832a46079
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
 
 # Workflow voor activering
 
-_[!DNL Activate]_&#x200B;biedt ondersteuning voor de activering van advertentiervaringen in de vorm van creatieve kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentie.
+_[!DNL Activate]_ondersteunt de activering van advertenties in kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentiervaring.
 
-Een GenStudio for Performance Marketing-ervaring is een marketingcampagne-onderdeel, zoals een advertentie, dat is voorbereid als een creatief onderdeel voor een bepaald publiek op een betaald advertentiekanaal of e-mail. Creatieve producten bestaan uit drie hoofdcomponenten:
+Een GenStudio for Performance Marketing-ervaring is een onderdeel van een marketingcampagne, zoals een advertentie, dat wordt voorbereid als advertentie voor een specifiek publiek op een betaald advertentiekanaal of e-mail. De ervaring met activering bestaat uit drie hoofdcomponenten:
 
 * **activa van Media**: De activa van media zijn de beelden (GIFs, PNG, JPEG) inbegrepen in uw advertentie. Activering ondersteunt momenteel statische afbeeldingen.
 
@@ -30,17 +30,17 @@ Als u een activering maakt, moet u elk van deze advertentiecomponenten verfijnen
 
 Hoewel unieke plaatsingsvereisten elk betaald kanaal bepalen, delen alle en activeringen de zelfde stappen op hoog niveau. Het activeren van een ervaring voor elk betaalkanaal heeft drie kernfasen:
 
-* **verbind GenStudio for Performance Marketing met uw doelkanaal**. Een GenStudio-systeembeheerder moet verbinding maken met uw kanaalaccounts voordat u een ervaring kunt activeren.
+1. **verbind GenStudio for Performance Marketing met uw doelkanaal**. Een GenStudio-systeembeheerder moet verbinding maken met uw kanaalaccounts voordat u een ervaring kunt activeren.
 
-* **bereidt uw ervaring voor activering** voor. De voorbereiding omvat het selecteren van media activa in de aangewezen aspectverhouding voor uw specifieke plaatsing en het toewijzen van tekst aan vraag-aan-actie elementen en lichaamskopie. U kunt ook informatieve metagegevens toevoegen die gebruikers helpen bij het zoeken naar een ervaring na activering. Bij elke plaatsing van een ad-kanaal worden geldige hoogte-breedteverhoudingen opgegeven voor visuele elementen die in de plaatsing zijn opgenomen.
+1. **bereidt uw ervaring voor activering** voor. U kunt op twee manieren ervaringen voorbereiden voor activering:
 
-  >[!TIP]
-  >
-  >U kunt goedgekeurde en rechtstreeks vanuit de _[!DNL Content]_&#x200B;Experience-galerie selecteren en als Google Campagne Manager 360-ontwerpers voorbereiden. Nadat u een ervaring hebt geselecteerd in de galerie&#x200B;_[!DNL Content]_ , kunt u geen elementen meer bewerken of toevoegen aan uw creatieve projecten.
+   * Activeer een goedgekeurde ervaring met vooraf gedefinieerde instellingen rechtstreeks vanuit _[!DNL Content]_. Op deze gestroomlijnde manier kunt u een of meer ad-hocervaringen activeren op één kanaal. Nadat u een ervaring hebt geselecteerd in de galerie_[!DNL Content]_ , kunt u geen elementen meer bewerken of toevoegen aan uw advertentie. Activeren vanuit _[!DNL Content]_is beschikbaar voor Campagne Manager 360 van Meta en Google.
 
-* **Overzicht en publiceer uw ervaring aan het doelkanaal**. Gebruik het _paneel van de Voorproef_ tijdens creatieve opstelling om uw keus van plaatsing en tekstelementen te beoordelen alvorens uw activering te voltooien. Uw laatste revisie vóór publicatie vindt plaats in de app voor advertentiebeheer van het doelkanaal. Nadat u bijvoorbeeld een Meta-advertentie-ervaring hebt geactiveerd in GenStudio for Performance Marketing, moet u zich aanmelden bij Meta Ads Manager, uw creatieve werk bekijken en vervolgens de specifieke kenmerken ervan selecteren voordat u deze publiceert.
+   * U kunt uw advertentie samenstellen door visuele elementen te selecteren in _[!DNL Content]_, tekstelementen toe te voegen en hoogte-breedteverhoudingen te selecteren. Deze methode omvat meer stappen, maar biedt meer creatieve flexibiliteit. De voorbereiding omvat het selecteren van media activa in de aangewezen aspectverhouding voor uw specifieke plaatsing en het toewijzen van tekst aan vraag-aan-actie elementen en lichaamskopie. U kunt informatieve metagegevens toevoegen die gebruikers helpen bij het zoeken naar een ervaring na activering. Bij elke plaatsing van een ad-kanaal worden geldige hoogte-breedteverhoudingen opgegeven voor visuele elementen die in de plaatsing zijn opgenomen.
 
-Als een creatief programma eenmaal actief is op het doelmediakanaal voor betaald gebruik, kan _[!DNL Insights]_&#x200B;de prestatiegegevens bijhouden en analyseren.
+1. **Overzicht en publiceer uw ervaring aan het doelkanaal**. Gebruik het _paneel van de Voorproef_ tijdens ervaringsopstelling om uw keus van plaatsing en tekstelementen te beoordelen alvorens uw activering te voltooien. Uw laatste revisie vóór publicatie vindt plaats in de app voor advertentiebeheer van het doelkanaal. Nadat u bijvoorbeeld een Meta-advertentie-ervaring hebt geactiveerd in GenStudio for Performance Marketing, moet u zich aanmelden bij Meta Ads Manager, uw advertentie beoordelen en vervolgens de specifieke kenmerken ervan selecteren voordat u deze publiceert.
+
+Zodra een advertentie live is met het doel betaalde mediakanaal, kan _[!DNL Insights]_de prestatiegegevens bijhouden en analyseren.
 
 ## Ondersteunde kanalen
 
