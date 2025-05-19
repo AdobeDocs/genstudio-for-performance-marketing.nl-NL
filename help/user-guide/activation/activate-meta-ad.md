@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing ondersteunt de activering van Meta en 
 
 U kunt [ tot een ervaring van het Meta ](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing leiden en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik {de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.[
+Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik &lbrace;de Manager van Advertenties van Meta [&#128279;](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.
 
 GenStudio-systeembeheerders en -editors kunnen ad-hocervaringen activeren.
 
@@ -51,7 +51,7 @@ U kunt een activering op twee manieren starten:
 
 * **activeer direct van [!DNL Content] _**. Het selecteren van een goedgekeurde ervaring met vooraf gedefinieerde instellingen is de meest gestroomlijnde manier om een activering naar één kanaal te starten.
 
-* **verenigt uw advertentie ervaring van [!DNL Activate] > _de opstelling van de Ervaring_**U kunt tot een ervaring leiden door visuele activa van_[!DNL Content]_ te selecteren, tekstelementen toe te voegen, en aspectverhoudingen te selecteren. Deze aanpak heeft meer stappen, maar biedt meer flexibiliteit bij het maken van uw creatieve ervaring.
+* **verenigt uw advertentie ervaring van [!DNL Activate] > _de opstelling van de Ervaring_**&#x200B;U kunt tot een ervaring leiden door visuele activa van&#x200B;_[!DNL Content]_ te selecteren, tekstelementen toe te voegen, en aspectverhoudingen te selecteren. Deze aanpak heeft meer stappen, maar biedt meer flexibiliteit bij het maken van uw creatieve ervaring.
 
 ### Een goedgekeurde ervaring vanuit inhoud activeren
 
@@ -77,12 +77,12 @@ Als u ervoor kiest om een goedgekeurde ervaring niet rechtstreeks te activeren i
 
 **om uw ervaring voor activering** voor te bereiden:
 
-1. Klik in _[!DNL Activate]_op **[!UICONTROL New]**op het pictogram dat het gekozen betaalkanaal vertegenwoordigt. De_ opstelling van de Ervaring _mening opent.
+1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op het pictogram dat het gekozen betaalkanaal vertegenwoordigt. De_ opstelling van de Ervaring _mening opent.
 
    De _opstellings_ pagina van de Ervaring verstrekt een centrale plaats voor het voorbereiden van uw advertentiactivering. De voorbereiding van uw advertentie omvat de volgende drie taken:
 
 1. Wijs een naam toe aan uw ervaring. Na activering, kunt u deze naam gebruiken om naar deze ervaring in de _Geactiveerde ervarings_ lijst te zoeken.
-1. Selecteer media-elementen. U kunt middelen van _[!DNL Content]_gebruiken of externe activa (bijvoorbeeld, van OneDrive of Dropbox) uploaden.
+1. Selecteer media-elementen. U kunt middelen van _[!DNL Content]_&#x200B;gebruiken of externe activa (bijvoorbeeld, van OneDrive of Dropbox) uploaden.
 1. [ voeg tekst ](#add-ad-text) toe.
 1. [ voeg meta-gegevens ](#assign-metadata) toe.
 
@@ -96,9 +96,9 @@ Na het uploaden worden elementen opgeslagen naar _[!DNL Content]_. Het_ gebied v
 
 **om activa van Inhoud** te uploaden:
 
-_[!DNL Content]_biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de[_[!DNL Content]_ galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _filter_ menuopties.
+_[!DNL Content]_&#x200B;biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de[_[!DNL Content]_ galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _filter_ menuopties.
 
-1. Klik in _[!DNL Activate]_op **[!UICONTROL New]**op de kanaalkaart. De_ opstelling van de Ervaring _mening opent.
+1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op de kanaalkaart. De_ opstelling van de Ervaring _mening opent.
 
 1. Klik op **[!UICONTROL Select]** en selecteer vervolgens **[!UICONTROL Select from Content]** . De _Uitgezochte inhoud_ mening opent, tonend een galerie van beeldactiva die u door of filter zoekt.
 
@@ -106,13 +106,13 @@ _[!DNL Content]_biedt een centrale weergave voor de goedgekeurde middelen en erv
 
 1. Klik op **[!UICONTROL Use]** om het geselecteerde element op te nemen in uw advertentie. Het _venster van de Opstelling van de Ervaring_ omvat de activa in zijn standaardaspectverhouding in het _Media_ gebied. Het _paneel van de Voorproef_ voorproeven de activa in de advertentie plaatsing die deze aspectverhouding steunt.
 
-Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_bevat.
+Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_&#x200B;bevat.
 
 **om externe activa** te uploaden:
 
 U kunt maximaal zes statische afbeeldingen buiten de _[!DNL Content]_-galerie uploaden van Microsoft OneDrive of Dropbox.
 
-1. Klik in _[!DNL Activate]_op **[!UICONTROL New]**op de tegel Meta. Het_ venster van de Opstelling van de Ervaring _opent.
+1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op de tegel Meta. Het_ venster van de Opstelling van de Ervaring _opent.
 
 1. In de _sectie van Media_, klik **[!UICONTROL Select]**. Een drop-down menuvertoningen opties om _te selecteren van Inhoud_ of _uploadt_.
 
@@ -122,7 +122,7 @@ U kunt maximaal zes statische afbeeldingen buiten de _[!DNL Content]_-galerie up
 
 1. (Facultatief) om activa van uw apparaat te uploaden, klik **[!UICONTROL Browse]**, dan selecteren _doorbladert dossiers_ of _doorbladert omslagen_ om activa voor te identificeren uploadt.
 
-1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
+1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_&#x200B;te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
 
 1. Wanneer u uw elementen hebt geüpload en details hebt toegewezen, klikt u op **[!UICONTROL Add Assets]** rechtsonder.
 

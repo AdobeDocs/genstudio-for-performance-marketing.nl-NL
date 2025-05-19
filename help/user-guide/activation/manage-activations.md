@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Activeringen beheren
 
-_[!DNL Activate]_biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De_ Geactiveerde 1} mening van Ervaringen {toont alle activeringen voor één verbonden kanaal en rekening._
+_[!DNL Activate]_&#x200B;biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De_ Geactiveerde 1&rbrace; mening van Ervaringen &lbrace;toont alle activeringen voor één verbonden kanaal en rekening._
 
-_[!DNL Activate]_organiseert geactiveerde ervaringen via het ad-hockanaal. Klik op **[!UICONTROL View]**op het kanaalelement. De_ Geactiveerde ervaringen _mening voor het geselecteerde kanaal opent. In deze weergave worden ervaringen op naam weergegeven en op activeringsdatum gesorteerd. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]**.
+_[!DNL Activate]_&#x200B;organiseert geactiveerde ervaringen via het ad-hockanaal. Klik op **[!UICONTROL View]**&#x200B;op het kanaalelement. De_ Geactiveerde ervaringen _mening voor het geselecteerde kanaal opent. In deze weergave worden ervaringen op naam weergegeven en op activeringsdatum gesorteerd. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]**.
 
 ## Weergave voor activering
 

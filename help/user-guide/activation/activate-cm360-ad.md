@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing stelt GenStudio-systeembeheerders en -editors in staat om advertenties te publiceren naar het Google Campaign Manager 360-platform.
 
-U kunt de publicatie van een Google Campagne Manager 360 starten en een ervaring opdoen via de _[!DNL Content]_galerie of_[!DNL Activate]_ home.
+U kunt de publicatie van een Google Campagne Manager 360 starten en een ervaring opdoen via de _[!DNL Content]_&#x200B;galerie of&#x200B;_[!DNL Activate]_ home.
 
 ## Stap 1: Stel uw Google Campagne Manager 360-accounts in
 
@@ -30,11 +30,11 @@ Nadat de synchronisatie is voltooid, kunt u de toegevoegde accounts bekijken.
 
 ## Stap 3: Inhoud selecteren voor uw advertentie
 
-U kunt het publicatieproces starten via de galerie _[!DNL Content]_Ervaring of de startpagina van_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
+U kunt het publicatieproces starten via de galerie _[!DNL Content]_&#x200B;Ervaring of de startpagina van&#x200B;_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
 
 **om ervaringen** te selecteren:
 
-1. Gebruik de zoek- en filtergereedschappen van de _[!DNL Content]_-galerie om te bepalen welke ervaring u wilt activeren en klik vervolgens op **[!UICONTROL Use]**. (U kunt ook een ervaring selecteren in_[!DNL Activate]_ door op **[!UICONTROL New]** te klikken op de productkaart van Google Campagne Manager 360.)
+1. Gebruik de zoek- en filtergereedschappen van de _[!DNL Content]_-galerie om te bepalen welke ervaring u wilt activeren en klik vervolgens op **[!UICONTROL Use]**. (U kunt ook een ervaring selecteren in&#x200B;_[!DNL Activate]_ door op **[!UICONTROL New]** te klikken op de productkaart van Google Campagne Manager 360.)
 
    De 360 _pagina van de de opstellingsopstelling van de Ervaring van Google Campagne_ opent voor deze ervaring. Het is vooraf gevuld met de details van de ervaring, die u niet kunt herzien. Mogelijk wordt u gevraagd een platform te selecteren voordat u doorgaat met de activering.
 
