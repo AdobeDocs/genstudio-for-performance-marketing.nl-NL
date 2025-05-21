@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: f7913f4df1ae0f8d86bdaca778d102d21b0b6c3f
+source-git-commit: dc958a831e3fa26cfc18f7c1a5febd0662102d43
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,9 @@ Volg deze tips en trucs bij het aanpassen van e-mailsjablonen om met GenStudio f
 
 **Beperkingen**:
 
-- Gebruik van [ secties ](customize-template.md#sections-or-groups):
-   - Een basissjabloon (slechts één sectie) kan één set sjabloonelementen genereren.
-   - Een complexe sjabloon (meerdere secties) kan maximaal drie sets sjabloonelementen genereren.
+- De marketing e-mails kunnen 0, 2, of 3 [ secties ](customize-template.md#sections-or-groups) hebben:
+   - Een basissjabloon (nulsecties) kan één set sjabloonelementen genereren, waarvoor de naamgevingsconventie voor groepen niet nodig is.
+   - Een complexe sjabloon (meerdere secties) kan maximaal drie sets sjabloonelementen genereren, waarvoor u de naamgevingsconventie voor groepen moet naleven: (`groupname_fieldname`)
 - Een sjabloon mag maximaal 20 velden bevatten
 - De maximale HTML-bestandsgrootte is 102 kB
 
@@ -77,7 +77,7 @@ Volg deze tips en trucs bij het aanpassen van e-mailsjablonen om met GenStudio f
 
 Voor e-mail wordt het veld `subject` automatisch opgenomen. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
 
-- `pre_header`
+- `pre_header` (RTF-bestand is niet ingeschakeld)
 - `headline`
 - `sub_headline`
 - `body`
@@ -95,7 +95,7 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 - Gebruik **niet** relatieve doopvontgrootte
 - Bepaal **geen** viewport
 - Gebruik **niet** JavaScript
-- Overschrijf **&#x200B;**&#x200B;geen element van HTML in CSS
+- Overschrijf **** geen element van HTML in CSS
 - De tag `<img>` gebruiken in plaats van `background-image`
 - Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
 
@@ -103,8 +103,11 @@ Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen 
 
 - Gebruik van [ secties ](customize-template.md#sections-or-groups):
    - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
+- Er is precies één afbeeldingsveld vereist.
 
 **Gesteunde aspectverhoudingen**:
+
+De verhouding moet worden ingesteld:
 
 - Vierkant 1:1 (1080 x 1080 pixels)
 - Staand 4:5 (1080 x 1350 pixels)
@@ -135,10 +138,11 @@ Volg de onderstaande tips en trucs bij het aanpassen van banners en advertenties
 
 - Gebruik van [ secties ](customize-template.md#sections-or-groups):
    - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
+- Er is precies één afbeeldingsveld vereist.
 
 **Gesteunde afmetingen**:
 
-- Breedte x Hoogte (pixels)
+- Breedte x Hoogte (pixels) moet zijn ingesteld
 - Verticaal
    - 300 x 600
    - 160 x 600 &#x200B;
@@ -163,7 +167,7 @@ Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) o
 
 >[!TAB  LinkedIn en ]
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om met GenStudio for Performance Marketing te werken:
 
@@ -171,6 +175,7 @@ Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om m
 
 - Gebruik van [ secties ](customize-template.md#sections-or-groups):
    - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
+- Er is precies één afbeeldingsveld vereist.
 - Maximale afbeeldingsgrootte van 5 MB
 - Maximale kop 70 tekens
 - Maximaal, inleidende tekst, 150 tekens

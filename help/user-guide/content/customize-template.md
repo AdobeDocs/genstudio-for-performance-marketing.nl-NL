@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 04bb7adcc9ce7eaeca2ea1f3ef39882f8e43ff6d
+source-git-commit: f6c00f473d561cae123997ab3e310867fbdf60d1
 workflow-type: tm+mt
-source-wordcount: '1477'
+source-wordcount: '1527'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performanc
 
 GenStudio for Performance Marketing erkent bepaalde [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met a [ erkende gebiedsnaam ](#recognized-field-names) identificeert.
 
-In de kop of de hoofdtekst van een HTML-sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken om een tijdelijke aanduiding voor inhoud in te voegen op de plaats waar u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert de inhoudsplaceholders die op [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names).
+In de kop of de hoofdtekst van een HTML-sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken om een tijdelijke aanduiding voor inhoud in te voegen op de plaats waar u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert deze placeholders die op de [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names). Elke veldnaam is gekoppeld aan specifieke regels en gedragingen die bepalen hoe inhoud wordt gegenereerd en in de sjabloon wordt ingevoegd.
 
 U kunt `{{headline}}` bijvoorbeeld gebruiken met de syntaxis van [!DNL Handlebars] om aan te geven waar de kop van de e-mail moet worden geplaatst. GenStudio herkent dit veld, genereert een relevante kop op basis van uw richtlijnen en criteria en voegt de kop op deze locatie in:
 
@@ -38,7 +38,7 @@ U kunt `{{headline}}` bijvoorbeeld gebruiken met de syntaxis van [!DNL Handlebar
 
 ### Erkende veldnamen
 
-In de volgende tabel staan de veldnamen die door GenStudio for Performance Marketing worden herkend voor het toevoegen van een tijdelijke aanduiding aan een sjabloon. Voeg deze veldnamen met de syntaxis [!DNL Handlebars] toe aan uw sjabloon waar u GenStudio for Performance Marketing nodig hebt om een bepaald type inhoud te genereren.
+In de volgende tabel staan de veldnamen die door GenStudio for Performance Marketing worden herkend voor het toevoegen van een tijdelijke aanduiding aan een sjabloon. Elk gebied volgt specifieke kanaalrichtlijnen, instructies LLM, en rol-basis regels. Voeg deze veldnamen met de syntaxis [!DNL Handlebars] toe aan uw sjabloon waar u GenStudio for Performance Marketing nodig hebt om een bepaald type inhoud te genereren.
 
 | Veld | Rol | Kanaalsjabloon |
 | ----------------------- | ------------------------- | ------------------------------------------------ |
@@ -73,7 +73,7 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 ### Oproepen tot actie
 
-Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
+Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
 
 Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
 
@@ -174,9 +174,12 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 
 ## Secties of groepen
 
-_Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
+U kunt secties in een marketing e-mailmalplaatje gebruiken wanneer u twee of drie groepen gebieden hebt. _Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
 
-Gebruik een voorvoegsel van uw keuze in de veldnaam om aan te geven dat een veld deel uitmaakt van een sectie of groep. Gebruik een veldnaam (zoals `headline` , `body` , `image` of `cta` ) na het onderstrepingsteken ( `_` ).
+
+Gebruik een groepsnaam van uw keuze als voorvoegsel om aan te geven dat een veld deel uitmaakt van een sectie of groep. Gebruik een veldnaam (zoals `headline` , `body` , `image` of `cta` ) na het onderstrepingsteken ( `_` ).
+
+Syntaxis: `groupname_fieldname`
 
 - _Correct_ (👍): `pod1_body`
 - _Onjuist_ (❌): `pod1body`
@@ -190,10 +193,9 @@ Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden 
 
 Vanwege deze regel kunnen de secties niet worden genest.
 
-Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
 
 Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt u drie kopregels en hoofdtekstsecties gebruiken:
-
 
 - `pre_header`
 - `pod1_headline`
@@ -216,7 +218,7 @@ Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant 
 
 Voorbeeld van een e-mailsjabloon:
 
-&lbrace;de gebieden van de Voorproef ontdekte ![&#128279;](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}
+{de gebieden van de Voorproef ontdekte ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}![
 
 Zie [ de coderedacteur van het Malplaatje ](/help/user-guide/content/code-editor.md).
 
