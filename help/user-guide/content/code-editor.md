@@ -22,7 +22,7 @@ De redacteur van de malplaatjecode wordt ontworpen om u te helpen uw malplaatje 
 
 ## Gevonden velden controleren
 
-Het deelvenster _[!UICONTROL Check detected fields]_bevat een lijst met velden die GenStudio for Performance Marketing herkent in uw sjabloon. Controleer de lijst en u kunt door de HTML-code bladeren om te kijken naar de vormgeving van de sjabloon.
+Het deelvenster _[!UICONTROL Check detected fields]_&#x200B;bevat een lijst met velden die GenStudio for Performance Marketing herkent in uw sjabloon. Controleer de lijst en u kunt door de HTML-code bladeren om te kijken naar de vormgeving van de sjabloon.
 
 ![ de redacteursmening van de Code ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){width="600" zoomable="yes"}
 
@@ -34,7 +34,7 @@ Als uw sjabloon fouten bevat, ziet u mogelijk een `Template is invalid` -bericht
 
 ![ Correct ongeldig malplaatje ](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
 
-Het deelvenster _[!UICONTROL Check detected fields]_wordt bijgewerkt met de wijzigingen die u hebt aangebracht. Zodra u wordt tevreden dat de gebieden correct en volledig zijn, klik **[!UICONTROL Next]**om [ verder te gaan uploadend uw malplaatje ](/help/user-guide/content/use-templates.md#add-a-template).
+Het deelvenster _[!UICONTROL Check detected fields]_&#x200B;wordt bijgewerkt met de wijzigingen die u hebt aangebracht. Zodra u wordt tevreden dat de gebieden correct en volledig zijn, klik **[!UICONTROL Next]**&#x200B;om [ verder te gaan uploadend uw malplaatje ](/help/user-guide/content/use-templates.md#add-a-template).
 
 ## Algemene sjabloonproblemen en oplossingen
 
