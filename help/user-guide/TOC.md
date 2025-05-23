@@ -5,9 +5,9 @@ user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestat
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 8dbb4b44cacac952e3c1b25e19551cbee60107b2
+source-git-commit: 2745df9f67c1af4261bfdbf096b721e9bb97bc4b
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 15%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 15%
    + [ Banden ](guidelines/brands.md)
    + [ Personas ](guidelines/personas.md)
    + [ Producten ](guidelines/products.md)
-   + [ voeg richtlijnen  toe](guidelines/add-guidelines.md)
+   + [ voeg richtlijnen ](guidelines/add-guidelines.md) toe
    + [ Bevestiging van de Merk ](guidelines/brand-validation.md)
 + Maken {#create}
    + [[!DNL Create]  overzicht ](create/overview.md)
@@ -53,8 +53,8 @@ ht-degree: 15%
 + Revisies en goedkeuringen {#approve}
    + [ Overzicht van het Overzicht en van Goedkeuringen ](approvals/overview.md)
    + [ de overzicht en goedkeuring van het verzoek van inhoud ](approvals/request-review.md)
-   + [ Overzicht en geef inhoud  uit](approvals/review-and-edit.md)
-   + [ keur inhoud  goed](approvals/approve-content.md)
+   + [ Overzicht en geef inhoud ](approvals/review-and-edit.md) uit
+   + [ keur inhoud ](approvals/approve-content.md) goed
    + [ publiceer goedgekeurde inhoud ](approvals/publish-content.md)
 + Inhoud {#content}
    + [ Overzicht van de Inhoud ](content/overview.md)
@@ -63,12 +63,14 @@ ht-degree: 15%
    + [ de details van Activa ](content/asset-details.md)
    + Sjablonen {#templates}
       + [ Werk met malplaatjes ](content/use-templates.md)
-      + [ pas een malplaatje  aan](content/customize-template.md)
+      + [ pas een malplaatje ](content/customize-template.md) aan
       + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
       + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
       + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
 + Campagnes {#campaigns}
    + [ Overzicht van campagnes ](campaigns/overview.md)
+   + [ creeer campagnes ](campaigns/create-campaign.md)
+   + [ beheert campagnes ](campaigns/manage-campaign.md)
 + Activeren {#activation}
    + [ Overzicht van de Activering ](activation/overview.md)
    + [ werkschema van de Activering ](activation/create-activation.md)
