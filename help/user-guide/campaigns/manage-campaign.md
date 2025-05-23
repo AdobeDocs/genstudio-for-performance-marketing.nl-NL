@@ -57,7 +57,7 @@ Wanneer de campagnes vorderen, kunnen het doelpubliek en de programma&#39;s aanp
 
 ## Een kanaal toevoegen of verwijderen
 
-De 1} mening van de Details van de campagne _{omvat de kanalen, doelpersona&#39;s, gebieden, en producten die met deze campagne verbonden zijn._
+De 1&rbrace; mening van de Details van de campagne _&lbrace;omvat de kanalen, doelpersona&#39;s, gebieden, en producten die met deze campagne verbonden zijn._
 
 1. Klik **[!UICONTROL Connect records]** aan het recht van de _Kanalen_, _Gebieden_, _Personas_, of _Producten_ etiket.
 
