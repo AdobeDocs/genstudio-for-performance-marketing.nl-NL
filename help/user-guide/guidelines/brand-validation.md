@@ -3,9 +3,9 @@ title: Merkvalidatie in Adobe GenStudio for Performance Marketing
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 29685c96353703705f3f742e88f3934644bc4282
+source-git-commit: 8f8d10db351f440ccd64f4ef5a54b6ace9f9db85
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ GenStudio for Performance Marketing voert de validatie van merken en andere inho
 
 ## Overzicht van inhouds controle
 
-Een samenvatting van merkbevestiging en andere informatie van de inhoudscontrole voor elke geproduceerde inhoudvariant is toegankelijk door het _summiere pictogram van de controle van de Inhoud_ voor elke variant in het Canvas.
+Een samenvatting van merkbevestiging en andere informatie van de inhoudscontrole voor elk punt van geproduceerde inhoud is toegankelijk door het _summiere pictogram van de controle van de Inhoud_ voor elke variant in het Canvas.
 
 De _controle van de Inhoud_ samenvatting toont:
 
@@ -33,17 +33,17 @@ De _controle van de Inhoud_ samenvatting toont:
 
 ![ overzicht van de de controlecontrole van de Inhoud ](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
-Klik het percentage om te zien hoe volgzaam de variant is. De scores worden automatisch bijgewerkt wanneer u de varianten bewerkt. U kunt _Mening klikken en kwesties_ bevestigen om verdere compliantie te verzekeren.
+Klik het percentage om te zien hoe volgzaam de variant is. De scores worden automatisch bijgewerkt wanneer u wijzigingen aanbrengt in de varianten of andere inhoud. U kunt _Mening klikken en kwesties_ bevestigen om verdere compliantie te verzekeren.
 
 Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 ## Deelvenster Inhoud controleren
 
-Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram ](#content-check-summary) voor een variant. Dit deelvenster biedt gedetailleerde validatie van merken. platformrichtlijnen, en informatie over toegankelijkheidsstandaarden en belicht mogelijkheden voor verbetering voor elke variantsectie.
+Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram ](#content-check-summary). Dit deelvenster biedt gedetailleerde informatie over brandvalidatie, platformrichtlijnen en toegankelijkheidsstandaarden en biedt mogelijkheden voor verbetering.
 
 ![ het controlepaneel van de Inhoud ](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
-De _controle van de Inhoud_ paneelvertoningen bevestiging en [ nalevingsinformatie ](/help/user-guide/guidelines/overview.md#compliance) voor elke sectie van de variant:
+Het _controle van de Inhoud_ paneel toont bevestiging en [ nalevingsinformatie ](/help/user-guide/guidelines/overview.md#compliance) voor beelden en variantsecties:
 
 * Vertegenwoordiging van de _controle van de Inhoud_ summiere informatie voor [!DNL Brand], platformrichtlijnen, en toegankelijkheidsnormen
 * _vereist overzicht_ sectie die het aantal ontbroken richtlijnen en gedetailleerde informatie over elke richtlijn toont die revisie vereist
@@ -63,26 +63,25 @@ Om **het inhoudstype** voor de controles te plaatsen u uitgevoerd wilt, klik om 
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _samenvatting [&#128279;](#content-check-summary) van de controle van de Inhoud[_ en het _paneel van de controle van de Inhoud ](#content-check-panel)._ U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _samenvatting ](#content-check-summary) van de controle van de Inhoud[_ en het _paneel van de controle van de Inhoud ](#content-check-panel).[_ U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
 
 **om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om bevestiging en toegankelijkheidsinformatie voor één enkele variant te zien._
+1. Klik het _paneelpictogram van de controle van de Inhoud 0} {in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
 
-   U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien welke secties en richtlijnen verbetering vergen.
+   U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien wat verbetering vereist.
 
    >[!NOTE]
    >
    > De _stem van het Merk_ richtlijn die in het _wordt genoteerd controle_ paneel van de Inhoud is op de volledige variant, niet een individuele sectie van toepassing. De volledige inhoudvariant wordt gemarkeerd voor een voorgestelde verbetering.
 
 1. Klik om richtlijnen te bevestigen die momenteel niet volgzaam zijn.
-1. Klik om elke controle uit te breiden en te inspecteren die overzicht in beschikbare secties zoals _Koplijn_ en _stem van de Merk_ vereist.
+1. Klik om elke controle uit te breiden en te inspecteren die overzicht in beschikbare secties zoals _Kopregel_, _Kleur_, en _stem van het Merk_ vereist.
 
-   Gebruik de redenering voor elke controle om u te helpen bij het wijzigen van de varianten.
+   Gebruik de redenering voor elke controle om u in het herzien van beelden en varianten te begeleiden.
 
 1. Nadat u de benodigde wijzigingen hebt aangebracht, klikt u op **[!UICONTROL Recheck score]** om uw wijzigingen opnieuw te controleren en te valideren om ervoor te zorgen dat deze beter zijn afgestemd op uw merkidentiteit, platformrichtlijnen en toegankelijkheidsstandaarden.
 
    Het proces voor inhoudscontrole wordt opnieuw uitgevoerd. Als de gereviseerde items zijn gevalideerd, wordt onder aan het canvas een groene banner weergegeven om te bevestigen dat de score is bijgewerkt. Als er na een nieuwe controle geen wijziging is opgetreden, bevestigt de banner dat de score niet is gewijzigd. Het percentage in de _controle van de Inhoud_ summiere pictogram voor de herziene variant toont ook uw vooruitgang.
 
 1. Ga door met het reviseren van secties om ervoor te zorgen dat de hele variant validatie- en toegankelijkheidscontroles doorgeeft. Navigeer door elke variant met behulp van de pijlen naast een afzonderlijke variant op het canvas.
-
