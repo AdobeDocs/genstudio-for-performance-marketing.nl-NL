@@ -5,9 +5,9 @@ level: Beginner
 feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: a7b1665f9d735dad9f33aa4f92c56088ae85a625
 workflow-type: tm+mt
-source-wordcount: '1133'
+source-wordcount: '1123'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Deze gebruikersroltitels kunnen gelijkaardig lijken, maar zij identificeren unie
 
 **het systeembeheerders van Adobe** hebben de voorrechten van de machtsgebruiker in Adobe Admin Console en voeren alle taken van het gebruikersbeheer uit, zoals het toevoegen van of het schrappen van gebruikers. Deze rol van systeembeheerder verleent geen voorrechten in de toepassing van GenStudio for Performance Marketing, die verklaart waarom de het systeembeheerders van Adobe geen vergunning voor GenStudio vereisen. Adobe-systeembeheerders gebruiken doorgaans de Admin Console om gebruikersaccounts toe te voegen aan en te verwijderen uit GenStudio-implementaties en om rechten, of machtigingen, toe te wijzen aan of te verwijderen van individuele gebruikers of gebruikersgroepen.
 
-**het systeemmanagers van GenStudio** zijn machtsgebruikers binnen GenStudio for Performance Marketing maar hebben geen toestemming om taken in Adobe Admin Console uit te voeren. Deze rol van de systeemmanager vereist een het productvergunning van GenStudio en het beantwoordt aan een Gebruiker van de Macht in de [ beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-systeembeheerders hebben volledige rechten op GenStudio for Performance Marketing-mogelijkheden, waaronder [!DNL Brands] , [!DNL Persona] en [!DNL Product] het maken, verwijderen, bijwerken en publiceren. [ de Beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) verklaart hoe de gebruikersrollen van GenStudio op productvergunningen betrekking hebben.
+**het systeemmanagers van GenStudio** zijn machtsgebruikers binnen GenStudio for Performance Marketing maar hebben geen toestemming om taken in Adobe Admin Console uit te voeren. Deze rol van de systeemmanager vereist een het productvergunning van GenStudio en het beantwoordt aan een Gebruiker van de Macht in de [ beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-systeembeheerders hebben volledige rechten op GenStudio for Performance Marketing-mogelijkheden, waaronder [!DNL Brands] , [!DNL Persona] en [!DNL Product] het maken, verwijderen, bijwerken en publiceren. [ de Beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) verklaart hoe de gebruikersrollen van GenStudio op productvergunningen betrekking hebben.
 
-Zie [ Administratieve rollen ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html#enterprise) in _de beleidsgids van de Onderneming en van Teams_.
+Zie [ Administratieve rollen ](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise) in _de beleidsgids van de Onderneming en van Teams_.
 
 ## Rechten
 
@@ -63,12 +63,10 @@ In de volgende tabel worden de standaardmachtigingen voor editors weergegeven:
 | [!DNL Content] | ja | ja | ja | ja |
 | [!DNL Create] | ja | ja | ja | ja |
 | [!DNL Insights] | kan slechts schakelaars vormen |    |     | ja |
-| [!DNL Personas] | ja | ja* | ja* | ja |
-| [!DNL Products] | ja | ja* | ja* | ja |
+| [!DNL Personas] | ja | ja | ja | ja |
+| [!DNL Products] | ja | ja | ja | ja |
 | [!DNL Reviews and approvals] | ja | ja | ja | ja |
 | [!DNL Templates] | nee | nee | nee | ja |
-
-Editors kunnen de gemaakte [!DNL Personas] en [!DNL Products] bewerken en verwijderen.
 
 GenStudio-systeembeheerders kunnen editors toestemming geven om een [!DNL Brand] te bewerken en te verwijderen.
 
