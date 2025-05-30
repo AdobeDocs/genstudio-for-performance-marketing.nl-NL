@@ -37,7 +37,7 @@ Zie [ elementen van het Malplaatje ](use-templates.md#template-elements).
 
 Het definiëren van duidelijke kanaalrichtlijnen is van essentieel belang om ervoor te zorgen dat de gegenereerde inhoud aansluit bij de vereisten en doelstellingen van uw merk. Met kanaalrichtlijnen kunt u regels opgeven voor elementen zoals toon, lengte en stijl die in de sjabloon worden gebruikt. U kunt bijvoorbeeld een maximum aantal tekens instellen voor de hoofdtekst of een specifieke call-to-action-stijl vereisen. Door deze richtlijnen vooraf in te stellen, vermindert u de behoefte om gedetailleerde instructies in elke AI herinnering te schrijven, het proces van de inhoudgeneratie te stroomlijnen en consistentie over uw e-mails te verzekeren.
 
-Het overzicht en bepaalt de 0} kanaalrichtlijnen van uw Merk ](/help/user-guide/guidelines/brands.md#channel-guidelines) voor alle zeer belangrijke gebieden in uw malplaatje. [ Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
+Het overzicht en bepaalt de 0&rbrace; kanaalrichtlijnen van uw Merk [&#128279;](/help/user-guide/guidelines/brands.md#channel-guidelines) voor alle zeer belangrijke gebieden in uw malplaatje.  Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
 
 ![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
 
