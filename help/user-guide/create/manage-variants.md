@@ -3,7 +3,7 @@ title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 8f8d10db351f440ccd64f4ef5a54b6ace9f9db85
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '1623'
 ht-degree: 0%
@@ -54,7 +54,7 @@ U kunt snel een afzonderlijke laag van een variant selecteren en wijzigingen aan
 
 GenStudio for Performance Marketing heeft de ingebouwde functionaliteit om secties van gegenereerde varianten opnieuw te genereren. U kunt tekst anders formuleren, verkorten of verlengen of nieuwe vragen toevoegen om nieuwe inhoud te genereren.
 
-U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_&#x200B;de inhoud van een sectie, of&#x200B;_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
+U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_de inhoud van een sectie, of_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
 
 ![ regenerate secties ](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
@@ -62,7 +62,7 @@ U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw generer
 
 1. Nadat u een set varianten hebt gegenereerd, klikt u met één klik op alle bewerkbare tekst in een variant.
 1. Als u de bestaande tekst wilt wijzigen, selecteert u _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ of _[!UICONTROL Lengthen]_.
-1. Selecteer _[!UICONTROL Generate new text]_&#x200B;en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
+1. Selecteer _[!UICONTROL Generate new text]_en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
    1. Klik op **[!UICONTROL Generate]**.
 1. Terwijl u de tekst van een sectie opnieuw genereert, klikt u op het pictogram Opnieuw genereren (omcirkelende pijlen) om meer tekstopties weer te geven.
 1. Selecteer de gewenste optie in het resultaat dat wordt weergegeven en klik op **[!UICONTROL Replace]** .
@@ -75,13 +75,13 @@ Nadat u een set varianten hebt gegenereerd, kunt u de call-to-action-tekst (CTA)
 
 >[!NOTE]
 >
->U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_&#x200B;als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie&#x200B;_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
+>U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
 
 **om CTA in een variant** te herzien:
 
 1. Klik op een CTA-knop in een van de varianten.
 
-   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ .
+   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ .
 
 1. Klik op **[!UICONTROL Rephrase]**.
 
@@ -114,7 +114,7 @@ U kunt afbeeldingselementen handmatig uitsnijden en verplaatsen in afzonderlijke
 
 ## Hoogte-breedteverhouding wijzigen
 
-U kunt snel de [ aspectverhouding van Meta-advertenties ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) veranderen om het gewenste en het rangschikken aan te passen. Kies een hoogte-breedteverhouding voor afbeeldingen die vrijwel overeenkomt met de sjabloonafmetingen om ongewenste bijsnijden of uitrekken te voorkomen. Als uw sjabloon bijvoorbeeld 1200 × 628 pixels (een brede rechthoek) is, kunt u de zijden uitsnijden met een vierkante afbeelding van 1:1, waardoor belangrijke inhoud mogelijk wordt afgesneden. De optimale afbeeldingsgrootte is 628 x 628 pixels, wat overeenkomt met de hoogte van de sjabloon.
+U kunt snel de [ aspectverhouding van Meta-advertenties ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) veranderen om het gewenste en het rangschikken aan te passen. Kies een hoogte-breedteverhouding voor afbeeldingen die vrijwel overeenkomt met de sjabloonafmetingen om ongewenste bijsnijden of uitrekken te voorkomen. Als uw sjabloon bijvoorbeeld 1200 × 628 pixels (een brede rechthoek) is, kunt u de zijden uitsnijden met een vierkante afbeelding van 1:1, waardoor belangrijke inhoud mogelijk wordt afgesneden. De optimale afbeeldingsgrootte is 628 x 628 pixels, wat overeenkomt met de hoogte van de sjabloon.
 
 >[!NOTE]
 >
@@ -128,7 +128,7 @@ U kunt snel de [ aspectverhouding van Meta-advertenties ](/help/user-guide/conte
 
    Het aantal variaties dat door deze revisie wordt beïnvloed, wordt genoteerd in de hoogste juiste hoek van het venster. _Voorbeeld_: &quot;4 van 4 variaties&quot;
 
-1. Selecteer een [ beschikbare aspectverhouding ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+1. Selecteer een [ beschikbare aspectverhouding ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios).
 
    Alleen de verhoudingen die momenteel niet in het canvas worden weergegeven, kunnen worden gekozen.
 
@@ -148,7 +148,7 @@ U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toev
 1. Klik op het pictogram **[!UICONTROL Swap from content]** .
 1. Gebruik de filters en zoekfunctie in de weergave GenStudio-elementen [!DNL Content] om uw zoekresultaten verder te verfijnen.
 
-   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**&#x200B;menu ](/help/user-guide/content/manage-assets.md#location) .
+   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**menu ](/help/user-guide/content/manage-assets.md#location) .
 
 1. Klik om een afbeelding te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -213,7 +213,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 ## Merkwaardvalidatie
 
-Gebruik het _paneel van de controle van de Inhoud 0&rbrace; &lbrace;om verenigbare merkidentiteit, [ de toegankelijkheidsnormen van ADA, platformrichtlijnen ](/help/user-guide/guidelines/overview.md#content-checks), en groepering van varianten te handhaven._
+Gebruik het _paneel van de controle van de Inhoud 0} {om verenigbare merkidentiteit, [ de toegankelijkheidsnormen van ADA, platformrichtlijnen ](/help/user-guide/guidelines/overview.md#content-checks), en groepering van varianten te handhaven._
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 
@@ -236,8 +236,8 @@ Generatie-feedback is van toepassing op een individuele variant, niet op de verz
    Er verschijnt een pop-up met feedback om meer informatie te verzamelen. Gegenereerde inhoud en snelle informatie worden opgenomen in uw feedback.
 
 1. Voeg de volgende informatie toe in het pop-upvenster met feedback:
-   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_&#x200B;om die extra referentiegegevens op te nemen in de verzamelde feedback.
-   1. Selecteer in de sectie _[!UICONTROL What worked well?]_&#x200B;of&#x200B;_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
+   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_om die extra referentiegegevens op te nemen in de verzamelde feedback.
+   1. Selecteer in de sectie _[!UICONTROL What worked well?]_of_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
    1. Voeg andere nuttige of verwante informatie toe in het veld _[!UICONTROL Notes]_.
 1. Klik op **[!UICONTROL Submit]**.
 

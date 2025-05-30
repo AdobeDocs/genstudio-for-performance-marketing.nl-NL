@@ -1,0 +1,107 @@
+---
+title: Richtlijnen voor metagegevens en sjablonen
+description: Volg de aanbevolen procedures bij het gebruik van Meta-advertentiesjablonen met Adobe GenStudio for Performance Marketing.
+level: Intermediate
+role: Developer, User
+feature: Media Templates
+exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
+source-git-commit: d9d774f727b69b18af6114965fdb8ffb450f797b
+workflow-type: tm+mt
+source-wordcount: '378'
+ht-degree: 0%
+
+---
+
+# Richtlijnen voor metagegevens en sjablonen
+
+Met Meta-advertentiesjablonen kunt u visueel consistente en effectieve advertenties maken op verschillende Meta-platforms. Door de aanbevolen ontwerpprocedures te volgen en ondersteunde velden te gebruiken, kunt u ervoor zorgen dat uw sjablonen zijn geoptimaliseerd voor GenStudio for Performance Marketing. In deze handleiding wordt uitgelegd hoe u Meta-advertentiesjablonen kunt structureren, aanpassen en voorbereiden voor naadloze integratie en resultaten met veel effect.
+
+Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen voor GenStudio for Performance Marketing:
+
+- De breedte van 360 pixels gebruiken voor kolomlay-outs
+- Een minimale resolutie van 1080 x 1080 pixels gebruiken voor afbeeldingen
+- Er is precies één afbeeldingsveld vereist
+- Gebruik **niet** relatieve doopvontgrootte
+- Bepaal **geen** viewport
+- Gebruik **niet** JavaScript
+- Overschrijf **** geen element van HTML in CSS
+- De tag `<img>` gebruiken in plaats van `background-image`
+- Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
+- Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert
+
+## Erkende veldnamen
+
+Wanneer u de sjabloon Meta-advertenties aanpast, past u plaatsaanduidingen voor inhoud toe voor de volgende vereiste velden:
+
+- `image` (vereist, geselecteerd in Content JPEG, PNG of GIF)
+- `on_image_text` (tekst die boven de afbeelding wordt weergegeven)
+
+GenStudio for Performance Marketing genereert automatisch de volgende velden. U hoeft geen plaatsaanduidingen voor inhoud toe te passen voor:
+
+- `headline`
+- `body`
+- `cta`
+
+Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+
+## Ondersteunde hoogte-breedteverhoudingen
+
+| Hoogte-breedteverhouding | Afmetingen (pixels) | Notities |
+|------------------|----------------------------|-----------------------------------------------------------------------|
+| Vierkant 1:1 | 1080 x 1080 | Standaard voor de meeste Meta-plaatsingen; aanbevolen voor brede compatibiliteit. |
+| Staand 4:5 | 1080 x 1350 | Geoptimaliseerd voor mobiele feeds; biedt meer verticale ruimte. |
+| Artikel 9:16 | 1080 x 1920 | Ideaal voor artikelen en rollen; vult het volledige mobiele scherm. |
+| Liggend 1,91:1 | 1080 x 566 | Meest geschikt voor koppelingsadvertenties en News Feed-plaatsingen; breed formaat. |
+| Aangepast | Minimaal 50 x 50 (breedte) | Alleen gebruiken als dat nodig is. Dit kan resulteren in uitsnijden of schalen. |
+
+Als de advertentie niet in één van deze aspectverhoudingen wordt ontworpen, snijdt GenStudio for Performance Marketing automatisch het beeld in de aangewezen grootte uit.
+
+## Sjabloonvoorbeeld
+
++++Voorbeeld: Meta-advertentiesjabloon
+
+<!-- Does this need to be a precise size? -->
+
+Hier volgt een eenvoudig voorbeeld van een advertentiesjabloon van Meta. De kop bevat inline CSS voor opmaak. Het lichaam gebruikt [ inhoudplaceholders ](#content-placeholders), zoals `image` en `on_image_text`, om erop te wijzen waar GenStudio for Performance Marketing inhoud kan produceren.
+
+```html {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Adobe</title>
+        <style>
+            .ad-container {
+            font-family: Helvetica, sans-serif;
+            position: relative;
+            text-align: center;
+            height: 100%;
+            }
+            .ad-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            }
+            .ad-text {
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin: 1em;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 1em;
+            font-size: 75px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="ad-container">
+            <img src="{{image}}" alt="Ad Image" class="ad-image" />
+            <div class="ad-text">{{on_image_text}}</div>
+        </div>
+    </body>
+</html>
+```
+
++++

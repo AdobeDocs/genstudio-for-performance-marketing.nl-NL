@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: ad2b5bd701daff83257249d18fc3f4d2292cd3a5
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken o
 
 Bij het genereren van weergaveadvertenties worden vier variaties gemaakt en weergegeven in het canvas.
 
-Zie [ kanaal-specifieke malplaatjerichtsnoeren ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer volgen.
+Zie [ Vertoning en malplaatjerichtlijnen ](/help/user-guide/templates/display-template.md) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer.
 
 Bewerkbare gedeelten van een weergave en ervaring zijn:
 

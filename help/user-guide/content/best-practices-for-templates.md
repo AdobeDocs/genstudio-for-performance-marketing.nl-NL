@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: dc958a831e3fa26cfc18f7c1a5febd0662102d43
+source-git-commit: adf987b016825861b5522b44b61263000eb63859
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -35,11 +35,13 @@ Zie [ elementen van het Malplaatje ](use-templates.md#template-elements).
 
 ## Kanaalrichtlijnen configureren
 
-Configureer kanaalrichtlijnen voor elk merk voordat u sjablonen gebruikt in GenStudio for Performance Marketing. De kanaalrichtlijnen beïnvloeden rechtstreeks het type inhoud dat wordt gegenereerd wanneer de sjabloon wordt gebruikt. U kunt bijvoorbeeld tekenlimieten instellen voor de hoofdtekst van een e-mail.
+Het definiëren van duidelijke kanaalrichtlijnen is van essentieel belang om ervoor te zorgen dat de gegenereerde inhoud aansluit bij de vereisten en doelstellingen van uw merk. Met kanaalrichtlijnen kunt u regels opgeven voor elementen zoals toon, lengte en stijl die in de sjabloon worden gebruikt. U kunt bijvoorbeeld een maximum aantal tekens instellen voor de hoofdtekst of een specifieke call-to-action-stijl vereisen. Door deze richtlijnen vooraf in te stellen, vermindert u de behoefte om gedetailleerde instructies in elke AI herinnering te schrijven, het proces van de inhoudgeneratie te stroomlijnen en consistentie over uw e-mails te verzekeren.
+
+Het overzicht en bepaalt de 0} kanaalrichtlijnen van uw Merk ](/help/user-guide/guidelines/brands.md#channel-guidelines) voor alle zeer belangrijke gebieden in uw malplaatje. [ Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
 
 ![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
 
-Zie [ kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#channel-guidelines).
+Leer hoe [ Merken, Producten, en de richtlijnen van Persona ](/help/user-guide/guidelines/overview.md) geproduceerde inhoud beïnvloeden en hoe te om hen voor uw marketing doelstellingen aan te passen.
 
 ## Volg kanaalspecifieke sjabloonrichtlijnen
 
@@ -51,165 +53,9 @@ Wanneer het creëren van malplaatjes, zorg ervoor zij aan de specifieke vereiste
 
 {{note-css-effects}}
 
-Houd rekening met de volgende tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties en compatibiliteit:
+Zie verdere tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties en compatibiliteit:
 
->[!BEGINTABS]
-
->[!TAB  E-mail ]
-
-Volg deze tips en trucs bij het aanpassen van e-mailsjablonen om met GenStudio for Performance Marketing te werken:
-
-- Adobe- of Google-lettertypen gebruiken
-- Onbewerkte en responsieve HTML en inline CSS gebruiken
-- Gebruik **niet** JavaScript
-- Gebruik **niet** vaste breedte in lichaam of container
-- Gebruik **niet** base64 het coderen voor beelden omdat het de malplaatjegrootte kan beduidend verhogen
-
-**Beperkingen**:
-
-- De marketing e-mails kunnen 0, 2, of 3 [ secties ](customize-template.md#sections-or-groups) hebben:
-   - Een basissjabloon (nulsecties) kan één set sjabloonelementen genereren, waarvoor de naamgevingsconventie voor groepen niet nodig is.
-   - Een complexe sjabloon (meerdere secties) kan maximaal drie sets sjabloonelementen genereren, waarvoor u de naamgevingsconventie voor groepen moet naleven: (`groupname_fieldname`)
-- Een sjabloon mag maximaal 20 velden bevatten
-- De maximale HTML-bestandsgrootte is 102 kB
-
-**Erkende gebiedsnamen**:
-
-Voor e-mail wordt het veld `subject` automatisch opgenomen. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
-
-- `pre_header` (RTF-bestand is niet ingeschakeld)
-- `headline`
-- `sub_headline`
-- `body`
-- `cta`
-- `image` (geselecteerd in Content JPEG, PNG of GIF)
-
-Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
-
->[!TAB  Meta en ]
-
-Volg deze aanbevolen werkwijzen bij het aanpassen van Meta-advertentiesjablonen voor GenStudio for Performance Marketing:
-
-- De breedte van 360 pixels gebruiken voor kolomlay-outs
-- Een minimale resolutie van 1080 x 1080 pixels gebruiken voor afbeeldingen
-- Gebruik **niet** relatieve doopvontgrootte
-- Bepaal **geen** viewport
-- Gebruik **niet** JavaScript
-- Overschrijf **&#x200B;**&#x200B;geen element van HTML in CSS
-- De tag `<img>` gebruiken in plaats van `background-image`
-- Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
-
-**Beperkingen**:
-
-- Gebruik van [ secties ](customize-template.md#sections-or-groups):
-   - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
-- Er is precies één afbeeldingsveld vereist.
-
-**Gesteunde aspectverhoudingen**:
-
-De verhouding moet worden ingesteld:
-
-- Vierkant 1:1 (1080 x 1080 pixels)
-- Staand 4:5 (1080 x 1350 pixels)
-- Artikel 9:16 (1080 x 1920 pixels)
-- Liggend: 1,91:1 (breedte van 1080 pixels)
-- Aangepaste afbeeldingsgrootte: (minimale afbeeldingsbreedte van 50 x 50 pixels)
-
-**Erkende gebiedsnamen**:
-
-Voor Meta-advertenties worden de velden `headline` , `body` en `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
-
-- `image` (geselecteerd in Content JPEG, PNG of GIF)
-- `on_image_text`
-
-Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
-
->[!TAB  Banner &amp; de advertentie van de Vertoning ]
-
-Volg de onderstaande tips en trucs bij het aanpassen van banners en advertentiesjablonen om met GenStudio for Performance Marketing te werken:
-
-- Adobe- of Google-lettertypen gebruiken
-- Elementen voorbereiden die goed worden weergegeven in dunne afmetingen
-- Gebruik **niet** ingebedde of gecodeerde achtergrondbeelden
-- Gebruik achtergrondafbeeldingen (`image` veld) die zijn geüpload naar de GenStudio for Performance Marketing-opslagplaats voor inhoud
-- Gebruik **niet** JavaScript
-
-**Beperkingen**:
-
-- Gebruik van [ secties ](customize-template.md#sections-or-groups):
-   - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
-- Er is precies één afbeeldingsveld vereist.
-
-**Gesteunde afmetingen**:
-
-- Breedte x Hoogte (pixels) moet zijn ingesteld
-- Verticaal
-   - 300 x 600
-   - 160 x 600 &#x200B;
-- Horizontaal:
-   - 300 x 250
-   - 728 x 90
-   - 336 x 280
-   - 320 x 50
-   - 970 x 250 &#x200B;
-- Aangepast: 50 x 50 tot 2000 x 2000
-
-**Erkende gebiedsnamen**:
-
-Voor banner- en weergaveadvertenties wordt het veld `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
-
-- `headline`
-- `sub_headline`
-- `body`
-- `image` (geselecteerd in Content JPEG, PNG of GIF)
-
-Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
-
->[!TAB  LinkedIn en ]
-
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
-
-Volg deze tips en trucs bij het aanpassen van LinkedIn-advertentiesjablonen om met GenStudio for Performance Marketing te werken:
-
-**Beperkingen**:
-
-- Gebruik van [ secties ](customize-template.md#sections-or-groups):
-   - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert.
-- Er is precies één afbeeldingsveld vereist.
-- Maximale afbeeldingsgrootte van 5 MB
-- Maximale kop 70 tekens
-- Maximaal, inleidende tekst, 150 tekens
-
-**Gesteunde aspectverhoudingen**:
-
-- Vierkant 1:1
-   - desktop of mobiel
-   - Min.: 360 x 360 pixels
-   - Max.: 4320 x 4320 pixels
-- Horizontaal 1,91:1
-   - desktop
-   - Min.: 640 x 360 pixels
-   - Max.: 7.680 x 4.320 pixels
-- Verticaal 1:1,91
-   - mobiel
-   - Min.: 360 x 640 pixels
-   - Max.: 2430 x 4320 pixels
-- Verticaal 2,3
-   - mobiel
-   - Min.: 360 x 640 pixels
-   - Max.: 2430 x 4320 pixels
-- Verticaal 4.5 (aanbevolen)
-   - mobiel
-   - Min.: 360 x 640 pixels
-   - Max.: 2430 x 4320 pixels
-
-**Erkende gebiedsnamen**:
-
-Voor LinkedIn-advertenties worden de velden `headline` , `introductory_text` en `CTA` automatisch gegenereerd. Gebruik plaatsaanduidingen voor inhoud voor de volgende velden:
-
-- `image` (geselecteerd in Content JPEG, PNG of GIF)
-- `on_image_text`
-
-Zie [ placeholders van de Inhoud ](customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
-
->[!ENDTABS]
+- [E-mails](/help/user-guide/templates/email-template.md)
+- [Advertenties weergeven en banner maken](/help/user-guide/templates/display-template.md)
+- [LinkedIn](/help/user-guide/templates/linkedin-template.md)
+- [Metaadvertenties](/help/user-guide/templates/meta-template.md)

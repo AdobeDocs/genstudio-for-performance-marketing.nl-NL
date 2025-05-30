@@ -5,10 +5,10 @@ user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestat
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: 2745df9f67c1af4261bfdbf096b721e9bb97bc4b
+source-git-commit: 7ac97f040917ee737cd29ba8f5c7d8c72a75e577
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 15%
+source-wordcount: '237'
+ht-degree: 14%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 15%
    + [ Banden ](guidelines/brands.md)
    + [ Personas ](guidelines/personas.md)
    + [ Producten ](guidelines/products.md)
-   + [ voeg richtlijnen  toe](guidelines/add-guidelines.md)
+   + [ voeg richtlijnen ](guidelines/add-guidelines.md) toe
    + [ Bevestiging van de Merk ](guidelines/brand-validation.md)
 + Maken {#create}
    + [[!DNL Create]  overzicht ](create/overview.md)
@@ -53,20 +53,26 @@ ht-degree: 15%
 + Revisies en goedkeuringen {#approve}
    + [ Overzicht van het Overzicht en van Goedkeuringen ](approvals/overview.md)
    + [ de overzicht en goedkeuring van het verzoek van inhoud ](approvals/request-review.md)
-   + [ Overzicht en geef inhoud  uit](approvals/review-and-edit.md)
-   + [ keur inhoud  goed](approvals/approve-content.md)
+   + [ Overzicht en geef inhoud ](approvals/review-and-edit.md) uit
+   + [ keur inhoud ](approvals/approve-content.md) goed
    + [ publiceer goedgekeurde inhoud ](approvals/publish-content.md)
 + Inhoud {#content}
    + [ Overzicht van de Inhoud ](content/overview.md)
    + [ beheert activa en ervaringen ](content/manage-assets.md)
    + [ verbind een bewaarplaats van AEM ](content/connect-aem-repo.md)
    + [ de details van Activa ](content/asset-details.md)
-   + Sjablonen {#templates}
-      + [ Werk met malplaatjes ](content/use-templates.md)
-      + [ pas een malplaatje  aan](content/customize-template.md)
-      + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
-      + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
-      + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
++ Sjablonen {#templates}
+   + [ Werk met malplaatjes ](content/use-templates.md)
+   + [ de malplaatjes van de Aanzet ](templates/starter-templates.md)
+   + [ pas een malplaatje ](content/customize-template.md) aan
+   + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
+   + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
+   + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
+   + Best practices voor kanalen {#channel-best-practice}
+      + [ de advertenties van de Vertoning gids ](templates/display-template.md)
+      + [ E-mailgids ](templates/email-template.md)
+      + [ LinkedIn advertenties gids ](templates/linkedin-template.md)
+      + [ Meta adverteert gids ](templates/meta-template.md)
 + Campagnes {#campaigns}
    + [ Overzicht van campagnes ](campaigns/overview.md)
    + [ creeer campagnes ](campaigns/create-campaign.md)

@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: 8d79c2bd2347bebb18ecb432a7087fb3d1ac1356
+source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken o
 
 [!DNL Create] laat moderne marketers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md) te gebruiken, beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) om snel [ merkgebonden e-mailervaringen ](/help/user-guide/create/create-email-experience.md) tot stand te brengen.
 
-Wanneer het produceren van Meta ervaart worden vier variaties gecreeerd en in het Canvas getoond.
+Bij het genereren van e-mailervaringen worden vier variaties gemaakt en weergegeven in het canvas.
 
 Bewerkbare gedeelten van een e-mailervaring zijn:
 
@@ -56,7 +56,7 @@ Elk veld en elke sectie van e-mailervaringen worden in deze reeks geleidelijk ge
 1. Hoofdtekst van e-mail voor volgende secties (voor e-mails met meerdere secties)
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
 
 ## Aantal tekens
 
