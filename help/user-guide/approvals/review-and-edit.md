@@ -64,7 +64,7 @@ De maker van de inhoud kan zijn bewerkingen voortzetten tijdens het ontvangen va
 
 ## Inhoud controleren met Workfront Proof
 
-[!DNL Proofing Viewer] verstrekt [ robuuste prijsverhogingshulpmiddelen ](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) voor het annoteren van proeven en het volgen veranderingen. U kunt ook twee proefversies vergelijken.
+[!DNL Proofing Viewer] verstrekt [ robuuste prijsverhogingshulpmiddelen ](https://experienceleague.adobe.com/nl/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) voor het annoteren van proeven en het volgen veranderingen. U kunt ook twee proefversies vergelijken.
 
 **om inhoud** te herzien:
 
@@ -84,7 +84,7 @@ De maker van de inhoud kan zijn bewerkingen voortzetten tijdens het ontvangen va
 
 ### Proofs vergelijken
 
-Van [!DNL Proofing Viewer], kunt u [ proefversies ](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) vergelijken.
+Van [!DNL Proofing Viewer], kunt u [ proefversies ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) vergelijken.
 
 **om proeven** te vergelijken:
 
@@ -94,4 +94,4 @@ Van [!DNL Proofing Viewer], kunt u [ proefversies ](https://experienceleague.ado
 
    Proefversies worden naast elkaar weergegeven, met de nieuwere versie aan de linkerkant.
 
-Workfront Proof biedt verschillende gereedschappen voor het vergelijken van proefdrukken, waaronder een functie voor automatisch vergelijken. Zie [ Gebruik de vergelijkingshulpmiddelen ](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
+Workfront Proof biedt verschillende gereedschappen voor het vergelijken van proefdrukken, waaronder een functie voor automatisch vergelijken. Zie [ Gebruik de vergelijkingshulpmiddelen ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
