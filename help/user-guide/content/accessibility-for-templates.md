@@ -3,9 +3,9 @@ title: Toegankelijke sjablonen maken
 description: Sjablonen maken in Adobe GenStudio for Performance Marketing waarmee u meer van uw publiek kunt bereiken en een optimale ervaring kunt bieden.
 feature: Media Templates
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: 28c128ad6f3d173b7516a6b1309555c12e6a4e2d
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,11 @@ Maak tekstalternatieven voor niet-tekstuele inhoud, zoals afbeeldingen.
 ```
 
 ![ Collage van ideeën, boeken, man die reuzenpotlood, computer ](/help/assets/card-create-assets.png){width="400"} houden
+
+Gebruik bij het aanpassen van de sjabloon plaatsaanduidingen voor inhoud voor de kenmerken `alt` en `aria-label` :
+
+- [ Alternatieve tekst ](/help/user-guide/content/customize-template.md#alternative-text)
+- [ etiket van de Toegankelijkheid ](/help/user-guide/content/customize-template.md#accessibility-label)
 
 ## Lettertypen
 

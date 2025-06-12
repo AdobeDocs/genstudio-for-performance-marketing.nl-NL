@@ -5,16 +5,16 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 1f62546f4fc2381bcc4d8fd3acadd1d6470ed9e8
+source-git-commit: 7dfd915ebcc001b12357cfa334346e6698436d7d
 workflow-type: tm+mt
-source-wordcount: '1294'
+source-wordcount: '1334'
 ht-degree: 0%
 
 ---
 
 # Werken met sjablonen
 
-GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat.
+GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat. Als u aan de slag wilt gaan, uploadt u een aangepaste sjabloon in [!DNL Content] of gebruikt u een startsjabloon in [!DNL Create] . [ de malplaatjes van de Aanzet ](/help/user-guide/templates/starter-templates.md) verstrekken een snelle manier om met een standaardontwerp te beginnen, terwijl een douanemalplaatje u toestaat om uw unieke ontwerpen en lay-out te gebruiken.
 
 Hoewel GenStudio for Performance Marketing het rechtstreeks maken van sjablonen in de toepassing niet ondersteunt, kunt u eenvoudig sjablonen ontwerpen en voorbereiden met populaire ontwerpgereedschappen, zoals Adobe InDesign, Illustrator of Express. Zodra uw ontwerp volledig is, kunt u het voor gebruik in GenStudio for Performance Marketing aanpassen. Voer de volgende stappen uit om sjablonen te gebruiken:
 
@@ -38,7 +38,7 @@ Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enke
 | **Kopbal** | E-mail | In het bovenste gedeelte van de e-mail die de ontvanger ziet wanneer deze de e-mail opent, wordt de toon en context voor de opgenomen inhoud ingesteld. |
 | **Titel** | Metaadvertentie, banner en weergaveadvertenties, LinkedIn | De eerste inhoud die de ontvanger ziet, zou dwingend moeten zijn om interesse te vangen. |
 | **sub-headline** | E-mail-, banner- en weergaveadvertenties | Een secundair tekstelement dat de kop ondersteunt. Het is doorgaans beknopt en ontworpen om de hoofdkop aan te vullen, zodat de aandacht van de lezer verder in de inhoud wordt getrokken. |
-| **Inleidende tekst** | LinkedIn | Het primaire bericht brengt het kernbericht over, gelijkend op lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
+| **Inleidende tekst** | LinkedIn | Het primaire bericht brengt het kernbericht over, gelijkend op het lichaamskopie. Het kan tot 150 karakters, met inbegrip van ruimten, een maximum van vier emojis, en punctuatie gebruiken. |
 | **Lichaam** | E-mail-, metagegevens-, banner- en weergaveadvertenties | De hoofdtekst van de advertentie geeft het kernbericht weer. Het zou moeten engageren, informatief, en overtuigend zijn om de gewenste actie van het publiek aan te moedigen. |
 | **CTA** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Een call-to-action-knop gebruikt een uitdrukking en een koppeling om de ontvanger aan te moedigen een specifieke actie te ondernemen, zoals klikken op een koppeling of een aankoop doen. |
 | **Beelden** | E-mail-, metagegevens-, banner- en weergaveadvertenties, LinkedIn | Verbeter visuele aantrekkingskracht, verbreek tekst en ondersteun het bericht. Afbeeldingen moeten van hoge kwaliteit en opvallend zijn. |
@@ -59,7 +59,7 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Pe
 
 ## Sjablonen beheren
 
-Op de galerie _[!DNL Templates]_&#x200B;wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
+Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
 
 ### Zoeksjablonen
 
@@ -67,8 +67,8 @@ Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken 
 
 U kunt bijvoorbeeld een sjabloon zoeken met een specifiek kanaaltype of een bepaalde hoogte-breedteverhouding die door u is gemaakt:
 
-- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_&#x200B;beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
-- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_&#x200B;beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
+- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
 
 In het volgende voorbeeld wordt het filter weergegeven op basis van het kanaaltype, zoals e-mail, advertenties weergeven, metagegevensadvertenties en LinkedIn-advertenties.
 
@@ -82,11 +82,11 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 **om een malplaatje** toe te voegen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
 1. Klik op **[!UICONTROL Add template]**.
 
-1. Blader in het deelvenster _[!UICONTROL Add your approved template]_&#x200B;naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
+1. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
 
 1. Controleer de velden in het deelvenster _[!UICONTROL Check detected fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn.
 
@@ -100,7 +100,7 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 1. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
 
-1. Geef in _[!UICONTROL Provide template details and upload]_&#x200B;de sjabloon een naam en selecteer een **[!UICONTROL Channel]**&#x200B;type.
+1. Geef in _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
@@ -117,7 +117,7 @@ Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s.
 
 **om het malplaatje** te verfrissen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
 1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
@@ -129,13 +129,13 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 **om een ervaring met een malplaatje** tot stand te brengen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
 1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
 1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
-1. Ga aan [&#128279;](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
+1. Ga aan [ ](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
 
 ## Sjablonen uit AJO en Marketo
 

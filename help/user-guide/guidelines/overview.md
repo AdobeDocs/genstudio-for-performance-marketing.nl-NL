@@ -4,7 +4,7 @@ description: Voeg  [!DNL Brands], [!DNL Products], and [!DNL Personas]  aan GenS
 level: Beginner
 feature: Brand Personalization, Product Personalization, Persona Personalization, Variant Generation, Generative AI
 exl-id: 577c627b-0895-4958-a883-3133b4a3efde
-source-git-commit: f08e92fd8d71fb8e918d8c8167d1e62ed86e35cb
+source-git-commit: dcd347dedd17497a080989df9e92dbf175cd2b2e
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 0%
@@ -37,7 +37,7 @@ GenStudio for Performance Marketing-richtlijnen:
 * De complexiteit van uw merkidentiteit definiëren
 * Maak de basisopslagplaats van informatie-voor discrete elementen zoals logo&#39;s en doopvonten, pixel het uit elkaar plaatsen, en de subtiliteit van overseinenrichtlijnen-die generatieve AI gebruikt om inhoud tot stand te brengen
 * Zorg ervoor dat uw gedefinieerde merkidentiteit het maken van elk stuk inhoud aangeeft
-* Voer als kader van de merkidentiteit uit dat tegen elk stuk van geproduceerd of [ bevestigde inhoud ](#brand-validation) wordt gecontroleerd
+* Voer als kader van de merkidentiteit uit dat tegen elk stuk van geproduceerd of [ bevestigde inhoud ](#content-checks) wordt gecontroleerd
 * Hiermee implementeert u ADA-toegankelijkheid en platformrichtlijnen voor gegenereerde varianten
 
 Door merkgegevens, producten en persoonlijke gegevens in GenStudio for Performance Marketing op te nemen, kunt u de kwaliteit van door AI gegenereerde inhoud verbeteren en zo een uitgebreide en op maat gemaakte merkidentiteit garanderen.
@@ -47,7 +47,7 @@ Door merkgegevens, producten en persoonlijke gegevens in GenStudio for Performan
 Met de richtlijnen [!DNL Brands] , [!DNL Products] en [!DNL Personas] kunt u twee belangrijke gebruiksgevallen instellen om ervoor te zorgen dat gegenereerde inhoud voldoet aan de gewenste representatie van een merk:
 
 * **generatie van de Inhoud** in [[!DNL Create]](/help/user-guide/create/overview.md) of [ Inhoud ](/help/user-guide/content/overview.md)
-* [**Bevestiging van de Merk**](#brand-validation), die als deel van het proces van de inhoudsverwezenlijking gebeurt
+* [**Bevestiging van de Merk**](#content-checks), die als deel van het proces van de inhoudsverwezenlijking gebeurt
 
 ## Inhoudscontroles
 
@@ -63,5 +63,5 @@ Adobe GenStudio for Performance Marketing integreert externe platformbegeleiding
 
 Deze cumulatieve nalevingscontroles omvatten:
 
-* **toegankelijkheid ADA** - essentieel voor het verzekeren van de ontwikkeling van inclusieve inhoud en digitale ervaringen die op gebruikers met variërende mogelijkheden behandelen. Deze zorgen voor aanpassing aan toegankelijkheidsfuncties op het web en bieden alle gebruikers gelijke toegang. GenStudio for Performance Marketing verwijst momenteel naar toegankelijkheidsstandaarden voor een kopie (tekst) van ADA Level A.
+* **toegankelijkheid ADA** - essentieel voor het verzekeren van de ontwikkeling van inclusieve inhoud en digitale ervaringen die op gebruikers met variërende mogelijkheden behandelen. Deze zorgen voor aanpassing aan toegankelijkheidsfuncties op het web en bieden alle gebruikers gelijke toegang. GenStudio for Performance Marketing verwijst momenteel naar toegankelijkheidsstandaarden voor een kopie (tekst) van ADA Level AA.
 * **naleving van het Platform**: Vital voor het volgen van de specifieke richtlijnen van elk platform-zulke zoals Meta of LinkedIn-en volgende industrie beste praktijken. Dit zijn standaardrichtlijnen huidig in het systeem en pre-bevolkt in [[!DNL Brand]  richtlijnen ](/help/user-guide/guidelines/brands.md#brands-guidelines).

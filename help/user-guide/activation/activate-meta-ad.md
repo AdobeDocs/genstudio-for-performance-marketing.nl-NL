@@ -3,9 +3,9 @@ title: Een metaadvertentie activeren
 description: Leer hoe u een Meta-advertentie activeert.
 feature: Ad Activation
 exl-id: 157df612-a774-422c-bca3-2fde9e9d1c88
-source-git-commit: 09450c99dfc6bc283519b068a3b34c0551e45fc8
+source-git-commit: 2d43b1b3373c5ed0b80d9740906d372955816831
 workflow-type: tm+mt
-source-wordcount: '1642'
+source-wordcount: '1869'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing ondersteunt de activering van Meta en 
 
 U kunt [ tot een ervaring van het Meta ](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing leiden en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik &lbrace;de Manager van Advertenties van Meta [&#128279;](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.
+Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik {de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.[
 
 GenStudio-systeembeheerders en -editors kunnen ad-hocervaringen activeren.
 
@@ -49,9 +49,9 @@ Nadat het synchroniseren is voltooid, kunt u de toegevoegde accounts bekijken. H
 
 U kunt een activering op twee manieren starten:
 
-* **activeer direct van [!DNL Content] _**. Het selecteren van een goedgekeurde ervaring met vooraf gedefinieerde instellingen is de meest gestroomlijnde manier om een activering naar één kanaal te starten.
+* **activeer direct van[!DNL Content]**. Het selecteren van een goedgekeurde ervaring met vooraf gedefinieerde instellingen is de meest gestroomlijnde manier om een activering naar één kanaal te starten.
 
-* **verenigt uw advertentie ervaring van [!DNL Activate] > _de opstelling van de Ervaring_**&#x200B;U kunt tot een ervaring leiden door visuele activa van&#x200B;_[!DNL Content]_ te selecteren, tekstelementen toe te voegen, en aspectverhoudingen te selecteren. Deze aanpak heeft meer stappen, maar biedt meer flexibiliteit bij het maken van uw creatieve ervaring.
+* **assembleert uw advertentie van [!DNL Activate] > _de opstelling van de Ervaring_**. U kunt een ervaring creëren door visuele activa van [!DNL Content] te selecteren, tekstelementen toe te voegen, en aspectverhoudingen te selecteren. Deze aanpak heeft meer stappen, maar biedt meer flexibiliteit bij het maken van uw creatieve ervaring.
 
 ### Een goedgekeurde ervaring vanuit inhoud activeren
 
@@ -59,7 +59,7 @@ U kunt meerdere ervaringen selecteren om te activeren op één betaalkanaal. Mog
 
 Als u meer dan één ervaring hebt geselecteerd om als groep te activeren, gebruik linkerzijbalk om de _opstelling van de Ervaring_ mening op de geselecteerde details van de ervaring te concentreren.
 
-1. Gebruik de zoek- en filtergereedschappen van de _[!DNL Content]_-galerie om te bepalen welke ervaring u wilt activeren en klik vervolgens op **[!UICONTROL Activate]**.
+1. Gebruik de zoek- en filtergereedschappen van de [!DNL Content] -galerie om te bepalen welke ervaring u wilt activeren en klik vervolgens op **[!UICONTROL Activate]** .
 
    Meta adverteert _opstellings_ pagina van de Ervaring voor deze ervaring. Deze is vooraf gevuld met details uit de geselecteerde ervaring. U kunt de velden **[!UICONTROL Call-to-action]** , **[!UICONTROL Website URL]** en **[!UICONTROL Display link]** bewerken. Als u meer dan één ervaring selecteert om te activeren, omvat de _opstelling van de Ervaring_ mening een linkerzijbalk die duimnagels van alle geselecteerde ervaringen toont. Gebruik dit linkerzijpaneel om de _opstelling van de Ervaring_ mening op de geselecteerde details van de ervaring te concentreren.
 
@@ -73,16 +73,16 @@ Als u meer dan één ervaring hebt geselecteerd om als groep te activeren, gebru
 
 ### Onderdelen samenstellen
 
-Als u ervoor kiest om een goedgekeurde ervaring niet rechtstreeks te activeren in _[!DNL Content]_, kunt u elementen selecteren, hoogte-breedteverhoudingen en conceptelementen toewijzen.
+Als u ervoor kiest om een goedgekeurde ervaring niet rechtstreeks te activeren in [!DNL Content] , kunt u elementen selecteren, hoogte-breedteverhoudingen en conceptelementen toewijzen.
 
 **om uw ervaring voor activering** voor te bereiden:
 
-1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op het pictogram dat het gekozen betaalkanaal vertegenwoordigt. De_ opstelling van de Ervaring _mening opent.
+1. Klik in [!DNL Activate] op **[!UICONTROL New]** op het pictogram dat het gekozen betaalkanaal vertegenwoordigt. De _opstelling van de Ervaring_ mening opent.
 
    De _opstellings_ pagina van de Ervaring verstrekt een centrale plaats voor het voorbereiden van uw advertentiactivering. De voorbereiding van uw advertentie omvat de volgende drie taken:
 
 1. Wijs een naam toe aan uw ervaring. Na activering, kunt u deze naam gebruiken om naar deze ervaring in de _Geactiveerde ervarings_ lijst te zoeken.
-1. Selecteer media-elementen. U kunt middelen van _[!DNL Content]_&#x200B;gebruiken of externe activa (bijvoorbeeld, van OneDrive of Dropbox) uploaden.
+1. Selecteer media-elementen. U kunt middelen van [!DNL Content] gebruiken of externe activa (bijvoorbeeld, van OneDrive of Dropbox) uploaden.
 1. [ voeg tekst ](#add-ad-text) toe.
 1. [ voeg meta-gegevens ](#assign-metadata) toe.
 
@@ -92,27 +92,27 @@ Als u ervoor kiest om een goedgekeurde ervaring niet rechtstreeks te activeren i
 
 Gebruik de _sectie van Media_ om minstens één beeldactiva te selecteren om in uw ervaring te omvatten. De plaatsen van de hulp worden geassocieerd met gesteunde beeldaspectverhoudingen, die als opties in het _drop-down menu van Plaatsen_ vermeld zijn. In dit menu worden de ondersteunde advertentieplaatsen voor Facebook-berichten of Instagram-artikelen weergegeven, geordend op hoogte-breedteverhouding.
 
-Na het uploaden worden elementen opgeslagen naar _[!DNL Content]_. Het_ gebied van Media _toont het beeld door gebrek met een 1:1 aspectverhouding. Alternatieve hoogte-breedteverhoudingen zijn alleen beschikbaar voor de waarden die worden ondersteund door het betaalde advertentiekanaal. Ze worden gegroepeerd in verticale en horizontale richting. GenStudio for Performance Marketing ondersteunt het opnemen van maximaal zes hoogte-breedteverhoudingen per geactiveerde ervaring.
+Na het uploaden worden elementen opgeslagen naar [!DNL Content] . Het _gebied van Media_ toont het beeld door gebrek met een 1:1 aspectverhouding. Alternatieve hoogte-breedteverhoudingen zijn alleen beschikbaar voor de waarden die worden ondersteund door het betaalde advertentiekanaal. Ze worden gegroepeerd in verticale en horizontale richting. GenStudio for Performance Marketing ondersteunt het opnemen van maximaal zes hoogte-breedteverhoudingen per geactiveerde ervaring.
 
 **om activa van Inhoud** te uploaden:
 
-_[!DNL Content]_&#x200B;biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de[_[!DNL Content]_ galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _filter_ menuopties.
+[!DNL Content] biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de [[!DNL Content]  galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _het menuopties van de Filter_.
 
-1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op de kanaalkaart. De_ opstelling van de Ervaring _mening opent.
+1. Klik in [!DNL Activate] op **[!UICONTROL New]** op de kanaalkaart. De _opstelling van de Ervaring_ mening opent.
 
 1. Klik op **[!UICONTROL Select]** en selecteer vervolgens **[!UICONTROL Select from Content]** . De _Uitgezochte inhoud_ mening opent, tonend een galerie van beeldactiva die u door of filter zoekt.
 
-1. Gebruik de zoek- en filtergereedschappen van de _[!DNL Content]_-galerie om ten minste één element te selecteren dat u wilt uploaden.
+1. Gebruik de zoek- en filtergereedschappen van de [!DNL Content] -galerie om ten minste één element te selecteren dat u wilt uploaden.
 
 1. Klik op **[!UICONTROL Use]** om het geselecteerde element op te nemen in uw advertentie. Het _venster van de Opstelling van de Ervaring_ omvat de activa in zijn standaardaspectverhouding in het _Media_ gebied. Het _paneel van de Voorproef_ voorproeven de activa in de advertentie plaatsing die deze aspectverhouding steunt.
 
-Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_&#x200B;bevat.
+Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_bevat.
 
 **om externe activa** te uploaden:
 
-U kunt maximaal zes statische afbeeldingen buiten de _[!DNL Content]_-galerie uploaden van Microsoft OneDrive of Dropbox.
+U kunt maximaal zes statische afbeeldingen buiten de [!DNL Content] -galerie uploaden van Microsoft OneDrive of Dropbox.
 
-1. Klik in _[!DNL Activate]_&#x200B;op **[!UICONTROL New]**&#x200B;op de tegel Meta. Het_ venster van de Opstelling van de Ervaring _opent.
+1. Klik in [!DNL Activate] op **[!UICONTROL New]** op de tegel Meta. Het _venster van de Opstelling van de Ervaring_ opent.
 
 1. In de _sectie van Media_, klik **[!UICONTROL Select]**. Een drop-down menuvertoningen opties om _te selecteren van Inhoud_ of _uploadt_.
 
@@ -122,7 +122,7 @@ U kunt maximaal zes statische afbeeldingen buiten de _[!DNL Content]_-galerie up
 
 1. (Facultatief) om activa van uw apparaat te uploaden, klik **[!UICONTROL Browse]**, dan selecteren _doorbladert dossiers_ of _doorbladert omslagen_ om activa voor te identificeren uploadt.
 
-1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_&#x200B;te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
+1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
 
 1. Wanneer u uw elementen hebt geüpload en details hebt toegewezen, klikt u op **[!UICONTROL Add Assets]** rechtsonder.
 
@@ -171,6 +171,34 @@ Na het voorbereiden van je advertentie moet je je Meta-accountgegevens bevestige
 | Installateursaccount | Instagramaccounts die zijn verbonden met GenStudio for Performance Marketing |
 | Campagnes | Meta-campagnes waartoe de advertentie behoort |
 | Advertentiesets | Meta-advertentiesets waartoe de geactiveerde advertentie behoort. De instellingen bepalen de uiteindelijke plaatsing van de advertentie. |
+
+### Een nieuwe advertentieset maken
+
+U kunt een nieuwe advertentieset maken tijdens het instellen van het platform door een bestaande advertentieset te klonen tijdens het instellen van het platform. Meta-advertenties definiëren de timing, kanaaldetails en het publiek voor een specifieke advertentie. Een Meta-campagne kan meerdere advertentiesets bevatten, maar een advertentieset is exclusief gekoppeld aan één campagne.
+
+**om een nieuwe ad te creëren reeks**:
+
+1. Selecteer een campagne van _campagnes van het Meta_ drop-down menu.
+
+   De geselecteerde campagne bepaalt de advertentiesets beschikbaar als opties in _plaatst van de Advertentie_ drop-down menu.
+
+1. Klik op **[!UICONTROL + Create new ad set]**.
+
+   _creeer nieuwe advertentiereeks_ popup opent, identificerend de campagne van Meta waar de nieuwe advertentiereeks wordt gecreeerd.
+
+1. Selecteer de advertentiereeks u van de _configuratie van het Gebruik van_ drop-down menu wilt klonen.
+
+   GenStudio for Performance Marketing wijst een standaardnaam voor een advertentieset toe door `- Copy` aan de geselecteerde naam van de advertentieset toe te voegen.
+
+1. (Optioneel, maar aanbevolen) Voer in het veld **[!UICONTROL New ad set name]** een unieke advertentienaam in ter vervanging van de standaardwaarde.
+
+1. Klik op **[!UICONTROL Create ad set]**.
+
+   U bent teruggekeerd aan de _opstelling van het Platform_ mening, waar de nieuwe advertentiereeks pre-geselecteerd is. Er wordt een succesbericht weergegeven, inclusief een koppeling naar de advertentieset in Meta Ads Manager. Deze advertentieset is beschikbaar voor toekomstige activeringen.
+
+>[!NOTE]
+>
+>Als de ad met succes wordt gecreeerd maar de naam van de advertentieset niet kon worden bewaard, wordt de advertentiereeks bewaard in de Manager van Advertenties van Meta onder zijn standaardnaam (_originele en vastgestelde naam - Exemplaar_).
 
 ### Tracking-id
 

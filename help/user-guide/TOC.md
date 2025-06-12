@@ -5,9 +5,9 @@ user-guide-description: Ontdek de mogelijkheden van Adobe GenStudio voor prestat
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: User
-source-git-commit: ecb6a410e26339ca295dad10e0c8dda2d73ae5a4
+source-git-commit: 69915cf03785c3a916bab75cbc34d0126749cddc
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 14%
 
 ---
@@ -28,13 +28,14 @@ ht-degree: 14%
    + [ verbindt betaalde media ](connectors/connect-channel.md)
    + Betaalde mediaaccounts {#connect-account}
       + [ Manager 360 van de Campagne van Google ](connectors/google-cm360.md)
+      + [ LinkedIn ](connectors/linkedin-ads.md)
       + [ Advertenties van Meta ](connectors/meta-ads.md)
 + Richtsnoeren {#guidelines}
    + [ Overzicht van Richtlijnen ](guidelines/overview.md)
    + [ Banden ](guidelines/brands.md)
    + [ Personas ](guidelines/personas.md)
    + [ Producten ](guidelines/products.md)
-   + [ voeg richtlijnen  toe](guidelines/add-guidelines.md)
+   + [ voeg richtlijnen ](guidelines/add-guidelines.md) toe
    + [ Bevestiging van de Merk ](guidelines/brand-validation.md)
 + Maken {#create}
    + [[!DNL Create]  overzicht ](create/overview.md)
@@ -54,8 +55,8 @@ ht-degree: 14%
    + [ Overzicht van het Overzicht en van Goedkeuringen ](approvals/overview.md)
    + [ de integratie van Workfront Proof ](approvals/proof-integration.md)
    + [ de overzicht en goedkeuring van het Verzoek ](approvals/request-review.md)
-   + [ Overzicht en geef inhoud  uit](approvals/review-and-edit.md)
-   + [ keur inhoud  goed](approvals/approve-content.md)
+   + [ Overzicht en geef inhoud ](approvals/review-and-edit.md) uit
+   + [ keur inhoud ](approvals/approve-content.md) goed
    + [ publiceer goedgekeurde inhoud ](approvals/publish-content.md)
 + Inhoud {#content}
    + [ Overzicht van de Inhoud ](content/overview.md)
@@ -65,7 +66,7 @@ ht-degree: 14%
 + Sjablonen {#templates}
    + [ Werk met malplaatjes ](content/use-templates.md)
    + [ de malplaatjes van de Aanzet ](templates/starter-templates.md)
-   + [ pas een malplaatje  aan](content/customize-template.md)
+   + [ pas een malplaatje ](content/customize-template.md) aan
    + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
    + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
    + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)
@@ -85,6 +86,7 @@ ht-degree: 14%
    + [ optimaliseer actities ](activation/troubleshooting.md)
    + Betaalde media {#paid-media-ads}
       + [ Manager 360 van de Campagne van Google ](activation/activate-cm360-ad.md)
+      + [ LinkedIn ](activation/activate-linkedin-ad.md)
       + [ Meta ](activation/activate-meta-ad.md)
 + Inzichten {#insights}
    + [ Overzicht van Inzichten ](insights/overview.md)

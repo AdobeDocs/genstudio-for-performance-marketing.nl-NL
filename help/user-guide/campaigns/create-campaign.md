@@ -3,7 +3,8 @@ title: Adobe GenStudio for Performance Marketing Campaigns
 description: Leer hoe u digitale marketingcampagnes kunt maken en beheren met behulp van generatieve AI-middelen en -ervaringen.
 feature: Campaign Planning, Campaign Brief
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
-source-git-commit: edbeb7f0d08e2215a23f15cfeff77a5217cd264b
+exl-id: b7c4194f-fa61-4739-acd6-7acbdd98e9b2
+source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -16,12 +17,11 @@ Een GenStudio for Performance Marketing-campagne definieert de belangrijkste ken
 
 De belangrijkste elementen van uw campagne worden opgeslagen in een campagnevoorwerp, dat tot een gedeelde context voor alle activa en ervaringen leidt geëtiketteerd met de zelfde unieke campagnenaam. Dit label geeft de campagne in heel GenStudio for Performance Marketing aan.
 
-GenStudio-systeembeheerders en Genstudio-editors kunnen campagnes opzetten.
+GenStudio-systeembeheerders en GenStudio-editors kunnen campagnes maken.
 
 ## Campagnegegevens definiëren
 
 {{$include /help/_includes/campaign-details.md}}
-
 
 **om campagnedetails** in te gaan:
 

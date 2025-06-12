@@ -3,9 +3,9 @@ title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
 workflow-type: tm+mt
-source-wordcount: '1623'
+source-wordcount: '2036'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,27 @@ Gegenereerde variantconcepten hebben een standaardnaam die boven aan het canvas 
 
 ## Tekst handmatig bewerken
 
-U kunt de tekstvelden in gegenereerde varianten bewerken. Verfijn de tekst voor uw publiek door te experimenteren met verschillende zinnen en verbeeldingen. U kunt tekst in varianten bijvoorbeeld handmatig wijzigen om een voorvertoning weer te geven van een kop met een gekozen afbeelding.
+U kunt de tekstvelden in gegenereerde varianten bewerken. Verfijn de tekst voor uw publiek door te experimenteren met verschillende zinnen en verbeeldingen en door opmaak toe te passen. U kunt de tekst voor een variant bijvoorbeeld vet en rechts uitlijnen op basis van de lay-out van een afbeelding.
+
+Beschikbare tekstopmaak omvat:
+
+* Vet, Cursief en Onderstrepen
+* Links, midden en rechts uitlijnen
+* Lijsten met opsommingstekens en volgorde
+* Tekstkleur
+* Tekstgrootte
+* Koppeling
+
+De tekstopmaakopties variëren per kanaal (meta, e-mail, enz.)
 
 **om tekst manueel in geproduceerde varianten uit te geven**:
 
 1. Nadat u een set varianten hebt gegenereerd, dubbelklikt u op bewerkbare tekst in een variant.
 1. Voer nieuwe tekst in.
+1. Om de tekst te formatteren, benadruk de toepasselijke tekst en klik ** [!UICONTROL Format text**].
+
+   Pas een of meer van de beschikbare opmaakopties toe op de tekst.
+
 1. Klik buiten het tekstveld om het op te slaan.
 
 ## Lagen weergeven
@@ -54,7 +69,7 @@ U kunt snel een afzonderlijke laag van een variant selecteren en wijzigingen aan
 
 GenStudio for Performance Marketing heeft de ingebouwde functionaliteit om secties van gegenereerde varianten opnieuw te genereren. U kunt tekst anders formuleren, verkorten of verlengen of nieuwe vragen toevoegen om nieuwe inhoud te genereren.
 
-U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_&#x200B;de inhoud van een sectie, of&#x200B;_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
+U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_de inhoud van een sectie, of_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
 
 ![ regenerate secties ](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
@@ -62,7 +77,7 @@ U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw generer
 
 1. Nadat u een set varianten hebt gegenereerd, klikt u met één klik op alle bewerkbare tekst in een variant.
 1. Als u de bestaande tekst wilt wijzigen, selecteert u _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ of _[!UICONTROL Lengthen]_.
-1. Selecteer _[!UICONTROL Generate new text]_&#x200B;en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
+1. Selecteer _[!UICONTROL Generate new text]_en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
    1. Klik op **[!UICONTROL Generate]**.
 1. Terwijl u de tekst van een sectie opnieuw genereert, klikt u op het pictogram Opnieuw genereren (omcirkelende pijlen) om meer tekstopties weer te geven.
 1. Selecteer de gewenste optie in het resultaat dat wordt weergegeven en klik op **[!UICONTROL Replace]** .
@@ -75,13 +90,13 @@ Nadat u een set varianten hebt gegenereerd, kunt u de call-to-action-tekst (CTA)
 
 >[!NOTE]
 >
->U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_&#x200B;als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie&#x200B;_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
+>U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
 
 **om CTA in een variant** te herzien:
 
 1. Klik op een CTA-knop in een van de varianten.
 
-   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ .
+   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ .
 
 1. Klik op **[!UICONTROL Rephrase]**.
 
@@ -101,16 +116,49 @@ De toegevoegde of herziene koppeling wordt toegepast op alle CTA&#39;s in de ree
 
 ## Elementen uitsnijden
 
-U kunt afbeeldingselementen handmatig uitsnijden en verplaatsen in afzonderlijke gegenereerde varianten.
+Met het gereedschap Uitsnijden kunt u afbeeldingselementen handmatig uitsnijden en verplaatsen in afzonderlijke gegenereerde varianten.
 
 **om beelden in varianten uit te snijden en te verplaatsen**:
 
-1. Nadat u een set varianten hebt gegenereerd, plaatst u de muisaanwijzer boven een afbeelding binnen een variant.
-1. Klik op het uitsnijdpictogram in de linkerhoek van de afbeelding.
+1. Nadat u een set varianten hebt gegenereerd, houdt u de muisaanwijzer boven een afbeelding in een variant en klikt u erop.
+1. Klik op **[!UICONTROL Edit]** (potloodpictogram).
+1. Klik op **[!UICONTROL Crop]**.
 1. Pas het selectiekader van de afbeelding aan en sleep de afbeelding naar de gewenste positie.
 1. Klik op **[!UICONTROL Apply]** om het uitsnijden toe te passen op één afbeelding of op **[!UICONTROL Apply to all images]** om het toe te passen op alle afbeeldingen in de varianten.
 
    De uitgesneden afbeelding wordt opgeslagen en zichtbaar voor de varianten.
+
+## Generatieve uitbreiding gebruiken
+
+Breid de afmetingen van uw afbeeldingen uit en voeg generatieve inhoud toe met Generatief uitbreiden. Met Generative Expand kunt u aanpasbare afbeeldingen transformeren in de meest geschikte hoogte-breedteverhouding voor banners, metaadvertenties, LinkedIn-advertenties of sjablonen voor weergaveadvertenties.
+
+Deze functie Algemeen uitvouwen is gekoppeld aan het gereedschap Uitsnijden om u volledige controle te geven over de elementen in een aantal verschillende hoogte-breedteverhoudingen voor betaalmediakanalen.
+
+**om Generatief te gebruiken breid uit om uw beelden aan uw kanaalmalplaatje** te passen:
+
+1. Nadat u een set varianten hebt gegenereerd, houdt u de muisaanwijzer boven een afbeelding in een variant en klikt u erop.
+1. Klik op **[!UICONTROL Edit]** (potloodpictogram).
+1. Klik op **[!UICONTROL Expand]**.
+
+   Het beeld opent in _geeft de mening van het Beeld_ Canvas van het Beeld met een bounding doos die de aspectverhouding van uw het werk malplaatje aanpassen.
+
+1. Verplaats de afbeelding om de ideale locatie te bereiken.
+1. _Facultatieve_ voeg een herinnering in de snelle doos toe die details over geeft hoe u het beeld wilt uitbreiden.
+
+   Als u bijvoorbeeld een afbeelding uitvouwt van een plaid shirt dat aan een hek hangt boven een vuur op een kampeerterrein, kunt u &quot;Foggy-bergen met een krakkend vuur tijdens het kamperen in de bergen&quot; toevoegen.
+
+   Voordat u Generative Expand gebruikt:
+
+   ![ vóór Generatief uitbreiden ](/help/assets/before-genexpand.png){width="300" zoomable="yes"}
+
+   Na gebruik van Generative Expand:
+
+   ![ na Generatief uitbreiden ](/help/assets/after-genexpand.png){width="300" zoomable="yes"}
+
+1. Klik op **[!UICONTROL Generate]**.
+1. Klik door en selecteer een geproduceerde optie of klik **[!UICONTROL More]** (plus pictogram) voor een lijst van geproduceerde opties.
+1. Klik op **[!UICONTROL Keep]** om het resultaat Generatief uitbreiden op te slaan.
+1. Klik op **[!UICONTROL Apply]** om dat resultaat toe te passen op de enkele afbeelding. Klik op **[!UICONTROL Apply to all images]** om het resultaat toe te passen op alle relevante afbeeldingen in de variantset.
 
 ## Hoogte-breedteverhouding wijzigen
 
@@ -148,7 +196,7 @@ U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toev
 1. Klik op het pictogram **[!UICONTROL Swap from content]** .
 1. Gebruik de filters en zoekfunctie in de weergave GenStudio-elementen [!DNL Content] om uw zoekresultaten verder te verfijnen.
 
-   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**&#x200B;menu ](/help/user-guide/content/manage-assets.md#location) .
+   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**menu ](/help/user-guide/content/manage-assets.md#location) .
 
 1. Klik om een afbeelding te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -189,6 +237,19 @@ Om alt tekstfunctionaliteit toe te laten, [ voeg inhoudplaceholder ](/help/user-
    1. Klik op **[!UICONTROL Apply]**.
 1. Herhaal deze bewerking voor elke afbeelding in de set met varianten.
 
+## Toegankelijkheidslabels toevoegen
+
+Geef een toegankelijke naam op voor de afbeeldings- en call-to-action-koppelingen in uw varianten door toegankelijkheidslabels (AI-labels) toe te voegen. Toegankelijkheidslabels vullen zichtbare tekst aan om gebruikers te helpen het doel van de koppeling of knop te begrijpen.
+
+**om toegankelijkheidsetiketten aan beeld of de verbindingen van call-to-action in uw varianten toe te voegen**:
+
+1. Nadat u een set varianten hebt gegenereerd, klikt u op een afbeelding of op een call-to-action binnen een variant.
+1. Klik op **[!UICONTROL ARIA-label]** .
+1. Klik in het tekstvak en voeg een korte beschrijving toe waarin wordt uitgelegd wat de koppeling of knop doet. U kunt bijvoorbeeld Winkelen op de officiële website van WKND gebruiken voor een call to action-knopkoppeling.
+1. Klik op **[!UICONTROL Apply]**.
+
+Om de functionaliteit van het toegankelijkheidslabel toe te laten, [ voeg inhoudplaceholder ](/help/user-guide/content/customize-template.md) in het malplaatje toe.
+
 ## Voorvertoning voor apparaat
 
 Bij het herzien en voorbereiden van e-mailervaringen kunt u schakelen tussen voorvertoningen voor desktop- en mobiele weergaven om de coherentie en visuele aantrekkingskracht van ontwerpvarianten te garanderen.
@@ -213,7 +274,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 ## Merkwaardvalidatie
 
-Gebruik het _paneel van de controle van de Inhoud 0&rbrace; &lbrace;om verenigbare merkidentiteit, [ de toegankelijkheidsnormen van ADA, platformrichtlijnen ](/help/user-guide/guidelines/overview.md#content-checks), en groepering van varianten te handhaven._
+Gebruik het _paneel van de controle van de Inhoud 0} {om verenigbare merkidentiteit, [ de toegankelijkheidsnormen van ADA, platformrichtlijnen ](/help/user-guide/guidelines/overview.md#content-checks), en groepering van varianten te handhaven._
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 
@@ -236,8 +297,8 @@ Generatie-feedback is van toepassing op een individuele variant, niet op de verz
    Er verschijnt een pop-up met feedback om meer informatie te verzamelen. Gegenereerde inhoud en snelle informatie worden opgenomen in uw feedback.
 
 1. Voeg de volgende informatie toe in het pop-upvenster met feedback:
-   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_&#x200B;om die extra referentiegegevens op te nemen in de verzamelde feedback.
-   1. Selecteer in de sectie _[!UICONTROL What worked well?]_&#x200B;of&#x200B;_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
+   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_om die extra referentiegegevens op te nemen in de verzamelde feedback.
+   1. Selecteer in de sectie _[!UICONTROL What worked well?]_of_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
    1. Voeg andere nuttige of verwante informatie toe in het veld _[!UICONTROL Notes]_.
 1. Klik op **[!UICONTROL Submit]**.
 

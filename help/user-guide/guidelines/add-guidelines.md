@@ -5,9 +5,9 @@ feature: Brand Personalization, Product Personalization, Persona Personalization
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: a67efc3bc517ffe2d130efd4e577ef652e07d462
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '2064'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,9 @@ Wanneer het creëren van varianten van een malplaatje met vooraf bepaalde richtl
 
 Om a [!DNL Brand] toe te voegen, [ upload een merkgids ](#upload-a-brand) of [ creeer manueel een merk ](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [ publiceer a  [!DNL Brand]](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
-In het linkernavigatiegebied, klik **[!DNL Brands]** van de _Gedeelde_ lijst. In het _[!DNL Brands]_&#x200B;paneel, uitgezochte **voeg merk**&#x200B;toe.
+Als u merkrichtlijnen uploadt die in een niet-Engelse taal worden geschreven—of handmatig een merk maakt in een niet-Engelse taal—geeft GenStudio for Performance Marketing deze richtlijnen in dezelfde taal weer.
+
+In het linkernavigatiegebied, klik **[!DNL Brands]** van de _Gedeelde_ lijst. In het _[!DNL Brands]_paneel, uitgezochte **voeg merk**toe.
 
 >[!TIP]
 >
@@ -87,15 +89,30 @@ U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande m
 
      ![ Merk kleuren ](/help/assets/colors.png){width="600" zoomable="yes"}
 
-Als u het gemaakte object wilt weergeven [!DNL Brands] , klikt u op de pijl op de achtergrond boven in het deelvenster _[!UICONTROL Brands]_&#x200B;om terug te navigeren naar de startpagina van&#x200B;_[!UICONTROL Brands]_ .
+Als u het gemaakte object wilt weergeven [!DNL Brands] , klikt u op de pijl op de achtergrond boven in het deelvenster _[!UICONTROL Brands]_om terug te navigeren naar de startpagina van_[!UICONTROL Brands]_ .
 
 U moet niet [ publiceren ](#publish-brand) uw [!DNL Brand] om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de [!DNL Brand] info in GenStudio for Performance Marketing willen gebruiken, moeten deze publiceren. Een gemaakte [!DNL Brand] bevindt zich in een concept totdat deze wordt gepubliceerd.
+
+### Miniatuur van merk wijzigen
+
+Nadat u handmatig een [!DNL Brand] -afbeelding hebt toegevoegd, kunt u de miniatuurafbeelding wijzigen om ervoor te zorgen dat deze gemakkelijk te onderscheiden is in de [!DNL Brands] -lijst.
+
+Als een [!DNL Brand] wordt gemaakt door het uitnemen van documenten (in plaats van handmatig te worden toegevoegd), wordt automatisch een beschikbaar logo in die documenten geïmplementeerd als de miniatuurafbeelding.
+
+**om de duimnagelbeeld voor een[!DNL Brand]** manueel te veranderen:
+
+1. Selecteer **[!UICONTROL Change thumbnail]** in het menu Handelingen.
+1. Upload een nieuw beeld in _uploadt_ tabel.
+1. Wijzig in _[!UICONTROL Change thumbnail]_de geüploade afbeelding.
+1. Selecteer **[!UICONTROL Update]** om de afbeelding op te slaan als een miniatuurafbeelding van [!DNL Brand] .
+
+U kunt een bestaand [!DNL Brand] logo selecteren in de [!UICONTROL Logos] tabweergave voor een [!DNL Brand] . Klik om een logo te openen en selecteer **[!UICONTROL Use as brand thumbnail]** in het actiemenu.
 
 ### Merk publiceren
 
 Voordat u een [!DNL Brand] -concept publiceert, klikt u door alle secties met hulplijnen om alle gevulde informatie te bekijken. Breng de gewenste wijzigingen aan in de richtlijnen voor merken.
 
-In _[!DNL Brands]_&#x200B;worden concepten of gepubliceerde [!DNL Brands] als tegels weergegeven. Een statusbadge -_ Gepubliceerd _of_ Ontwerp _- en de laatste tijd werd het merk gewijzigd wordt getoond bij de bodem van elke tegel.
+In _[!DNL Brands]_worden concepten of gepubliceerde [!DNL Brands] als tegels weergegeven. Een statusbadge -_ Gepubliceerd _of_ Ontwerp _- en de laatste tijd werd het merk gewijzigd wordt getoond bij de bodem van elke tegel.
 
 >[!TIP]
 >
@@ -121,7 +138,7 @@ Het gepubliceerde merk kan nu worden gebruikt in [_[!DNL Create]_](/help/user-gu
 
 ### Merken beheren
 
-In de _[!DNL Brands]_&#x200B;home kunt u klikken om een al gemaakt merk te openen en het te beheren of te publiceren.
+In de _[!DNL Brands]_home kunt u klikken om een al gemaakt merk te openen en het te beheren of te publiceren.
 
 Om **merkinformatie van de meningsmening**, klik **[!UICONTROL [!DNL Brands]]** in het linkernavigatiegebied en klik om een bestaand merk te openen.
 
@@ -129,6 +146,12 @@ Om **merkinformatie van de meningsmening**, klik **[!UICONTROL [!DNL Brands]]** 
 
 1. Klik in **[!DNL Brands]** om een gedefinieerd merk te openen.
 1. Als u afzonderlijke details wilt weergeven of hulplijnen wilt wijzigen, klikt u bovenaan op [**[!UICONTROL Brand voice guidelines]**](brands.md#brand-voice-guidelines) , [**[!UICONTROL Image guidelines]**](brands.md#image-guidelines) , [**[!UICONTROL Channel guidelines]**](brands.md#channel-guidelines) , [**[!UICONTROL Logos]**](brands.md#logos) of [**[!DNL Colors]**](brands.md#colors) .
+1. Als u een merklogo wilt beheren, klikt u op [**[!UICONTROL Logos]**](brands.md#logos) boven in het scherm en klikt u op het actiemenu (drie punten).
+   1. Selecteer **[!UICONTROL View details]** om informatie voor [!DNL Brand] zoals _Formaat_ en _Grootte_ te zien.
+   1. Selecteer **[!UICONTROL Download]** om het logo te downloaden.
+   1. Selecteer [ ** [!UICONTROL Use as brand thumbnail]](#change-brand-thumbnail) om het embleem als duimnagelbeeld te plaatsen.
+   1. Selecteer **[!UICONTROL Rename]** om de naam van het logo te wijzigen.
+   1. Selecteer **[!UICONTROL Delete]** om het logo te verwijderen.
 1. Als u de naam van een bestaand merk wilt wijzigen, klikt u in de titel en voert u een nieuwe titel in.
 1. Als u een bestaand merk wilt dupliceren, selecteert u **[!UICONTROL Duplicate]** in het actiemenu _[!DNL Brands]_.
    1. Ga een merknaam in _Duplicate merk_ popup in en klik **[!UICONTROL Duplicate brand]**.
@@ -142,7 +165,7 @@ Om **merkinformatie van de meningsmening**, klik **[!UICONTROL [!DNL Brands]]** 
 
 Om een persona toe te voegen, [ upload een persoonlijke gids ](#upload-a-persona) of [ manueel creeer een persona ](#manually-add-persona) door richtlijnen te selecteren en uw persona details in te gaan.
 
-In het linkernavigatiegebied, klik **[!DNL Personas]** van de _Gedeelde_ lijst. In het _[!DNL Personas]_&#x200B;paneel, uitgezocht **voeg Person**&#x200B;toe.
+In het linkernavigatiegebied, klik **[!DNL Personas]** van de _Gedeelde_ lijst. In het _[!DNL Personas]_paneel, uitgezocht **voeg Person**toe.
 
 U kunt een [!DNL Persona] toevoegen in GenStudio for Performance Marketing om u te helpen de inhoud die u maakt, te richten op uw ideale publiek.
 
@@ -196,11 +219,11 @@ U kunt persona details, in plaats van het uploaden van bestaande persona documen
    1. Klik op **[!UICONTROL Use image]**.
    1. Als u de positie van de omslagafbeelding wilt wijzigen, klikt u op **[!UICONTROL Reposition]** in het menu Handeling, sleept u de afbeelding naar de gewenste positie en klikt u op **[!UICONTROL Save]** .
 
-   Om uw gecreeerde [!DNL Personas] te zien, klik de achterpijl dichtbij de bovenkant van de _Persona_ mening om terug naar het _[!DNL Personas]_&#x200B;huis te navigeren.
+   Om uw gecreeerde [!DNL Personas] te zien, klik de achterpijl dichtbij de bovenkant van de _Persona_ mening om terug naar het _[!DNL Personas]_huis te navigeren.
 
 ### [!DNL Personas] beheren
 
-In _[!DNL Personas]_&#x200B;huis, kunt u **openen reeds-gecreeerd[!DNL Persona]**&#x200B;om het uit te geven of te herzien, of **een persoon**&#x200B;van de lijst schrappen:
+In _[!DNL Personas]_huis, kunt u **openen reeds-gecreeerd[!DNL Persona]**om het uit te geven of te herzien, of **een persoon**van de lijst schrappen:
 
 - Selecteer **[!UICONTROL Open]** in het actiemenu [!DNL Personas] om een bestaande persoon te reviseren en te bekijken.
 - Selecteer **[!UICONTROL Delete]** van het [!DNL Personas] actiemenu aan **Schrapping** een persoon.
@@ -210,7 +233,7 @@ In _[!DNL Personas]_&#x200B;huis, kunt u **openen reeds-gecreeerd[!DNL Persona]*
 
 Om een product toe te voegen, [ upload een productgids ](#upload-a-product) of [ creeer manueel een product ](#manually-add-product) door richtlijnen te selecteren en uw productdetails in te gaan.
 
-In het linkernavigatiegebied, klik **[!DNL Products]** van de _Gedeelde_ lijst. In het _[!DNL Products]_&#x200B;paneel, uitgezochte **voeg product**&#x200B;toe.
+In het linkernavigatiegebied, klik **[!DNL Products]** van de _Gedeelde_ lijst. In het _[!DNL Products]_paneel, uitgezochte **voeg product**toe.
 
 ![ Voeg een [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} toe
 
@@ -264,11 +287,11 @@ U kunt productdetails, in plaats van het uploaden van bestaande productdocumente
    1. Klik op **[!UICONTROL Use image]**.
    1. Als u de positie van de omslagafbeelding wilt wijzigen, klikt u op **[!UICONTROL Reposition]** in het menu Handeling, sleept u de afbeelding naar de gewenste positie en klikt u op **[!UICONTROL Save]** .
 
-   Om uw gecreeerde [!DNL Products] te zien, klik de achterpijl dichtbij de bovenkant van de _mening van het Product_ om terug naar het _[!DNL Products]_&#x200B;huis te navigeren.
+   Om uw gecreeerde [!DNL Products] te zien, klik de achterpijl dichtbij de bovenkant van de _mening van het Product_ om terug naar het _[!DNL Products]_huis te navigeren.
 
 ### [!DNL Products] beheren
 
-In _[!DNL Products]_&#x200B;huis, kunt u **openen reeds-gecreeerd[!DNL Product]**&#x200B;om het uit te geven of te herzien, of **een product**&#x200B;van de lijst schrappen:
+In _[!DNL Products]_huis, kunt u **openen reeds-gecreeerd[!DNL Product]**om het uit te geven of te herzien, of **een product**van de lijst schrappen:
 
 - Selecteer **[!UICONTROL Open]** in het actiemenu [!DNL Products] om een bestaand product te reviseren en te bekijken.
 - Selecteer **[!UICONTROL Delete]** van het [!DNL Products] actiemenu **schrapping** een product.

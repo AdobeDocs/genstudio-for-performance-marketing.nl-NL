@@ -3,12 +3,12 @@ title: Een e-mailsjabloon voorbereiden voor GenStudio for Performance Marketing
 description: Leer hoe u een e-mailsjabloon voorbereidt voor gebruik in Adobe GenStudio for Performance Marketing.
 level: Beginner
 feature: Media Templates
-hide: true
-hidefromtoc: true
+badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 recommendations: noDisplay, noCatalog
-source-git-commit: 35a519a8d28e260bfa6d9ed671bd5bf1cfeda931
+exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
+source-git-commit: a7c69659c348fad3e067a84c1d242809a83b42fb
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,6 @@ ht-degree: 0%
 _de malplaatjes van de Aanzet_ zijn vooraf bepaalde malplaatjeopties die worden ontworpen om u te helpen snel met GenStudio for Performance Marketing beginnen en leren hoe te om efficiënte media tot stand te brengen. Selecteer een mediatype in [!DNL Create] . Als startsjablonen beschikbaar zijn, schakelt u over naar het tabblad **[!UICONTROL Starter templates]** om naar een sjabloon te bladeren die aan uw wensen voldoet.
 
 ![ de malplaatjes van de Aanzet lusje ](/help/assets/starter-templates.png " Uitgezochte malplaatjelusjes "){width="350"}
-
-## De juiste verhouding kiezen
 
 Het is belangrijk dat u de juiste hoogte-breedteverhouding voor uw advertentie selecteert om de impact te maximaliseren en ervoor te zorgen dat uw inhoud op de juiste wijze wordt weergegeven op verschillende platformen en plaatsen. Houd rekening met het volgende wanneer u een hoogte-breedteverhouding kiest:
 

@@ -4,9 +4,10 @@ description: Volg de aanbevolen procedures bij het gebruik van advertentiesjablo
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 78313c2a2177a2ccb39e37a87ca3c657e7906d0a
+exl-id: 076239b3-9444-48f9-bdd6-ef2b757bdf0d
+source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -27,12 +28,16 @@ Volg de onderstaande tips en trucs bij het aanpassen van banners en advertenties
 
 ## Erkende veldnamen
 
-Voor banner- en weergaveadvertenties genereert GenStudio for Performance Marketing automatisch het veld `cta` . Gebruik bij het aanpassen van de sjabloon plaatsaanduidingen voor inhoud voor de volgende vereiste velden:
+Wanneer u uw banner of advertentiesjabloon aanpast, gebruikt u tijdelijke aanduidingen voor inhoud voor de volgende vereiste velden:
 
 - `headline`
 - `sub_headline`
 - `body`
 - `image` (vereist, geselecteerd in Content JPEG, PNG of GIF)
+
+GenStudio for Performance Marketing genereert automatisch de volgende velden. U hoeft geen plaatsaanduidingen voor inhoud toe te passen voor:
+
+- `cta`
 
 Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 

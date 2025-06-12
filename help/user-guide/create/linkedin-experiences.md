@@ -6,18 +6,16 @@ badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bep
 role: User
 level: Beginner
 exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
-source-git-commit: 8d79c2bd2347bebb18ecb432a7087fb3d1ac1356
+source-git-commit: c34576c93550eff6f15b31416e7a41ec36339fe5
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # LinkedIn-ervaringen
 
-Met Adobe GenStudio for Performance Marketing, kunt u hefboomwerking generatieve AI aan efficiënt [ tot krachtige ervaringen leiden LinkedIn ](/help/user-guide/create/create-linkedin.md).
-
-[!DNL Create] laat inhoudsscheppers en marketers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en een [ instructieve herinnering ](/help/user-guide/effective-prompts.md) aan [ te gebruiken produceren merkgebonden ervaringen LinkedIn ](/help/user-guide/create/create-email-experience.md).
+Met Adobe GenStudio for Performance Marketing, kunt u hefboomwerking generatieve AI aan efficiënt [ tot krachtige ervaringen leiden LinkedIn ](/help/user-guide/create/create-linkedin.md). [!DNL Create] laat inhoudsscheppers en marketers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en een [ instructieve herinnering ](/help/user-guide/effective-prompts.md) aan [ te gebruiken produceren merkgebonden ervaringen LinkedIn ](/help/user-guide/create/create-email-experience.md).
 
 Wanneer het produceren van ervaringen LinkedIn, worden vier variaties gecreeerd en in het Canvas getoond.
 
@@ -27,7 +25,7 @@ Bewerkbare gedeelten van een LinkedIn-ervaring zijn onder andere:
 * Inleidende tekst
 * Beschrijving
 * Oproep tot actie (CTA)
-* Afbeelding
+* Afbeelding/Video
 
 Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
 
@@ -45,7 +43,7 @@ Elk gebied en sectie van de ervaringen LinkedIn worden progressief geladen in de
 1. Tekst in afbeelding
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
 
 ## Aantal tekens
 

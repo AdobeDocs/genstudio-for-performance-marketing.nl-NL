@@ -5,22 +5,22 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: c1265a9d-8205-4abc-9652-1d8b88397f14
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: 0344e43bc9cd417ea7b3ecd3a394bbcd6b104303
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
 # Meta-ervaringen
 
-Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [ verwezenlijking van high-impact ervaringen van Meta ](/help/user-guide/create/create-meta-ad.md) te stroomlijnen.
+Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [ verwezenlijking van high-impact ervaringen van Meta ](/help/user-guide/create/create-meta-ad.md) te stroomlijnen. [!DNL Create] laat inhoudsscheppers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken om [ Meta en ervaringen ](/help/user-guide/create/create-meta-ad.md) snel tot stand te brengen.
 
-[!DNL Create] laat inhoudsscheppers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken om [ Meta en ervaringen ](/help/user-guide/create/create-meta-ad.md) snel tot stand te brengen.
+Wanneer het produceren van de ervaringen van Meta, worden vier variaties gecreeerd en in het Canvas getoond. GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).[
 
 Wanneer het produceren van Meta ervaart worden vier variaties gecreeerd en in het Canvas getoond.
 
-GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties [&#128279;](/help/user-guide/templates/meta-template.md).
+GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties ](/help/user-guide/templates/meta-template.md).[
 
 Bewerkbare gedeelten van een e-mailervaring zijn:
 
@@ -28,13 +28,9 @@ Bewerkbare gedeelten van een e-mailervaring zijn:
 * Lichaam
 * Oproep tot actie (CTA)
 * Tekst in afbeelding
-* Afbeelding
+* Afbeelding/Video
 
 Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
-
-<!-- ## Meta ad capabilities
-
-Content creators and marketers can produce brand-consistent Meta ad experiences in GenStudio for Performance Marketing. -->
 
 ## Meta-advertentiekanalen
 
@@ -56,7 +52,7 @@ Elk veld en elke sectie van de Meta-advertentie worden geleidelijk in deze reeks
 1. Tekst in afbeelding
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
 
 ## Aantal tekens
 

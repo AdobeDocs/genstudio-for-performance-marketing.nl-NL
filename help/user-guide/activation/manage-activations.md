@@ -3,7 +3,7 @@ title: Activeringen beheren
 description: Leer hoe u geactiveerde ervaringen met Adobe GenStudio for Performance Marketing kunt beheren.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: 65bf96b7b2871e0c28dbe341b71f4e8584de9f3e
+source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Activeringen beheren
 
-_[!DNL Activate]_&#x200B;biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De_ Geactiveerde 1&rbrace; mening van Ervaringen &lbrace;toont alle activeringen voor één verbonden kanaal en rekening._
+[!DNL Activate] biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De _Geactiveerde 1} mening van Ervaringen {toont alle activeringen voor één verbonden kanaal en rekening._
 
-_[!DNL Activate]_&#x200B;organiseert geactiveerde ervaringen via het ad-hockanaal. Klik op **[!UICONTROL View]**&#x200B;op het kanaalelement. De_ Geactiveerde ervaringen _mening voor het geselecteerde kanaal opent. In deze weergave worden ervaringen op naam weergegeven en op activeringsdatum gesorteerd. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]**.
+[!DNL Activate] organiseert geactiveerde ervaringen via het ad-hockanaal. Klik op **[!UICONTROL View]** op het kanaalelement. De _Geactiveerde ervaringen_ mening voor het geselecteerde kanaal opent. In deze weergave worden ervaringen op naam weergegeven en op activeringsdatum gesorteerd. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]** .
 
 ## Weergave voor activering
 

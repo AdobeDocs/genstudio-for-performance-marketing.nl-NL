@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 4a82431c0f6a0f2f16c80160a46241dfa702195b
+source-git-commit: 2c5a16f0767958d09cfe5bbaa7a5538ca1b4fe75
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1610'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performanc
 
 ## Plaatsaanduidingen voor inhoud
 
-GenStudio for Performance Marketing erkent bepaalde [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met a [ erkende gebiedsnaam ](#recognized-field-names) identificeert.
+GenStudio for Performance Marketing erkent bepaalde soorten inhoud of [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met a [ erkende gebiedsnaam ](#recognized-field-names) identificeert.
 
 In de kop of de hoofdtekst van een HTML-sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken om een tijdelijke aanduiding voor inhoud in te voegen op de plaats waar u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert deze placeholders die op de [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names). Elke veldnaam is gekoppeld aan specifieke regels en gedragingen die bepalen hoe inhoud wordt gegenereerd en in de sjabloon wordt ingevoegd.
 
@@ -73,7 +73,7 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 ### Oproepen tot actie
 
-Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
+Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
 
 Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
 
@@ -124,6 +124,14 @@ In dit voorbeeld:
 - `{{image}}` is de plaatsaanduiding voor de URL van de afbeeldingsbron.
 - `{{imageDescription}}` is de plaatsaanduiding voor de alt-tekst. Deze bevat een beschrijving van de afbeelding voor toegankelijkheids- en SEO-doeleinden.
 
+### Toegankelijkheidslabel
+
+Het kenmerk `aria-label` wordt gebruikt om een toegankelijke naam te definiëren voor elementen die geen zichtbare labels hebben. Dit kenmerk is vooral handig in sjablonen waarin het belangrijk is context te bieden voor interactieve elementen, zoals een CTA-knop.
+
+```html
+<a class="button" href="{{link}}" aria-label="{{CTAAriaLabel}}">{{cta}}</a>
+```
+
 ### Op afbeeldingstekst
 
 De tijdelijke aanduiding `{{on_image_text}}` wordt gebruikt om een tekstbedekking op te geven met korte, onzichtbare berichten die rechtstreeks in een ervaring op de afbeelding worden geplaatst.
@@ -172,9 +180,38 @@ Als u een bewerkbare sectie wilt maken, voegt u dubbele haakjes toe rond de sect
 </tbody>
 ```
 
+### RTF-bewerking
+
+Verbeter uw creatieve inhoud tijdens het [!DNL Create] -proces met RTF-bewerkingen. Het canvas bepaalt de mogelijkheid voor tekstopmaak op basis van de locatie van de tijdelijke aanduiding voor inhoud. RTF-functionaliteit is alleen beschikbaar wanneer u plaatsaanduidingen voor inhoud gebruikt als zelfstandige elementen of binnen HTML-tags op blokniveau, zoals `<p>` , `<div>` of `<span>` .
+
+RTF-tekstbewerking is beschikbaar voor zelfstandige inhoud in een alinea:
+
+```html
+<p>{{body}}</p>
+```
+
+Als u een tijdelijke aanduiding voor inhoud binnen een HTML-kenmerk gebruikt (zoals `alt` , `href` of `src` ), wordt RTF-bewerking niet ondersteund voor dat veld.
+
+De rijke tekst geeft uit is **** niet beschikbaar voor `alt` inhoud uit:
+
+```html
+<img src="image.jpg" alt="{{image_description}}">
+```
+
+Als een veld meerdere keren wordt weergegeven, wordt de mogelijkheid van RTF-opmaak bepaald op basis van het feit of het veld in een van de instanties wordt gebruikt als een HTML-kenmerk. Wanneer de kop bijvoorbeeld wordt gebruikt als een kop en als alternatieve tekst voor een afbeelding, heeft de tag `alt` voorrang.
+
+De rijke tekst geeft uit is **niet** beschikbaar voor `headline` aangezien het als `alt` inhoud wordt gebruikt:
+
+```html
+<h1>{{headline}}</h1>
+<img src="image.jpg" alt="{{headline}}">
+```
+
+Rijke tekstbewerking kan beschikbaar zijn voor bepaalde velden binnen specifieke kanalen, zoals `on_image_text` in sociale kanalen (Meta, LinkedIn).
+
 ## Secties of groepen
 
-U kunt secties in een marketing e-mailmalplaatje gebruiken wanneer u twee of drie groepen gebieden hebt. _Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
+Als uw e-mailsjabloon meerdere inhoudsgebieden nodig heeft, zoals meerdere aanbiedingen of artikelen, kunt u deze indelen met secties of groepen. _Secties_ informeren GenStudio for Performance Marketing dat de gebieden in deze sectie een hoge graad van coherentie vereisen. Als u deze relatie instelt, kan de AI inhoud genereren die overeenkomt met de creatieve elementen in de sectie.
 
 Gebruik een groepsnaam van uw keuze als voorvoegsel om aan te geven dat een veld deel uitmaakt van een sectie of groep. Gebruik een veldnaam (zoals `headline` , `body` , `image` of `cta` ) na het onderstrepingsteken ( `_` ).
 
@@ -192,7 +229,7 @@ Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden 
 
 Vanwege deze regel kunnen de secties niet worden genest.
 
-Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/content/templates/best-practices-for-templates#follow-channel-specific-template-guidelines) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](/help/user-guide/content/best-practices-for-templates.md) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
 
 Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt u drie kopregels en hoofdtekstsecties gebruiken:
 
@@ -214,7 +251,7 @@ Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant 
 
 Voorbeeld van een e-mailsjabloon:
 
-&lbrace;de gebieden van de Voorproef ontdekte ![&#128279;](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}
+{de gebieden van de Voorproef ontdekte ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}![
 
 Zie [ de coderedacteur van het Malplaatje ](/help/user-guide/content/code-editor.md).
 

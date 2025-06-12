@@ -3,16 +3,16 @@ title: Workflow voor activering
 description: Meer informatie over de activeringsworkflow voor advertenties.
 feature: Ad Activation
 exl-id: 17e1bade-d52a-4953-a85c-c10d093e73d6
-source-git-commit: c622b86ae2977026207edb8919102620ef582d39
+source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
 
 # Workflow voor activering
 
-_[!DNL Activate]_&#x200B;ondersteunt de activering van advertenties in kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentiervaring.
+[!DNL Activate] ondersteunt de activering van advertenties in kanaalspecifieke indelingen, zoals een Meta- of Google Campagne Manager 360-advertentiervaring.
 
 Een GenStudio for Performance Marketing-ervaring is een onderdeel van een marketingcampagne, zoals een advertentie, dat wordt voorbereid als advertentie voor een specifiek publiek op een betaald advertentiekanaal of e-mail. De ervaring met activering bestaat uit drie hoofdcomponenten:
 
@@ -34,17 +34,18 @@ Hoewel unieke plaatsingsvereisten elk betaald kanaal bepalen, delen alle en acti
 
 1. **bereidt uw ervaring voor activering** voor. U kunt op twee manieren ervaringen voorbereiden voor activering:
 
-   * Activeer een goedgekeurde ervaring met vooraf gedefinieerde instellingen rechtstreeks vanuit _[!DNL Content]_. Op deze gestroomlijnde manier kunt u een of meer ad-hocervaringen activeren op één kanaal. Nadat u een ervaring hebt geselecteerd in de galerie&#x200B;_[!DNL Content]_ , kunt u geen elementen meer bewerken of toevoegen aan uw advertentie. Activeren vanuit _[!DNL Content]_&#x200B;is beschikbaar voor Campagne Manager 360 van Meta en Google.
+   * Activeer een goedgekeurde ervaring met vooraf gedefinieerde instellingen rechtstreeks vanuit [!DNL Content] . Op deze gestroomlijnde manier kunt u een of meer ad-hocervaringen activeren op één kanaal. Nadat u een ervaring hebt geselecteerd in de galerie [!DNL Content] , kunt u geen elementen meer bewerken of toevoegen aan uw advertentie. Activeren vanuit [!DNL Content] is beschikbaar voor Campagne Manager 360 van Meta en Google.
 
-   * U kunt uw advertentie samenstellen door visuele elementen te selecteren in _[!DNL Content]_, tekstelementen toe te voegen en hoogte-breedteverhoudingen te selecteren. Deze methode omvat meer stappen, maar biedt meer creatieve flexibiliteit. De voorbereiding omvat het selecteren van media activa in de aangewezen aspectverhouding voor uw specifieke plaatsing en het toewijzen van tekst aan vraag-aan-actie elementen en lichaamskopie. U kunt informatieve metagegevens toevoegen die gebruikers helpen bij het zoeken naar een ervaring na activering. Bij elke plaatsing van een ad-kanaal worden geldige hoogte-breedteverhoudingen opgegeven voor visuele elementen die in de plaatsing zijn opgenomen.
+   * U kunt uw advertentie samenstellen door visuele elementen te selecteren in [!DNL Content] , tekstelementen toe te voegen en hoogte-breedteverhoudingen te selecteren. Deze methode omvat meer stappen, maar biedt meer creatieve flexibiliteit. De voorbereiding omvat het selecteren van media activa in de aangewezen aspectverhouding voor uw specifieke plaatsing en het toewijzen van tekst aan vraag-aan-actie elementen en lichaamskopie. U kunt informatieve metagegevens toevoegen die gebruikers helpen bij het zoeken naar een ervaring na activering. Bij elke plaatsing van een ad-kanaal worden geldige hoogte-breedteverhoudingen opgegeven voor visuele elementen die in de plaatsing zijn opgenomen.
 
 1. **Overzicht en publiceer uw ervaring aan het doelkanaal**. Gebruik het _paneel van de Voorproef_ tijdens ervaringsopstelling om uw keus van plaatsing en tekstelementen te beoordelen alvorens uw activering te voltooien. Uw laatste revisie vóór publicatie vindt plaats in de app voor advertentiebeheer van het doelkanaal. Nadat u bijvoorbeeld een Meta-advertentie-ervaring hebt geactiveerd in GenStudio for Performance Marketing, moet u zich aanmelden bij Meta Ads Manager, uw advertentie beoordelen en vervolgens de specifieke kenmerken ervan selecteren voordat u deze publiceert.
 
-Zodra een advertentie live is met het doel betaalde mediakanaal, kan _[!DNL Insights]_&#x200B;de prestatiegegevens bijhouden en analyseren.
+Zodra een advertentie live is met het doel betaalde mediakanaal, kan [!DNL Insights] de prestatiegegevens bijhouden en analyseren.
 
 ## Ondersteunde kanalen
 
 Elk betaald mediakanaal heeft een unieke activeringsworkflow. Selecteer het betaalkanaal voor activeringsrichtlijnen:
 
-* [ Meta ](/help/user-guide/activation/activate-meta-ad.md)
-* [ Manager 360 van de Campagne van Google ](/help/user-guide/activation/activate-cm360-ad.md)
+* [ Manager 360 van de Campagne van Google ](activate-cm360-ad.md)
+* [ LinkedIn ](activate-linkedin-ad.md)
+* [ Meta ](activate-meta-ad.md)

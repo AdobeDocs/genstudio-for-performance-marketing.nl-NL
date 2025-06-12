@@ -5,9 +5,9 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1ff6a3ecf0a0773c3a6f13d6993042b0620c6dd2
+source-git-commit: 7495891b58d7830453ba81048df3373820823136
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: '638'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,14 @@ Systeembeheerders stellen Adobe GenStudio for Performance Marketing in door orga
 
 ### Stap 1: Richtlijnen toevoegen
 
-Het instellen van de belangrijkste bouwstenen van de merkidentiteit van uw organisatie is een essentiële voorwaarde voor het werk van contenteditors en medewerkers. [ Richtlijnen ](/help/user-guide/guidelines/overview.md) vangen brandkenmerken zoals logo&#39;s, toon van stem, en kleurenpaletten. U kunt of [[!DNL Brands]  richtlijnen ](/help/user-guide/guidelines/brands.md) documenten uploaden of manueel merkinformatie ingaan. [[!DNL Personas]  richtlijnen ](/help/user-guide/guidelines/personas.md) en [[!DNL Products]  richtlijnen ](/help/user-guide/guidelines/products.md) zijn belangrijk, ook. GenStudio for Performance Marketing&#39;s onderliggende generatieve AI-mogelijkheden gebruiken deze richtlijnen om hulplijnen te maken die als leidraad dienen voor het genereren van inhoud.
+Merk [ richtlijnen ](/help/user-guide/guidelines/overview.md) vangen merkkenmerken. GenStudio for Performance Marketing&#39;s onderliggende generatieve AI-mogelijkheden gebruiken deze richtlijnen om hulplijnen te maken die als leidraad dienen voor het genereren van inhoud. U kunt of [[!DNL Brands]  richtsnoer ](/help/user-guide/guidelines/brands.md) documenten uploaden of manueel merkinformatie ingaan.
+
+De redacteurs en de medewerkers van de inhoud kunnen niet met hun werk beginnen tot de fundamentele elementen van de het merkidentiteit van uw organisatie [ ](/help/user-guide/guidelines/brands.md) worden gevestigd. Deze merkonderdelen omvatten:
+
+* Immateriële elementen, zoals spraaktint
+* Materiële elementen, zoals logo&#39;s, kleurenpaletten en typografie.
+
+Alvorens tot richtlijnen te leiden, leer over hoe GenStudio for Performance Marketing [ merkcomponenten ](/help/user-guide/guidelines/brands.md) bepaalt
 
 #### De documenten met hulplijnen voorbereiden
 

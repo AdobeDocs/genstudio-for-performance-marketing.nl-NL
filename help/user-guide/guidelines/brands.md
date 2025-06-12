@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Brands]
 description: GenStudio for Performance Marketing  [!DNL Brands]  is een uitvoerige inzameling van merkactiva-marketing exemplaar, beelden, ervaringen, en meer-om de verwezenlijking van merk-gerichte inhoud te informeren.
 feature: Brand Personalization, Variant Generation, Generative AI
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: f49a2bd241f98dda23f6612f8c699ec49d222a12
+source-git-commit: a67efc3bc517ffe2d130efd4e577ef652e07d462
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1493'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,13 @@ Gepubliceerde merken kunnen worden bewerkt (wijzigingen zijn direct beschikbaar)
 
 Verwijderde [!DNL Brands] worden gedurende 30 dagen gearchiveerd en kunnen binnen die periode worden hersteld.
 
-## [!DNL Brands] richtlijnen
+## Richtlijnen voor merken
 
 De richtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van uw merkspecifieke benadering, toon, visueel gevoel, en meer.
+
+>[!NOTE]
+>
+>Als u merkrichtlijnen uploadt die in een niet-Engelse taal worden geschreven—of handmatig een merk maakt in een niet-Engelse taal—geeft GenStudio for Performance Marketing deze richtlijnen in dezelfde taal weer.
 
 Sommige kanaalrichtlijnen, die van [ platformrichtlijnen en de toegankelijkheidsnormen van ADA ](/help/user-guide/guidelines/overview.md#compliance) worden onttrokken, zijn pre-bevolkt als standaardwaarden.
 
@@ -137,7 +141,7 @@ Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
 ### Logo
 
-[!DNL Brand] -logo&#39;s dienen als visuele symbolen die de identiteit, waarden en producten van een bedrijf vertegenwoordigen. U kunt een of meerdere logo&#39;s (maximaal 1 GB per bestand) uploaden voor een [!DNL Brand] in JPG-, JPEG-, SVG- of PNG-indeling. Logo&#39;s kunnen worden toegevoegd tijdens het maken van [!DNL Brand] of vanuit de afzonderlijke _[!DNL Brands]weergave_ .
+[!DNL Brand] -logo&#39;s dienen als visuele symbolen die de identiteit, waarden en producten van een bedrijf vertegenwoordigen. U kunt een of meerdere logo&#39;s (maximaal 1 GB per bestand) uploaden voor een [!DNL Brand] in JPG-, JPEG-, SVG- of PNG-indeling. Logo&#39;s kunnen worden toegevoegd tijdens het maken van [!DNL Brand] of vanuit de afzonderlijke _[!DNL Brands]weergave_ . Logo&#39;s kunnen worden gebruikt als miniatuurafbeelding voor een specifieke [!DNL Brand] .
 
 Elk geüpload logo bevat de volgende details binnen de logotegel:
 
@@ -145,7 +149,13 @@ Elk geüpload logo bevat de volgende details binnen de logotegel:
 - Bestandsgrootte
 - Resolutie
 
-Via het menu Handelingen (drie punten) voor een kleur kunt u een kleur **[!UICONTROL Download]**, **[!UICONTROL Rename]** of **[!UICONTROL Delete]** .
+Van het actiemenu (drie punten) voor een embleem, kunt u [ details voor bekijken en beheren ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) een individueel embleem:
+
+- **[!UICONTROL View details]**
+- **[!UICONTROL Download]**
+- [**[!UICONTROL Use as brand thumbnail]**](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail)
+- **[!UICONTROL Rename]**
+- **[!UICONTROL Delete]**
 
 ### Kleuren
 
