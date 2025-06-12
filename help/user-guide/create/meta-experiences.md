@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [ verwezenlijking van high-impact ervaringen van Meta ](/help/user-guide/create/create-meta-ad.md) te stroomlijnen. [!DNL Create] laat inhoudsscheppers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken om [ Meta en ervaringen ](/help/user-guide/create/create-meta-ad.md) snel tot stand te brengen.
 
-Wanneer het produceren van de ervaringen van Meta, worden vier variaties gecreeerd en in het Canvas getoond. GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).[
+Wanneer het produceren van de ervaringen van Meta, worden vier variaties gecreeerd en in het Canvas getoond. GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties [&#128279;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Wanneer het produceren van Meta ervaart worden vier variaties gecreeerd en in het Canvas getoond.
 
-GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties ](/help/user-guide/templates/meta-template.md).[
+GenStudio for Performance Marketing steunt zowel standaard als douanegrootte Meta advertenties [&#128279;](/help/user-guide/templates/meta-template.md).
 
 Bewerkbare gedeelten van een e-mailervaring zijn:
 
@@ -52,7 +52,7 @@ Elk veld en elke sectie van de Meta-advertentie worden geleidelijk in deze reeks
 1. Tekst in afbeelding
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant.[_
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
 
 ## Aantal tekens
 

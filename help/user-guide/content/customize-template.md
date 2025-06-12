@@ -73,7 +73,7 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 ### Oproepen tot actie
 
-Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
+Een Oproep tot actie (CTA) omvat een uitdrukking en een verbinding. De functies _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
 
 Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
 
@@ -192,7 +192,7 @@ RTF-tekstbewerking is beschikbaar voor zelfstandige inhoud in een alinea:
 
 Als u een tijdelijke aanduiding voor inhoud binnen een HTML-kenmerk gebruikt (zoals `alt` , `href` of `src` ), wordt RTF-bewerking niet ondersteund voor dat veld.
 
-De rijke tekst geeft uit is **** niet beschikbaar voor `alt` inhoud uit:
+De rijke tekst geeft uit is **&#x200B;**&#x200B;niet beschikbaar voor `alt` inhoud uit:
 
 ```html
 <img src="image.jpg" alt="{{image_description}}">
@@ -251,7 +251,7 @@ Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant 
 
 Voorbeeld van een e-mailsjabloon:
 
-{de gebieden van de Voorproef ontdekte ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}![
+&lbrace;de gebieden van de Voorproef ontdekte ![&#128279;](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){zoomable="yes"}
 
 Zie [ de coderedacteur van het Malplaatje ](/help/user-guide/content/code-editor.md).
 

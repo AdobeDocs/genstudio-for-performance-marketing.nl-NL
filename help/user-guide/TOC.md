@@ -35,7 +35,7 @@ ht-degree: 14%
    + [ Banden ](guidelines/brands.md)
    + [ Personas ](guidelines/personas.md)
    + [ Producten ](guidelines/products.md)
-   + [ voeg richtlijnen ](guidelines/add-guidelines.md) toe
+   + [ voeg richtlijnen  toe](guidelines/add-guidelines.md)
    + [ Bevestiging van de Merk ](guidelines/brand-validation.md)
 + Maken {#create}
    + [[!DNL Create]  overzicht ](create/overview.md)
@@ -55,8 +55,8 @@ ht-degree: 14%
    + [ Overzicht van het Overzicht en van Goedkeuringen ](approvals/overview.md)
    + [ de integratie van Workfront Proof ](approvals/proof-integration.md)
    + [ de overzicht en goedkeuring van het Verzoek ](approvals/request-review.md)
-   + [ Overzicht en geef inhoud ](approvals/review-and-edit.md) uit
-   + [ keur inhoud ](approvals/approve-content.md) goed
+   + [ Overzicht en geef inhoud  uit](approvals/review-and-edit.md)
+   + [ keur inhoud  goed](approvals/approve-content.md)
    + [ publiceer goedgekeurde inhoud ](approvals/publish-content.md)
 + Inhoud {#content}
    + [ Overzicht van de Inhoud ](content/overview.md)
@@ -66,7 +66,7 @@ ht-degree: 14%
 + Sjablonen {#templates}
    + [ Werk met malplaatjes ](content/use-templates.md)
    + [ de malplaatjes van de Aanzet ](templates/starter-templates.md)
-   + [ pas een malplaatje ](content/customize-template.md) aan
+   + [ pas een malplaatje  aan](content/customize-template.md)
    + [ de coderedacteur van het Malplaatje ](content/code-editor.md)
    + [ creeer toegankelijke malplaatjes ](content/accessibility-for-templates.md)
    + [ Beste praktijken voor malplaatjes ](content/best-practices-for-templates.md)

@@ -16,7 +16,7 @@ Adobe GenStudio for Performance Marketing ondersteunt de activering van Meta en 
 
 U kunt [ tot een ervaring van het Meta ](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing leiden en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik {de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.[
+Het activeren van een advertentie van Meta volgt de [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor de specifieke vereisten van Meta. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik &lbrace;de Manager van Advertenties van Meta [&#128279;](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.
 
 GenStudio-systeembeheerders en -editors kunnen ad-hocervaringen activeren.
 
@@ -106,7 +106,7 @@ Na het uploaden worden elementen opgeslagen naar [!DNL Content] . Het _gebied va
 
 1. Klik op **[!UICONTROL Use]** om het geselecteerde element op te nemen in uw advertentie. Het _venster van de Opstelling van de Ervaring_ omvat de activa in zijn standaardaspectverhouding in het _Media_ gebied. Het _paneel van de Voorproef_ voorproeven de activa in de advertentie plaatsing die deze aspectverhouding steunt.
 
-Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_bevat.
+Als het uploaden is mislukt, wordt een informatief foutbericht geopend dat een koppeling naar het element in _[!DNL Content]_&#x200B;bevat.
 
 **om externe activa** te uploaden:
 
@@ -122,7 +122,7 @@ U kunt maximaal zes statische afbeeldingen buiten de [!DNL Content] -galerie upl
 
 1. (Facultatief) om activa van uw apparaat te uploaden, klik **[!UICONTROL Browse]**, dan selecteren _doorbladert dossiers_ of _doorbladert omslagen_ om activa voor te identificeren uploadt.
 
-1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
+1. In _voeg details_ gebied toe, voeg informatieve details aan uw geüploade activa toe om onderzoek en het filtreren in _[!DNL Content]_&#x200B;te vergemakkelijken. Deze details worden opgeslagen als metagegevens.
 
 1. Wanneer u uw elementen hebt geüpload en details hebt toegewezen, klikt u op **[!UICONTROL Add Assets]** rechtsonder.
 

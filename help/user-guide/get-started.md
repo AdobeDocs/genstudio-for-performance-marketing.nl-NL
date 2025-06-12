@@ -30,7 +30,7 @@ Systeembeheerders stellen Adobe GenStudio for Performance Marketing in door orga
 
 Merk [ richtlijnen ](/help/user-guide/guidelines/overview.md) vangen merkkenmerken. GenStudio for Performance Marketing&#39;s onderliggende generatieve AI-mogelijkheden gebruiken deze richtlijnen om hulplijnen te maken die als leidraad dienen voor het genereren van inhoud. U kunt of [[!DNL Brands]  richtsnoer ](/help/user-guide/guidelines/brands.md) documenten uploaden of manueel merkinformatie ingaan.
 
-De redacteurs en de medewerkers van de inhoud kunnen niet met hun werk beginnen tot de fundamentele elementen van de het merkidentiteit van uw organisatie [ ](/help/user-guide/guidelines/brands.md) worden gevestigd. Deze merkonderdelen omvatten:
+De redacteurs en de medewerkers van de inhoud kunnen niet met hun werk beginnen tot de fundamentele elementen van de het merkidentiteit van uw organisatie [&#128279;](/help/user-guide/guidelines/brands.md) worden gevestigd. Deze merkonderdelen omvatten:
 
 * Immateriële elementen, zoals spraaktint
 * Materiële elementen, zoals logo&#39;s, kleurenpaletten en typografie.

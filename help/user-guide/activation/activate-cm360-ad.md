@@ -30,7 +30,7 @@ Nadat de synchronisatie is voltooid, kunt u de toegevoegde accounts bekijken.
 
 ## Stap 3: Inhoud selecteren voor uw advertentie
 
-U kunt het publicatieproces starten via de galerie _[!DNL Content]_Ervaring of de startpagina van_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
+U kunt het publicatieproces starten via de galerie _[!DNL Content]_&#x200B;Ervaring of de startpagina van&#x200B;_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
 
 **om ervaringen** te selecteren:
 
