@@ -3,9 +3,9 @@ title: Varianten beheren
 description: Gegenereerde varianten en middelen aanpassen en verbeteren aan uw behoeften voor digitale marketing.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: 06f495bb-feec-45fc-9ba6-e941f79e390c
-source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
+source-git-commit: ab4bc7eddf0ef4c514a64338ca4e68814c4616a5
 workflow-type: tm+mt
-source-wordcount: '2036'
+source-wordcount: '2015'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ De tekstopmaakopties variëren per kanaal (meta, e-mail, enz.)
 
 1. Nadat u een set varianten hebt gegenereerd, dubbelklikt u op bewerkbare tekst in een variant.
 1. Voer nieuwe tekst in.
-1. Om de tekst te formatteren, benadruk de toepasselijke tekst en klik **&#x200B; [!UICONTROL Format text**].
+1. Om de tekst te formatteren, benadruk de toepasselijke tekst en klik ** [!UICONTROL Format text**].
 
    Pas een of meer van de beschikbare opmaakopties toe op de tekst.
 
@@ -69,7 +69,7 @@ U kunt snel een afzonderlijke laag van een variant selecteren en wijzigingen aan
 
 GenStudio for Performance Marketing heeft de ingebouwde functionaliteit om secties van gegenereerde varianten opnieuw te genereren. U kunt tekst anders formuleren, verkorten of verlengen of nieuwe vragen toevoegen om nieuwe inhoud te genereren.
 
-U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_&#x200B;de inhoud van een sectie, of&#x200B;_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
+U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_de inhoud van een sectie, of_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
 
 ![ regenerate secties ](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
@@ -77,7 +77,7 @@ U kunt bijvoorbeeld het koptekstgedeelte van een meta en variant opnieuw generer
 
 1. Nadat u een set varianten hebt gegenereerd, klikt u met één klik op alle bewerkbare tekst in een variant.
 1. Als u de bestaande tekst wilt wijzigen, selecteert u _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ of _[!UICONTROL Lengthen]_.
-1. Selecteer _[!UICONTROL Generate new text]_&#x200B;en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
+1. Selecteer _[!UICONTROL Generate new text]_en voer een nieuwe vraag in om nieuwe opties voor het lezen van woordlagen te genereren.
    1. Klik op **[!UICONTROL Generate]**.
 1. Terwijl u de tekst van een sectie opnieuw genereert, klikt u op het pictogram Opnieuw genereren (omcirkelende pijlen) om meer tekstopties weer te geven.
 1. Selecteer de gewenste optie in het resultaat dat wordt weergegeven en klik op **[!UICONTROL Replace]** .
@@ -90,13 +90,13 @@ Nadat u een set varianten hebt gegenereerd, kunt u de call-to-action-tekst (CTA)
 
 >[!NOTE]
 >
->U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_&#x200B;als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie&#x200B;_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
+>U kunt de labeltekst van CTA bewerken met de optie _[!UICONTROL Rephrase]_als de labeltekst een gegenereerd sjabloonveld is (geen vaste code in de sjabloon). U kunt een CTA-koppeling bewerken met de optie_[!UICONTROL Edit link]_ als de koppeling bestaat en bewerkbaar is (niet in de sjabloon is vastgelegd met harde code).
 
 **om CTA in een variant** te herzien:
 
 1. Klik op een CTA-knop in een van de varianten.
 
-   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ .
+   De knop is geselecteerd, geeft het aantal tekens weer en geeft twee opties weer: _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ .
 
 1. Klik op **[!UICONTROL Rephrase]**.
 
@@ -196,27 +196,26 @@ U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toev
 1. Klik op het pictogram **[!UICONTROL Swap from content]** .
 1. Gebruik de filters en zoekfunctie in de weergave GenStudio-elementen [!DNL Content] om uw zoekresultaten verder te verfijnen.
 
-   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**&#x200B;menu ](/help/user-guide/content/manage-assets.md#location) .
+   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**menu ](/help/user-guide/content/manage-assets.md#location) .
 
 1. Klik om een afbeelding te selecteren en klik op **[!UICONTROL Use]** .
 
    De afbeelding wordt toegevoegd of omgewisseld in de desbetreffende variant.
 
-## Afbeeldingskoppeling toevoegen
+## Koppelingen toevoegen
 
-Net als bij het toevoegen of wisselen van afbeeldingen in gegenereerde varianten, kunt u een koppeling naar afbeeldingen toevoegen. Het malplaatje u gebruikte om varianten _te produceren moet_ a [ inhoudplaceholder voor de verbinding ](/help/user-guide/content/customize-template.md#content-placeholders) bevatten om deze functionaliteit toe te laten.
+U kunt een koppeling naar tekst, afbeeldingen en CTA-knoppen in uw varianten toevoegen. Het malplaatje u gebruikte om varianten _te produceren moet_ a [ inhoudplaceholder voor de verbinding ](/help/user-guide/content/customize-template.md#content-placeholders) bevatten om deze functionaliteit toe te laten.
 
-**om een beeldverbinding in een variant** toe te voegen:
+**om een verbinding in een variant** toe te voegen:
 
-1. Nadat u een set varianten hebt gegenereerd, klikt u op een afbeeldingselement.
-
-   Als de variant momenteel geen geplaatst afbeeldingselement heeft, klikt u op het gebied met afbeeldingselementen.
-
-1. Klik op het koppelingspictogram
-1. Klik op **[!UICONTROL Remove link]** om de bestaande standaardkoppeling te verwijderen.
-1. Voeg een koppeling toe aan het tekstveld en klik op **[!UICONTROL Apply]** .
-
-   De gedefinieerde koppeling wordt toegepast op alle afbeeldingen in de variantenset.
+1. Klik tijdens het bewerken van een advertentie op de elementvariabele en zoek het pictogram **[!UICONTROL Add link]** of **[!UICONTROL Edit link]** .
+2. Klik op het pictogram om het venster naar het tekstveld te openen.
+3. Voer het doel in. Koppelingen met URL-adressen, e-mailadressen of telefoonnummers worden geaccepteerd:
+   * `https://`
+   * `mailto:`
+   * `tel:`
+   * `sms:`
+   * `https://wa.me/` of `whatsapp://`
 
 ## Alt-tekst toevoegen aan afbeeldingen
 
@@ -274,7 +273,7 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 ## Merkwaardvalidatie
 
-Gebruik het _paneel van de controle van de Inhoud 0&rbrace; &lbrace;om verenigbare merkidentiteit, [ de toegankelijkheidsnormen van ADA, platformrichtlijnen ](/help/user-guide/guidelines/overview.md#content-checks), en groepering van varianten te handhaven._
+Gebruik het _paneel van de controle van de Inhoud 0} {om verenigbare merkidentiteit,_ de toegankelijkheidsnormen van ADA, platformrichtlijnen [, en groepering van varianten te handhaven.](/help/user-guide/guidelines/overview.md#content-checks)
 
 Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
 
@@ -297,8 +296,8 @@ Generatie-feedback is van toepassing op een individuele variant, niet op de verz
    Er verschijnt een pop-up met feedback om meer informatie te verzamelen. Gegenereerde inhoud en snelle informatie worden opgenomen in uw feedback.
 
 1. Voeg de volgende informatie toe in het pop-upvenster met feedback:
-   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_&#x200B;om die extra referentiegegevens op te nemen in de verzamelde feedback.
-   1. Selecteer in de sectie _[!UICONTROL What worked well?]_&#x200B;of&#x200B;_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
+   1. Selecteer de optie _[!UICONTROL Also include your reference content and layer data]_om die extra referentiegegevens op te nemen in de verzamelde feedback.
+   1. Selecteer in de sectie _[!UICONTROL What worked well?]_of_[!UICONTROL What went wrong?]_ de opties die de kwaliteit van het genereren van inhoud verbeteren of verlagen.
    1. Voeg andere nuttige of verwante informatie toe in het veld _[!UICONTROL Notes]_.
 1. Klik op **[!UICONTROL Submit]**.
 
