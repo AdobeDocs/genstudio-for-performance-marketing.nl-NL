@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates, Content Generation, Brand Personalization
 exl-id: 3ff24fec-e836-4202-80f8-ba165e173b75
-source-git-commit: adf987b016825861b5522b44b61263000eb63859
+source-git-commit: e2b2e3b541c4d07530b9e725fceebabccbf6c84d
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Zie [ elementen van het Malplaatje ](use-templates.md#template-elements).
 
 Het definiëren van duidelijke kanaalrichtlijnen is van essentieel belang om ervoor te zorgen dat de gegenereerde inhoud aansluit bij de vereisten en doelstellingen van uw merk. Met kanaalrichtlijnen kunt u regels opgeven voor elementen zoals toon, lengte en stijl die in de sjabloon worden gebruikt. U kunt bijvoorbeeld een maximum aantal tekens instellen voor de hoofdtekst of een specifieke call-to-action-stijl vereisen. Door deze richtlijnen vooraf in te stellen, vermindert u de behoefte om gedetailleerde instructies in elke AI herinnering te schrijven, het proces van de inhoudgeneratie te stroomlijnen en consistentie over uw e-mails te verzekeren.
 
-Het overzicht en bepaalt de 0&rbrace; kanaalrichtlijnen van uw Merk [&#128279;](/help/user-guide/guidelines/brands.md#channel-guidelines) voor alle zeer belangrijke gebieden in uw malplaatje.  Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
+Het overzicht en bepaalt de 0} kanaalrichtlijnen van uw Merk [ voor alle zeer belangrijke gebieden in uw malplaatje. ](/help/user-guide/guidelines/brands.md#channel-guidelines) Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
 
 ![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
 
@@ -53,7 +53,7 @@ Wanneer het creëren van malplaatjes, zorg ervoor zij aan de specifieke vereiste
 
 {{note-css-effects}}
 
-Zie verdere tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties en compatibiliteit:
+Zie verdere tips en beperkingen wanneer u met elk sjabloontype werkt voor optimale prestaties:
 
 - [E-mails](/help/user-guide/templates/email-template.md)
 - [Advertenties weergeven en banner maken](/help/user-guide/templates/display-template.md)
