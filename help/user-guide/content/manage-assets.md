@@ -28,15 +28,15 @@ De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een produ
 
 Er zijn filters die op [ richtlijnen ](/help/user-guide/guidelines/overview.md) worden gebaseerd, [ sleutelwoorden ](asset-details.md#user-defined-metadata), en [ kenmerkencategorieën ](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
 
-- **[!UICONTROL Uploaded by]**: hiermee wordt de lijst in _[!UICONTROL Assets]_beperkt, zodat alleen de elementen worden weergegeven die door u of een bepaalde persoon zijn geüpload.
-- **[!UICONTROL Created by]**: beperkt de lijst van _[!UICONTROL Experiences]_om alleen de ervaringen te tonen die door u of een specifieke persoon zijn gemaakt.
-- **[!UICONTROL Template]** : hiermee wordt de lijst in _[!UICONTROL Experiences]_beperkt, zodat alleen ervaringen worden weergegeven die met de geselecteerde sjabloon zijn gemaakt.
+- **[!UICONTROL Uploaded by]**: hiermee wordt de lijst in _[!UICONTROL Assets]_&#x200B;beperkt, zodat alleen de elementen worden weergegeven die door u of een bepaalde persoon zijn geüpload.
+- **[!UICONTROL Created by]**: beperkt de lijst van _[!UICONTROL Experiences]_&#x200B;om alleen de ervaringen te tonen die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Template]** : hiermee wordt de lijst in _[!UICONTROL Experiences]_&#x200B;beperkt, zodat alleen ervaringen worden weergegeven die met de geselecteerde sjabloon zijn gemaakt.
 
 Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen in de gegevensopslagruimte overeenkomen met de overeenkomstige metagegevenscriteria. Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
 
 **om naar inhoud te zoeken om** opnieuw te gebruiken:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Assets]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Assets]**.
 
 1. Selecteer een opslagplaats voor middelen in de lijst **[!UICONTROL Location]** of controleer of u naar de juiste opslagplaats voor middelen kijkt. `GenStudio assets` is de standaardopslagplaats.
 
@@ -46,7 +46,7 @@ Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen 
 
 1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
 
-1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**en kies **PNG**.
+1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_&#x200B;te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**&#x200B;en kies **PNG**.
 
    Hoe meer u uw zoekopdracht beperkt, hoe minder filteropties beschikbaar zijn. Klik op **[!UICONTROL Clear all]** om alle filters te verwijderen.
 
@@ -90,13 +90,13 @@ De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, e
 
 ### Elementen toevoegen
 
-Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_is alleen beschikbaar wanneer de_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
+Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_&#x200B;is alleen beschikbaar wanneer de&#x200B;_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
 ![ het gebied van de Plaats ](/help/assets/content-location.png " gebied van de Plaats "){width="350"}
 
 **om één of meerdere activa** toe te voegen:
 
-1. Klik in _[!DNL Content]_op **[!UICONTROL Add assets]**.
+1. Klik in _[!DNL Content]_&#x200B;op **[!UICONTROL Add assets]**.
 
 2. In _voeg uw goedgekeurde activa_ mening toe, laat vallen een dossier of dossiers in de dalingsruimte. U kunt desgewenst bestanden van lokale bestanden selecteren met **[!UICONTROL Browse]** of bestanden importeren uit Dropbox of Microsoft OneDrive.
 
@@ -130,7 +130,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 **om activa** te schrappen:
 
-1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op **[!UICONTROL Delete]** (prullenbak) rechtsboven.
 
@@ -165,7 +165,7 @@ U kunt een of meer goedgekeurde downloadervaringen selecteren in een indeling di
 
 ## Bewerken in Express
 
-U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
+U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_&#x200B;Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
 
 >[!BEGINSHADEBOX]
 
@@ -180,17 +180,17 @@ Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe
 
 **om activa met Uitdrukkelijke** uit te geven:
 
-1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_&#x200B;een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op het pictogram **[!UICONTROL Edit in Adobe Express]** rechtsboven.
 
-1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
+1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_&#x200B;de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
 
 1. Als u tevreden bent met de bijgewerkte afbeelding, klikt u op **[!UICONTROL Save a copy]** rechtsboven.
 
 1. Selecteer de bestandsindeling JPG of PNG en klik op **[!UICONTROL Save a copy]** .
 
-1. Werk de _[!UICONTROL Save a copy of asset]_bij in het pop-upmenu **[!UICONTROL Asset name]**.
+1. Werk de _[!UICONTROL Save a copy of asset]_&#x200B;bij in het pop-upmenu **[!UICONTROL Asset name]**.
 
    - Selecteer **[!UICONTROL Same details as original asset]** om de elementdetails over te brengen naar de nieuwe afbeelding.
 
