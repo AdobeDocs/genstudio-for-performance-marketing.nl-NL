@@ -1,11 +1,11 @@
 ---
-title: Middelen en ervaringen beheren
+title: Assets en ervaringen beheren
 description: Vereenvoudig en verbeter het beheer van merkgoedgekeurde bedrijfsmiddelen voor gebruik en hergebruik in uw digitale marketingreis.
 feature: Content Management, Content Attributes
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 1df977edbca284e67a5d28a6835bf5fc5608aa33
+source-git-commit: 6880aadb104aac6b3282980760406168df3da5fe
 workflow-type: tm+mt
-source-wordcount: '1415'
+source-wordcount: '1440'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een produ
 
 Er zijn filters die op [ richtlijnen ](/help/user-guide/guidelines/overview.md) worden gebaseerd, [ sleutelwoorden ](asset-details.md#user-defined-metadata), en [ kenmerkencategorieën ](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
 
-- **[!UICONTROL Uploaded by]**: hiermee wordt de lijst in _[!UICONTROL Assets]_&#x200B;beperkt, zodat alleen de elementen worden weergegeven die door u of een bepaalde persoon zijn geüpload.
-- **[!UICONTROL Created by]**: beperkt de lijst van _[!UICONTROL Experiences]_&#x200B;om alleen de ervaringen te tonen die door u of een specifieke persoon zijn gemaakt.
-- **[!UICONTROL Template]** : hiermee wordt de lijst in _[!UICONTROL Experiences]_&#x200B;beperkt, zodat alleen ervaringen worden weergegeven die met de geselecteerde sjabloon zijn gemaakt.
+- **[!UICONTROL Uploaded by]**: hiermee wordt de lijst in _[!UICONTROL Assets]_beperkt, zodat alleen de elementen worden weergegeven die door u of een bepaalde persoon zijn geüpload.
+- **[!UICONTROL Created by]**: beperkt de lijst van _[!UICONTROL Experiences]_om alleen de ervaringen te tonen die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Template]** : hiermee wordt de lijst in _[!UICONTROL Experiences]_beperkt, zodat alleen ervaringen worden weergegeven die met de geselecteerde sjabloon zijn gemaakt.
 
 Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen in de gegevensopslagruimte overeenkomen met de overeenkomstige metagegevenscriteria. Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
 
 **om naar inhoud te zoeken om** opnieuw te gebruiken:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Assets]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Assets]**.
 
 1. Selecteer een opslagplaats voor middelen in de lijst **[!UICONTROL Location]** of controleer of u naar de juiste opslagplaats voor middelen kijkt. `GenStudio assets` is de standaardopslagplaats.
 
@@ -46,7 +46,7 @@ Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen 
 
 1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
 
-1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_&#x200B;te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**&#x200B;en kies **PNG**.
+1. Verfijn uw zoekopdracht door een categorie in de lijst _[!UICONTROL Filter]_te selecteren. Bijvoorbeeld, als u een PNG- dossier zoekt, klik **[!UICONTROL File format]**en kies **PNG**.
 
    Hoe meer u uw zoekopdracht beperkt, hoe minder filteropties beschikbaar zijn. Klik op **[!UICONTROL Clear all]** om alle filters te verwijderen.
 
@@ -56,7 +56,7 @@ Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen 
 
 ### Locatie
 
-Elementen die u via het [!DNL Create] -proces of uploaden toevoegt aan [!DNL Content] , worden standaard opgeslagen in de `GenStudio assets` -opslagplaats. De gegevensopslagruimte van `GenStudio assets` is een gegevensopslagruimte voor lezen en schrijven in GenStudio for Performance Marketing. Dit betekent dat u elementen kunt opslaan, bewerken en verwijderen in de `GenStudio assets` -opslagplaats.
+Elementen die u via het [!DNL Content] -proces of uploaden toevoegt aan [!DNL Create] , worden standaard opgeslagen in de `GenStudio assets` -opslagplaats. De gegevensopslagruimte van `GenStudio assets` is een gegevensopslagruimte voor lezen en schrijven in GenStudio for Performance Marketing. Dit betekent dat u elementen kunt opslaan, bewerken en verwijderen in de `GenStudio assets` -opslagplaats.
 
 In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aan de rechterkant kunt u een van de verbonden Adobe Experience Manager (AEM) [!DNL Assets Content Hub] -opslagruimten selecteren.
 
@@ -90,19 +90,19 @@ De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, e
 
 ### Elementen toevoegen
 
-Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_&#x200B;is alleen beschikbaar wanneer de&#x200B;_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
+Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_is alleen beschikbaar wanneer de_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
 ![ het gebied van de Plaats ](/help/assets/content-location.png " gebied van de Plaats "){width="350"}
 
 **om één of meerdere activa** toe te voegen:
 
-1. Klik in _[!DNL Content]_&#x200B;op **[!UICONTROL Add assets]**.
+1. Klik in _[!DNL Content]_op **[!UICONTROL Add assets]**.
 
-1. In _voeg uw goedgekeurde activa_ mening toe, laat vallen een dossier of dossiers in de dalingsruimte. U kunt desgewenst bestanden van lokale bestanden selecteren met **[!UICONTROL Browse]** of bestanden importeren uit Dropbox of Microsoft OneDrive.
+2. In _voeg uw goedgekeurde activa_ mening toe, laat vallen een dossier of dossiers in de dalingsruimte. U kunt desgewenst bestanden van lokale bestanden selecteren met **[!UICONTROL Browse]** of bestanden importeren uit Dropbox of Microsoft OneDrive.
 
-1. In _voeg details_ sectie toe, selecteer a **[!UICONTROL Campaign name]** of ga een nieuwe naam in.
+3. In _voeg details_ sectie toe, selecteer a **[!UICONTROL Campaign name]** of ga een nieuwe naam in.
 
-1. Om ontdekkingscapaciteit te verbeteren, voeg facultatieve details zoals _,_ Naam van het Merk _,_ Gebied _en_ Trefwoorden _in de **Meer details**&#x200B;sectie toe._
+4. Voor ontdekkingsbaarheid, voeg facultatieve details zoals _,_ Naam van het Merk _,_ Gebied _en_ Trefwoorden _in de_ Meer details **sectie toe.**
 
    Hoe meer details u verstrekt, hoe meer u de robuuste mogelijkheden van GenStudio for Performance Marketing ervaart. Selecteer een of meer details in de lijst of voer een nieuwe in, indien van toepassing, bijvoorbeeld met trefwoorden. Elk detail dat u toevoegt, wordt onder de lijst weergegeven. Klik op **`x`** om een detail te verwijderen.
 
@@ -110,11 +110,11 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
    Zie [ details van Meta-gegevens ](/help/user-guide/content/asset-details.md#system-metadata).
 
-1. Klik op **[!UICONTROL Add assets]**.
+5. Klik op **[!UICONTROL Add assets]**.
 
-1. Wanneer de activa uploaden wordt voltooid, klik **Gedaan**.
+6. Wanneer de activa uploaden wordt voltooid, klik **Gedaan**.
 
-1. Om uw nieuwe geüploade activa te bekijken, klik **[!UICONTROL Refresh]** van het _Nieuwe beschikbare activa_ bericht bij de bodem van het Canvas.
+7. Om uw nieuwe geüploade activa te bekijken, klik **[!UICONTROL Refresh]** van het _Nieuwe beschikbare activa_ bericht bij de bodem van het Canvas.
 
 ### Elementen downloaden
 
@@ -130,7 +130,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 **om activa** te schrappen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op **[!UICONTROL Delete]** (prullenbak) rechtsboven.
 
@@ -140,17 +140,21 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
 U kunt een of meer goedgekeurde downloadervaringen selecteren in een indeling die compatibel is met uw doelkanaal. Het gedownloade bestand krijgt een naam op basis van de datum van export: `2025-06-15-export.zip` . Wanneer u het bestand uitpakt, is er een map voor elk kanaaltype waarin de geëxporteerde elementen zijn opgenomen in de indelingen die u hebt geselecteerd. Elk geëxporteerd element behoudt de oorspronkelijke elementnaam als bestandsnaam.
 
+>[!WARNING]
+>
+>Opgehaalde elementen zijn onveilig om zonder ontsmetting weer te geven. Alle gebruikers moeten XSS (cross-site scripting) van de malplaatjes behandelen door input saneringstechnieken op hun eind te gebruiken.
+
 **om ervaringen** uit te voeren of te downloaden:
 
 1. Selecteer een of meer ervaringen in _[!DNL Content]_.
 
    Er wordt een banner weergegeven met het aantal ervaringen dat aan de linkerkant is geselecteerd en de opties [!UICONTROL Activate], [!UICONTROL Download] of [!UICONTROL Delete] aan de rechterkant.
 
-1. (Optioneel) Als u activeert, wordt u mogelijk gevraagd een platform te selecteren en vervolgens door te gaan met de [!DNL Activate] -workflow. Zie [ activeren ](/help/user-guide/activation/overview.md).
+2. (Optioneel) Als u activeert, wordt u mogelijk gevraagd een platform te selecteren en vervolgens door te gaan met de [!DNL Activate] -workflow. Zie [ activeren ](/help/user-guide/activation/overview.md).
 
-1. Klik op **[!UICONTROL Download]**.
+3. Klik op **[!UICONTROL Download]**.
 
-1. In _Download_ popup, selecteer van de beschikbare formaten.
+4. In _Download_ popup, selecteer van de beschikbare formaten.
 
    Als u meerdere ervaringen hebt geselecteerd op verschillende kanalen, kunt u de indeling voor elk kanaaltype selecteren.
 
@@ -161,7 +165,7 @@ U kunt een of meer goedgekeurde downloadervaringen selecteren in een indeling di
 
 ## Bewerken in Express
 
-U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_&#x200B;Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
+U kunt afbeeldingselementen (JPG of PNG) rechtstreeks in GenStudio for Performance Marketing bewerken met Adobe Express. Het _[!UICONTROL Powered by Adobe Express]_Canvas biedt handige functies om uw afbeeldingen te verbeteren zonder de GenStudio-toepassing te verlaten. U kunt eenvoudig achtergronden verwijderen, generatieve vullingen toepassen, effecten aanpassen en afbeeldingen uitsnijden.
 
 >[!BEGINSHADEBOX]
 
@@ -176,17 +180,17 @@ Criteria voor het verbeteren van afbeeldingen met de functie [!DNL Edit in Adobe
 
 **om activa met Uitdrukkelijke** uit te geven:
 
-1. Selecteer in _[!DNL Content]_&#x200B;een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_een afbeeldingselement. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Klik in de elementweergave op het pictogram **[!UICONTROL Edit in Adobe Express]** rechtsboven.
 
-1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_&#x200B;de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
+1. Gebruik in het canvas van _[!UICONTROL Powered by Adobe Express]_de Uitdrukkelijke controles op het linkerpaneel om uw beeld te verbeteren.
 
 1. Als u tevreden bent met de bijgewerkte afbeelding, klikt u op **[!UICONTROL Save a copy]** rechtsboven.
 
 1. Selecteer de bestandsindeling JPG of PNG en klik op **[!UICONTROL Save a copy]** .
 
-1. Werk de **[!UICONTROL Asset name]** bij in het pop-upmenu _[!UICONTROL Save a copy of asset]_.
+1. Werk de _[!UICONTROL Save a copy of asset]_bij in het pop-upmenu **[!UICONTROL Asset name]**.
 
    - Selecteer **[!UICONTROL Same details as original asset]** om de elementdetails over te brengen naar de nieuwe afbeelding.
 
