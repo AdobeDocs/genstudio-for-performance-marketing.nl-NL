@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates
 exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
-source-git-commit: 7dfd915ebcc001b12357cfa334346e6698436d7d
+source-git-commit: 2f15dc05f65ec216c7d242ffb3e14a83c76f3000
 workflow-type: tm+mt
 source-wordcount: '1334'
 ht-degree: 0%
@@ -59,7 +59,7 @@ U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Pe
 
 ## Sjablonen beheren
 
-Op de galerie _[!DNL Templates]_&#x200B;wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
+Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
 
 ### Zoeksjablonen
 
@@ -67,12 +67,12 @@ Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken 
 
 U kunt bijvoorbeeld een sjabloon zoeken met een specifiek kanaaltype of een bepaalde hoogte-breedteverhouding die door u is gemaakt:
 
-- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_&#x200B;beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
-- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_&#x200B;beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
+- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
 
 In het volgende voorbeeld wordt het filter weergegeven op basis van het kanaaltype, zoals e-mail, advertenties weergeven, metagegevensadvertenties en LinkedIn-advertenties.
 
-![ de lijst van het malplaatje van de Inhoud ](/help/assets/content-templates-filter.png " Onderzoek LinkedIn malplaatjes "){width="650" zoomable="yes"}
+![ de lijst van het malplaatje van de Inhoud ](/help/assets/content-templates-filter.png " Onderzoek LinkedIn malplaatjes "){width="650"}
 
 De zoekfunctie voor sjablonen is beschikbaar tijdens [!UICONTROL Create] wanneer u een sjabloon selecteert voor media die eigendom zijn van of betaald worden. Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen in de gegevensopslagruimte overeenkomen met de overeenkomstige metagegevenscriteria. Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
 
@@ -82,34 +82,34 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 **om een malplaatje** toe te voegen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
-1. Klik op **[!UICONTROL Add template]**.
+2. Klik op **[!UICONTROL Add template]**.
 
-1. Blader in het deelvenster _[!UICONTROL Add your approved template]_&#x200B;naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
+3. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
 
-1. Controleer de velden in het deelvenster _[!UICONTROL Check detected fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn.
+4. Controleer de velden in het deelvenster _[!UICONTROL Check detected fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn.
 
    Voorbeeld van een e-mailsjabloon:
 
-   ![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650" zoomable="yes"}
+   ![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
    >Als de sjabloon niet correct is, klikt u op **[!UICONTROL Back]** en gaat u terug naar de vorige stap. Upload het gecorrigeerde sjabloonbestand. Of gebruik de [ redacteur van de malplaatjecode ](/help/user-guide/content/code-editor.md) om eenvoudige correcties aan te brengen.
 
-1. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
+5. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
 
-1. Geef in _[!UICONTROL Provide template details and upload]_&#x200B;de sjabloon een naam en selecteer een **[!UICONTROL Channel]**&#x200B;type.
+6. Geef in _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
    - **Meta**: vereist Verhouding
    - **Banner en de advertentie van de Vertoning**: vereist Dimensies
 
-1. Voeg zoveel details toe als u kunt om sjabloonidentificatie in zoekopdrachten en filteren te verbeteren.
+7. Voeg zoveel details toe als u kunt om sjabloonidentificatie in zoekopdrachten en filteren te verbeteren.
 
-1. Klik op **[!UICONTROL Done]**.
+8. Klik op **[!UICONTROL Done]**.
 
 ### Sjabloon vernieuwen
 
@@ -117,11 +117,11 @@ Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s.
 
 **om het malplaatje** te verfrissen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
-1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
+2. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
-1. Klik op **[!UICONTROL Refresh]** (cirkelende pijlen) in de rechterbovenhoek om alle elementen die in de sjabloon worden gebruikt, te vernieuwen.
+3. Klik op **[!UICONTROL Refresh]** (cirkelende pijlen) in de rechterbovenhoek om alle elementen die in de sjabloon worden gebruikt, te vernieuwen.
 
 ### Een ervaring maken met een sjabloon
 
@@ -129,13 +129,13 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 **om een ervaring met een malplaatje** tot stand te brengen:
 
-1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
 
-1. Klik op een sjabloon voor een volledige weergave en een lijst met details.
+2. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
-1. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
+3. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
-1. Ga aan [&#128279;](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
+4. Ga aan [ ](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
 
 ## Sjablonen uit AJO en Marketo
 

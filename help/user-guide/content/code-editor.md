@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation
 exl-id: b46fc7a9-88c1-474a-9d7b-1df7740d8f5a
-source-git-commit: 81c4b10e22ac347eb2a464496bd65b29c3c94efa
+source-git-commit: f9fec89a522f3c82367516b79dbc79db5a106bbf
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -22,9 +22,9 @@ De redacteur van de malplaatjecode wordt ontworpen om u te helpen uw malplaatje 
 
 ## Gevonden velden controleren
 
-Het deelvenster _[!UICONTROL Check detected fields]_&#x200B;bevat een lijst met velden die GenStudio for Performance Marketing herkent in uw sjabloon. Controleer de lijst en u kunt door de HTML-code bladeren om te kijken naar de vormgeving van de sjabloon.
+Het deelvenster _[!UICONTROL Check detected fields]_bevat een lijst met velden die GenStudio for Performance Marketing herkent in uw sjabloon. Controleer de lijst en u kunt door de HTML-code bladeren om te kijken naar de vormgeving van de sjabloon.
 
-![ de redacteursmening van de Code ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){width="600" zoomable="yes"}
+![ de redacteursmening van de Code ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){width="600"}
 
 Als u merkt dat een veld ontbreekt in de lijst, zoekt u in de sjablooncode naar de locatie van het ontbrekende veld. Tussenvoegsel correcte placeholder gebruikend de syntaxis van Handlebars en a [ erkende gebiedsnaam ](/help/user-guide/content/customize-template.md#recognized-field-names). Gebruik het formulier Zoeken en vervangen, dat onder aan de code-editor wordt weergegeven, om te zoeken naar specifieke tekenreeksen in de code. (Windows `CTRL`+`F` of macOS `CMD`+`F`)
 
@@ -36,7 +36,7 @@ U kunt veldrollen voor op tekst gebaseerde veldrollen selecteren en wijzigen (bi
 >
 >De rollen van afbeeldingsvariabelen kunnen niet worden aangepast.
 
-![ Multi-rol de selectie van het gebiedsselectie ](/help/assets/multirole-dropdown-field.png " Multi-rol selectie "){width="600" zoomable="yes"}
+![ Multi-rol de selectie van het gebiedsselectie ](/help/assets/multirole-dropdown-field.png " Multi-rol selectie "){width="600"}
 
 Een rol toewijzen aan een variabele:
 
@@ -49,9 +49,9 @@ Een rol toewijzen aan een variabele:
 
 Als uw sjabloon fouten bevat, ziet u mogelijk een `Template is invalid` -bericht met een korte uitleg van de uitgave. In het volgende voorbeeld geeft het bericht aan dat het veld `_image` niet voldoet aan de conventie voor veldnamen die is ingesteld in de sjabloon voor meerdere pods. In het bericht wordt verder aangegeven dat u de veldnaam moet bijwerken met het juiste voorvoegsel. Zoek het veld `_image` in de code-editor van de sjabloon en werk de naam zoals aanbevolen bij.
 
-![ Correct ongeldig malplaatje ](/help/assets/animation/template-code-editor.gif){width="600" zoomable="yes"}
+![ Correct ongeldig malplaatje ](/help/assets/animation/template-code-editor.gif){width="600"}
 
-Het deelvenster _[!UICONTROL Check detected fields]_&#x200B;wordt bijgewerkt met de wijzigingen die u hebt aangebracht. Zodra u wordt tevreden dat de gebieden correct en volledig zijn, klik **[!UICONTROL Next]**&#x200B;om [ te blijven uploaden uw malplaatje ](/help/user-guide/content/use-templates.md#add-a-template).
+Het deelvenster _[!UICONTROL Check detected fields]_wordt bijgewerkt met de wijzigingen die u hebt aangebracht. Zodra u wordt tevreden dat de gebieden correct en volledig zijn, klik **[!UICONTROL Next]**om [ te blijven uploaden uw malplaatje ](/help/user-guide/content/use-templates.md#add-a-template).
 
 ## Algemene sjabloonproblemen en oplossingen
 
