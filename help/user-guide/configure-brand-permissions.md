@@ -105,6 +105,6 @@ U kunt nu de gebruikersgroep toevoegen die u net hebt gemaakt aan het `Adobe Gen
 
 1. Van _Uitnodiging aan project_ popup, voeg de gebruikersgroep toe u enkel aan dit project creeerde.
 
-1. Kies **** toestemmingenoptie kan uitgeven.
+1. Kies **&#x200B;**&#x200B;toestemmingenoptie kan uitgeven.
 
 1. Klik op **[!UICONTROL Invite]**.
