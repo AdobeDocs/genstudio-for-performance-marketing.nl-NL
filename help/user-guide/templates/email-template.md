@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 4760da26d20e91489a74bb238e07f0d3b426c0a1
+source-git-commit: 49d8d5daa2f3c93c18cd9132dab5207871b51237
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -44,23 +44,24 @@ De maximaal toegestane velden in een sjabloon zijn 20. Zie [ placeholders van de
 
 ## E-mail met meerdere secties
 
-_Secties_ staan u toe om inhoud in verschillende groepen te organiseren, die complexere lay-outs steunt. In Genstudio for Performance Marketing kunt u elke sectie definiëren met behulp van een groepsnaamconventie. Zie [ malplaatjesecties ](/help/user-guide/content/customize-template.md#sections-or-groups) aanpassen.
+_Secties_ staan u toe om inhoud in verschillende groepen te organiseren, ondersteunend complexere lay-outs. In GenStudio for Performance Marketing kunt u elke sectie definiëren met een naamgevingsconventie voor groepen. Zie [ malplaatjesecties ](/help/user-guide/content/customize-template.md#sections-or-groups) aanpassen.
 
 Meerdere sectiesjablonen kunnen uit 0, 2 of 3 secties bestaan:
 
 - Een basissjabloon (nulsecties) kan één set sjabloonelementen genereren, waarvoor de naamgevingsconventie voor groepen niet nodig is.
-- Een complexe sjabloon (meerdere secties) kan maximaal drie sets sjabloonelementen genereren, waarvoor u de naamgevingsconventie voor groepen moet naleven: (`groupname_fieldname`)
+- Een complexe sjabloon (meerdere secties) kan maximaal drie sets sjabloonelementen genereren, waarvoor u de naamgevingsconventie voor groepen moet volgen: `<groupname_fieldname>` .
+- Wanneer u meerdere secties gebruikt, worden elementen die zelfstandig, buiten een sectie, staan, niet gevuld.
 
-Voorbeeld van veldnamen voor twee secties:
+Hier volgen voorbeelden van veldnamen, waarbij de naamconventie voor groepen wordt gebruikt voor twee secties:
 
-- `pod1_headline`, `pod1_body`, `pod1_cta`
-- `pod2_headline`, `pod2_body`, `pod2_cta`
+- In sectie 1:`pod1_headline`, `pod1_body`, `pod1_cta`
+- In sectie 2:`pod2_headline`, `pod2_body`, `pod2_cta`
 
 ## Sjabloonvoorbeelden
 
 +++Voorbeeld: E-mailsjabloon met één sectie
 
-Hieronder ziet u een eenvoudig voorbeeld van een HTML-e-mailsjabloon met één sectie. `<head>` bevat eenvoudige inline CSS voor opmaak en in `<body>` worden tijdelijke aanduidingen voor inhoud gebruikt, zoals `pre_header` , `headline` , `sub_headline` , `body` , `cta` en `image` met koppeling en. Met deze plaatsaanduidingen kan GenStudio for Performance Marketing dynamische inhoud injecteren tijdens het genereren van e-mail.
+Hier volgt een eenvoudig voorbeeld van een HTML-e-mailsjabloon met één sectie. `<head>` bevat eenvoudige inline CSS voor opmaak en in `<body>` worden tijdelijke aanduidingen voor inhoud gebruikt, zoals `pre_header` , `headline` , `sub_headline` , `body` , `cta` en `image` met koppeling en. Met deze plaatsaanduidingen kan GenStudio for Performance Marketing dynamische inhoud injecteren tijdens het genereren van e-mail.
 
 ```html
 <!DOCTYPE html>
@@ -109,7 +110,7 @@ Hieronder ziet u een eenvoudig voorbeeld van een HTML-e-mailsjabloon met één s
 
 +++Voorbeeld: E-mailsjabloon met meerdere secties
 
-In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
+Hier is dezelfde HTML-sjabloon in het bovenstaande voorbeeld, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
 
 ```html
 <!DOCTYPE html>
@@ -151,8 +152,6 @@ In het bovenstaande voorbeeld ziet u dezelfde HTML-sjabloon, maar met nog twee s
     </head>
     <body>{{pre_header}}
         <div class="container">
-            <h1>{{headline}}</h1>
-            <p>{{body}}</p>
             <!-- Pod1 -->
             <div class="pod">
                 <h2>{{pod1_headline}}</h2>
