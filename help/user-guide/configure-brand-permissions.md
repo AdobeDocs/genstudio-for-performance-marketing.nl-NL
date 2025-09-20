@@ -21,7 +21,7 @@ Het toevoegen van gebruikers en gebruikersgroepen zijn basistaken gemeenschappel
 
 Bekijk deze video of volg de onderstaande stappen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474996?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475003?learn=on&enablevpops&captions=dut)
 
 ## Stap 1: Een gebruikersgroep maken
 
