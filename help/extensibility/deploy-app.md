@@ -68,4 +68,4 @@ https://experience.adobe.com/?ext=https://<my-deployed-add-on>.adobeio-static.ne
 
 Als u tevreden bent met uw toe:voegen-op, bent u bereid om het zonder de `query` parameter te verdelen.
 
-Nu, kunt u uw app [ distribueren 0}.](distribute-app.md)
+Nu, kunt u uw app [ distribueren 0&rbrace;.](distribute-app.md)

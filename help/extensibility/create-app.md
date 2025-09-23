@@ -86,7 +86,7 @@ U kunt een voorbeeld-app gebruiken om snel een add-on te maken.
 
 **om een app van App Builder van bestaande app** tot stand te brengen:
 
-1. Download een voorbeeld app van de [ 20} Voorbeelden van GenStudio UIX ](https://github.com/adobe/genstudio-uix-examples) bewaarplaats.
+1. Download een voorbeeld app van de [ 20&rbrace; Voorbeelden van GenStudio UIX ](https://github.com/adobe/genstudio-uix-examples) bewaarplaats.
 
 1. Van de werkruimte van het Project van App Builder op [ Adobe Developer Console ](https://developer.adobe.com/console/), selecteer [!UICONTROL Download All] om de details van het Project te downloaden.
 
