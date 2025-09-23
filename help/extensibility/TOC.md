@@ -5,10 +5,10 @@ user-guide-description: Ontdek de mogelijkheden van het uitbreidingskader in Ado
 feature-set: GenStudio for Performance Marketing
 feature: Generative AI
 role: Developer
-source-git-commit: bcf969f599279ba28354837b3949316a1bf7df27
+source-git-commit: 7acf7b0abf0737701083890a1d6a693bb64ffbbf
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 57%
+source-wordcount: '55'
+ht-degree: 52%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 57%
 
 + [Handleiding voor uitbreidbaarheid](home.md)
 + Aan de slag {#get-started}
-   + [Overzicht](overview.md)
-+ Toepassingsontwikkeling {#apps}
+   + [Uw omgeving instellen](setup.md)
++ App-ontwikkeling {#apps}
    + [Een App Builder-project maken](create-project.md)
    + [Een App Builder-app ontwikkelen](create-app.md)
    + [Uw app implementeren](deploy-app.md)
