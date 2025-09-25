@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Workfront Proof-integratie met GenStudio for Performance Marketing
 
-De integratie met Workfront Proof verbetert de overzicht-en-goedkeuringslevenscyclus van GenStudio for Performance Marketing met geavanceerde eigenschappen, met inbegrip van goedkeuringsmalplaatjes, multi-stage werkschema&#39;s, en de capaciteit om proefversies [ te vergelijken ](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). Deze gestructureerde versie zorgt voor transparantie, verantwoordingsplicht en gestroomlijnde samenwerking gedurende de volledige levenscyclus van de inhoudsherziening.
+De integratie met Workfront Proof verbetert de overzicht-en-goedkeuringslevenscyclus van GenStudio for Performance Marketing met geavanceerde eigenschappen, met inbegrip van goedkeuringsmalplaatjes, multi-stage werkschema&#39;s, en de capaciteit om proefversies [ te vergelijken ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs). Deze gestructureerde versie zorgt voor transparantie, verantwoordingsplicht en gestroomlijnde samenwerking gedurende de volledige levenscyclus van de inhoudsherziening.
 
 >[!BEGINSHADEBOX]
 
 **Eerste vereisten**:
 
-Installeer de [ uitbreiding van de Kijker van het Web van Adobe Workfront ](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
+Installeer de [ uitbreiding van de Kijker van het Web van Adobe Workfront ](https://experienceleague.adobe.com/nl/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/review-a-proof/review-proof-in-web-viewer-extension)
 
 >[!ENDSHADEBOX]
 
@@ -45,7 +45,7 @@ In de onderstaande tabel worden de standaard GenStudio for Performance Marketing
 
 ### Licenties en gebruikersrollen
 
-In vergunningen wordt de reeks gebruikersrechten binnen een product aangegeven. Workfront Proof biedt meer licentietypen of gebruikersrollen dan GenStudio for Performance Marketing. [ overzicht van de rollen van het proef ](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) introduceert gebruikersrollen verbonden aan het overzicht-en-goedkeuringswerkschema van Workfront Proof.
+In vergunningen wordt de reeks gebruikersrechten binnen een product aangegeven. Workfront Proof biedt meer licentietypen of gebruikersrollen dan GenStudio for Performance Marketing. [ overzicht van de rollen van het proef ](https://experienceleague.adobe.com/nl/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles) introduceert gebruikersrollen verbonden aan het overzicht-en-goedkeuringswerkschema van Workfront Proof.
 
 | GenStudio for Performance Marketing-licentie       | Workfront-licentie                 | Beschrijving                                                                                                                                                      |
 |---------------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -57,7 +57,7 @@ Adobe-systeembeheerders beheren gebruikersinvoer en -rechten voor beide producte
 
 >[!NOTE]
 >
-> Workfront Proof verstrekt [ extra gebruikersrollen ](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles). Niet alle rollen zijn zichtbaar binnen de Marketing van Prestaties. Het systeem houdt echter wel rekening met alle rollen die in een Workfront Proof-sjabloon zijn ingesteld.
+> Workfront Proof verstrekt [ extra gebruikersrollen ](https://experienceleague.adobe.com/nl/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles). Niet alle rollen zijn zichtbaar binnen de Marketing van Prestaties. Het systeem houdt echter wel rekening met alle rollen die in een Workfront Proof-sjabloon zijn ingesteld.
 
 ### Concepten en proefdrukken
 
@@ -79,9 +79,9 @@ Goedkeuringsmodellen ondersteunen meerfasentalige goedkeuringen, die de coördin
 
 Revisoren kunnen rechtstreeks op specifieke delen van de proefdruk klikken om exacte, contextuele opmerkingen te behouden. Alle opmerkingen krijgen een tijdstempel en worden opgeslagen als onderdeel van de versiegeschiedenis van de proefdruk. De geschiedenis van opmerkingen is niet beschikbaar in GenStudio for Performance Marketing.
 
-U kunt [ twee versies van een proef ](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) vergelijken om overzichtscommentaren en inhoud te evalueren.
+U kunt [ twee versies van een proef ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) vergelijken om overzichtscommentaren en inhoud te evalueren.
 
 ## Meldingen en herinneringen
 
 Revisoren en fiatteurs ontvangen e-mailmeldingen wanneer er een nieuwe proefversie beschikbaar is voor revisie of wanneer de status van een doorlopende revisie is gewijzigd.
-[ de berichten en herinneringen van het Bewijs ](https://experienceleague.adobe.com/en/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders) omvatten een gepersonaliseerde verbinding aan de proef, details over de proef en zijn vooruitgang door het goedkeuringsproces, en versioning informatie.
+[ de berichten en herinneringen van het Bewijs ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/proof-notifications-and-reminders/proof-notifications-and-reminders/proof-notifications-and-reminders) omvatten een gepersonaliseerde verbinding aan de proef, details over de proef en zijn vooruitgang door het goedkeuringsproces, en versioning informatie.
