@@ -67,7 +67,7 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 
 **om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 0} {in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
+1. Klik het _paneelpictogram van de controle van de Inhoud 0&rbrace; &lbrace;in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
 
    U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien wat verbetering vereist.
 

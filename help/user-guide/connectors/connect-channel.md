@@ -22,7 +22,7 @@ A _betaalde media rekening_ verwijst naar een rekening op een derdereclameplatfo
 
 1. Selecteer **[!UICONTROL Settings]** met het cogopictogram.
 
-1. Kies in _[!UICONTROL Settings]_een verbindingstype in de sectie_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
+1. Kies in _[!UICONTROL Settings]_&#x200B;een verbindingstype in de sectie&#x200B;_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
 
    Naar keuze, als er verbonden rekeningen zijn, kunt u op _verbonden rekeningen_ klikken om een lijst van rekeningsnamen, details, en status te bekijken.
 

@@ -18,11 +18,11 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
 
 **om activa details** te bekijken:
 
-1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
-1. Als de sectie _[!UICONTROL Details]_niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
+1. Als de sectie _[!UICONTROL Details]_&#x200B;niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
 
 De gegevens van elementen omvatten metagegevens die zijn toegepast tijdens het maken of uploaden van bestanden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
 
@@ -56,7 +56,7 @@ Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploa
 
 **om de user-defined meta-gegevens** uit te geven:
 
-1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
@@ -97,7 +97,7 @@ De informatie kan omvatten:
 
 ## Historie
 
-Vouw de sectie _[!UICONTROL History]_in een ervaring uit om een tijdlijn van goedkeuringen en activiteit weer te geven. Een goedgekeurde ervaring onthult bijvoorbeeld de goedkeuringsdatum, -tijd en -fiatteur:
+Vouw de sectie _[!UICONTROL History]_&#x200B;in een ervaring uit om een tijdlijn van goedkeuringen en activiteit weer te geven. Een goedgekeurde ervaring onthult bijvoorbeeld de goedkeuringsdatum, -tijd en -fiatteur:
 
 ```
 Approved

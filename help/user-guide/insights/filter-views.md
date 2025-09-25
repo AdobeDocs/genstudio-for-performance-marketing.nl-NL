@@ -27,7 +27,7 @@ Toegepaste filters blijven in alle weergaven aanwezig. Selecteer **[!UICONTROL C
 
 Klik op het pictogram Zoeken (vergrootglas) om een zoekterm te typen om specifieke items in de tabel of galerie te zoeken. Als u bijvoorbeeld de term `Gear` opgeeft in de [!UICONTROL Ads] -tabel, worden de resultaten gefilterd zodat alleen advertenties worden weergegeven met de term `Gear` in de naam.
 
-![ Onderzoek van het het gebiedsvoorbeeld van het 0} Onderzoek naar advertenties met Gear in de naam ](/help/assets/insights-search.png ""){width=600 zoomable="yes"}
+![ Onderzoek van het het gebiedsvoorbeeld van het 0&rbrace; Onderzoek naar advertenties met Gear in de naam ](/help/assets/insights-search.png ""){width=600 zoomable="yes"}
 
 ### Datumbereik
 
@@ -43,21 +43,21 @@ Sommige tabellen kunnen meerdere pagina&#39;s beslaan, zoals aangegeven onder de
 
 ### Diabesturingselement
 
-Sommige filteropties bevatten een diabesturingselement waarmee u een waarde binnen een gedefinieerd bereik kunt selecteren. Met de schuifregelaar _[!UICONTROL Attributes]_in **[!UICONTROL Media count]**kunt u bijvoorbeeld kenmerken filteren op basis van het aantal gekoppelde afbeeldingen of video&#39;s. Sleep de schuifregelaar om een bereik op te geven, beginnend bij een minimum van 0 tot een maximum van 100.
+Sommige filteropties bevatten een diabesturingselement waarmee u een waarde binnen een gedefinieerd bereik kunt selecteren. Met de schuifregelaar _[!UICONTROL Attributes]_&#x200B;in **[!UICONTROL Media count]**&#x200B;kunt u bijvoorbeeld kenmerken filteren op basis van het aantal gekoppelde afbeeldingen of video&#39;s. Sleep de schuifregelaar om een bereik op te geven, beginnend bij een minimum van 0 tot een maximum van 100.
 
 ## Geavanceerde filtering
 
-Met _[!UICONTROL Campaigns]_- en_[!UICONTROL Ads]_ -filters kunt u exacte trefwoorden gebruiken om de lijst te verfijnen. Trefwoordfilters zijn vooral handig voor het filteren van campagnes of advertenties die een complexe naamgevingsconventie gebruiken met meerdere unieke id&#39;s. Een campagnenaam kan bijvoorbeeld het volgende bevatten:
+Met _[!UICONTROL Campaigns]_- en&#x200B;_[!UICONTROL Ads]_ -filters kunt u exacte trefwoorden gebruiken om de lijst te verfijnen. Trefwoordfilters zijn vooral handig voor het filteren van campagnes of advertenties die een complexe naamgevingsconventie gebruiken met meerdere unieke id&#39;s. Een campagnenaam kan bijvoorbeeld het volgende bevatten:
 
 - Naam of code van specifiek gebied: `NA`, `EMEA`
 - Inhoudstype acroniemen: `EB`, `CHT` of `DSP`
 - Aanbiedingscodes of acroniemen: `OFFER2023`, `PROMO`
 
-In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groeien. Houd rekening met het volgende scenario als u het filter _[!UICONTROL Campaigns]_wilt gebruiken om de tabel [!UICONTROL Ads] te verfijnen.
+In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groeien. Houd rekening met het volgende scenario als u het filter _[!UICONTROL Campaigns]_&#x200B;wilt gebruiken om de tabel [!UICONTROL Ads] te verfijnen.
 
 **om de lijst van Advertenties te verfijnen gebruikend de filter van Campagnes**:
 
-1. Selecteer de weergave _[!DNL Insights]_in **[!UICONTROL Ads]**.
+1. Selecteer de weergave _[!DNL Insights]_&#x200B;in **[!UICONTROL Ads]**.
 
    ![ Adds filter en lijst ](/help/assets/insights-ads-filter.png " Advertentie mening met filtermenu "){zoomable="yes"}
 
@@ -69,7 +69,7 @@ In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groe
 
    ![ campagnes van de Filter ](/help/assets/insights-filter-campaigns-expand.png " breid campagnecilter "){width=200} uit
 
-1. Voer in het zoekveld van _[!UICONTROL Select campaigns]_trefwoorden in, gescheiden door komma&#39;s.
+1. Voer in het zoekveld van _[!UICONTROL Select campaigns]_&#x200B;trefwoorden in, gescheiden door komma&#39;s.
 
    Gebruik trefwoorden om uw zoekopdracht te verfijnen met logische en nauwkeurige filtering.
 
@@ -89,7 +89,7 @@ In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groe
 
    ![ Lijst van campagnes ](/help/assets/insights-select-campaigns-list.png " Uitgezochte campagnes om te omvatten ")
 
-De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_boven de tabel of galerie met advertenties. U kunt zich uitsluitend richten op de advertenties die gekoppeld zijn aan de gekozen campagnes. In dit voorbeeld bevatten de gefilterde resultaten zes advertenties, waarmee u een meer doelgerichte weergave voor analyse kunt maken.
+De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_&#x200B;boven de tabel of galerie met advertenties. U kunt zich uitsluitend richten op de advertenties die gekoppeld zijn aan de gekozen campagnes. In dit voorbeeld bevatten de gefilterde resultaten zes advertenties, waarmee u een meer doelgerichte weergave voor analyse kunt maken.
 
 ![ Lijst die door campagnes ](/help/assets/insights-filter-by-campaigns.png " Lijst met campagnefilter "){zoomable="yes"} wordt gefiltreerd
 

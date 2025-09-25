@@ -23,7 +23,7 @@ Bij audiodetectie in GenStudio for Performance Marketing wordt de audiotrack van
 
 **aan voorproef een video en hoor een steekproef van de audio**:
 
-1. Selecteer de weergave _[!DNL Insights]_in **[!UICONTROL Attributes]**.
+1. Selecteer de weergave _[!DNL Insights]_&#x200B;in **[!UICONTROL Attributes]**.
 
 1. Wijzig de tabelweergave door **[!UICONTROL Video]** te selecteren.
 
