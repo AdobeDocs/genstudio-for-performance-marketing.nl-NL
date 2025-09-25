@@ -6,7 +6,7 @@ badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bep
 role: User
 level: Beginner
 exl-id: 4d43a214-c635-440f-9dbb-f371bc253195
-source-git-commit: c34576c93550eff6f15b31416e7a41ec36339fe5
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Bewerkbare gedeelten van een LinkedIn-ervaring zijn onder andere:
 * Titel
 * Inleidende tekst
 * Beschrijving
-* Oproep tot actie (CTA)
+* Call to action (CTA)
 * Afbeelding/Video
 
 Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
@@ -43,7 +43,7 @@ Elk gebied en sectie van de ervaringen LinkedIn worden progressief geladen in de
 1. Tekst in afbeelding
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de [_samenvatting_ van de controle van de Inhoud bevolkt voor elke variant.](/help/user-guide/guidelines/brand-validation.md#content-check-summary)
 
 ## Aantal tekens
 

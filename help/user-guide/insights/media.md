@@ -4,7 +4,7 @@ description: Leer hoe u de mediaprestaties in Adobe GenStudio for Performance Ma
 level: Intermediate
 feature: Reporting and Insights, Media Performance, Content Attributes
 exl-id: 1e93422b-2645-4e29-a216-fc1008afbfc7
-source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Overzicht van media
 
-In de weergave [!DNL Insights] _[!UICONTROL Media]_&#x200B;ziet u een lijst met media die worden gebruikt in advertenties en advertentiecampagnes voor de geselecteerde account._ Media _vertegenwoordigt een beeld, een video, tekst, of andere creatieve inhoud die voor gebruik in uw marketing initiatieven wordt goedgekeurd.
+In de weergave [!DNL Insights] _[!UICONTROL Media]_ziet u een lijst met media die worden gebruikt in advertenties en advertentiecampagnes voor de geselecteerde account._ Media _vertegenwoordigt een beeld, een video, tekst, of andere creatieve inhoud die voor gebruik in uw marketing initiatieven wordt goedgekeurd.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Media]_&#x200B;wordt ingedeeld met **[!UICONTROL Media ID]**. U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Media]_wordt ingedeeld met **[!UICONTROL Media ID]**. U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Media ](/help/assets/insights-media-filter.png){zoomable="yes"}
 
-In de galerieweergave van _[!UICONTROL Media]_&#x200B;ziet u een collage van voorvertoningen van media en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**&#x200B;te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
+In de galerieweergave van _[!UICONTROL Media]_ziet u een collage van voorvertoningen van media en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
 
 - CPA (Kosten per actie)
 - CTR (Klikdoorhalingsfrequentie)
@@ -46,7 +46,7 @@ Metrische gegevens over inzichten kunnen u helpen evalueren welke media bijdrage
 
 In de volgende tabel vindt u definities en inzichten voor de belangrijkste maatstaven voor digitale marketing in de tabelweergave van [!UICONTROL Media] . Elke metrisch omvat een korte definitie aangezien het op media betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect begrijpen.
 
-| Metrisch | Definitie | Inzicht |
+| Metrisch | Definitie | Insight |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Media ID]** | De naam die is gekoppeld aan een afbeelding, video, tekst of andere creatieve inhoud. | U kunt de tabel sorteren door op de kolomkop voor een van de belangrijkste maateenheden te klikken. |
 | **[!UICONTROL Impressions]** | Een telling van elke keer dat de media in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echte prestaties, insight, moet u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |

@@ -1,9 +1,9 @@
 ---
-title: Een Google Campagne Manager 360-advertentie activeren
+title: Google Campagne Manager 360 Advertentie activeren
 description: Leer hoe u Google Campagne Manager 360 activeert.
 feature: Ad Activation
 exl-id: e4ee4e04-8dd0-4e05-a0f7-0ddca2fbb6be
-source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Nadat de synchronisatie is voltooid, kunt u de toegevoegde accounts bekijken.
 
 ## Stap 3: Inhoud selecteren voor uw advertentie
 
-U kunt het publicatieproces starten via de galerie _[!DNL Content]_&#x200B;Ervaring of de startpagina van&#x200B;_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
+U kunt het publicatieproces starten via de galerie _[!DNL Content]_Ervaring of de startpagina van_[!DNL Activate]_ . Goedgekeurde ervaringen kunnen niet worden bewerkt. Elke ervaring kan slechts één element bevatten.
 
 **om ervaringen** te selecteren:
 

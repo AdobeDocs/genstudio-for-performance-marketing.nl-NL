@@ -1,10 +1,10 @@
 ---
-title: Overzicht van kanalen
+title: Overzicht kanalen
 description: Bekijk een overzicht van de betrokkenheid van klanten, prestaties, budget en uitgaven voor marketingcampagnes in Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Reporting and Insights, Ad Performance
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Overzicht van kanalen
 
-In de weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
+In de weergave [!DNL Insights] _[!UICONTROL Channels]_wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Channels]_&#x200B;wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Channels]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
@@ -27,7 +27,7 @@ Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan e
 
 ## Doelstellingen
 
-Op het moment dat u een campagne hebt gemaakt met Meta-advertenties, hebt u mogelijk een doel geselecteerd dat is afgestemd op uw bedrijfsdoelstellingen. Er zijn zes doelstellingen van Meta-advertenties zichtbaar in GenStudio for Performance Marketing:
+Op het moment dat u een campagne hebt gemaakt met advertenties van Meta, hebt u mogelijk een doel geselecteerd dat is afgestemd op uw bedrijfsdoelstellingen. Er zijn zes doelstellingen van Meta-advertenties zichtbaar in GenStudio for Performance Marketing:
 
 1. **Bewustheid**: Bereik uit aan het maximumpubliek en breng bewustzijn aan uw zaken.
 1. **Verkeer**: Verkeer van de verhoging aan uw plaats of toepassing.
@@ -44,7 +44,7 @@ Als bewustzijn bijvoorbeeld uw doel is, kan een verhoging van de snelheid van `i
 
 De volgende lijst verstrekt definities en inzichten voor zeer belangrijke digitale marketing metriek in de mening van Kanalen. Elke metrisch omvat een korte definitie aangezien het op Kanalen betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect op marketing campagnes begrijpen.
 
-| Metrisch | Definitie | Inzicht |
+| Metrisch | Definitie | Insight |
 | ----------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Meta campaign name]** | Een lijst met campagnemenamen voor de account van het aangesloten kanaal. De campagnestatus kan `Active`, `Paused`, `Deleted` of `Archived` zijn. Filtercampagnes op status en doel. | U kunt de tabel sorteren door op de kolomkop voor een van de belangrijkste maateenheden te klikken. |
 | **[!UICONTROL Launch]** | De datum waarop de campagne op de markt is gebracht of gepubliceerd. | Een hoog aantal indrukken kan erop wijzen dat de advertentie het beoogde publiek bereikt. |

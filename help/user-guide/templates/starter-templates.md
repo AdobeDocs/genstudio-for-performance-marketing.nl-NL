@@ -6,9 +6,9 @@ feature: Media Templates
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 recommendations: noDisplay, noCatalog
 exl-id: 47dbebd1-f2d8-4a9d-b86c-2d398af259f6
-source-git-commit: a7c69659c348fad3e067a84c1d242809a83b42fb
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -33,23 +33,23 @@ Hieronder vindt u een overzicht van de beschikbare startsjablonen, de ondersteun
 
 ### LinkedIn-advertentiesjablonen
 
-Alle hoogte-breedteverhoudingen worden ondersteund voor statische afbeeldingen. Voor video gebruikt u 9:16 voor LinkedIn-artikelen en zorgt u dat de video is geoptimaliseerd voor korte, verticale indelingen.
+Alle hoogte-breedteverhoudingen worden ondersteund voor statische afbeeldingen. Voor video, gebruik 9 :16 voor Artikelen LinkedIn en zorg ervoor dat uw video voor korte, verticale formaten wordt geoptimaliseerd.
 
 | Hoogte-breedteverhouding | Afdrukstand | Richtlijnen |
 |--------------|--------------|------------------------------------------------------------------------------------------------|
-| 1:1 | Vierkant | Consistente weergave op verschillende apparaten en plaatsen. |
-| 1,91:1 | Liggend | Standaard voor nieuwsfeeds of gesponsorde inhoud. Houd sleutelvisuals/overseinen binnen veilige streken. |
-| 1:1,91 | Staand | Groot verticaal formaat. Houd sleutelvisuals/overseinen binnen veilige streken. |
+| 1 :1 | Vierkant | Consistente weergave op verschillende apparaten en plaatsen. |
+| 1.91 :1 | Liggend | Standaard voor nieuwsfeeds of gesponsorde inhoud. Houd sleutelvisuals/overseinen binnen veilige streken. |
+| 1:1 .91 | Staand | Groot verticaal formaat. Houd sleutelvisuals/overseinen binnen veilige streken. |
 | 2:3, 4:5 | Staand | Geschikt voor portretformaten en helpt de creatieve opkomst op mobiele apparaten. |
-| 9:16 | verticaal | Best voor LinkedIn-artikelen (schermvullende ervaring voor video). |
+| 9 :16 | verticaal | Best voor LinkedIn-artikelen (schermvullende ervaring voor video). |
 
-### Meta-advertentiesjablonen
+### Meta Ad-sjablonen
 
 Alle hoogte-breedteverhoudingen worden ondersteund voor statische afbeeldingen en videomediatypen.
 
 | Hoogte-breedteverhouding | Afdrukstand | Richtlijnen |
 |--------------|--------------|------------------------------------------------------------------------------------------------|
-| 1:1 | Vierkant | Aanbevolen voor feed-berichten, carrouseladvertenties en feed-video&#39;s voor brede compatibiliteit. |
-| 1,91:1 | Liggend | Dit is het meest geschikt voor banners, koppelingsadvertenties en breedbeeldvideobaden. |
+| 1 :1 | Vierkant | Aanbevolen voor feed-berichten, carrouseladvertenties en feed-video&#39;s voor brede compatibiliteit. |
+| 1.91 :1 | Liggend | Dit is het meest geschikt voor banners, koppelingsadvertenties en breedbeeldvideobaden. |
 | 4:5 | Staand | Ideaal voor mobiele feeds; maximaliseert verticale ruimte en zichtbaarheid, vooral voor video-inhoud. |
-| 9:16 | verticaal | Ontworpen voor artikelen en artikelen, voor een indrukwekkende schermvullende ervaring. |
+| 9 :16 | verticaal | Ontworpen voor artikelen en artikelen, voor een indrukwekkende schermvullende ervaring. |

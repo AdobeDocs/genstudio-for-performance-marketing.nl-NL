@@ -2,7 +2,8 @@
 title: Een LinkedIn-advertentie activeren
 description: Leer hoe u een LinkedIn-advertentie activeert.
 feature: Ad Activation
-source-git-commit: 5279caaf4651ed81c3cf3d8a4de2f17c3f151ec8
+exl-id: edc95319-36c3-4cbf-a5c0-865b49482b50
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '823'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Leer hoe u de prestaties van specifieke kenmerken in Adobe GenStudi
 level: Intermediate
 feature: Reporting and Insights, Content Attributes, Content Performance
 exl-id: 9d05c128-50d5-415a-ae60-7023c36c06ad
-source-git-commit: facc38b8afe8104e27a89ac3d9ec40d1209229a9
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '795'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Overzicht van kenmerken
 
-In de weergave [!DNL Insights] _[!UICONTROL Attributes]_&#x200B;ziet u een lijst met kenmerken die worden gebruikt in advertentiecampagnes voor het geselecteerde kanaalaccount.
+In de weergave [!DNL Insights] _[!UICONTROL Attributes]_ziet u een lijst met kenmerken die worden gebruikt in advertentiecampagnes voor het geselecteerde kanaalaccount.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Attributes]_&#x200B;wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**&#x200B;en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Attributes]_wordt ingedeeld met de naam [!UICONTROL Attribute] . U kunt schakelen tussen de lijsttypen met de knop **[!UICONTROL Images]**en de knop **[!UICONTROL Video]**. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
 ![ de filter en lijst van Attributen ](/help/assets/insights-attributes-filter.png){zoomable="yes"}
 
@@ -53,12 +53,12 @@ Metrische gegevens over inzichten kunnen u helpen te evalueren welke kenmerken d
 
 In de volgende tabel vindt u definities en inzichten voor de belangrijkste maatstaven voor digitale marketing in de tabelweergave van [!UICONTROL Attributes] . Elke metrisch omvat een korte definitie aangezien het op attributen betrekking heeft, hoe metrisch wordt berekend, en één of meerdere inzichten helpen zijn betekenis en effect op een advertentiecampagne begrijpen.
 
-| Metrisch | Definitie | Inzicht |
+| Metrisch | Definitie | Insight |
 | ---------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Attribute]** | De kenmerknaam. | U kunt de tabel sorteren door op de kolomkop voor een van de belangrijkste maateenheden te klikken. |
 | **[!UICONTROL Category]** | De [ categorie ](#categories) die de inherente kwaliteit van een attribuut vertegenwoordigt. |  |
-| **[!UICONTROL # of images]** | Het aantal afbeeldingen met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
-| **[!UICONTROL # of videos]** | Het aantal video&#39;s met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio lichtjes verschillende samenvattingsberekeningen gebruiken. |
+| **[!UICONTROL # of images]** | Het aantal afbeeldingen met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio enigszins verschillende samenvattingsberekeningen gebruiken. |
+| **[!UICONTROL # of videos]** | Het aantal video&#39;s met dit kenmerk. | De telling in de lijst van Attributen kan verschillend zijn dan de telling in de de detailmening van Attributen. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio enigszins verschillende samenvattingsberekeningen gebruiken. |
 | **[!UICONTROL Impressions]** | Een telling van elke keer dat een afbeelding of video&#39;s met dit kenmerk in het kanaal worden geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echte prestaties, insight, moet u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
 | **[!UICONTROL Clicks]** | Het aantal keren dat gebruikers met een afbeelding of video communiceren met dit kenmerk. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
 | **[!UICONTROL CTR]**<br>_klik-door tarief _ | Percentage (%) van de indrukkingen dat heeft geresulteerd in klikken op afbeeldingen of video&#39;s met dit kenmerk.<br>**Berekening**: `clicks` verdeeld door `impressions` | Een hoog klikthrough tarief wijst erop dat de inhoud hoogst relevant en motiverend voor het publiek in het overseinen en ontwerp is, en effectief gericht op de belangen van het publiek. |

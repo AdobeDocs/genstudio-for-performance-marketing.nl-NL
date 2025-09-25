@@ -1,9 +1,9 @@
 ---
-title: Activeringen beheren
+title: Activering beheren
 description: Leer hoe u geactiveerde ervaringen met Adobe GenStudio for Performance Marketing kunt beheren.
 feature: Ad Activation
 exl-id: 7cf340d4-37ab-4906-9aad-088a26db0818
-source-git-commit: a36e9611cd0e7d70ddc79de7eb688300eeb8ac88
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Activeringen beheren
 
-[!DNL Activate] biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De _Geactiveerde 1&rbrace; mening van Ervaringen &lbrace;toont alle activeringen voor één verbonden kanaal en rekening._
+[!DNL Activate] biedt een gecentraliseerde weergave van de activeringsstatus van elk advertentiekanaal, waaronder Gepubliceerd (geslaagd), Mislukt (mislukt) en Publiceren (in behandeling). De _Geactiveerde 1} mening van Ervaringen {toont alle activeringen voor één verbonden kanaal en rekening._
 
 [!DNL Activate] organiseert geactiveerde ervaringen via het ad-hockanaal. Klik op **[!UICONTROL View]** op het kanaalelement. De _Geactiveerde ervaringen_ mening voor het geselecteerde kanaal opent. In deze weergave worden ervaringen op naam weergegeven en op activeringsdatum gesorteerd. Als uw organisatie voor dat kanaal geen ervaringen heeft geactiveerd, bevat de productegel niet de knop **[!UICONTROL View]** .
 
@@ -40,7 +40,7 @@ Klik op de activering om een gerichte weergave van activeringsdetails te openen.
 Van de _Geactiveerde ervaringen_ mening, klik op een activering. De read-only _detail van de Activering_ mening vangt de definiërende details van een geactiveerde ervaring, met inbegrip van ontbroken activeringen. Deze weergave bevat informatie die is afgeleid van zowel GenStudio for Performance Marketing als het advertentiekanaal.
 
 * **de tijd en de datum van de Publicatie**: Tijd en datum van publicatie van de manager van het advertentiekanaal
-* **identiteitskaart van de Advertentie**: identiteitskaart die door het betaalde kanaal wordt toegewezen en voor het volgen wordt gebruikt. Klik op de knop **[!UICONTROL Open]** naast dit veld om de gepubliceerde advertentie weer te geven in Meta Ads Manager
+* **identiteitskaart van de Advertentie**: identiteitskaart die door het betaalde kanaal wordt toegewezen en voor het volgen wordt gebruikt. Klik op de knop **[!UICONTROL Open]** naast dit veld om de gepubliceerde advertentie in Meta Ads Manager weer te geven
 * **de details van de Ervaring**: De geselecteerde beeldactiva, teksten, en meta-gegevens die tijdens het de activeringswerkschema van GenStudio for Performance Marketing worden toegewezen
 * **de opstelling van het Kanaal**: De betaalde die kanaalrekeningen worden gebruikt om de advertentie te activeren
 

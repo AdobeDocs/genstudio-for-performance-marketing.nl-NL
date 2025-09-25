@@ -1,10 +1,10 @@
 ---
-title: Opmerkingen bij de release van Adobe GenStudio for Performance Marketing Beta
+title: Opmerkingen bij de release Adobe GenStudio for Performance Marketing Beta
 description: Meer informatie over de nieuwste functies en verbeteringen voor Adobe GenStudio voor prestatiemarketing.
 hidefromtoc: true
 hide: true
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ad532813338a7506483c2ab5892a61d7dc4785d4
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe G
 
 * Filtermogelijkheden in het hele product zijn verbeterd. Problemen met filteren op leeftijd en geslacht in [!DNL Insights] zijn opgelost.  <!-- GS-1198 -->
 
-* U kunt afbeeldingselementen (JPG of PNG) rechtstreeks bewerken met Adobe Express. Inhoudeditors kunnen het canvas van _[!UICONTROL Powered by Adobe Express]_&#x200B;gebruiken om achtergronden te verwijderen, generatieve vullingen toe te passen, effecten aan te passen en afbeeldingen uit te snijden zonder GenStudio for Performance Marketing te verlaten. <!-- GS-4615 -->
+* U kunt afbeeldingselementen (JPG of PNG) rechtstreeks bewerken met Adobe Express. Inhoudeditors kunnen het canvas van _[!UICONTROL Powered by Adobe Express]_gebruiken om achtergronden te verwijderen, generatieve vullingen toe te passen, effecten aan te passen en afbeeldingen uit te snijden zonder GenStudio for Performance Marketing te verlaten. <!-- GS-4615 -->
 
 * Verbeterde ervaring met progressief laden voor gegenereerde varianten, gegenereerde e-mail en contextafhankelijke berichten. <!-- GS-4651 3062-->
 
@@ -35,13 +35,13 @@ Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe G
 
 * Met het canvas van [!DNL Create] worden nu aangepaste lettertypen op basis van sjablonen weergegeven zoals u had verwacht. <!-- GS-3415 -->
 
-* Het juiste lettertype wordt nu toegepast tijdens het exporteren naar Meta. <!-- GS-5875 -->
+* Het juiste lettertype wordt nu toegepast tijdens de Meta- en exportbewerkingen. <!-- GS-5875 -->
 
 * Problemen met het uploaden van een sjabloon die tot een succesvol uploaden hebben geleid, maar die niet zichtbaar zijn in de interface van het product, zijn opgelost. <!-- GS-4815 5650-->
 
 * Gebruikers kunnen Meta-advertenties nu handmatig uitsnijden nadat ze zijn vergroot of verkleind. <!-- GS-5871 -->
 
-* Gebruikers hoeven zich niet meer twee keer aan te melden bij een kanaal voor Meta-advertenties wanneer zij zich ook bij Facebook hebben aangemeld. <!-- GS-3009 -->
+* Gebruikers hoeven zich niet meer twee keer aan te melden bij een Meta-advertentieaccount voor een kanaal wanneer ze zich ook bij Facebook hebben aangemeld. <!-- GS-3009 -->
 
 * De Canvasweergave van elementen en ervaringen blijft nu consistent tijdens het maken, beoordelen en goedkeuren van inhoud. <!-- GS-5877 -->
 
@@ -63,7 +63,7 @@ Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe G
 
 * Schimmereffecten blijven nu laden totdat de afbeelding opnieuw is gemaakt.  <!-- GS-5811 -->
 
-* Merkvalidatiescore worden niet meer ongeldig nadat een gebruiker wijzigingen heeft aangebracht in gegenereerde e-mail, metaadvertenties of weergaveadvertenties. Eerder was deze score verborgen. <!-- GS-5379 -->
+* Merkvalidatiescore worden niet meer ongeldig nadat een gebruiker wijzigingen heeft aangebracht in gegenereerde e-mail, Meta-advertenties of weergaveadvertenties. Eerder was deze score verborgen. <!-- GS-5379 -->
 
 * Sjablonen waaraan CSS-stijlen zijn gekoppeld aan hun `body` -element, worden nu gebruikt zoals u had verwacht tijdens het exporteren van ervaringen. <!-- GS-5947 -->
 
@@ -73,7 +73,7 @@ Deze nota&#39;s benadrukken significante correcties en verbeteringen van Adobe G
 
 * Verbeterde Canvasprestaties tijdens het bewerken van tekst.  <!-- GS-5118 -->
 
-* Ontbrekende spaties toegevoegd tussen tekenreeksen op het [!DNL Create] -e-mailadres of het Meta-canvas. <!-- GS-5019 -->
+* Ontbrekende spaties toegevoegd tussen tekenreeksen op het [!DNL Create] -e-mailadres of het Meta- en canvas. <!-- GS-5019 -->
 
 * Editors kunnen nu een bestand met namen die speciale tekens bevatten, opslaan na bewerking in Express. <!-- GS-6131 -->
 

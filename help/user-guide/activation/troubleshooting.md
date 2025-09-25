@@ -4,7 +4,7 @@ description: Leer hoe u activeringen kunt optimaliseren voor betaalde advertenti
 level: Intermediate
 feature: Ad Activation
 exl-id: 5bc624c2-d064-4190-8761-ed05d0629d1f
-source-git-commit: 6ee58b22761be357bb9ff753cf9e5bd5b431c513
+source-git-commit: 0ccdeb2b3375e9ee72bfc4458eeaff11709768cb
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -35,15 +35,15 @@ Hier volgen enkele veelvoorkomende aanbevolen procedures en de fouten die deze k
 
 * **herzie uw geplaatste advertentie en zorg ervoor dat slechts één advertentie op elk ogenblik actief is**
 
-  Als u meerdere metagegevenssets moet activeren, maakt u voor elke set een aparte Dynamische Creative-advertentiesets. Voorbeeldfout: _Dynamische Creative Ad Set staat maximaal één actieve advertentie toe. Gebruikers mogen niet meer dan één advertentie maken onder dezelfde dynamische Creative-advertentieset. (100)_
+  Als u meerdere Meta-advertenties moet activeren, maakt u voor elke advertentieset een aparte Dynamic Creative. Voorbeeldfout: _Dynamische Creative Ad Set staat maximaal één actieve advertentie toe. Gebruikers mogen niet meer dan één advertentie maken onder dezelfde dynamische Creative-advertentieset. (100)_
 
 * **Gelijke het aantal toegepaste regels met het bedrag dat door het platform** wordt gespecificeerd
 
   Betaalde kanalen verwachten dat het aantal toegepaste regels overeenkomt met het opgegeven formaat.  Pas indien nodig het aantal regels aan zodat deze overeenkomen met de waarde die het platform opgeeft. Voorbeeldfout: _Ad AssetFeed heeft X doel(en) voor formaat: naam van formaat, maar precies X doel regel voor dit formaat wordt verwacht. (100)_
 
-* **kies een vraag-aan-actie (CTA) die met uw ad vastgestelde doelstelling** compatibel is
+* **kies een call-to-action (CTA) die met uw doel van de advertentieset** compatibel is
 
-  Call-to-actions die niet compatibel zijn met het doel in Dynamic Creative Ad Sets, veroorzaken een fout. Voorbeeldfout: _de vraag aan actietype X wordt niet gesteund voor doelstelling Y in Dynamische Creative Ad Reeks. (100)_
+  Call-to-actions die niet compatibel zijn met het doel in Dynamic Creative Ad Sets, veroorzaken een fout. Voorbeeldfout: _call to action type X wordt niet ondersteund voor doelstelling Y in Dynamische Creative Ad Set. (100)_
 
 * **verzeker het doel en de reeks GLB steunt het aantal ad ervaringen**
 
@@ -51,4 +51,4 @@ Hier volgen enkele veelvoorkomende aanbevolen procedures en de fouten die deze k
 
 * **zorg ervoor dat het platform uw geselecteerd type van CTA** steunt
 
-  Bevestig dat uw ervaring een ondersteund CTA-type bevat. Voorbeeldfout: _(#100) Ongeldige aanroep naar actietype (100)_
+  Bevestig dat uw ervaring een ondersteund CTA-type bevat. Voorbeeldfout: _(#100) Ongeldig call to action-type (100)_

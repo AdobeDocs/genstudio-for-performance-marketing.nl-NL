@@ -1,11 +1,11 @@
 ---
-title: Effectieve aanwijzingen schrijven
+title: Effectieve vragen schrijven
 description: Meer informatie over hoe u effectieve opdrachten schrijft voor Adobe GenStudio voor prestatiemarketing.
 role: User
 level: Beginner
 feature: Create Prompt, Generative AI
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in de snelle lade gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
 
-Voor [ e-mails ](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/user-guide/create/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand activa, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
+Voor [ e-mails ](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/user-guide/create/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand middel, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >

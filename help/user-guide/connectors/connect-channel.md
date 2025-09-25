@@ -5,7 +5,7 @@ level: Intermediate
 role: Admin, Data Engineer
 feature: Reporting and Insights, Delivery and Activation
 exl-id: e699041e-b462-45b3-8c4c-4de0d52cf0e6
-source-git-commit: 2f18b273684a9fe9b9b8903838ae09f5cd2b7842
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -22,14 +22,14 @@ A _betaalde media rekening_ verwijst naar een rekening op een derdereclameplatfo
 
 1. Selecteer **[!UICONTROL Settings]** met het cogopictogram.
 
-1. Kies in _[!UICONTROL Settings]_&#x200B;een verbindingstype in de sectie&#x200B;_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
+1. Kies in _[!UICONTROL Settings]_een verbindingstype in de sectie_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
 
    Naar keuze, als er verbonden rekeningen zijn, kunt u op _verbonden rekeningen_ klikken om een lijst van rekeningsnamen, details, en status te bekijken.
 
 1. Zie het volgende schakelaartype dat u selecteerde om de eerste vereisten te herzien en met de verbindingsstappen verder te gaan:
 
    - [Google Campagne Manager 360](google-cm360.md)
-   - [Metaadvertenties](meta-ads.md)
+   - [Meta Adds](meta-ads.md)
 
 ## Betaalde media
 

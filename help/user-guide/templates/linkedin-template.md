@@ -4,9 +4,10 @@ description: Volg de aanbevolen procedures bij het gebruik van LinkedIn-sjablone
 level: Intermediate
 role: Developer, User
 feature: Media Templates
-source-git-commit: 35a519a8d28e260bfa6d9ed671bd5bf1cfeda931
+exl-id: 85432185-8311-411b-b57b-f482c3d45854
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -42,11 +43,11 @@ Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.m
 
 | Hoogte-breedteverhouding | Platform | Minimale grootte (px) | Max. grootte (px) | Notities |
 |-------------------|-----------------|---------------|----------------|-------------------------------------------------------------------------------------|
-| Vierkant 1:1 | Desktop, mobiel | 360 x 360 | 4320 x 4320 | Het meest veelzijdig. Ideaal voor een consistente weergave op verschillende apparaten en plaatsen. |
-| Horizontaal 1,91:1 | Desktop | 640 x 360 | 7680 x 4320 | Standaardindeling liggend. Meestal gebruikt voor gesponsorde inhoud en nieuwsberichten. |
-| Verticaal 1:1,91 | Mobiel | 360 x 640 | 2430 x 4320 | Groot verticaal formaat. Geoptimaliseerd voor mobiele weergave, met meer schermaanwezigheid. |
-| Verticaal 2:3 | Mobiel | 360 x 640 | 2430 x 4320 | Iets minder hoog dan 1:1,91. Goed voor campagnes op mobiele basis. |
-| Verticaal 4:5 | Mobiel | 360 x 640 | 2430 x 4320 | Aanbevolen voor mobiele apparaten. Hiermee worden de zichtbaarheid en de inhoud in evenwicht gebracht, wat vaak een hogere impact heeft. |
+| Vierkant 1 :1 | Desktop, mobiel | 360 x 360 | 4320 x 4320 | Het meest veelzijdig. Ideaal voor een consistente weergave op verschillende apparaten en plaatsen. |
+| Horizontaal 1.91 :1 | Desktop | 640 x 360 | 7680 x 4320 | Standaardindeling liggend. Meestal gebruikt voor gesponsorde inhoud en nieuwsberichten. |
+| Verticaal 1:1.91 | Mobiel | 360 x 640 | 2430 x 4320 | Groot verticaal formaat. Geoptimaliseerd voor mobiele weergave, met meer schermaanwezigheid. |
+| Verticaal 2 :3 | Mobiel | 360 x 640 | 2430 x 4320 | Iets minder hoog dan 1:1.91. Goed voor campagnes op mobiele basis. |
+| Verticaal 4 :5 | Mobiel | 360 x 640 | 2430 x 4320 | Aanbevolen voor mobiele apparaten. Hiermee worden de zichtbaarheid en de inhoud in evenwicht gebracht, wat vaak een hogere impact heeft. |
 
 <!-- Potentially add an example
 

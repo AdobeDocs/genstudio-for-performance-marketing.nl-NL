@@ -3,7 +3,7 @@ title: Merkvalidatie in Adobe GenStudio for Performance Marketing
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 8f8d10db351f440ccd64f4ef5a54b6ace9f9db85
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '689'
 ht-degree: 0%
@@ -63,11 +63,11 @@ Om **het inhoudstype** voor de controles te plaatsen u uitgevoerd wilt, klik om 
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de _samenvatting [&#128279;](#content-check-summary) van de controle van de Inhoud[_ en het _paneel van de controle van de Inhoud ](#content-check-panel)._ U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de [_samenvatting_ van de controle van de Inhoud ](#content-check-summary) en het [_paneel van de controle van de Inhoud_. ](#content-check-panel) U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
 
 **om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 0&rbrace; &lbrace;in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
+1. Klik het _paneelpictogram van de controle van de Inhoud 0} {in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
 
    U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien wat verbetering vereist.
 

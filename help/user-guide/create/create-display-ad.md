@@ -1,12 +1,12 @@
 ---
-title: Een weergave en ervaring maken
+title: Een weergave-advertentie-ervaring maken
 description: Leer hoe te om vertoning en ervaringen in Adobe  [!DNL GenStudio]  voor de Marketing van Prestaties tot stand te brengen.
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 role: User
 level: Beginner
 recommendations: noDisplay
 exl-id: 7d5e777b-7a30-48f4-b253-9823e38eecce
-source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '1090'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Als u een weergave en ervaring wilt maken, gebruikt u een beschikbare sjabloon o
 
 **om een vertoning en malplaatje** te kiezen:
 
-1. Klik in _[!DNL Create]_&#x200B;op **[!UICONTROL Display ads]**.
+1. Klik in _[!DNL Create]_op **[!UICONTROL Display ads]**.
 1. Gebruik de onderzoeksoptie, naast _Filter_, om een specifieke vertoning en malplaatje te vinden.
 1. In de _Uitgezochte malplaatje_ mening, klik op een vertoning en malplaatje.
 1. Klik op **[!UICONTROL Use]**.
@@ -48,7 +48,7 @@ Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], 
 1. Om inhoud toe te voegen die in de ervaring *moet worden gebruikt en* om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen (afbeeldingen) te selecteren in de [!DNL Content] -opslagplaats, filter een of meer afbeeldingen en selecteer deze.
 
-     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2&rbrace; dropdown menu van de Plaats &lbrace;._ Filter een of meer afbeeldingen en selecteer deze.
+     Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
    * Of sleep elementen naar de sectie **[!UICONTROL Select from Content]** om een of meer nieuwe elementen te uploaden.
 1. Klik op **[!UICONTROL Use]**.
@@ -78,15 +78,15 @@ Als u een afzonderlijke laag wilt markeren die u wilt herzien, klikt u op een be
 
 **om geproduceerde varianten** te herzien:
 
-* **[ om de vertoning en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
+* **[ om de vertoning en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)** uit te geven, klik in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas en ga een nieuwe titel in._
 * **[ om een vertoningsadvertentie](/help/user-guide/create/manage-variants.md#manually-edit-text)** manueel uit te geven, klik in om het even welke vertoning en secties of gebieden (zoals de onderwerpregel, kopbal, of lichaamskopie) tweemaal en geef zoals nodig uit.
 * **om [ tekst toe te passen formatterend](/help/user-guide/create/manage-variants.md#manually-edit-text)** in een variant, klik de tekst op beeld of in-lijn verbinding voor een variant en klik **[!UICONTROL Format text]**.
-* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_&#x200B;opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
 * **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
 * **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
 * **[ om alt tekst voor beelden in een variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** toe te voegen, klik een beeldactiva en gebruik de _alt tekst_ optie om alt tekst per beeld manueel toe te voegen of te produceren.
 * **[ om toegankelijkheidsetiketten ](/help/user-guide/create/manage-variants.md#add-accessibility-labels) aan uw varianten** toe te voegen klik op een beeld of verbinding van call-to-action, dan een korte beschrijving verstrekken die verklaart wat de verbinding of de knoop doet.
-* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 * **[ om beelden](/help/user-guide/create/manage-variants.md#crop-assets)** te bebouwen of te verplaatsen, klik een beeld, klik **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Crop]**. Pas de grootte en plaatsing van de afbeelding aan.
 * **aan [ gebruiks Generatief breidt zich aan grootte uit en past beelden ](/help/user-guide/create/manage-variants.md#use-generative-expand) aan uw werkend malplaatje**, klikt een beeld, klikt **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Expand]**. Pas de afbeelding aan de gewenste hoogte-breedteverhouding en sjabloon aan.
 
@@ -100,11 +100,11 @@ Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#ge
 
 ## Uitlijning van inhoud controleren
 
-Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1&rbrace; [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)._ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het [_paneel van de controle van de Inhoud 1}_. ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
 **om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het_ controle van de Inhoud [_paneel_ te openen. ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
    ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
@@ -130,7 +130,7 @@ Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md).
 Als u de gegenereerde weergaveadvertenties beschikbaar wilt maken voor huidige en toekomstige gebruik, publiceert u deze naar [!UICONTROL Content] en exporteert u deze voor gebruik in uw marketingcampagnes.
 
 1. **om uw nieuwe vertoning en ervaring(en)** te publiceren, klik **[!UICONTROL Publish]** in de hoogste toolbar, of binnen de goedkeuringsstroom.
-   1. Selecteer _[!UICONTROL [!DNL Campaigns]]_&#x200B;en voeg desgewenst&#x200B;_[!UICONTROL More details]_ toe.
+   1. Selecteer _[!UICONTROL [!DNL Campaigns]]_en voeg desgewenst_[!UICONTROL More details]_ toe.
    1. Klik op **[!UICONTROL Publish]**.
 
       ![ publiceer een vertoningsadvertentie ](/help/assets/publish-displayad.png){width="450" zoomable="yes"}

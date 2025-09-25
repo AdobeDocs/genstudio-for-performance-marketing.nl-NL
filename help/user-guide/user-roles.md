@@ -5,7 +5,7 @@ level: Beginner
 feature: Generative AI, Guidelines
 role: Admin
 exl-id: 33ebcf9c-e5f8-4011-b449-5f73d151f221
-source-git-commit: 96e5d88eb92e61940d3cfbbf019edefd7d29e4c4
+source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
 workflow-type: tm+mt
 source-wordcount: '1123'
 ht-degree: 0%
@@ -26,9 +26,9 @@ Deze gebruikersroltitels kunnen gelijkaardig lijken, maar zij identificeren unie
 
 **het systeembeheerders van Adobe** hebben de voorrechten van de machtsgebruiker in Adobe Admin Console en voeren alle taken van het gebruikersbeheer uit, zoals het toevoegen van of het schrappen van gebruikers. Deze rol van systeembeheerder verleent geen voorrechten in de toepassing van GenStudio for Performance Marketing, die verklaart waarom de het systeembeheerders van Adobe geen vergunning voor GenStudio vereisen. Adobe-systeembeheerders gebruiken doorgaans de Admin Console om gebruikersaccounts toe te voegen aan en te verwijderen uit GenStudio-implementaties en om rechten, of machtigingen, toe te wijzen aan of te verwijderen van individuele gebruikers of gebruikersgroepen.
 
-**het systeemmanagers van GenStudio** zijn machtsgebruikers binnen GenStudio for Performance Marketing maar hebben geen toestemming om taken in Adobe Admin Console uit te voeren. Deze rol van de systeemmanager vereist een het productvergunning van GenStudio en het beantwoordt aan een Gebruiker van de Macht in de [ beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-systeembeheerders hebben volledige rechten op GenStudio for Performance Marketing-mogelijkheden, waaronder [!DNL Brands] , [!DNL Persona] en [!DNL Product] het maken, verwijderen, bijwerken en publiceren. [ de Beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) verklaart hoe de gebruikersrollen van GenStudio op productvergunningen betrekking hebben.
+**het systeemmanagers van GenStudio** zijn machtsgebruikers binnen GenStudio for Performance Marketing maar hebben geen toestemming om taken in Adobe Admin Console uit te voeren. Deze rol van de systeemmanager vereist een het productvergunning van GenStudio en het beantwoordt aan een Gebruiker van de Macht in de [ beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-systeembeheerders hebben volledige rechten op GenStudio for Performance Marketing-mogelijkheden, waaronder [!DNL Brands] , [!DNL Persona] en [!DNL Product] het maken, verwijderen, bijwerken en publiceren. [ de Beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) verklaart hoe de gebruikersrollen van GenStudio op productvergunningen betrekking hebben.
 
-Zie [ Administratieve rollen ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html#enterprise) in _de beleidsgids van de Onderneming en van Teams_.
+Zie [ Administratieve rollen ](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise) in _de beleidsgids van de Onderneming en van Teams_.
 
 ## Rechten
 

@@ -4,7 +4,7 @@ description: Meer informatie over de videofunctie van kenmerkcategorieën die in
 level: Intermediate
 feature: Reporting and Insights, Video Attributes, Generative AI
 exl-id: 0dfdd735-b365-4a15-a6fd-e981697442cb
-source-git-commit: c742fb33a04b36da35036a4554a475141fce8b01
+source-git-commit: 72cd93d9d6fdd99d5a524d05cba923e9c0191960
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Bij audiodetectie in GenStudio for Performance Marketing wordt de audiotrack van
 
 **aan voorproef een video en hoor een steekproef van de audio**:
 
-1. Selecteer de weergave **[!UICONTROL Attributes]** in _[!DNL Insights]_.
+1. Selecteer de weergave _[!DNL Insights]_in **[!UICONTROL Attributes]**.
 
 1. Wijzig de tabelweergave door **[!UICONTROL Video]** te selecteren.
 

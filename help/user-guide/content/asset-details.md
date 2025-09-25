@@ -1,9 +1,9 @@
 ---
-title: Gegevens van element
+title: Details van element
 description: Adobe GenStudio for Performance Marketing slaat goedgekeurde inhoud op met rijke metagegevens voor zoekbaarheid en het bijhouden van prestaties.
 feature: Generative AI, Content Attributes, Content Management
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 19d0b8b929e293179a091cc7b5a6a1268b0abbbd
+source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Elk element (met inbegrip van ervaringen en malplaatjes) heeft _details_ (meta-g
 
 **om activa details** te bekijken:
 
-1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
-1. Als de sectie _[!UICONTROL Details]_&#x200B;niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
+1. Als de sectie _[!UICONTROL Details]_niet zichtbaar is, klikt u op het pictogram **[!UICONTROL Information]**(i).
 
 De gegevens van elementen omvatten metagegevens die zijn toegepast tijdens het maken of uploaden van bestanden. De meta-gegevenstypes van activa omvatten [ systeemmeta-gegevens ](#system-metadata) en [ user-defined meta-gegevens ](#user-defined-metadata).
 
@@ -56,7 +56,7 @@ Wanneer u [ activa ](/help/user-guide/content/manage-assets.md#add-assets) uploa
 
 **om de user-defined meta-gegevens** uit te geven:
 
-1. Selecteer in _[!DNL Content]_&#x200B;een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
+1. Selecteer in _[!DNL Content]_een element, ervaring of sjabloon. Als u op een element klikt, wordt een gefocuste weergave van het element geopend.
 
 1. Reviseer in de elementweergave de _[!UICONTROL Details]_-sectie aan de rechterkant.
 
@@ -87,7 +87,7 @@ In de volgende tabel worden de metagegevens (elementdetails) weergegeven die u k
 
 ## Algemene context
 
-In de sectie [!UICONTROL Generative Context] ziet u welke informatie is gebruikt om de ervaring te genereren, zoals de sectie `Prompt` die tijdens het [!DNL Create] -proces wordt gebruikt. Dit inzicht kan u helpen om nog succesvollere varianten te bouwen.
+In de sectie [!UICONTROL Generative Context] ziet u welke informatie is gebruikt om de ervaring te genereren, zoals de sectie `Prompt` die tijdens het [!DNL Create] -proces wordt gebruikt. Deze insight kan u helpen om nog succesvollere varianten te bouwen.
 
 De informatie kan omvatten:
 
@@ -97,7 +97,7 @@ De informatie kan omvatten:
 
 ## Historie
 
-Vouw de sectie _[!UICONTROL History]_&#x200B;in een ervaring uit om een tijdlijn van goedkeuringen en activiteit weer te geven. Een goedgekeurde ervaring onthult bijvoorbeeld de goedkeuringsdatum, -tijd en -fiatteur:
+Vouw de sectie _[!UICONTROL History]_in een ervaring uit om een tijdlijn van goedkeuringen en activiteit weer te geven. Een goedgekeurde ervaring onthult bijvoorbeeld de goedkeuringsdatum, -tijd en -fiatteur:
 
 ```
 Approved

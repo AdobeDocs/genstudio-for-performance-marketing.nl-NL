@@ -7,7 +7,7 @@ level: Beginner
 badgeBeta: label="Beta" tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."
 recommendations: noDisplay
 exl-id: abe10fc8-d6d5-4cad-9273-400b622f22b7
-source-git-commit: d82891b2347c6b97bf8f6eef9cffe363ea341725
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '1183'
 ht-degree: 0%
@@ -28,10 +28,10 @@ U kunt een sjabloon selecteren in de lijst met aangepaste sjablonen of een start
 
 **om een malplaatje LinkedIn** te kiezen:
 
-1. Klik in _[!DNL Create]_&#x200B;op **[!UICONTROL LinkedIn]**.
+1. Klik in _[!DNL Create]_op **[!UICONTROL LinkedIn]**.
 1. Selecteer **[!UICONTROL Custom templates]** om door uw geüploade sjablonen te bladeren of **[!UICONTROL Starter templates]** om door de vooraf gebouwde sjablonen te bladeren.
 
-   Als u video-elementen wilt toevoegen aan uw meta-varianten, moet u een startsjabloon kiezen. Ze worden vooraf geladen met door het systeem gedefinieerde inhoudsgebieden die het gebruik van video&#39;s vergemakkelijken.
+   Als u video-elementen wilt toevoegen aan uw Meta-varianten, moet u een startsjabloon kiezen. Ze worden vooraf geladen met door het systeem gedefinieerde inhoudsgebieden die het gebruik van video&#39;s vergemakkelijken.
 
 1. Klik om een sjabloon te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -58,7 +58,7 @@ Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en ac
 
    ![ kies visuele inhoud ](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
-   Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2&rbrace; dropdown menu van de Plaats &lbrace;._ Filter een of meer afbeeldingen en selecteer deze.
+   Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2} dropdown menu van de Plaats {._ Filter een of meer afbeeldingen en selecteer deze.
 
 1. Klik op **[!UICONTROL Use]**.
 
@@ -87,14 +87,14 @@ Voordat u varianten ter goedkeuring of publicatie naar [!DNL Content] verzendt, 
 
 **om geproduceerde varianten** te herzien:
 
-* **om [ LinkedIn uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
+* **om [ LinkedIn uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4} titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
 * **om [ manueel een LinkedIn uit te geven en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, in om het even welke advertentiesecties (zoals de onderwerpregel, kopbal, of lichaamskopie) te klikken en uit te geven zoals nodig.
-* **om de vraag aan actie** te veranderen of te selecteren, klik de knoop van call-to-action en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de tekst van call-to-action in.
+* **om call to action** te veranderen of te selecteren, klik de knoop van call-to-action en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de tekst van call-to-action in.
 * **om [ tekst toe te passen formatterend](/help/user-guide/create/manage-variants.md#manually-edit-text)** in een variant, klik de tekst op beeld voor een variant en klik **[!UICONTROL Format text]**.
-* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_&#x200B;opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
+* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_opties of ga een nieuwe herinnering in _ [!UICONTROL Generate new text_ section] in en klik **[!UICONTROL Generate]**.
 * **aan [ gebruiks Generatief breidt zich aan grootte uit en past beelden ](/help/user-guide/create/manage-variants.md#use-generative-expand) aan uw werkend malplaatje**, klikt een beeld, klikt **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Expand]**. Pas de afbeelding aan de gewenste hoogte-breedteverhouding en sjabloon aan.
 * **aan [ bebouwing of herplaats beelden](/help/user-guide/create/manage-variants.md#crop-assets)**, beweegt over een beeld, klikt het gewassenpictogram dat verschijnt, en past de beeldgrootte en de plaatsing aan.
-* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
 * **om [ activa (beeld of video) in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, activa (of het activagebied) te klikken en het **[!UICONTROL Swap from content]** pictogram te klikken.
 * **[ om alt tekst voor beelden in een variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** toe te voegen, klik een beeldactiva en gebruik de _alt tekst_ optie om alt tekst per beeld manueel toe te voegen of te produceren.
 * **[ om toegankelijkheidsetiketten ](/help/user-guide/create/manage-variants.md#add-accessibility-labels) aan uw varianten** toe te voegen klik op een beeld of verbinding van call-to-action, dan een korte beschrijving verstrekken die verklaart wat de verbinding of de knoop doet.
@@ -112,11 +112,11 @@ Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#ge
 
 ## Uitlijning van inhoud controleren
 
-Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het _paneel van de controle van de Inhoud 1&rbrace; [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-panel)._ In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het [_paneel van de controle van de Inhoud 1}_. ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
 **om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het[_ controle van de Inhoud _paneel ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) te openen._ Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1} in de juiste actiebar om het_ controle van de Inhoud [_paneel_ te openen. ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
    ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 

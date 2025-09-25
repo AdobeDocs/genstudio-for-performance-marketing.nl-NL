@@ -5,7 +5,7 @@ level: Beginner
 role: User
 feature: Media Templates, Guidelines, Generative AI
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 7495891b58d7830453ba81048df3373820823136
+source-git-commit: 47195c08f500e50a01db127c6badc461c10afaf9
 workflow-type: tm+mt
 source-wordcount: '638'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Systeembeheerders stellen Adobe GenStudio for Performance Marketing in door orga
 
 Merk [ richtlijnen ](/help/user-guide/guidelines/overview.md) vangen merkkenmerken. GenStudio for Performance Marketing&#39;s onderliggende generatieve AI-mogelijkheden gebruiken deze richtlijnen om hulplijnen te maken die als leidraad dienen voor het genereren van inhoud. U kunt of [[!DNL Brands]  richtsnoer ](/help/user-guide/guidelines/brands.md) documenten uploaden of manueel merkinformatie ingaan.
 
-De redacteurs en de medewerkers van de inhoud kunnen niet met hun werk beginnen tot de fundamentele elementen van de het merkidentiteit van uw organisatie [&#128279;](/help/user-guide/guidelines/brands.md) worden gevestigd. Deze merkonderdelen omvatten:
+De redacteurs en de medewerkers van de inhoud kunnen niet met hun werk beginnen tot de fundamentele elementen van de het merkidentiteit van uw organisatie [ ](/help/user-guide/guidelines/brands.md) worden gevestigd. Deze merkonderdelen omvatten:
 
 * Immateriële elementen, zoals spraaktint
 * Materiële elementen, zoals logo&#39;s, kleurenpaletten en typografie.

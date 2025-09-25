@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: e2bddd02-914e-43a8-92b6-fdcbced94a6a
-source-git-commit: d12e00ba0d97e6795e7a416b77b120016bddf4e9
+source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Bewerkbare gedeelten van een e-mailervaring zijn:
 * Titel
 * Subkop
 * Lichaam
-* Oproep tot actie (CTA)
+* Call to action (CTA)
 * Afbeelding
 
 Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
@@ -56,7 +56,7 @@ Elk veld en elke sectie van e-mailervaringen worden in deze reeks geleidelijk ge
 1. Hoofdtekst van e-mail voor volgende secties (voor e-mails met meerdere secties)
 1. Merkwaardvalidatie
 
-   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de _samenvatting [&#128279;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) van de controle van de Inhoud bevolkt voor elke variant._
+   De bevestiging van het merk en het proces van de inhoudscontrole komt voor en de [_samenvatting_ van de controle van de Inhoud bevolkt voor elke variant.](/help/user-guide/guidelines/brand-validation.md#content-check-summary)
 
 ## Aantal tekens
 
