@@ -53,19 +53,19 @@ Op deze pagina wordt uitgelegd hoe u een verbinding tot stand kunt brengen tusse
    - Selecteer een of meer Instagram-accounts en klik op **[!UICONTROL Continue]**
    - Selecties bekijken en klikken **[!UICONTROL Save]**
 
-     ![ de selecties van het Overzicht ](/help/assets/meta/meta-review-selections.png " Selecties van het Overzicht "){width="400" zoomable="yes"}
+     ![&#x200B; de selecties van het Overzicht &#x200B;](/help/assets/meta/meta-review-selections.png " Selecties van het Overzicht "){width="400" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Got it]** wanneer u hebt gecontroleerd of uw account is verbonden.
 
    Deze stap zorgt ervoor dat GenStudio for Performance Marketing toegang krijgt tot alle advertenties, metagegevens en meetgegevens voor optimale prestaties.
 
-1. Selecteer in _[!UICONTROL Meta Ads]_een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
+1. Selecteer in _[!UICONTROL Meta Ads]_&#x200B;een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
 
 1. Zodra u a _Platform verbonden_ bevestiging ontvangt, klik **[!UICONTROL View accounts]**.
 
-   In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
+   In de weergave _[!UICONTROL Meta Ads accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
 
-   ![ de rekeningenlijst van Meta ](/help/assets/meta/meta-accounts-list.png " Lijst van verbonden rekeningen van Meta "){zoomable="yes"}
+   ![&#x200B; de rekeningenlijst van Meta &#x200B;](/help/assets/meta/meta-accounts-list.png " Lijst van verbonden rekeningen van Meta "){zoomable="yes"}
 
 Gebruik **[!UICONTROL Add account]** om meer accounts aan de lijst toe te voegen. De machtigingsstroom kan enigszins afwijken wanneer u accounts toevoegt die zijn gekoppeld aan hetzelfde Meta Business-profiel. U selecteert alleen de nieuwe Meta Ads-accounts tijdens het verbindingsproces.
 
@@ -80,12 +80,12 @@ In deze situaties is het beter om de Meta Ad-account opnieuw te verbinden met he
 
 Deze stappen ontruimen caching toestemmingen en stellen de integratiestroom opnieuw in:
 
-1. Heb toegang tot [ Van Bedrijfs Meta Manager ](https://business.facebook.com) door de website van Facebook te bezoeken.
+1. Heb toegang tot [&#x200B; Van Bedrijfs Meta Manager &#x200B;](https://business.facebook.com) door de website van Facebook te bezoeken.
 1. Meld u aan bij uw account. De account moet beheerdersrechten hebben voor de Business Manager.
 1. Klik op het cogopictogram **[!UICONTROL Settings]** linksonder om naar uw Business Portfolio-instellingen te navigeren.
 1. Klik in het linkermenu op **[!UICONTROL Integrations]** .
 1. Selecteer **[!UICONTROL Connected Apps]**. Adobe GenStudio wordt weergegeven in de lijst met verbonden apps.
-   ![ Van Bedrijfs Meta Manager Verbonden Apps ](./meta-connected-apps.png " Meta Business Manager Verbonden Apps ruit ")
+   ![&#x200B; Van Bedrijfs Meta Manager Verbonden Apps &#x200B;](./meta-connected-apps.png " Meta Business Manager Verbonden Apps ruit ")
 1. Klik op de naam van de toepassing.
 1. Klik op **[!UICONTROL Remove]**.
 1. Bevestig de verwijdering wanneer daarom wordt gevraagd.

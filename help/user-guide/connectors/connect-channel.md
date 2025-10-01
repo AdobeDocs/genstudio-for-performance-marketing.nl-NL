@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Een betaalmediaaccount verbinden
 
-A _betaalde media rekening_ verwijst naar een rekening op een derdereclameplatform waar de ondernemingen betaalde reclamecampagnes beheren en uitvoeren. Deze accounts worden gebruikt om producten, services of merken te promoten via betaalkanalen, zoals sociale-mediaplatforms en weergavenetwerken. Door een betaalde media rekening aan GenStudio for Performance Marketing aan te sluiten, kunt u de uitwisseling van gegevens stroomlijnen, [ prestaties van de controlecampagne in Inzichten ](/help/user-guide/insights/overview.md), en [ leveren nieuwe ad plaatsen met Activate ](/help/user-guide/activation/overview.md).
+A _betaalde media rekening_ verwijst naar een rekening op een derdereclameplatform waar de ondernemingen betaalde reclamecampagnes beheren en uitvoeren. Deze accounts worden gebruikt om producten, services of merken te promoten via betaalkanalen, zoals sociale-mediaplatforms en weergavenetwerken. Door een betaalde media rekening aan GenStudio for Performance Marketing aan te sluiten, kunt u de uitwisseling van gegevens stroomlijnen, [&#x200B; prestaties van de controlecampagne in Inzichten &#x200B;](/help/user-guide/insights/overview.md), en [&#x200B; leveren nieuwe ad plaatsen met Activate &#x200B;](/help/user-guide/activation/overview.md).
 
 ## Gegevensinvoer
 
@@ -35,7 +35,7 @@ GenStudio for Performance Marketing bewaart kanaalgegevens gedurende 13 maanden.
 
 1. Selecteer **[!UICONTROL Settings]** met het cogopictogram.
 
-1. Kies in _[!UICONTROL Settings]_een verbindingstype in de sectie_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
+1. Kies in _[!UICONTROL Settings]_&#x200B;een verbindingstype in de sectie&#x200B;_[!UICONTROL Data connectors]_ en klik op **[!UICONTROL Connect]** .
 
    Naar keuze, als de verbonden rekeningen reeds bestaan, kunt u _verbonden rekeningen_ klikken om een lijst van rekeningsnamen, details, en statussen te bekijken.
 
