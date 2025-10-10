@@ -16,7 +16,7 @@ Door de invoegtoepassing te distribueren, kunt u deze gebruiken door uw organisa
 
 Dit onderwerp bespreekt privé distributie. De privé distributie beperkt de toe:voegen-op plaatsing aan de organisatie, die door IMS org wordt geïdentificeerd, die het voor werd ontwikkeld.
 
-De openbare distributie maakt toe:voegen-op beschikbaar als app op de Adobe Exchange. [ Openbare Distributie ](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) in de _App Builder_ ontwikkelaarsdocumentatie beschrijft hoe te om uw app voor om het even welke organisatie van Adobe ter beschikking te stellen.
+De openbare distributie maakt toe:voegen-op beschikbaar als app op de Adobe Exchange. [&#x200B; Openbare Distributie &#x200B;](https://developer.adobe.com/app-builder/docs/guides/distribution/public/) in de _App Builder_ ontwikkelaarsdocumentatie beschrijft hoe te om uw app voor om het even welke organisatie van Adobe ter beschikking te stellen.
 
 >[!BEGINSHADEBOX]
 
@@ -36,7 +36,7 @@ Uw App Builder-app moet worden geïmplementeerd in een App Builder-project.
 
 Met particuliere distributie is uw app alleen beschikbaar voor leden van uw organisatie.
 
-1. Van [ Adobe Developer Console ](https://developer.adobe.com/console/), selecteer de organisatie, het project, en de werkruimte waar app wordt opgesteld.
+1. Van [&#x200B; Adobe Developer Console &#x200B;](https://developer.adobe.com/console/), selecteer de organisatie, het project, en de werkruimte waar app wordt opgesteld.
 
 1. Selecteer **[!UICONTROL Approval]** van het _overzicht van Workspace_ gebied. De _ruit van de Goedkeuring van de App_ opent.
 
@@ -44,7 +44,7 @@ Met particuliere distributie is uw app alleen beschikbaar voor leden van uw orga
 
 1. Klik op **[!UICONTROL Submit]** wanneer u alle velden hebt voltooid.
 
-1. Login aan [ Adobe Exchange ](https://exchange.adobe.com/) die zelfde Adobe ID gebruiken die u aan login Developer Console gebruikte. Als u geen toestemmingen van de systeembeheerder in deze organisatie hebt, verzoek goedkeuring van een beheerder van het organisatiesysteem.
+1. Login aan [&#x200B; Adobe Exchange &#x200B;](https://exchange.adobe.com/) die zelfde Adobe ID gebruiken die u aan login Developer Console gebruikte. Als u geen toestemmingen van de systeembeheerder in deze organisatie hebt, verzoek goedkeuring van een beheerder van het organisatiesysteem.
 
 1. Selecteer **[!UICONTROL Manage]** > **[!UICONTROL App Builder applications]** om een aanvraag te openen om de app te bekijken.
 

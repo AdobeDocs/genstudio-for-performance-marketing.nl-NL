@@ -85,33 +85,33 @@ De nieuwe uitbreidingen worden gevonden in verschillende plaatsen in UI, afhanke
 
 De snelle uitbreidingen worden gevonden in **toe:voegen-ons** dropdown, in de **parametersectie** van een malplaatje.
 
-![ Snelle uitbreidingen ](./select-prompt-ext.png){width="600" zoomable="yes"}
+![&#x200B; Snelle uitbreidingen &#x200B;](./select-prompt-ext.png){width="600" zoomable="yes"}
 
 Het dialoogvenster Add-on wordt geopend, zodat u de extra context kunt selecteren die u voor de LLM-generatie wilt toevoegen.
 
-![ Prompt extensie dropdown ](./select-prompt-dropdown.png){width="600" zoomable="yes"}
+![&#x200B; Prompt extensie dropdown &#x200B;](./select-prompt-dropdown.png){width="600" zoomable="yes"}
 
 ### Validatie-extensies zoeken
 
 De uitbreidingen van de bevestiging kunnen worden gevonden na een snelle generatie, in het juiste voorzitterschap dat met de resultaten wordt getoond.
 
-![ uitbreidingen van de Bevestiging ](./validation-ext.png){width="600" zoomable="yes"}
+![&#x200B; uitbreidingen van de Bevestiging &#x200B;](./validation-ext.png){width="600" zoomable="yes"}
 
 Voer de extensie uit die u hebt geselecteerd om de gegenereerde inhoud te valideren.
 
-![ Geldige Bevestiging ](./validation-valid.png){width="600" zoomable="yes"}
+![&#x200B; Geldige Bevestiging &#x200B;](./validation-valid.png){width="600" zoomable="yes"}
 
 ### DAM-extensies zoeken
 
 De uitbreidingen van het Beheer van het Digitale Middel (DAM) worden gevonden wanneer het selecteren van inhoud in de **parametersectie** van een malplaatje. Zie de bodem van **Uitgezochte plaats** dropdown om het even welke toe:voegen-ons te zien.
 
-![ DAM uitbreidingen ](./dam-ext.png){width="600" zoomable="yes"}
+![&#x200B; DAM uitbreidingen &#x200B;](./dam-ext.png){width="600" zoomable="yes"}
 
 ### Sjabloonextensies zoeken
 
 De uitbreidingen van het malplaatje worden gevonden in het **Externe lusje van de Toepassing van het Malplaatje** wanneer het selecteren van een malplaatje. Dit tabblad wordt alleen weergegeven als er sjabloonapps zijn die moeten worden geselecteerd.
 
-![ uitbreidingen van het Malplaatje ](./template-ext.png){width="600" zoomable="yes"}
+![&#x200B; uitbreidingen van het Malplaatje &#x200B;](./template-ext.png){width="600" zoomable="yes"}
 
 
 ### Vertaalextensies zoeken
@@ -125,4 +125,4 @@ Als de extensie is geregistreerd, wordt de aangeboden vertaaldienst gebruikt. An
 
 Als u tevreden bent met uw toe:voegen-op, bent u bereid om het zonder de `query` parameter te verdelen.
 
-Nu, kunt u uw app [ distribueren 0}.](distribute-app.md)
+Nu, kunt u uw app [&#x200B; distribueren 0&rbrace;.](distribute-app.md)
