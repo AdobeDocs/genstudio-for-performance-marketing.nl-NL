@@ -6,9 +6,9 @@ role: Admin, Data Engineer
 recommendations: noDisplay
 feature: Reporting and Insights
 exl-id: 78110edf-947b-4e05-a3f1-de4b1eabda44
-source-git-commit: 40c7d2d40f1c4bea9794e706d8e1ce7bf92042e3
+source-git-commit: dce3d9bbf3ed2d26872b324c04ab7e78bbb034dc
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Op deze pagina wordt uitgelegd hoe u een verbinding tot stand kunt brengen tusse
 
 **Eerste vereisten**:
 
-- Aanmelden bij Facebook/Meta voor toegang tot alle Meta-services
-
+- Een Facebook/Meta-aanmelding die toegang biedt tot alle Meta-services
 - _Volledige controle_ over de Bedrijfs Portfolio van Meta en Advertentierekeningen, die omvatten:
-
    - Campagnes beheren
    - Prestaties weergeven
    - Creative Hub-modellen beheren
    - Geavanceerde analysemogelijkheden
-
 - Pop-upblokkeerprogramma&#39;s in uw browser uitschakelen
+- Controleer of er koppelingen naar installateurspagina&#39;s zijn in Meta Business Manager voordat u verbinding maakt
+- Beheerderstoegang bevestigen voor alle middelen die worden verbonden
 
 >[!ENDSHADEBOX]
 
@@ -53,21 +52,31 @@ Op deze pagina wordt uitgelegd hoe u een verbinding tot stand kunt brengen tusse
    - Selecteer een of meer Instagram-accounts en klik op **[!UICONTROL Continue]**
    - Selecties bekijken en klikken **[!UICONTROL Save]**
 
-     ![&#x200B; de selecties van het Overzicht &#x200B;](/help/assets/meta/meta-review-selections.png " Selecties van het Overzicht "){width="400" zoomable="yes"}
+     ![ de selecties van het Overzicht ](/help/assets/meta/meta-review-selections.png " Selecties van het Overzicht "){width="400" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Got it]** wanneer u hebt gecontroleerd of uw account is verbonden.
 
    Deze stap zorgt ervoor dat GenStudio for Performance Marketing toegang krijgt tot alle advertenties, metagegevens en meetgegevens voor optimale prestaties.
 
-1. Selecteer in _[!UICONTROL Meta Ads]_&#x200B;een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
+1. Selecteer in _[!UICONTROL Meta Ads]_een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
 
 1. Zodra u a _Platform verbonden_ bevestiging ontvangt, klik **[!UICONTROL View accounts]**.
 
-   In de weergave _[!UICONTROL Meta Ads accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
+   In de weergave _[!UICONTROL Meta Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
 
-   ![&#x200B; de rekeningenlijst van Meta &#x200B;](/help/assets/meta/meta-accounts-list.png " Lijst van verbonden rekeningen van Meta "){zoomable="yes"}
+   ![ de rekeningenlijst van Meta ](/help/assets/meta/meta-accounts-list.png " Lijst van verbonden rekeningen van Meta "){zoomable="yes"}
 
 Gebruik **[!UICONTROL Add account]** om meer accounts aan de lijst toe te voegen. De machtigingsstroom kan enigszins afwijken wanneer u accounts toevoegt die zijn gekoppeld aan hetzelfde Meta Business-profiel. U selecteert alleen de nieuwe Meta Ads-accounts tijdens het verbindingsproces.
+
+## Aanbevolen werkwijzen voor verbindingen
+
+Als u fouten wilt voorkomen, moet u rekening houden met de volgende aanbevolen procedures bij het instellen van verbindingen:
+
+- [ ] Beginnen met minimale selectie van elementen (alleen één pagina) voor de eerste verbinding
+- [ ] Voeg alleen Instagram-accounts toe nadat u hebt bevestigd dat toegang tot de pagina werkt
+- [ ] Controleer of Instagram-accounts correct zijn gekoppeld aan de geselecteerde Facebook-pagina in Meta Business Manager
+- [ ] Gebruik een gefaseerde aanpak: maak eerst een basisverbinding en vouw vervolgens elementen uit
+- [ ] Controleer de beheerdersmachtigingen voor alle elementen voordat u verbinding probeert
 
 ## Verbinding maken en problemen oplossen bij de integratie met Meta Ads
 
@@ -80,14 +89,35 @@ In deze situaties is het beter om de Meta Ad-account opnieuw te verbinden met he
 
 Deze stappen ontruimen caching toestemmingen en stellen de integratiestroom opnieuw in:
 
-1. Heb toegang tot [&#x200B; Van Bedrijfs Meta Manager &#x200B;](https://business.facebook.com) door de website van Facebook te bezoeken.
+1. Heb toegang tot [ Van Bedrijfs Meta Manager ](https://business.facebook.com) door de website van Facebook te bezoeken.
 1. Meld u aan bij uw account. De account moet beheerdersrechten hebben voor de Business Manager.
 1. Klik op het cogopictogram **[!UICONTROL Settings]** linksonder om naar uw Business Portfolio-instellingen te navigeren.
 1. Klik in het linkermenu op **[!UICONTROL Integrations]** .
 1. Selecteer **[!UICONTROL Connected Apps]**. Adobe GenStudio wordt weergegeven in de lijst met verbonden apps.
-   ![&#x200B; Van Bedrijfs Meta Manager Verbonden Apps &#x200B;](./meta-connected-apps.png " Meta Business Manager Verbonden Apps ruit ")
+   ![ Van Bedrijfs Meta Manager Verbonden Apps ](./meta-connected-apps.png " Meta Business Manager Verbonden Apps ruit ")
 1. Klik op de naam van de toepassing.
 1. Klik op **[!UICONTROL Remove]**.
 1. Bevestig de verwijdering wanneer daarom wordt gevraagd.
 
-U kunt nu opnieuw verbinding maken met uw Meta-advertentieaccounts, Instagram-profielen en Facebook-pagina&#39;s.
+U kunt nu opnieuw verbinding maken met Meta Ad Accounts, Instagram-profielen en Facebook-pagina&#39;s.
+
+## Verbindingsproblemen met een Instagram-account
+
+Problemen kunnen optreden wanneer Instagram-accounts worden geselecteerd zonder een gekoppelde Facebook-pagina te verbinden tijdens het instellen van de verbinding. Dit kan fouten veroorzaken zoals:
+
+- Kan geen verbinding maken met {Page_Name} of generieke verbindingsfouten.
+- Time-outs voor verbinding tijdens Facebook-aanmelding voor bedrijfsstroom.
+- Stille fouten wanneer meerdere elementen zijn geselecteerd.
+- Verbinding mislukt wanneer u tegelijkertijd Installagram en Pagina- en Advertentieaccount selecteert.
+
+### Stappen voor resolutie:
+
+1. Navigeer aan [ BedrijfsManager van Meta ](https://business.facebook.com) > Integraties > Verbonden Toepassingen.
+1. Verwijder de bestaande &quot;Adobe GenStudio&quot;-integratie, als die er is. Klik **verwijderen**.
+1. Ga terug naar GenStudio en probeer het verbindingsproces opnieuw.
+1. Selecteer ALLEEN de doel-Facebook-pagina tijdens de eerste verbinding.
+1. Selecteer NIET het Instagram-account tijdens de eerste verbindingspoging.
+1. Controleer of de verbinding tot stand is gebracht voordat u andere elementen toevoegt.
+1. Als de verbinding met de pagina stabiel is, voegt u afzonderlijke Instagram-accounts toe.
+
+
