@@ -3,16 +3,16 @@ title: Uw app distribueren
 description: Distribueer uw app, of invoegtoepassing, voor GenStudio for Performance Marketing.
 feature: Extensibility
 exl-id: 4935356b-08df-402c-b1a2-b89627afc188
-source-git-commit: 6ba402e9cdfb62d71c9993457a6d9952c4877553
+source-git-commit: 2df93292f456cc952f72faea3d25ca0503a4e2db
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # Uw app distribueren
 
-Door de invoegtoepassing te distribueren maakt u deze beschikbaar voor gebruik door uw organisatie en anderen. Uw distributieworkflow hangt af van het feit of uw invoegtoepassing is bedoeld voor openbare of particuliere distributie.
+Door de invoegtoepassing te distribueren, kunt u deze gebruiken door uw organisatie en anderen. Uw distributiewerkschema hangt af van of uw toe:voegen-op voor openbare of privé distributie bestemd is.
 
 Dit onderwerp bespreekt privé distributie. De privé distributie beperkt de toe:voegen-op plaatsing aan de organisatie, die door IMS org wordt geïdentificeerd, die het voor werd ontwikkeld.
 
@@ -38,16 +38,16 @@ Met particuliere distributie is uw app alleen beschikbaar voor leden van uw orga
 
 1. Van [ Adobe Developer Console ](https://developer.adobe.com/console/), selecteer de organisatie, het project, en de werkruimte waar app wordt opgesteld.
 
-1. Selecteer [!UICONTROL Approval] van het _overzicht van Workspace_ gebied. De _ruit van de Goedkeuring van de App_ opent.
+1. Selecteer **[!UICONTROL Approval]** van het _overzicht van Workspace_ gebied. De _ruit van de Goedkeuring van de App_ opent.
 
 1. In het _gebied van de Details van de Verzending van de Toepassing_, voeg informatieve details over uw toe:voegen-op toe. De details omvatten toepassingsnaam, beschrijving, en contacteer e-mail.
 
-1. Klik op [!UICONTROL Submit] wanneer u alle velden hebt voltooid.
+1. Klik op **[!UICONTROL Submit]** wanneer u alle velden hebt voltooid.
 
 1. Login aan [ Adobe Exchange ](https://exchange.adobe.com/) die zelfde Adobe ID gebruiken die u aan login Developer Console gebruikte. Als u geen toestemmingen van de systeembeheerder in deze organisatie hebt, verzoek goedkeuring van een beheerder van het organisatiesysteem.
 
-1. Selecteer [!UICONTROL Manage] > [!UICONTROL App Builder applications] om een aanvraag te openen om de app te bekijken.
+1. Selecteer **[!UICONTROL Manage]** > **[!UICONTROL App Builder applications]** om een aanvraag te openen om de app te bekijken.
 
-1. Selecteer [!UICONTROL Approve] nadat u de app hebt bekeken. U kunt ook informatieve notities toevoegen.
+1. Selecteer **[!UICONTROL Approve]** nadat u de app hebt bekeken. U kunt ook informatieve notities toevoegen.
 
 Uw invoegtoepassing is nu zichtbaar in het GenStudio for Performance Marketing-exemplaar van uw organisatie.
