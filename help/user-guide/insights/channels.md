@@ -19,9 +19,9 @@ In de weergave [!DNL Insights] _[!UICONTROL Channels]_&#x200B;wordt een lijst me
 
 De tabel _[!UICONTROL Channels]_&#x200B;wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
-![ de filter en lijst van Kanalen ](/help/assets/insights-channels-filter.png){zoomable="yes"}
+![&#x200B; de filter en lijst van Kanalen &#x200B;](/help/assets/insights-channels-filter.png){zoomable="yes"}
 
-Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
+Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje &#x200B;](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
 
 {{filter-table}}
 

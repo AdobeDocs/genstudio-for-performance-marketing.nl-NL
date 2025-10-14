@@ -18,13 +18,13 @@ GenStudio for Performance Marketing maakt gebruik van de schat aan merkinformati
 
 ## Merken beheren
 
-Na het toevoegen van merkrichtlijnen aan GenStudio for Performance Marketing, kunt u [ beheren ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) en [ publiceren ](/help/user-guide/guidelines/add-guidelines.md#publish-brand) hen. Door middel van publicatie kunnen ze door uw team worden gebruikt voor het genereren van bedrijfsmiddelen.
+Na het toevoegen van merkrichtlijnen aan GenStudio for Performance Marketing, kunt u [&#x200B; beheren &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands) en [&#x200B; publiceren &#x200B;](/help/user-guide/guidelines/add-guidelines.md#publish-brand) hen. Door middel van publicatie kunnen ze door uw team worden gebruikt voor het genereren van bedrijfsmiddelen.
 
 [!DNL Brands] kan in of a _Ongepubliceerde_ of _Gepubliceerde_ staat zijn. Het nieuwe [!DNL Brands] begin als _Unpublished_.
 
-U moet [ a  [!DNL Brand]](/help/user-guide/guidelines/add-guidelines.md#publish-brand) publiceren om het voor activageneratie door uw team beschikbaar te maken.
+U moet [&#x200B; a  [!DNL Brand]](/help/user-guide/guidelines/add-guidelines.md#publish-brand) publiceren om het voor activageneratie door uw team beschikbaar te maken.
 
-Gepubliceerde merken kunnen worden bewerkt (wijzigingen zijn direct beschikbaar), gedupliceerd of niet gepubliceerd. Alleen gepubliceerde [!DNL brands] kan worden gebruikt om inhoud te maken en te valideren. Zie [ richtlijnen ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) toevoegen.
+Gepubliceerde merken kunnen worden bewerkt (wijzigingen zijn direct beschikbaar), gedupliceerd of niet gepubliceerd. Alleen gepubliceerde [!DNL brands] kan worden gebruikt om inhoud te maken en te valideren. Zie [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands) toevoegen.
 
 Verwijderde [!DNL Brands] worden gedurende 30 dagen gearchiveerd en kunnen binnen die periode worden hersteld.
 
@@ -36,9 +36,9 @@ De richtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van
 >
 >Als u merkrichtlijnen uploadt die in een niet-Engelse taal worden geschreven—of handmatig een merk maakt in een niet-Engelse taal—geeft GenStudio for Performance Marketing deze richtlijnen in dezelfde taal weer.
 
-Sommige kanaalrichtlijnen, die van [ platformrichtlijnen en de toegankelijkheidsnormen van ADA ](/help/user-guide/guidelines/overview.md#compliance) worden onttrokken, zijn pre-bevolkt als standaardwaarden.
+Sommige kanaalrichtlijnen, die van [&#x200B; platformrichtlijnen en de toegankelijkheidsnormen van ADA &#x200B;](/help/user-guide/guidelines/overview.md#compliance) worden onttrokken, zijn pre-bevolkt als standaardwaarden.
 
-![ Merk richtlijnen ](/help/assets/brands.png){width="600" zoomable="yes"}
+![&#x200B; Merk richtlijnen &#x200B;](/help/assets/brands.png){width="600" zoomable="yes"}
 
 In de volgende gedeelten van de richtlijnen worden elke categorie richtlijnen, voorbeeldrichtlijnen en mogelijke resultaten beschreven. De leidraad voorbeelden zijn steekproefinput die de resultaatoutput (resultaatvoorbeelden hieronder) vormen - gebruik hen om uw eigen merkrichtlijnen te informeren.
 
@@ -55,7 +55,7 @@ In de volgende tabel wordt elke categorie spraakrichtlijnen en voorbeelden van r
 
 ### Richtlijnen voor afbeeldingen
 
-In de volgende tabel worden de richtlijnen voor elke categorie afbeeldingen en de bijbehorende waarden weergegeven. U moet [ een categorie ](add-guidelines.md#add-brands), zoals &quot;Algemene kunstrichtlijnen&quot;of &quot;de fotografie van het Product,&quot;vestigen om de beeldrichtlijnen toe te passen.
+In de volgende tabel worden de richtlijnen voor elke categorie afbeeldingen en de bijbehorende waarden weergegeven. U moet [&#x200B; een categorie &#x200B;](add-guidelines.md#add-brands), zoals &quot;Algemene kunstrichtlijnen&quot;of &quot;de fotografie van het Product,&quot;vestigen om de beeldrichtlijnen toe te passen.
 
 | Categorie Richtsnoer | Beschrijving | Waarden |
 | ------------------| :---------- | :---------- |
@@ -149,7 +149,7 @@ Elk geüpload logo bevat de volgende details binnen de logotegel:
 - Bestandsgrootte
 - Resolutie
 
-Van het actiemenu (drie punten) voor een embleem, kunt u [ details voor bekijken en beheren ](/help/user-guide/guidelines/add-guidelines.md#manage-brands) een individueel embleem:
+Van het actiemenu (drie punten) voor een embleem, kunt u [&#x200B; details voor bekijken en beheren &#x200B;](/help/user-guide/guidelines/add-guidelines.md#manage-brands) een individueel embleem:
 
 - **[!UICONTROL View details]**
 - **[!UICONTROL Download]**
@@ -161,7 +161,7 @@ Van het actiemenu (drie punten) voor een embleem, kunt u [ details voor bekijken
 
 Kleuren beheren in afzonderlijke [!DNL Brands] voor consistente en toegankelijke tekststijlen. Kies of definieer kleuren met een hexadecimale code of RGB-code en alleen effen kleuren worden ondersteund (dekking wordt niet ondersteund). U kunt onbeperkte kleuren toevoegen, hen bekijken in een galerijformaat, en hen anders noemen van hexadecimale of code van RGB aan een leesbare naam.
 
-![ Merk kleuren ](/help/assets/colors.png){width="600" zoomable="yes"}
+![&#x200B; Merk kleuren &#x200B;](/help/assets/colors.png){width="600" zoomable="yes"}
 
 Via het menu Handelingen (drie punten) voor een kleur kunt u een kleur **[!UICONTROL Edit]**, **[!UICONTROL Rename]** of **[!UICONTROL Delete]** .
 
@@ -169,4 +169,4 @@ Via het menu Handelingen (drie punten) voor een kleur kunt u een kleur **[!UICON
 
 In GenStudio for Performance Marketing speelt merkvalidatie een cruciale rol in combinatie met de generatieve AI-functionaliteit van [!DNL Brands] , [!DNL Products] en [!DNL Personas] . Hierdoor blijft al uw inhoud consistent met uw merkidentiteit en toegankelijkheidsproblemen.
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [&#x200B; Bevestiging van de Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md).

@@ -18,30 +18,30 @@ De malplaatjes verminderen beduidend de tijd en de inspanning die wordt vereist 
 
 Gebruik de volgende aanbevelingen wanneer u sjablonen gebruikt met GenStudio for Performance Marketing:
 
-1. Kennis over [ malplaatjeelementen ](#know-about-template-elements)
-1. Vorm [ kanaalrichtlijnen ](#configure-channel-guidelines) voor efficiënte verpersoonlijking van inhoud
-1. Ontwerp met [ toegankelijkheidsnormen ](accessibility-for-templates.md) voor een optimale ervaring
-1. Volg [ kanaal-specifieke malplaatjerichtlijnen ](#follow-channel-specific-template-guidelines)
+1. Kennis over [&#x200B; malplaatjeelementen &#x200B;](#know-about-template-elements)
+1. Vorm [&#x200B; kanaalrichtlijnen &#x200B;](#configure-channel-guidelines) voor efficiënte verpersoonlijking van inhoud
+1. Ontwerp met [&#x200B; toegankelijkheidsnormen &#x200B;](accessibility-for-templates.md) voor een optimale ervaring
+1. Volg [&#x200B; kanaal-specifieke malplaatjerichtlijnen &#x200B;](#follow-channel-specific-template-guidelines)
 
 >[!TIP]
 >
->Leer meer over basismalplaatjeelementen en procedures in [ Werk met Malplaatjes ](use-templates.md). En diep-duik in [ het aanpassen van een malplaatje ](customize-template.md) voor gebruik in uw volgende campagne.
+>Leer meer over basismalplaatjeelementen en procedures in [&#x200B; Werk met Malplaatjes &#x200B;](use-templates.md). En diep-duik in [&#x200B; het aanpassen van een malplaatje &#x200B;](customize-template.md) voor gebruik in uw volgende campagne.
 
 ## Informatie over sjabloonelementen
 
 U kunt het beste vertrouwd maken met de delen van een sjabloon. Elk sjabloontype gebruikt verschillende elementen om een structuur te maken voor het maken van kanaalspecifieke inhoud. Als u uw sjabloon wilt aanpassen, gebruikt u de veldnamen in plaats van deze elementen waar u GenStudio for Performance Marketing nodig hebt om inhoud te genereren.
 
-Zie [ elementen van het Malplaatje ](use-templates.md#template-elements).
+Zie [&#x200B; elementen van het Malplaatje &#x200B;](use-templates.md#template-elements).
 
 ## Kanaalrichtlijnen configureren
 
 Het definiëren van duidelijke kanaalrichtlijnen is van essentieel belang om ervoor te zorgen dat de gegenereerde inhoud aansluit bij de vereisten en doelstellingen van uw merk. Met kanaalrichtlijnen kunt u regels opgeven voor elementen zoals toon, lengte en stijl die in de sjabloon worden gebruikt. U kunt bijvoorbeeld een maximum aantal tekens instellen voor de hoofdtekst of een specifieke call-to-action-stijl vereisen. Door deze richtlijnen vooraf in te stellen, vermindert u de behoefte om gedetailleerde instructies in elke AI herinnering te schrijven, het proces van de inhoudgeneratie te stroomlijnen en consistentie over uw e-mails te verzekeren.
 
-Het overzicht en bepaalt de 0&rbrace; kanaalrichtlijnen van uw Merk [ voor alle zeer belangrijke gebieden in uw malplaatje. ](/help/user-guide/guidelines/brands.md#channel-guidelines) Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
+Het overzicht en bepaalt de 0&rbrace; kanaalrichtlijnen van uw Merk [&#x200B; voor alle zeer belangrijke gebieden in uw malplaatje. &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines) Als u geen richtlijnen bepaalt, dan worden de [&#x200B; standaardkanaalrichtlijnen &#x200B;](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
 
-![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
+![&#x200B; de specificaties van het Lichaam &#x200B;](/help/assets/channel-email-body.png)
 
-Leer hoe [ Merken, Producten, en de richtlijnen van Persona ](/help/user-guide/guidelines/overview.md) geproduceerde inhoud beïnvloeden en hoe te om hen voor uw marketing doelstellingen aan te passen.
+Leer hoe [&#x200B; Merken, Producten, en de richtlijnen van Persona &#x200B;](/help/user-guide/guidelines/overview.md) geproduceerde inhoud beïnvloeden en hoe te om hen voor uw marketing doelstellingen aan te passen.
 
 ## Volg kanaalspecifieke sjabloonrichtlijnen
 

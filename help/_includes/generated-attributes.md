@@ -7,7 +7,7 @@ ht-degree: 0%
 ---
 # Gegenereerde kenmerken
 
-Wanneer de activa en de ervaringen in [!DNL Content] worden goedgekeurd en worden opgeslagen, of wanneer de ad plaatsen van derdekanalen worden opgenomen, produceert GenStudio for Performance Marketing [ markeringen ](/help/user-guide/content/asset-details.md#generated-tags) die op hun inherente eigenschappen worden gebaseerd.
+Wanneer de activa en de ervaringen in [!DNL Content] worden goedgekeurd en worden opgeslagen, of wanneer de ad plaatsen van derdekanalen worden opgenomen, produceert GenStudio for Performance Marketing [&#x200B; markeringen &#x200B;](/help/user-guide/content/asset-details.md#generated-tags) die op hun inherente eigenschappen worden gebaseerd.
 
 Functiecategorieën zijn onder meer:
 

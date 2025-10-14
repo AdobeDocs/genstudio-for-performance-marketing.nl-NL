@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Een Meta-advertentie-ervaring maken
 
-Dit leerprogramma toont aan hoe te om branded te produceren [ Meta en ervaart ](/help/user-guide/create/meta-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schilderpenseel in het linkernavigatiegebied).
+Dit leerprogramma toont aan hoe te om branded te produceren [&#x200B; Meta en ervaart &#x200B;](/help/user-guide/create/meta-experiences.md) gebruikend GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (het pictogram van het schilderpenseel in het linkernavigatiegebied).
 
-Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [ richtlijnen ](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing op te nemen en vertrouwd te worden met de grondbeginselen van [ het creëren van een herinnering ](/help/user-guide/effective-prompts.md).
+Alvorens u begint een Meta te produceren en ervaring, is het belangrijk om [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing op te nemen en vertrouwd te worden met de grondbeginselen van [&#x200B; het creëren van een herinnering &#x200B;](/help/user-guide/effective-prompts.md).
 
 ## Een sjabloon kiezen
 
-Als u een nieuwe Meta-advertentie-ervaring wilt gaan genereren, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden. Zie [ Meta en malplaatjerichtsnoeren ](/help/user-guide/templates/meta-template.md) voor informatie over gesteunde Meta en aspectverhoudingen.
+Als u een nieuwe Meta-advertentie-ervaring wilt gaan genereren, gebruikt u een beschikbare sjabloon om het framework voor uw inhoud te bieden. Zie [&#x200B; Meta en malplaatjerichtsnoeren &#x200B;](/help/user-guide/templates/meta-template.md) voor informatie over gesteunde Meta en aspectverhoudingen.
 
 Als u een sjabloon selecteert, kunt u een van uw geüploade sjablonen of een startsjabloon gebruiken.
 
@@ -38,7 +38,7 @@ Als u een sjabloon selecteert, kunt u een van uw geüploade sjablonen of een sta
 
 ## Parameters toevoegen
 
-Het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade verbetert het proces van de inhoudsgeneratie en is een cruciale stap in het voorbereiden om een advertentie van Meta te produceren.
+Het toevoegen van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en activa in _Parameters_ in de snelle lade verbetert het proces van de inhoudsgeneratie en is een cruciale stap in het voorbereiden om een advertentie van Meta te produceren.
 
 Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], [!DNL Personas], of [!DNL Products] - deze richtlijnen zijn op uw varianten van toepassing. U kunt deze desgewenst wijzigen.
 
@@ -47,16 +47,16 @@ Als u een malplaatje met vooraf bepaalde richtlijnen gebruikt— [!DNL Brands], 
 1. Klik het _pictogram van Parameters_ om de herinnering lade uit te breiden.
 1. In de _sectie van Parameters_, uitgezochte richtlijnen - [!DNL Brands], [!DNL Personas], en [!DNL Products] - om inhoudsverwezenlijking te informeren.
 
-   ![ kies persona ](/help/assets/persona-select.png){width="600" zoomable="yes"}
+   ![&#x200B; kies persona &#x200B;](/help/assets/persona-select.png){width="600" zoomable="yes"}
 
-   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [ voeg richtlijnen aan uw GenStudio for Performance Marketing ](/help/user-guide/guidelines/add-guidelines.md) toe.
+   Als er geen merken, persona&#39;s, of producten beschikbaar van deze menu&#39;s zijn, [&#x200B; voeg richtlijnen aan uw GenStudio for Performance Marketing &#x200B;](/help/user-guide/guidelines/add-guidelines.md) toe.
 
 1. Voeg inhoud (beelden of video&#39;s) voor gebruik in de ervaring *en* toe om inhoudsgeneratie te beïnvloeden:
    * Klik op **[!UICONTROL Select from Content]** om elementen in de [!DNL Content] -opslagplaats te selecteren, filtreer en selecteer een of meer afbeeldingen.
 
      Als u een sjabloon met een sectie voor video&#39;s gebruikt, wordt video-inhoud (.mp4) vooraf geselecteerd en voor u gefilterd. Houd de muisaanwijzer boven een video om een voorvertoning te zien die automatisch wordt afgespeeld.
 
-     ![ kies visuele inhoud ](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
+     ![&#x200B; kies visuele inhoud &#x200B;](/help/assets/content-select-meta.png){width="500" zoomable="yes"}
 
      Om activa van een verbonden [!DNL AEM Assets Content Hub] bewaarplaats te gebruiken, verkies een bewaarplaats van het _2&rbrace; dropdown menu van de Plaats &lbrace;._ Filter een of meer afbeeldingen en selecteer deze.
 
@@ -70,18 +70,18 @@ Wanneer u klaar bent toevoegend parameters, kunt u de snelle lade doen ineenstor
 
 Nadat u richtlijnen hebt geselecteerd, kunt u vragen in natuurlijke taal inhoud te genereren voor uw nieuwe Meta en ervaring. Gedetailleerde aanwijzingen leveren een hogere kwaliteit op dan vage of dubbelzinnige aanwijzingen.
 
-Zie [ efficiënte herinneringen ](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
+Zie [&#x200B; efficiënte herinneringen &#x200B;](/help/user-guide/effective-prompts.md) schrijven om meer over het schrijven van herinneringen te leren.
 
 **om een herinnering** in te gaan:
 
 1. Ga een herinnering in _&quot;beschrijf de ervaringen in u &quot;_ snelle doos wilt produceren.
 1. Klik op **[!UICONTROL Generate]**.
 
-   Zie [ leiden video&#39;s ](#manage-videos) om te begrijpen hoe zij worden geproduceerd en hoe te om hen te beheren.
+   Zie [&#x200B; leiden video&#39;s &#x200B;](#manage-videos) om te begrijpen hoe zij worden geproduceerd en hoe te om hen te beheren.
 
 Standaard worden vier variaties gegenereerd, die allemaal worden geactiveerd door de vraag, de hulplijnen en de inhoud die u hebt toegevoegd, en weergegeven in het canvas.
 
-Gegenereerde inhoud wordt progressief geladen. Elke sectie van de Meta-ervaring wordt gegenereerd en wordt weergegeven op het canvas. Zie [ ervaringen van Meta ](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.
+Gegenereerde inhoud wordt progressief geladen. Elke sectie van de Meta-ervaring wordt gegenereerd en wordt weergegeven op het canvas. Zie [&#x200B; ervaringen van Meta &#x200B;](/help/user-guide/create/meta-experiences.md#progressive-loading) leren hoe die veranderingen in het Canvas worden geladen.
 
 ## Meta-advertentiekanaal kiezen
 
@@ -89,7 +89,7 @@ Wanneer u een Meta-advertentie genereert, kunt u kiezen tussen Facebook- of Inst
 
 Wissel het kanaal van de advertenties van Meta optie-tussen **Facebook** en **Installagram**-in de juiste menubar (de pictogrammen van Facebook en van het Installagram) om varianten voor elk kanaal te zien en te beheren.
 
-Wanneer [ het herzien van de advertenties van Meta ](#revise-generated-variants), kunt u de aspectverhouding van Facebook en de advertenties van het Installagram veranderen.
+Wanneer [&#x200B; het herzien van de advertenties van Meta &#x200B;](#revise-generated-variants), kunt u de aspectverhouding van Facebook en de advertenties van het Installagram veranderen.
 
 ## Door revisie gegenereerde varianten
 
@@ -99,21 +99,21 @@ Als u een afzonderlijke laag wilt markeren die u wilt herzien, klikt u op een be
 
 **om geproduceerde varianten** te herzien:
 
-* **om [ Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
-* **om [ manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel,
+* **om [&#x200B; Meta uit te geven en ontwerp naam](/help/user-guide/create/manage-variants.md#change-draft-name)**, in de _Naamloze 4&rbrace; titel van het Ontwerp bij de bovenkant van het Canvas te klikken en een nieuwe titel in te gaan._
+* **om [&#x200B; manueel uit te geven Meta en](/help/user-guide/create/manage-variants.md#manually-edit-text)**, klik in om het even welke advertentiesecties (zoals de onderwerpregel,
 (of bodykopie) en bewerk indien nodig.
 * **om call to action** te veranderen of te selecteren, klik de knoop van call-to-action en selecteer van de beschikbare opties van de knooptekst. In _Verbinding_, ga een URL voor de tekst van call-to-action in.
-* **om [ tekst toe te passen formatterend](/help/user-guide/create/manage-variants.md#manually-edit-text)** in een variant, klik de tekst op beeld of in-lijn verbinding voor een variant en klik **[!UICONTROL Format text]**.
+* **om [&#x200B; tekst toe te passen formatterend](/help/user-guide/create/manage-variants.md#manually-edit-text)** in een variant, klik de tekst op beeld of in-lijn verbinding voor een variant en klik **[!UICONTROL Format text]**.
 <!-- **To [change or select the Call to action](/help/user-guide/create/manage-variants.md#revise-call-to-action)**, click the call-to-action button and select _[!UICONTROL Rephrase]_ or _[!UICONTROL Add link]_. -->
-* **[ om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
-* **[ om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
-* **[ regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_&#x200B;opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
-* **om [ beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
-* **[ om beelden](/help/user-guide/create/manage-variants.md#crop-assets)** te bebouwen of te verplaatsen, klik een beeld, klik **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Crop]**. Pas de grootte en plaatsing van de afbeelding aan.
-* **aan [ gebruiks Generatief breidt zich aan grootte uit en past beelden ](/help/user-guide/create/manage-variants.md#use-generative-expand) aan uw werkend malplaatje**, klikt een beeld, klikt **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Expand]**. Pas de afbeelding aan de gewenste hoogte-breedteverhouding en sjabloon aan.
-* **[ om alt tekst voor beelden in een variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** toe te voegen, klik een beeldactiva en gebruik de _alt tekst_ optie om alt tekst per beeld manueel toe te voegen of te produceren.
-* **[ om toegankelijkheidsetiketten ](/help/user-guide/create/manage-variants.md#add-accessibility-labels) aan uw varianten** toe te voegen klik op een beeld of verbinding van call-to-action, dan een korte beschrijving verstrekken die verklaart wat de verbinding of de knoop doet.
-* **[ om een advertentie van Meta](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, het optiemenu voor een variant te klikken en **[!UICONTROL Delete variant]** te klikken.
+* **[&#x200B; om een verbinding aan een beeld in een variant](/help/user-guide/create/manage-variants.md#add-image-link)** toe te voegen, klik een beeldactiva (of het gebied van de beeldactiva als een beeld momenteel niet bestaat) en klik het verbindingspictogram.
+* **[&#x200B; om de grootte en aspectverhouding van de advertentie](/help/user-guide/create/manage-variants.md#change-aspect-ratio)** te veranderen, klik de _[!UICONTROL Resize]_&#x200B;knoop (doos met een knooppictogram op de linkerkant van het Canvas) en selecteer een nieuwe grootte en aspectverhouding om op alle varianten van toepassing te zijn. De varianten worden gedupliceerd en vergroot of verkleind.
+* **[&#x200B; regenerate een sectie van een variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, klik een editable tekstgebied en gebruik de _[!UICONTROL Suggested edits]_&#x200B;opties of ga een nieuwe herinnering in en klik **[!UICONTROL Generate]**.
+* **om [&#x200B; beelden in een variant](/help/user-guide/create/manage-variants.md#swap-image)** toe te voegen of te ruilen, klik een beeldactiva (of het gebied van beeldactiva als een beeld momenteel niet bestaat) en klik het **[!UICONTROL Swap from content]** pictogram.
+* **[&#x200B; om beelden](/help/user-guide/create/manage-variants.md#crop-assets)** te bebouwen of te verplaatsen, klik een beeld, klik **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Crop]**. Pas de grootte en plaatsing van de afbeelding aan.
+* **aan [&#x200B; gebruiks Generatief breidt zich aan grootte uit en past beelden &#x200B;](/help/user-guide/create/manage-variants.md#use-generative-expand) aan uw werkend malplaatje**, klikt een beeld, klikt **[!UICONTROL Edit]** (potloodpictogram) en dan **[!UICONTROL Expand]**. Pas de afbeelding aan de gewenste hoogte-breedteverhouding en sjabloon aan.
+* **[&#x200B; om alt tekst voor beelden in een variant](/help/user-guide/create/manage-variants.md#add-alt-text-for-images)** toe te voegen, klik een beeldactiva en gebruik de _alt tekst_ optie om alt tekst per beeld manueel toe te voegen of te produceren.
+* **[&#x200B; om toegankelijkheidsetiketten &#x200B;](/help/user-guide/create/manage-variants.md#add-accessibility-labels) aan uw varianten** toe te voegen klik op een beeld of verbinding van call-to-action, dan een korte beschrijving verstrekken die verklaart wat de verbinding of de knoop doet.
+* **[&#x200B; om een advertentie van Meta](/help/user-guide/create/manage-variants.md#delete-variant)** te schrappen, het optiemenu voor een variant te klikken en **[!UICONTROL Delete variant]** te klikken.
 
 ### Video&#39;s beheren
 
@@ -123,21 +123,21 @@ De video&#39;s worden vernieuwd om de geselecteerde hoogte-breedteverhouding tij
 
 ## Feedback op generatie verzenden
 
-Om [ voor te leggen terugkoppelt ](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
+Om [&#x200B; voor te leggen terugkoppelt &#x200B;](/help/user-guide/create/manage-variants.md#generation-feedback) over de kwaliteit van de generatieoutput, klik het optiepictogram (drie punten) en selecteer **[!UICONTROL Good output]** of **[!UICONTROL Poor output]**.
 
 ## Uitlijning van inhoud controleren
 
-Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het [_paneel van de controle van de Inhoud 1&rbrace;_. ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
+Om de geproduceerde varianten te optimaliseren en strikte naleving van merkidentiteit, platformrichtlijnen, en toegankelijkheidsnormen te verzekeren, hefboomwerking de macht van het [_paneel van de controle van de Inhoud 1&rbrace;_. &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel) In dit deelvenster worden uitgebreide details van inhoudscontroles weergegeven en worden verbeteringsgebieden belicht.
 
 **om inhoudcontroles op een variant** uit te voeren:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het_ controle van de Inhoud [_paneel_ te openen. ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
+1. Klik het _paneelpictogram van de controle van de Inhoud 1&rbrace; in de juiste actiebar om het_ controle van de Inhoud [_paneel_ te openen. &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel) Bekijk een samenvatting van het *overzicht van Behoeften* en *overgegaan* controles om te zien welke secties en richtlijnen verbetering vergen.
 
-   ![_de controle van de Inhoud_ paneel ](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
+   ![_de controle van de Inhoud_ paneel &#x200B;](/help/assets/content-check-panel.png){height="400" zoomable="yes"}
 
-1. [ herziet manueel varianten ](#revise-generated-variants) om uw varianten te verzekeren dicht met de uitgevoerde inhoudscontroles worden gericht.
+1. [&#x200B; herziet manueel varianten &#x200B;](#revise-generated-variants) om uw varianten te verzekeren dicht met de uitgevoerde inhoudscontroles worden gericht.
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [&#x200B; Bevestiging van de Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md).
 
 ## Revisies en goedkeuringen ophalen
 
@@ -145,15 +145,15 @@ Gebruik het deelvenster Goedkeuringen, dat als een pictogram op de rechteractieb
 
 **om overzichten en goedkeuringen** te verkrijgen:
 
-1. [ Lanceer een goedkeuringsverzoek ](/help/user-guide/approvals/request-review.md) om een [ goedkeuring van geschreven Meta en ervaringen ](/help/user-guide/approvals/approve-content.md) te vragen.
+1. [&#x200B; Lanceer een goedkeuringsverzoek &#x200B;](/help/user-guide/approvals/request-review.md) om een [&#x200B; goedkeuring van geschreven Meta en ervaringen &#x200B;](/help/user-guide/approvals/approve-content.md) te vragen.
 
-   ![ verzendt concepten voor overzicht en goedkeuring ](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
+   ![&#x200B; verzendt concepten voor overzicht en goedkeuring &#x200B;](/help/assets/send-approval-meta.png){width="450" zoomable="yes"}
 
-1. [ verwijdert of voegt recensenten ](/help/user-guide/approvals/review-and-edit.md#manage-approvals) tijdens het overzichtsproces toe.
-1. [ heb toegang tot de inhoud voor overzicht ](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
-1. Bewerk de concepten per overzichtscommentaren en [ publiceer uw Meta en ervaringen ](#publish-and-export-experience).
+1. [&#x200B; verwijdert of voegt recensenten &#x200B;](/help/user-guide/approvals/review-and-edit.md#manage-approvals) tijdens het overzichtsproces toe.
+1. [&#x200B; heb toegang tot de inhoud voor overzicht &#x200B;](/help/user-guide/approvals/review-and-edit.md#access-content-for-review) en bekijk de verzoeken om herziening.
+1. Bewerk de concepten per overzichtscommentaren en [&#x200B; publiceer uw Meta en ervaringen &#x200B;](#publish-and-export-experience).
 
-Zie [ Revisies en goedkeuringen ](/help/user-guide/approvals/overview.md) voor meer informatie.
+Zie [&#x200B; Revisies en goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md) voor meer informatie.
 
 ## Publiceren en exporteren
 
@@ -169,4 +169,4 @@ Zie [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approv
 
 U kunt GenStudio for Performance Marketing met Meta verbinden om geavanceerde analyses en inzichten in de prestaties van inhoud te ontvangen.
 
-Zie [ de advertenties van Meta verbinden ](/help/user-guide/connectors/meta-ads.md).
+Zie [&#x200B; de advertenties van Meta verbinden &#x200B;](/help/user-guide/connectors/meta-ads.md).

@@ -19,16 +19,16 @@ GenStudio for Performance Marketing hefboomwerkingen de macht van richtlijnen - 
 **om een persona** te bekijken of te wijzigen:
 
 1. Klik in het linkernavigatiegebied op **[!UICONTROL Personas]** .
-1. Om [ individuele details te bekijken of een persoon ](add-guidelines.md#manage-personas) te wijzigen, klik het _[!DNL Personas]_&#x200B;actiemenu en selecteer **Open**.
+1. Om [&#x200B; individuele details te bekijken of een persoon &#x200B;](add-guidelines.md#manage-personas) te wijzigen, klik het _[!DNL Personas]_&#x200B;actiemenu en selecteer **Open**.
 1. Wijzig de richtlijnen voor personen door in een tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een persoon in GenStudio for Performance Marketing toe te voegen of te wijzigen.
+Zie [&#x200B; richtlijnen &#x200B;](add-guidelines.md) toevoegen om te leren hoe te om een persoon in GenStudio for Performance Marketing toe te voegen of te wijzigen.
 
 ## [!DNL Personas] richtlijnen
 
 Individuele persoonlijke richtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van uw [!DNL Personas] .
 
-![ Persona richtlijnen ](/help/assets/personas.png){width="600" zoomable="yes"}
+![&#x200B; Persona richtlijnen &#x200B;](/help/assets/personas.png){width="600" zoomable="yes"}
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw eigen [!DNL Personas] -richtlijnen op te geven.
 

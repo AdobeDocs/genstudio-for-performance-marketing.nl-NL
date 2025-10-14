@@ -19,16 +19,16 @@ ht-degree: 0%
 **om een product** te bekijken of te wijzigen:
 
 1. Klik in het linkernavigatiegebied op **[!UICONTROL Products]** .
-1. Om [ individuele details te bekijken of een product ](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_&#x200B;actiemenu en selecteer **[!UICONTROL Open]**.
+1. Om [&#x200B; individuele details te bekijken of een product &#x200B;](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_&#x200B;actiemenu en selecteer **[!UICONTROL Open]**.
 1. Wijzig de productrichtlijnen door in het tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio for Performance Marketing toe te voegen of te wijzigen.
+Zie [&#x200B; richtlijnen &#x200B;](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio for Performance Marketing toe te voegen of te wijzigen.
 
 ## [!DNL Products] richtlijnen
 
 Individuele productrichtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van je producten.
 
-![ Richtlijnen van het Product ](/help/assets/products.png){width="600" zoomable="yes"}
+![&#x200B; Richtlijnen van het Product &#x200B;](/help/assets/products.png){width="600" zoomable="yes"}
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw [!DNL Products] -richtlijnen op de hoogte te brengen.
 

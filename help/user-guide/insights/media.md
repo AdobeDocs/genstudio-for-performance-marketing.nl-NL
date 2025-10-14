@@ -19,7 +19,7 @@ In de weergave [!DNL Insights] _[!UICONTROL Media]_&#x200B;ziet u een lijst met 
 
 De tabel _[!UICONTROL Media]_&#x200B;wordt ingedeeld met **[!UICONTROL Media ID]**. U kunt schakelen tussen de weergaven met behulp van het pictogram voor de weergavelijst (tabel) en het pictogram voor de galerieweergave (raster). Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
-![ de filter en lijst van Media ](/help/assets/insights-media-filter.png){zoomable="yes"}
+![&#x200B; de filter en lijst van Media &#x200B;](/help/assets/insights-media-filter.png){zoomable="yes"}
 
 In de galerieweergave van _[!UICONTROL Media]_&#x200B;ziet u een collage van voorvertoningen van media en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**&#x200B;te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
 
@@ -34,7 +34,7 @@ In de galerieweergave van _[!UICONTROL Media]_&#x200B;ziet u een collage van voo
 
 In de _mening van de Details van Media_, kunt u zien welke advertenties de geselecteerde media gebruiken. De details omvatten totale media prestaties, Advertenties die de media gebruiken, user-defined attributen, en AI-ontdekte eigenschappen verbonden aan de media.
 
-![ Details van Media ](/help/assets/insights-media-details.png){zoomable="yes"}
+![&#x200B; Details van Media &#x200B;](/help/assets/insights-media-details.png){zoomable="yes"}
 
 ### Mediakenmerken
 

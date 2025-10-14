@@ -25,7 +25,7 @@ GenStudio for Performance Marketing gebruikt Customer Journey Analytics (CJA) om
 
 **Belangrijke informatie over gegevensverbindingen**
 
-Als u een [ het systeembeheerder van Adobe ](/help/user-guide/user-roles.md#adobe-system-administrator-vs-genstudio-system-manager) bent, kunt u toestemmingen hebben die toegang tot het zandbakbeheer van AEP en componenten van het gegevensmeersysteem toestaan die GenStudio for Performance Marketing steunen.
+Als u een [&#x200B; het systeembeheerder van Adobe &#x200B;](/help/user-guide/user-roles.md#adobe-system-administrator-vs-genstudio-system-manager) bent, kunt u toestemmingen hebben die toegang tot het zandbakbeheer van AEP en componenten van het gegevensmeersysteem toestaan die GenStudio for Performance Marketing steunen.
 
 >[!WARNING]
 >
@@ -39,7 +39,7 @@ Wees voorzichtig en verwijder de volgende gegevensverbindingen die GenStudio for
 - AEP-verbindingen: gegevensstromen vooraf vastgelegd met `GS Insights`
 - AEP Connections: GS Insights-account
 
-Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/deletion) in de _Customer Journey Analytics_ gids alvorens u om het even welke gegevenscomponenten in AEP schrapt.
+Zie [&#x200B; implicaties van de Schrapping &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/technotes/deletion) in de _Customer Journey Analytics_ gids alvorens u om het even welke gegevenscomponenten in AEP schrapt.
 
 >[!ENDSHADEBOX]
 
@@ -47,4 +47,4 @@ Zie [ implicaties van de Schrapping ](https://experienceleague.adobe.com/nl/docs
 
 GenStudio for Performance Marketing bewaart kanaalgegevens gedurende 13 maanden. Dit bewaarbeleid omvat de zes maanden gegevens die tijdens de eerste verbinding worden ingevoerd, waardoor een uitgebreide historische gegevensanalyse en rapportage wordt gewaarborgd.
 
-Zie [ Connect betaalde media rekening ](/help/user-guide/connectors/connect-channel.md).
+Zie [&#x200B; Connect betaalde media rekening &#x200B;](/help/user-guide/connectors/connect-channel.md).

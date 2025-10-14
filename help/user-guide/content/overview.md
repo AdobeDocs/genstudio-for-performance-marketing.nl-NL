@@ -89,4 +89,4 @@ Wanneer u goedgekeurde elementen opslaat, behoudt [!DNL Content] de rijke metage
 
 ### Werken met sjablonen
 
-Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen. Leer over basismalplaatjeelementen en procedures in [ Werk met Malplaatjes ](use-templates.md). En diep-duik in het bouwen van malplaatjes met [ pas een malplaatje ](customize-template.md) onderwerp aan.
+Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen. Leer over basismalplaatjeelementen en procedures in [&#x200B; Werk met Malplaatjes &#x200B;](use-templates.md). En diep-duik in het bouwen van malplaatjes met [&#x200B; pas een malplaatje &#x200B;](customize-template.md) onderwerp aan.

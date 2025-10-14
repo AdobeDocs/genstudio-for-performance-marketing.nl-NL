@@ -25,9 +25,9 @@ Elke betaalkanaalaccount moet zijn verbonden met GenStudio for Performance Marke
 
 * Activeer goedgekeurde ervaringen rechtstreeks vanuit [!DNL Content] voor bepaalde betaalde advertentiekanalen.
 
-* [ creeer een activering ](create-activation.md). U kunt een advertentie-ervaring opbouwen door visuele activa te selecteren, tekst toe te wijzen, en meta-gegevens te bepalen alvorens aan een betaald kanaal te duwen.
+* [&#x200B; creeer een activering &#x200B;](create-activation.md). U kunt een advertentie-ervaring opbouwen door visuele activa te selecteren, tekst toe te wijzen, en meta-gegevens te bepalen alvorens aan een betaald kanaal te duwen.
 
-* [ beheert actities ](manage-activations.md). _[!DNL Activate]_&#x200B;biedt een overzicht van alle geactiveerde ervaringen. U kunt ook de details van afzonderlijke activeringen bekijken.
+* [&#x200B; beheert actities &#x200B;](manage-activations.md). _[!DNL Activate]_&#x200B;biedt een overzicht van alle geactiveerde ervaringen. U kunt ook de details van afzonderlijke activeringen bekijken.
 
 ## Mogelijkheden activeren
 

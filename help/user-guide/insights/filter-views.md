@@ -19,7 +19,7 @@ Het dashboard van [!DNL Insights] verstrekt een uitvoerige reeks filters voor ee
 
 Elke weergave in [!DNL Insights] biedt een lijst met filteropties. Met de filterknop (funnel) aan de linkerkant wordt het menu **[!UICONTROL Filter]** geopend. Of u nu de tabel of de galerie weergeeft, de toegepaste filters worden weergegeven in de lijst **[!UICONTROL Filter by]** boven de tabel of galerie. Standaard zijn een kanaal en een account geselecteerd.
 
-![ Filter door ](/help/assets/insights-filter-by.png " Filter door "){width=600 zoomable="yes"}
+![&#x200B; Filter door &#x200B;](/help/assets/insights-filter-by.png " Filter door "){width=600 zoomable="yes"}
 
 Toegepaste filters blijven in alle weergaven aanwezig. Selecteer **[!UICONTROL Clear all]** boven de tabel of galerie om alle geselecteerde filters te verwijderen.
 
@@ -27,13 +27,13 @@ Toegepaste filters blijven in alle weergaven aanwezig. Selecteer **[!UICONTROL C
 
 Klik op het pictogram Zoeken (vergrootglas) om een zoekterm te typen om specifieke items in de tabel of galerie te zoeken. Als u bijvoorbeeld de term `Gear` opgeeft in de [!UICONTROL Ads] -tabel, worden de resultaten gefilterd zodat alleen advertenties worden weergegeven met de term `Gear` in de naam.
 
-![ Onderzoek van het het gebiedsvoorbeeld van het 0&rbrace; Onderzoek naar advertenties met Gear in de naam ](/help/assets/insights-search.png ""){width=600 zoomable="yes"}
+![&#x200B; Onderzoek van het het gebiedsvoorbeeld van het 0&rbrace; Onderzoek naar advertenties met Gear in de naam &#x200B;](/help/assets/insights-search.png ""){width=600 zoomable="yes"}
 
 ### Datumbereik
 
 De datumbereikkiezer is een krachtig hulpmiddel om de weergegeven gegevens af te stemmen op de analysedoelstellingen. Gebruik de kiezer voor het datumbereik om het tijdkader aan te passen voor de gegevens die worden weergegeven in de tabel- of galerieweergave. Standaard wordt het datumbereik ingesteld op de laatste 30 dagen. Vouw het datumbereik uit als u meer gegevens wilt opnemen of de focus op een bepaalde periode wilt plaatsen.
 
-![ de bereikselecteur van de Datum ](/help/assets/insights-date-range.png " Uitgezocht een datumwaaier "){width=400}
+![&#x200B; de bereikselecteur van de Datum &#x200B;](/help/assets/insights-date-range.png " Uitgezocht een datumwaaier "){width=400}
 
 Als er geen items worden weergegeven in de tabel- of galerieweergave, is dit mogelijk het gevolg van het geselecteerde datumbereik, exclusief relevante gegevens. In dergelijke gevallen vergroot u het datumbereik om ervoor te zorgen dat de gewenste gegevens worden opgenomen.
 
@@ -59,7 +59,7 @@ In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groe
 
 1. Selecteer de weergave _[!DNL Insights]_&#x200B;in **[!UICONTROL Ads]**.
 
-   ![ Adds filter en lijst ](/help/assets/insights-ads-filter.png " Advertentie mening met filtermenu "){zoomable="yes"}
+   ![&#x200B; Adds filter en lijst &#x200B;](/help/assets/insights-ads-filter.png " Advertentie mening met filtermenu "){zoomable="yes"}
 
 1. Klik op de filterknop (funnel) boven de linkerkant van de tabel om het menu **[!UICONTROL Filter]** te openen.
 
@@ -67,7 +67,7 @@ In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groe
 
 1. Vouw het filter **[!UICONTROL Campaigns]** uit en klik op **[!UICONTROL Select]** .
 
-   ![ campagnes van de Filter ](/help/assets/insights-filter-campaigns-expand.png " breid campagnecilter "){width=200} uit
+   ![&#x200B; campagnes van de Filter &#x200B;](/help/assets/insights-filter-campaigns-expand.png " breid campagnecilter "){width=200} uit
 
 1. Voer in het zoekveld van _[!UICONTROL Select campaigns]_&#x200B;trefwoorden in, gescheiden door komma&#39;s.
 
@@ -75,23 +75,23 @@ In de loop der tijd kan uw lijst met campagnes en advertenties exponentieel groe
 
    - Om campagnemenamen te vinden die zowel `adventure` **EN** `ready` bevatten, ga beide sleutelwoorden in die door een komma worden gescheiden:
 
-     ![ Onderzoek alle sleutelwoorden ](/help/assets/insights-select-campaigns-and.png " Onderzoek naar campagnemenamen die beide sleutelwoorden "){width=500} bevatten
+     ![&#x200B; Onderzoek alle sleutelwoorden &#x200B;](/help/assets/insights-select-campaigns-and.png " Onderzoek naar campagnemenamen die beide sleutelwoorden "){width=500} bevatten
 
    - Om campagnemenamen te vinden die of `adventure` **OF** `ready` bevatten, ga elk sleutelwoord afzonderlijk in:
 
-     ![ Onderzoek of sleutelwoorden ](/help/assets/insights-select-campaigns-or.png " Onderzoek naar campagnemenamen die minstens één sleutelwoord "){width=500} bevatten
+     ![&#x200B; Onderzoek of sleutelwoorden &#x200B;](/help/assets/insights-select-campaigns-or.png " Onderzoek naar campagnemenamen die minstens één sleutelwoord "){width=500} bevatten
 
    - Als u geavanceerde zoekopdrachten wilt uitvoeren, combineert u meerdere sets trefwoorden. Bijvoorbeeld, onderzoek campagnemenamen met `adventure` en `apparel` **OF** `sun` en `gear`:
 
-     ![ Onderzoek met veelvoudige reeksen van sleutelwoorden ](/help/assets/insights-advanced-or.png " campagnemenamen van het Onderzoek gebruikend veelvoudige reeksen sleutelwoorden "){width=500}
+     ![&#x200B; Onderzoek met veelvoudige reeksen van sleutelwoorden &#x200B;](/help/assets/insights-advanced-or.png " campagnemenamen van het Onderzoek gebruikend veelvoudige reeksen sleutelwoorden "){width=500}
 
 1. Selecteer een of meer campagnes in de resulterende zoekopdracht en klik op **[!UICONTROL Apply]** .
 
-   ![ Lijst van campagnes ](/help/assets/insights-select-campaigns-list.png " Uitgezochte campagnes om te omvatten ")
+   ![&#x200B; Lijst van campagnes &#x200B;](/help/assets/insights-select-campaigns-list.png " Uitgezochte campagnes om te omvatten ")
 
 De geselecteerde campagnes staan nu in de lijst _[!UICONTROL Filter by]_&#x200B;boven de tabel of galerie met advertenties. U kunt zich uitsluitend richten op de advertenties die gekoppeld zijn aan de gekozen campagnes. In dit voorbeeld bevatten de gefilterde resultaten zes advertenties, waarmee u een meer doelgerichte weergave voor analyse kunt maken.
 
-![ Lijst die door campagnes ](/help/assets/insights-filter-by-campaigns.png " Lijst met campagnefilter "){zoomable="yes"} wordt gefiltreerd
+![&#x200B; Lijst die door campagnes &#x200B;](/help/assets/insights-filter-by-campaigns.png " Lijst met campagnefilter "){zoomable="yes"} wordt gefiltreerd
 
 U kunt de tabel van [!UICONTROL Media] verder filteren op een vergelijkbare manier voor advertentienamen. Vouw het filter **[!UICONTROL Ads]** uit en klik op **[!UICONTROL Select]** en u kunt een vergelijkbaar trefwoordfilter uitvoeren om de weergave van de mediatabel of galerie te verfijnen.
 

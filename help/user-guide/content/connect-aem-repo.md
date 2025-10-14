@@ -27,7 +27,7 @@ De volgende stappen vereisen administratieve toegang tot Admin Console en AEM As
 
 ## Stap 1: Inschakelen [!DNL AEM Assets Content Hub]
 
-Volg **stel Content Hub** zelfbedieningsproces op om [!DNL Content Hub] voor uw bestaande AEM Assets in Cloud Manager toe te laten. Zie [ opstellen  [!DNL Content Hub] ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in de _AEM as a Cloud Service_ documentatie.
+Volg **stel Content Hub** zelfbedieningsproces op om [!DNL Content Hub] voor uw bestaande AEM Assets in Cloud Manager toe te laten. Zie [&#x200B; opstellen  [!DNL Content Hub] &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub) in de _AEM as a Cloud Service_ documentatie.
 
 Nadat u [!DNL AEM Assets Content Hub] hebt ingeschakeld, hebt u een nieuwe instantie met het `contenthub` achtervoegsel [!DNL AEM Assets as a Cloud Service] op Admin Console.
 
@@ -39,23 +39,23 @@ Nadat u [!DNL AEM Assets Content Hub] hebt ingeschakeld, hebt u een nieuwe insta
 
 Voeg in [!DNL Admin Console] een GenStudio for Performance Marketing-gebruiker of -gebruikersgroep toe aan het productprofiel van [!DNL AEM Assets Content Hub] . Als een inhoudscontroleur geen toegang heeft tot dezelfde organisatie als de [!DNL AEM Assets Content Hub] -opslagplaats, kunnen deze problemen ondervinden bij het evalueren en goedkeuren van inhoud.
 
-- [ Onboard  [!DNL Content Hub]  beheerder ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
-- [ Onboard  [!DNL Content Hub]  gebruikers ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
+- [&#x200B; Onboard  [!DNL Content Hub]  beheerder &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-administrator)
+- [&#x200B; Onboard  [!DNL Content Hub]  gebruikers &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/deploy-content-hub#onboard-content-hub-users)
 
 ## Stap 3: activa goedkeuren
 
 Goedkeuren van elementen voor gebruik in [!DNL AEM Assets Content Hub] , zodat deze beschikbaar zijn in GenStudio for Performance Marketing.
 
-Zie [ activa in Experience Manager ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in de _AEM as a Cloud Service_ documentatie goedkeuren.
+Zie [&#x200B; activa in Experience Manager &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets) in de _AEM as a Cloud Service_ documentatie goedkeuren.
 
 ## Stap 4: Zichtbaarheid van middelen configureren
 
 Controleer in de configuratieopties van _[!DNL AEM Assets Content Hub]_&#x200B;elke set configuratieopties voor filters, elementdetails, zoeken en brandmerken.
 
-Zie [ Content Hub gebruikersinterface ](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in de _AEM as a Cloud Service_ documentatie vormen.
+Zie [&#x200B; Content Hub gebruikersinterface &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-cloud-service/content/assets/content-hub/configure-content-hub-ui-options) in de _AEM as a Cloud Service_ documentatie vormen.
 
 ## Stap 5: Controleer de verbinding
 
 In GenStudio for Performance Marketing Content is de lijst _[!UICONTROL Location]_&#x200B;beschikbaar boven de galerie aan de rechterkant. De lijst is niet beschikbaar als u geen toegang hebt of als uw organisatie een [!DNL AEM Assets Content Hub] -opslagplaats niet heeft geïmplementeerd en aangesloten.
 
-Zie [ plaats van Assets ](manage-assets.md#assets-location) om over de lijst van de Plaats en veranderende bewaarplaatsen te lezen.
+Zie [&#x200B; plaats van Assets &#x200B;](manage-assets.md#assets-location) om over de lijst van de Plaats en veranderende bewaarplaatsen te lezen.

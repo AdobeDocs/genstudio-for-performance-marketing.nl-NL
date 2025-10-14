@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Adobe GenStudio for Performance Marketing ondersteunt de activering van Meta en ervaringen met Instagram en Facebook.
 
-U kunt [ een ervaring van Meta ](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing tot stand brengen en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
+U kunt [&#x200B; een ervaring van Meta &#x200B;](/help/user-guide/create/create-meta-ad.md) in GenStudio for Performance Marketing tot stand brengen en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een Meta en volgt [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor specifieke Meta-vereisten. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik [ Manager van de Advertentie van Meta ](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.
+Het activeren van een Meta en volgt [&#x200B; zelfde algemene stappen &#x200B;](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie voor specifieke Meta-vereisten. Nadat u een ervaring van Meta in GenStudio for Performance Marketing activeert, gebruik [&#x200B; Manager van de Advertentie van Meta &#x200B;](https://adsmanager.facebook.com/) om de ervaring voor specifieke Meta en plaatsingen vóór definitieve publicatie te verfijnen.
 
 GenStudio-systeembeheerders en -editors kunnen ad-hocervaringen activeren.
 
 ## Stap 1: Meta-accounts instellen
 
-Alvorens een activering te lanceren, [ login aan Meta ](https://adsmanager.facebook.com/) om tot uw rekening van de Manager van de Advertentie van Meta toegang te hebben.
+Alvorens een activering te lanceren, [&#x200B; login aan Meta &#x200B;](https://adsmanager.facebook.com/) om tot uw rekening van de Manager van de Advertentie van Meta toegang te hebben.
 
 >[!BEGINSHADEBOX]
 
@@ -41,7 +41,7 @@ Bevestig dat je verbonden Meta-advertentierekeningen volledige toestemming hebbe
 
 Voordat uw organisatie ervaringen kan activeren, moet een GenStudio-systeembeheerder uw Meta-accounts aansluiten op GenStudio for Performance Marketing. Met deze verbinding kunnen gegevens worden verzonden tussen GenStudio en externe marketingtools zoals Meta, waardoor het activeringsproces mogelijk wordt.
 
-Zie [ verbinden met de Advertentie van Meta ](/help/user-guide/connectors/meta-ads.md).
+Zie [&#x200B; verbinden met de Advertentie van Meta &#x200B;](/help/user-guide/connectors/meta-ads.md).
 
 Nadat het synchroniseren is voltooid, kunt u de toegevoegde accounts bekijken. Het synchroniseren van grote hoeveelheden gegevens duurt langer.
 
@@ -83,8 +83,8 @@ Als u ervoor kiest om een goedgekeurde ervaring niet rechtstreeks te activeren i
 
 1. Wijs een naam toe aan uw ervaring. Na activering, kunt u deze naam gebruiken om naar deze ervaring in de _Geactiveerde ervarings_ lijst te zoeken.
 1. Selecteer media-elementen. U kunt middelen van [!DNL Content] gebruiken of externe activa (bijvoorbeeld, van OneDrive of Dropbox) uploaden.
-1. [ voeg tekst ](#add-ad-text) toe.
-1. [ voeg meta-gegevens ](#assign-metadata) toe.
+1. [&#x200B; voeg tekst &#x200B;](#add-ad-text) toe.
+1. [&#x200B; voeg meta-gegevens &#x200B;](#assign-metadata) toe.
 
    Het _paneel van de Voorproef_ steunt een interactieve mening van uw tekst en activa in de context van een specifieke advertentie plaatsing. Gebruik het _Uitgezochte drop-down menu van de Plaatsing_ om onder gesteunde ad plaatsen te schakelen. Met voorvertoningen kunt u beslissingen over ad-elementen voor specifieke plaatsingen afronden. Wanneer u een plaatsing in het _paneel van de Voorproef_ selecteert, slechts wordt uw mening van de advertentie beïnvloed. Uw plaatsingsselectie in het _paneel van de Voorproef_ wordt niet bewaard.
 
@@ -96,7 +96,7 @@ Na het uploaden worden elementen opgeslagen naar [!DNL Content] . Het _gebied va
 
 **om activa van Inhoud** te uploaden:
 
-[!DNL Content] biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de [[!DNL Content]  galerij ](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _het menuopties van de Filter_.
+[!DNL Content] biedt een centrale weergave voor de goedgekeurde middelen en ervaringen van uw organisatie. U kunt de [[!DNL Content]  galerij &#x200B;](/help/user-guide/content/manage-assets.md) getoonde inventaris van activa concentreren gebruikend **[!UICONTROL Search]** (vergrootglas) en _het menuopties van de Filter_.
 
 1. Klik in [!DNL Activate] op **[!UICONTROL New]** op de kanaalkaart. De _opstelling van de Ervaring_ mening opent.
 
@@ -216,4 +216,4 @@ De _pagina van het Overzicht_ toont uw advertentie zoals die in de _opstelling v
 
    De volledige Meta-advertentie en de bijbehorende metagegevens worden direct naar de geselecteerde Meta Ads Manager geduwd en ingesteld. De ervaring wordt in inactieve staat aan Meta Ads Manager geleverd. Vanuit Meta Ads Manager kunt u de laatste stappen beheren voor het implementeren van de advertentie- en Meta-campagne.
 
-1. [ Login aan de Manager van Advertenties van Meta ](https://adsmanager.facebook.com/) om uw advertentie te herzien en publicatie aan specifieke kanalen van Meta te voltooien.
+1. [&#x200B; Login aan de Manager van Advertenties van Meta &#x200B;](https://adsmanager.facebook.com/) om uw advertentie te herzien en publicatie aan specifieke kanalen van Meta te voltooien.

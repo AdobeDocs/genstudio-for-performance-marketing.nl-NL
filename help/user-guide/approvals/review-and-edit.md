@@ -18,7 +18,7 @@ In de evaluatie- en goedkeuringsfase zijn vaak meerdere belanghebbenden bij de z
 
 Inhoudeditors kunnen procesbewerkingen op de inhoud uitvoeren als reactie op revisieopmerkingen. Tijdens de revisie van een concept kunnen fiatteurs revisieopmerkingen blijven toevoegen, maar ze kunnen de goedkeuringsstatus niet wijzigen. De inhoudseditor kan doorgaan met het bewerken van inhoud op het canvas terwijl fiatteurs hun revisies voortzetten.
 
-Als de veranderingen substantieel zijn, kunt u [ om een nieuwe overzicht ](/help/user-guide/approvals/request-review.md#request-new-approval) van alle belanghebbenden verzoeken.
+Als de veranderingen substantieel zijn, kunt u [&#x200B; om een nieuwe overzicht &#x200B;](/help/user-guide/approvals/request-review.md#request-new-approval) van alle belanghebbenden verzoeken.
 
 ## Goedkeuringsaanvragen weergeven
 
@@ -64,7 +64,7 @@ De maker van de inhoud kan zijn bewerkingen voortzetten tijdens het ontvangen va
 
 ## Inhoud controleren met Workfront Proof
 
-[!DNL Proofing Viewer] verstrekt [ robuuste prijsverhogingshulpmiddelen ](https://experienceleague.adobe.com/nl/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) voor het annoteren van proeven en het volgen veranderingen. U kunt ook twee proefversies vergelijken.
+[!DNL Proofing Viewer] verstrekt [&#x200B; robuuste prijsverhogingshulpmiddelen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/review-and-approve-work/proofing/review-proofs-in-workfront/comment-on-a-proof/comment-on-proof-1) voor het annoteren van proeven en het volgen veranderingen. U kunt ook twee proefversies vergelijken.
 
 **om inhoud** te herzien:
 
@@ -84,7 +84,7 @@ De maker van de inhoud kan zijn bewerkingen voortzetten tijdens het ontvangen va
 
 ### Proofs vergelijken
 
-Van [!DNL Proofing Viewer], kunt u [ proefversies ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) vergelijken.
+Van [!DNL Proofing Viewer], kunt u [&#x200B; proefversies &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs) vergelijken.
 
 **om proeven** te vergelijken:
 
@@ -94,4 +94,4 @@ Van [!DNL Proofing Viewer], kunt u [ proefversies ](https://experienceleague.ado
 
    Proefversies worden naast elkaar weergegeven, met de nieuwere versie aan de linkerkant.
 
-Workfront Proof biedt verschillende gereedschappen voor het vergelijken van proefdrukken, waaronder een functie voor automatisch vergelijken. Zie [ Gebruik de vergelijkingshulpmiddelen ](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).
+Workfront Proof biedt verschillende gereedschappen voor het vergelijken van proefdrukken, waaronder een functie voor automatisch vergelijken. Zie [&#x200B; Gebruik de vergelijkingshulpmiddelen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/review-proofs-web-proofing-viewer/compare-proofs#use-the-compare-tools).

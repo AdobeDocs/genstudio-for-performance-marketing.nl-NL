@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Inhoud goedkeuren
 
-fiatteurs ontvangen productmeldingen, e-mail en, indien ingeschakeld, Slack-berichten wanneer hun beoordeling en goedkeuring nodig is. Meldingen bevatten een koppeling naar het canvas waarop de te controleren inhoud wordt weergegeven. Zie [ voorkeur en berichten van de Rekening ](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/account-preferences) voor informatie over het beheren van uw berichten.
+fiatteurs ontvangen productmeldingen, e-mail en, indien ingeschakeld, Slack-berichten wanneer hun beoordeling en goedkeuring nodig is. Meldingen bevatten een koppeling naar het canvas waarop de te controleren inhoud wordt weergegeven. Zie [&#x200B; voorkeur en berichten van de Rekening &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/features/account-preferences) voor informatie over het beheren van uw berichten.
 
 Als het inhoudsconcept voldoet aan de normen van uw organisatie en aan uw verwachtingen, kunt u het concept goedkeuren.
 
@@ -38,4 +38,4 @@ Als u een aangewezen fiatteur bent, geeft [!DNL Proofing Viewer] de knop **[!UIC
 
 1. Klik op **[!UICONTROL Submit]**.
 
-De maker van het concept wordt op de hoogte gesteld van uw goedkeuring en uw werk is voltooid. Zie [ inhoud ](/help/user-guide/approvals/publish-content.md) voor een overzicht van het proces publiceren om aan [!DNL Content] te bewaren, of _het publiceren_.
+De maker van het concept wordt op de hoogte gesteld van uw goedkeuring en uw werk is voltooid. Zie [&#x200B; inhoud &#x200B;](/help/user-guide/approvals/publish-content.md) voor een overzicht van het proces publiceren om aan [!DNL Content] te bewaren, of _het publiceren_.

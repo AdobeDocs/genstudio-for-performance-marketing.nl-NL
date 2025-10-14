@@ -27,7 +27,7 @@ Met GenStudio for Performance Marketing kunt u:
 
 GenStudio for Performance Marketing maakt gebruik van de kracht van generatieve AI om het maken van inhoud te versnellen en ervoor te zorgen dat inhoud van hoge kwaliteit wordt gegenereerd. De iteratieve levenscyclus van uw creatieve middelen resulteert in steeds nauwkeurigere en merkgerichtere inhoud die aansluit bij uw doelgroep.
 
-Begin door het merken van uw organisatie, klantenpersoonlijkheden, en productbeschrijvingen door de krachtige eigenschap van merkrichtlijnen in te nemen. Zie het [ overzicht van Richtlijnen ](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
+Begin door het merken van uw organisatie, klantenpersoonlijkheden, en productbeschrijvingen door de krachtige eigenschap van merkrichtlijnen in te nemen. Zie het [&#x200B; overzicht van Richtlijnen &#x200B;](../user-guide/guidelines/overview.md) leren hoe te om deze richtlijnen voor te bereiden en te uploaden.
 
 {{in-academy}}
 
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing gebruikt de reeks van GPT van derde LLMs doo
 
 ## [!DNL Generative Actions]
 
-_[!DNL Generative Actions]_, zoals bepaald in de [ het productbeschrijving van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html), zijn de eenheden die het gebruik van generatieve eigenschappen van AI binnen GenStudio for Performance Marketing kwantificeren.
+_[!DNL Generative Actions]_, zoals bepaald in de [&#x200B; het productbeschrijving van Adobe GenStudio for Performance Marketing &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html), zijn de eenheden die het gebruik van generatieve eigenschappen van AI binnen GenStudio for Performance Marketing kwantificeren.
 
 <!-- Add example about usage mode?
 Where users check how many generative actions they have left
@@ -48,11 +48,11 @@ If genactions roll over month to month or not -->
 
 ### Tarieven
 
-U ontvangt een standaardtoewijzing van [!DNL Generative Actions] zoals die in de [ het productbeschrijving van GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) wordt geschetst.
+U ontvangt een standaardtoewijzing van [!DNL Generative Actions] zoals die in de [&#x200B; het productbeschrijving van GenStudio for Performance Marketing &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) wordt geschetst.
 
 >[!NOTE]
 >
->De gebruikssnelheden kunnen variëren. Plannen kunnen worden gewijzigd. Zie de [ het productbeschrijving van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) voor bijgewerkte tariefinformatie.
+>De gebruikssnelheden kunnen variëren. Plannen kunnen worden gewijzigd. Zie de [&#x200B; het productbeschrijving van Adobe GenStudio for Performance Marketing &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) voor bijgewerkte tariefinformatie.
 
 De volgende functies gebruiken [!DNL Generative Actions] met de opgegeven snelheid.
 
@@ -70,9 +70,9 @@ De volgende functies gebruiken [!DNL Generative Actions] met de opgegeven snelhe
 
 [!DNL Generative Actions] _wordt niet_ verbruikt wanneer:
 
-* Het gebruiken van [ merkbevestiging ](/help/user-guide/guidelines/brand-validation.md) tijdens variantgeneratie
-* Het halen van informatie van [ geuploade richtlijnen ](/help/user-guide/guidelines/add-guidelines.md)
-* Handmatig [ hercontrolerend varianten ](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
+* Het gebruiken van [&#x200B; merkbevestiging &#x200B;](/help/user-guide/guidelines/brand-validation.md) tijdens variantgeneratie
+* Het halen van informatie van [&#x200B; geuploade richtlijnen &#x200B;](/help/user-guide/guidelines/add-guidelines.md)
+* Handmatig [&#x200B; hercontrolerend varianten &#x200B;](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)
 * Digitale elementen worden automatisch gelabeld met kenmerken ([[!DNL Insights]](/help/user-guide/insights/overview.md))
 
 >[!TIP]
@@ -83,7 +83,7 @@ De volgende functies gebruiken [!DNL Generative Actions] met de opgegeven snelhe
 
 Wanneer u met AI werkt om inhoud te genereren, is het van essentieel belang dat de uitvoer veilig en inclusief is voor alle gebruikers. Hiervoor is een evaluatie nodig van de inhoud voor mogelijke schadelijke vooroordelen, haatzaaiende uitingen, aanstootgevend materiaal of overdadigheid. Adobe test de technologie voor het genereren van inhoud vanuit verschillende perspectieven grondig, voert uitgebreide ethische beoordelingen uit en implementeert effectieve mitigatieplannen om te voorkomen dat er schadelijke inhoud ontstaat in outputs.
 
-Deze benadering versterkt sociale verantwoordelijkheid, minimaliseert reputatierisico, en verzekert naleving van [ het beleid van het Vertrouwen &amp; van de Veiligheid en van de Ethiek van Adobe ](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
+Deze benadering versterkt sociale verantwoordelijkheid, minimaliseert reputatierisico, en verzekert naleving van [&#x200B; het beleid van het Vertrouwen &amp; van de Veiligheid en van de Ethiek van Adobe &#x200B;](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf).
 
 GenStudio for Performance Marketing neemt mitigatieplannen op om het gebruik van geïdentificeerde schadelijke of vertekende inhoud volgens Adobe-normen en -beleid inzake gegevensbeheer te voorkomen. Wanneer dergelijke inhoud wordt gedetecteerd, wordt u erop gewezen dat het genereren van elementen wordt geblokkeerd met het bericht &quot;Kan niet genereren&quot;.
 

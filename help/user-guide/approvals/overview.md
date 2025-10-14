@@ -17,7 +17,7 @@ De evaluatie- en goedkeuringswerkstroom zorgt ervoor dat alle belanghebbenden—
 
 >[!NOTE]
 >
-> Deze eigenschap is ook beschikbaar als [ integratie met het Bewijs van Adobe Workfront ](/help/user-guide/approvals/proof-integration.md). Deze integratie biedt proefdrukken van mogelijkheden op het GenStudio for Performance Marketing Canvas. Dankzij de Workfront Proof-integratie krijgt GenStudio for Performance Marketing een meer gestructureerd, transparant en op samenwerking gebaseerd evaluatieproces, waardoor teams met meer vertrouwen en duidelijkheid van concept naar definitief kunnen overstappen.
+> Deze eigenschap is ook beschikbaar als [&#x200B; integratie met het Bewijs van Adobe Workfront &#x200B;](/help/user-guide/approvals/proof-integration.md). Deze integratie biedt proefdrukken van mogelijkheden op het GenStudio for Performance Marketing Canvas. Dankzij de Workfront Proof-integratie krijgt GenStudio for Performance Marketing een meer gestructureerd, transparant en op samenwerking gebaseerd evaluatieproces, waardoor teams met meer vertrouwen en duidelijkheid van concept naar definitief kunnen overstappen.
 
 ## Voordelen van de workflow voor revisie en goedkeuring
 
@@ -27,19 +27,19 @@ De evaluatie- en goedkeuringswerkstroom zorgt ervoor dat alle belanghebbenden—
 
 * **Overerving aan campagnedoelstellingen en wettelijke vereisten**. Tijdens het goedkeuringsproces kunt u controleren of inhoud campagnedoelstellingen ondersteunt. Het zorgt ervoor dat alle marketingmaterialen voldoen aan wettelijke en bestuursrechtelijke normen, waardoor risico&#39;s en potentiële juridische problemen tot een minimum worden beperkt.
 
-* **Integratie met het Bewijs van Adobe Workfront**. Gebruikers kunnen vanuit GenStudio for Performance Marketing toegang krijgen tot robuuste revisie- en goedkeuringsfuncties van Workfront Proof. Inhoud die in GenStudio for Performance Marketing wordt gecontroleerd, synchroniseert met Workfront Proof en revisieopmerkingen en -status blijven behouden. [ de hoogtepunten van de Integratie ](/help/user-guide/approvals/proof-integration.md) identificeert hoe het Bewijs de goedkeuringswerkschema van GenStudio for Performance Marketing uitbreidt.
+* **Integratie met het Bewijs van Adobe Workfront**. Gebruikers kunnen vanuit GenStudio for Performance Marketing toegang krijgen tot robuuste revisie- en goedkeuringsfuncties van Workfront Proof. Inhoud die in GenStudio for Performance Marketing wordt gecontroleerd, synchroniseert met Workfront Proof en revisieopmerkingen en -status blijven behouden. [&#x200B; de hoogtepunten van de Integratie &#x200B;](/help/user-guide/approvals/proof-integration.md) identificeert hoe het Bewijs de goedkeuringswerkschema van GenStudio for Performance Marketing uitbreidt.
 
 ## Levenscyclus voor revisie en goedkeuring
 
 De belangrijkste fasen van de evaluatie- en goedkeuringswerkstroom zijn:
 
-* [ overzicht en goedkeuring van het verzoek van de inhoud u ](/help/user-guide/approvals/request-review.md) hebt gecreeerd. GenStudio for Performance Marketing stroomlijnt het proces voor het aanvragen van goedkeuringen en het beheer van fiatteurs. Met Workfront Proof-goedkeuringssjablonen kunt u deze taak nog eenvoudiger maken.
+* [&#x200B; overzicht en goedkeuring van het verzoek van de inhoud u &#x200B;](/help/user-guide/approvals/request-review.md) hebt gecreeerd. GenStudio for Performance Marketing stroomlijnt het proces voor het aanvragen van goedkeuringen en het beheer van fiatteurs. Met Workfront Proof-goedkeuringssjablonen kunt u deze taak nog eenvoudiger maken.
 
-* [ Overzicht en geef inhoud ](/help/user-guide/approvals/review-and-edit.md) uit. In meldingen blijven makers van inhoud in de lus staan over aangevraagde wijzigingen en goedkeuringen. Door de inhoud te reviseren wordt een automatische nieuwe goedkeuringscyclus gestart.
+* [&#x200B; Overzicht en geef inhoud &#x200B;](/help/user-guide/approvals/review-and-edit.md) uit. In meldingen blijven makers van inhoud in de lus staan over aangevraagde wijzigingen en goedkeuringen. Door de inhoud te reviseren wordt een automatische nieuwe goedkeuringscyclus gestart.
 
-* [ keur inhoud ](/help/user-guide/approvals/approve-content.md) goed. Aangewezen fiatteurs markeren inhoud zoals goedgekeurd of klaar voor publicatie.
+* [&#x200B; keur inhoud &#x200B;](/help/user-guide/approvals/approve-content.md) goed. Aangewezen fiatteurs markeren inhoud zoals goedgekeurd of klaar voor publicatie.
 
-* [ publiceer inhoud ](/help/user-guide/approvals/publish-content.md). Als u goedgekeurde inhoud publiceert naar [!DNL Content] , kunt u deze gebruiken of ernaar verwijzen door anderen in uw organisatie.
+* [&#x200B; publiceer inhoud &#x200B;](/help/user-guide/approvals/publish-content.md). Als u goedgekeurde inhoud publiceert naar [!DNL Content] , kunt u deze gebruiken of ernaar verwijzen door anderen in uw organisatie.
 
 ## Concepten van inhoud
 
@@ -57,7 +57,7 @@ Beschikbare conceptstatussen:
 
 >[!NOTE]
 >
-> De concepten beantwoorden aan _proeven_ voor gebruikers van de integratie van Workfront Proof. [ de concepten en de proeven ](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) verschillen in termen van persistentie en versioning.
+> De concepten beantwoorden aan _proeven_ voor gebruikers van de integratie van Workfront Proof. [&#x200B; de concepten en de proeven &#x200B;](/help/user-guide/approvals/proof-integration.md#drafts-and-proofs) verschillen in termen van persistentie en versioning.
 
 ## Goedkeuringsrollen
 
@@ -67,7 +67,7 @@ _de Revisoren_ kunnen commentaren toevoegen maar kunnen geen inhoud goedkeuren. 
 
 In GenStudio for Performance Marketing-productmeldingen worden fiatteurs en inhoudseditors bijgewerkt in realtime van wijzigingen in de elementstatus en opmerkingen van `@mention` . Meldingen ondersteunen een snelle herhaling via de meerdere revisie-, bewerkings- en goedkeuringscycli.
 
-Inhoud-editors en -fiatteurs kunnen zich aanmelden om deze meldingen in Slack te ontvangen. Zie [ aan de diensten in Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/services/customer-attributes/subscription) intekenen.
+Inhoud-editors en -fiatteurs kunnen zich aanmelden om deze meldingen in Slack te ontvangen. Zie [&#x200B; aan de diensten in Experience Cloud &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/services/customer-attributes/subscription) intekenen.
 
 Acties die door deelnemers aan goedkeuringen worden uitgevoerd, activeren automatische meldingen in het product en e-mailmeldingen. Wanneer u een goedkeuringsproces start, ontvangen de aangewezen fiatteurs zowel e-mail- als productmeldingen. U blijft in de lus staan met in-product- en e-mailmeldingen wanneer een fiatteur `@mention` opmerkingen toevoegt of een beslissing neemt. Meldingen bevatten koppelingen naar het inhoudsconcept.
 

@@ -18,7 +18,7 @@ Communiceren met de generatieve AI is van essentieel belang voor een effectieve 
 
 GenStudio for Performance Marketing biedt een generatieve AI-prompt wanneer er een mogelijkheid is om een element te wijzigen. De componenten van een efficiënte herinnering zouden beschrijvende taal, voorbeelden, en informatie moeten omvatten niet die door uw gevormde richtlijnen wordt verstrekt.
 
-Als beste praktijken, levering GenStudio for Performance Marketing van uw merkinformatie gebruikend [ richtlijnen ](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
+Als beste praktijken, levering GenStudio for Performance Marketing van uw merkinformatie gebruikend [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md), dan kunt u volledig hefboomwerking generatieve AI om merkgerichte inhoudservaringen te produceren.
 
 ## Beschrijvende taal
 
@@ -35,7 +35,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 +++Zie voorbeeldresultaten
 
-![ drie geproduceerde e-mails ](/help/assets/sample-email.png)
+![&#x200B; drie geproduceerde e-mails &#x200B;](/help/assets/sample-email.png)
 
 +++
 
@@ -43,7 +43,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md), kunt u **[!UICONTROL Prompt criteria]** ([_Parameters_](/help/user-guide/create/overview.md#parameters) en een herinnering) in de snelle lade gebruiken om details door selectie toe te voegen om de AI interpretatie te verbeteren.
 
-Voor [ e-mails ](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [ richtlijnen ](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [ Meta en ](/help/user-guide/create/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand middel, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [ vormende richtlijnen ](/help/user-guide/guidelines/add-guidelines.md).
+Voor [&#x200B; e-mails &#x200B;](/help/user-guide/create/email-experiences.md), zouden de snelle criteria het toevoegen van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) in _Parameters_ kunnen omvatten, upload van een activa aan gebruik in de e-mailvarianten, en een beschrijvende herinnering. Voor a [&#x200B; Meta en &#x200B;](/help/user-guide/create/create-meta-ad.md), zouden de snelle criteria een merkrichtlijn in _Parameters_, selectie of upload van een bestaand middel, montages met betrekking tot beelden of activa zoals aspectverhouding, en een herinnering kunnen omvatten. De echte macht begint met [&#x200B; vormende richtlijnen &#x200B;](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -55,11 +55,11 @@ De richtlijnen van GenStudio for Performance Marketing helpen generatieve AI om 
 
 >[!TIP]
 >
->U bepaalt hoe en wanneer GenStudio for Performance Marketing de [!DNL Brand] -richtlijnen gebruikt. Zie [ Richtlijnen ](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
+>U bepaalt hoe en wanneer GenStudio for Performance Marketing de [!DNL Brand] -richtlijnen gebruikt. Zie [&#x200B; Richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) leren hoe te om uw merkrichtlijnen te vormen en te beheren.
 
 ### Gestructureerde vragen
 
-Voor e-mailberichten met meerdere secties kunt u vragen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een e-mail te produceren. De gestructureerde herinneringen zouden [ sectienamen in het e-mailmalplaatje ](/help/user-guide/content/customize-template.md#sections-or-groups) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
+Voor e-mailberichten met meerdere secties kunt u vragen structureren om sectie-specifieke instructies te verstrekken om variërende inhoud voor elke sectie in een e-mail te produceren. De gestructureerde herinneringen zouden [&#x200B; sectienamen in het e-mailmalplaatje &#x200B;](/help/user-guide/content/customize-template.md#sections-or-groups) direct van verwijzingen moeten voorzien zodat de geproduceerde inhoud in de overeenkomstige inhoudsplaatsaanduidingen kan worden opgenomen.
 
 U kunt GenStudio for Performance Marketing bijvoorbeeld de instructie geven om inhoud te genereren voor een e-mail waarin een nieuw product in de eerste sectie wordt bevorderd en waarin de kostenbesparende voordelen in de tweede sectie worden beschreven.
 
@@ -93,7 +93,7 @@ Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Genera
 Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
 ```
 
-Zie [ beste praktijken voor het gebruiken van malplaatjes ](/help/user-guide/content/best-practices-for-templates.md).
+Zie [&#x200B; beste praktijken voor het gebruiken van malplaatjes &#x200B;](/help/user-guide/content/best-practices-for-templates.md).
 
 ## Opnieuw proberen
 

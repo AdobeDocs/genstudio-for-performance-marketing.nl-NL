@@ -18,28 +18,28 @@ Adobe GenStudio for Performance Marketing biedt een uitgebreide reeks hulpmiddel
 
 ## Inhoud maken, delen en reviseren starten
 
-Als u aan generatieve op AI-Gebaseerde hulpmiddelen nieuw bent of eenvoudig nieuwsgierig over de kernbeginselen van GenStudio for Performance Marketing, zie [ Concepten ](/help/user-guide/concepts.md) en [ schrijven efficiënte herinneringen ](/help/user-guide/effective-prompts.md). U kunt [ Academie van Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy) uitchecken, online het leren van Adobe platform over het gebruiken van generatieve AI technologieën in het creatieve proces.
+Als u aan generatieve op AI-Gebaseerde hulpmiddelen nieuw bent of eenvoudig nieuwsgierig over de kernbeginselen van GenStudio for Performance Marketing, zie [&#x200B; Concepten &#x200B;](/help/user-guide/concepts.md) en [&#x200B; schrijven efficiënte herinneringen &#x200B;](/help/user-guide/effective-prompts.md). U kunt [&#x200B; Academie van Adobe GenStudio &#x200B;](https://learningmanager.adobe.com/genstudioacademy) uitchecken, online het leren van Adobe platform over het gebruiken van generatieve AI technologieën in het creatieve proces.
 
 ## GenStudio for Performance Marketing personaliseren
 
-GenStudio for Performance Marketing gebruikt informatie over uw merk en markten om de creatie van inhoud die aan uw merk voldoet, te verbeteren. De generatieve AI hefboomwerkingsbeschrijvingen van klanten [ personas ](/help/user-guide/guidelines/personas.md), [ producten ](/help/user-guide/guidelines/products.md), en [ merkrichtlijnen ](/help/user-guide/guidelines/overview.md) om inhoudsgeneratie te begeleiden in groepering met de vereisten van uw organisatie.
+GenStudio for Performance Marketing gebruikt informatie over uw merk en markten om de creatie van inhoud die aan uw merk voldoet, te verbeteren. De generatieve AI hefboomwerkingsbeschrijvingen van klanten [&#x200B; personas &#x200B;](/help/user-guide/guidelines/personas.md), [&#x200B; producten &#x200B;](/help/user-guide/guidelines/products.md), en [&#x200B; merkrichtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) om inhoudsgeneratie te begeleiden in groepering met de vereisten van uw organisatie.
 
 Systeembeheerders stellen Adobe GenStudio for Performance Marketing in door organisatorische specifieke informatie in te voeren of te uploaden. Deze voorbereiding zorgt ervoor dat de inhoudredacteurs en de medewerkers effectief de generatieve eigenschappen van AI kunnen gebruiken om campagneactiva tot stand te brengen en te herzien. Als een Adobe-systeembeheerder de productinstantie van uw organisatie heeft ingericht en een GenStudio-systeembeheermachtiging heeft toegewezen, kan de GenStudio-systeembeheerder het onderliggende generatieve AI-framework van het product voorbereiden aan de hand van richtlijnen.
 
 ### Stap 1: Richtlijnen toevoegen
 
-Merk [ richtlijnen ](/help/user-guide/guidelines/overview.md) vangen merkkenmerken. GenStudio for Performance Marketing&#39;s onderliggende generatieve AI-mogelijkheden gebruiken deze richtlijnen om hulplijnen te maken die als leidraad dienen voor het genereren van inhoud. U kunt of [[!DNL Brands]  richtsnoer ](/help/user-guide/guidelines/brands.md) documenten uploaden of manueel merkinformatie ingaan.
+Merk [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) vangen merkkenmerken. GenStudio for Performance Marketing&#39;s onderliggende generatieve AI-mogelijkheden gebruiken deze richtlijnen om hulplijnen te maken die als leidraad dienen voor het genereren van inhoud. U kunt of [[!DNL Brands]  richtsnoer &#x200B;](/help/user-guide/guidelines/brands.md) documenten uploaden of manueel merkinformatie ingaan.
 
 De redacteurs en de medewerkers van de inhoud kunnen niet met hun werk beginnen tot de fundamentele elementen van de het merkidentiteit van uw organisatie [&#128279;](/help/user-guide/guidelines/brands.md) worden gevestigd. Deze merkonderdelen omvatten:
 
 * Immateriële elementen, zoals spraaktint
 * Materiële elementen, zoals logo&#39;s, kleurenpaletten en typografie.
 
-Alvorens tot richtlijnen te leiden, leer over hoe GenStudio for Performance Marketing [ merkcomponenten ](/help/user-guide/guidelines/brands.md) bepaalt
+Alvorens tot richtlijnen te leiden, leer over hoe GenStudio for Performance Marketing [&#x200B; merkcomponenten &#x200B;](/help/user-guide/guidelines/brands.md) bepaalt
 
 #### De documenten met hulplijnen voorbereiden
 
-Uitgebreide en gerichte [[!DNL Brands]](/help/user-guide/guidelines/brands.md) -, [[!DNL Products]](/help/user-guide/guidelines/products.md) - en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) richtlijnen definiëren de kernaspecten van de marketingcampagnes van uw organisatie. GenStudio for Performance Marketing haalt informatie uit deze richtlijnen om uw merk te gaan maken. U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens invoert in GenStudio for Performance Marketing. Zie [ richtlijnen ](/help/user-guide/guidelines/overview.md) voor begeleiding toevoegen bij het uploaden van of het ingaan van deze informatie.
+Uitgebreide en gerichte [[!DNL Brands]](/help/user-guide/guidelines/brands.md) -, [[!DNL Products]](/help/user-guide/guidelines/products.md) - en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) richtlijnen definiëren de kernaspecten van de marketingcampagnes van uw organisatie. GenStudio for Performance Marketing haalt informatie uit deze richtlijnen om uw merk te gaan maken. U kunt hulplijndocumenten uploaden of ze raadplegen terwijl u handmatig gegevens invoert in GenStudio for Performance Marketing. Zie [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) voor begeleiding toevoegen bij het uploaden van of het ingaan van deze informatie.
 
 #### Richtlijnen voor revisie
 
@@ -53,20 +53,20 @@ Systeembeheerders moeten extra instellingstaken uitvoeren voordat medewerkers [!
 
 * Maak een nieuw project in de Adobe Admin Console.
 
-Zie [ de toestemmingen van het Merk toewijzen ](configure-brand-permissions.md).
+Zie [&#x200B; de toestemmingen van het Merk toewijzen &#x200B;](configure-brand-permissions.md).
 
 ### Stap 3: Sjablonen uploaden
 
 Sjablonen versnellen het maken van inhoud. Een sjabloon bevat goedgekeurde functies, zoals kop- en voetteksten, en is geoptimaliseerd voor specifieke kanalen. Systeembeheerders uploaden en beheren doorgaans sjablonen voor hun organisatie. Inhoudeditors gebruiken sjablonen om het proces voor het maken van inhoud te versnellen binnen de grenzen van het organisatiemerk.
 
-Zie [ Werk met malplaatjes ](/help/user-guide/content/use-templates.md).
+Zie [&#x200B; Werk met malplaatjes &#x200B;](/help/user-guide/content/use-templates.md).
 
 ### Stap 4: goedgekeurde elementen uploaden
 
 Goedgekeurde middelen in [!DNL Content] zijn beschikbaar voor alle GenStudio for Performance Marketing-editors. U kunt [!DNL Content] vullen met elementen die inhoudseditors kunnen gebruiken om nieuwe ervaringen of elementen te maken.
 
-Zie [ goedgekeurde activa ](/help/user-guide/content/manage-assets.md) uploaden.
+Zie [&#x200B; goedgekeurde activa &#x200B;](/help/user-guide/content/manage-assets.md) uploaden.
 
 ### Stap 5: Verbinding maken met een betaalmediaaccount
 
-Configureer een verbinding tussen GenStudio for Performance Marketing en uw betaalmediaaccounts om gegevens te ontvangen van actieve marketingcampagnes, middelen en ervaringen. Gebruik [!DNL Insights] om kanaalgegevens te analyseren. Zie [ Connect betaalde media rekening ](/help/user-guide/connectors/connect-channel.md).
+Configureer een verbinding tussen GenStudio for Performance Marketing en uw betaalmediaaccounts om gegevens te ontvangen van actieve marketingcampagnes, middelen en ervaringen. Gebruik [!DNL Insights] om kanaalgegevens te analyseren. Zie [&#x200B; Connect betaalde media rekening &#x200B;](/help/user-guide/connectors/connect-channel.md).

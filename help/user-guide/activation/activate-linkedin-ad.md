@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # Een LinkedIn-advertentie activeren
 
-Adobe GenStudio for Performance Marketing steunt de activering van ervaringen LinkedIn met enige activa aan [ LinkedIn de Manager van de Campagne ](https://business.linkedin.com/marketing-solutions) en LinkedIn pagina&#39;s.
+Adobe GenStudio for Performance Marketing steunt de activering van ervaringen LinkedIn met enige activa aan [&#x200B; LinkedIn de Manager van de Campagne &#x200B;](https://business.linkedin.com/marketing-solutions) en LinkedIn pagina&#39;s.
 
-U kunt [ tot een ervaring leiden LinkedIn ](/help/user-guide/create/create-linkedin.md) in GenStudio for Performance Marketing en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
+U kunt [&#x200B; tot een ervaring leiden LinkedIn &#x200B;](/help/user-guide/create/create-linkedin.md) in GenStudio for Performance Marketing en het voor activering selecteren, of een nieuwe ervaring van goedgekeurde activa in [!DNL Activate] construeren.
 
-Het activeren van een LinkedIn volgt [ zelfde algemene stappen ](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie-ervaring voor de specifieke vereisten van LinkedIn. Nadat u een ervaring LinkedIn in GenStudio for Performance Marketing activeert, gebruik LinkedIn de Manager van de Campagne om de ervaring voor specifieke LinkedIn en plaatsingen vóór definitieve publicatie te verfijnen.
+Het activeren van een LinkedIn volgt [&#x200B; zelfde algemene stappen &#x200B;](create-activation.md) die voor activering aan andere betaalde kanalen worden vereist. Het activeringsproces ondersteunt het voorbereiden van uw advertentie-ervaring voor de specifieke vereisten van LinkedIn. Nadat u een ervaring LinkedIn in GenStudio for Performance Marketing activeert, gebruik LinkedIn de Manager van de Campagne om de ervaring voor specifieke LinkedIn en plaatsingen vóór definitieve publicatie te verfijnen.
 
 GenStudio-systeembeheerders en -editors kunnen ad-hocervaringen activeren.
 
 ## Stap 1: Opstelling uw rekeningen LinkedIn
 
-Alvorens een activering te lanceren, [ teken binnen aan ](https://www.linkedin.com/campaignmanager/login) uw rekening van de Manager LinkedIn van de Campagne.
+Alvorens een activering te lanceren, [&#x200B; teken binnen aan &#x200B;](https://www.linkedin.com/campaignmanager/login) uw rekening van de Manager LinkedIn van de Campagne.
 
 >[!BEGINSHADEBOX]
 
@@ -105,4 +105,4 @@ Afhankelijk van de sectie u selecteerde, opent de _opstelling van Ervaringen_ of
 
 ## Stap 6: Volledige publicatie van uw advertentie-ervaring
 
-1. [ Teken binnen aan ](https://www.linkedin.com/campaignmanager/login) uw rekening van de Manager LinkedIn van de Campagne om uw advertentie te herzien en publicatie aan specifieke pagina&#39;s te voltooien LinkedIn.
+1. [&#x200B; Teken binnen aan &#x200B;](https://www.linkedin.com/campaignmanager/login) uw rekening van de Manager LinkedIn van de Campagne om uw advertentie te herzien en publicatie aan specifieke pagina&#39;s te voltooien LinkedIn.

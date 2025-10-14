@@ -18,13 +18,13 @@ U kunt de publicatie van een Google Campagne Manager 360 starten en een ervaring
 
 ## Stap 1: Stel uw Google Campagne Manager 360-accounts in
 
-Alvorens een activering te lanceren, [ login aan uw Manager 360 van de Campagne van Google rekening ](https://campaignmanager.google.com). Bevestig dat u toegang hebt tot Google Campaign Manager 360-adverteerders. Wanneer u een Campagne Manager 360 ervaring van GenStudio for Performance Marketing publiceert, wordt het geleverd aan de adverteerderbibliotheek die tijdens verwezenlijking wordt geselecteerd.
+Alvorens een activering te lanceren, [&#x200B; login aan uw Manager 360 van de Campagne van Google rekening &#x200B;](https://campaignmanager.google.com). Bevestig dat u toegang hebt tot Google Campaign Manager 360-adverteerders. Wanneer u een Campagne Manager 360 ervaring van GenStudio for Performance Marketing publiceert, wordt het geleverd aan de adverteerderbibliotheek die tijdens verwezenlijking wordt geselecteerd.
 
 Manager 360 van de campagne staat marketers toe om campagnes en advertenties binnen verschillende _adverteerders_ te organiseren. Elke adverteerder beschikt over een creatieve bibliotheek. GenStudio for Performance Marketing publiceert en ervaart in een creatieve bibliotheek.
 
 ## Stap 2: Maak verbinding met uw Google Campagne Manager 360-accounts
 
-Voordat uw organisatie elementen kan publiceren in een creatieve bibliotheek, moet een GenStudio-systeembeheerder uw Google Campagne Manager 360-accounts aansluiten op GenStudio for Performance Marketing. Deze gebruiker moet beheerderstoegang tot de adverteerder hebben om in Campagne Manager 360 te lezen en te schrijven. Zie [ Connect betaalde media rekeningen ](/help/user-guide/connectors/connect-channel.md).
+Voordat uw organisatie elementen kan publiceren in een creatieve bibliotheek, moet een GenStudio-systeembeheerder uw Google Campagne Manager 360-accounts aansluiten op GenStudio for Performance Marketing. Deze gebruiker moet beheerderstoegang tot de adverteerder hebben om in Campagne Manager 360 te lezen en te schrijven. Zie [&#x200B; Connect betaalde media rekeningen &#x200B;](/help/user-guide/connectors/connect-channel.md).
 
 Nadat de synchronisatie is voltooid, kunt u de toegevoegde accounts bekijken.
 
@@ -65,4 +65,4 @@ De ervaringen van uw Campagne Manager 360 worden rechtstreeks doorgegeven aan de
 
 ## Stap 6: Volledige publicatie van uw advertentie-ervaring
 
-1. [ Login aan uw Manager 360 van de Campagne van Google rekening ](https://campaignmanager.google.com) om de definitieve stappen van opstelling te beheren en uw advertentie binnen de gepubliceerde ervaring op te stellen.
+1. [&#x200B; Login aan uw Manager 360 van de Campagne van Google rekening &#x200B;](https://campaignmanager.google.com) om de definitieve stappen van opstelling te beheren en uw advertentie binnen de gepubliceerde ervaring op te stellen.

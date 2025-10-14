@@ -16,11 +16,11 @@ ht-degree: 0%
 
 [[!DNL Brands]](/help/user-guide/guidelines/brands.md) , [[!DNL Products]](/help/user-guide/guidelines/products.md) en [[!DNL Personas]](/help/user-guide/guidelines/personas.md) zijn door de gebruiker gedefinieerde richtlijnen in GenStudio for Performance Marketing die ervoor zorgen dat door AI gegenereerde inhoud wordt aangepast aan de merkidentiteit, zodat de inhoud op effectieve wijze kan worden aangepast.
 
-Zie het [ overzicht van richtlijnen ](/help/user-guide/guidelines/overview.md).
+Zie het [&#x200B; overzicht van richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md).
 
-Het toevoegen van richtsnoeren aan GenStudio for Performance Marketing is een belangrijke stap in het aanmaakproces. De richtlijnen informeren het proces van de inhoudcreatie, samen met user-defined herinneringen, [ toegankelijkheid en inhoudscontroles ](overview.md#compliance), en generatieve AI van Adobe technologie, om impactful activa te amberen.
+Het toevoegen van richtsnoeren aan GenStudio for Performance Marketing is een belangrijke stap in het aanmaakproces. De richtlijnen informeren het proces van de inhoudcreatie, samen met user-defined herinneringen, [&#x200B; toegankelijkheid en inhoudscontroles &#x200B;](overview.md#compliance), en generatieve AI van Adobe technologie, om impactful activa te amberen.
 
-De richtsnoeren kunnen user-defined zijn of als standaardrichtlijnen, zoals de [ standaard  [!DNL Brand]  kanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) bestaan.
+De richtsnoeren kunnen user-defined zijn of als standaardrichtlijnen, zoals de [&#x200B; standaard  [!DNL Brand]  kanaalrichtlijnen &#x200B;](/help/user-guide/guidelines/brands.md#default-channel-guidelines) bestaan.
 
 Wanneer het creëren van varianten van een malplaatje met vooraf bepaalde richtlijnen - [!DNL Brands], [!DNL Personas], of [!DNL Products] - deze richtlijnen zijn op de varianten van toepassing. U kunt deze desgewenst wijzigen.
 
@@ -28,7 +28,7 @@ Wanneer het creëren van varianten van een malplaatje met vooraf bepaalde richtl
 
 ## Merken toevoegen
 
-Om a [!DNL Brand] toe te voegen, [ upload een merkgids ](#upload-a-brand) of [ creeer manueel een merk ](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [ publiceer a  [!DNL Brand]](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
+Om a [!DNL Brand] toe te voegen, [&#x200B; upload een merkgids &#x200B;](#upload-a-brand) of [&#x200B; creeer manueel een merk &#x200B;](#manually-add-brand) door richtlijnen te selecteren en uw merkdetails in te gaan. [&#x200B; publiceer a  [!DNL Brand]](#publish-brand) aan [!DNL Content] om het voor gebruik in toekomstige inhoudsgeneratie beschikbaar te maken.
 
 Als u merkrichtlijnen uploadt die in een niet-Engelse taal worden geschreven—of handmatig een merk maakt in een niet-Engelse taal—geeft GenStudio for Performance Marketing deze richtlijnen in dezelfde taal weer.
 
@@ -61,7 +61,7 @@ De weergave voor uw nieuwe merk wordt geopend en de merkrichtlijnen worden weerg
 
 ### Handmatig merk toevoegen
 
-U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande merkdocumenten, om een nieuw [ merk ](brands.md) te bevolken.
+U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande merkdocumenten, om een nieuw [&#x200B; merk &#x200B;](brands.md) te bevolken.
 
 **om een merk** manueel toe te voegen:
 
@@ -75,23 +75,23 @@ U kunt merkdetails manueel toevoegen, in plaats van het uploaden van bestaande m
 
    U kunt richtlijnen van de homepage mening van uw nieuw merk direct toevoegen _of_ u kunt hen in de individuele van labels voorzien secties (die informatieve _voorbeelden van de Mening_ tooltips omvatten om u) bij de bovenkant te begeleiden.
 
-   ![ Banden ](/help/assets/brands.png){width="600" zoomable="yes"}
+   ![&#x200B; Banden &#x200B;](/help/assets/brands.png){width="600" zoomable="yes"}
 
    - _wanneer om dit merk_ te gebruiken: klik **[!UICONTROL Add]** (of klik in het tekstgebied om bestaande tekst te veranderen) en ga overzicht en gebruiksinformatie over het merk in. Klik op **[!UICONTROL Save changes]**.
    - [_[!DNL Brand] stemrichtlijnen _](brands.md#brand-voice-guidelines): voeg toepasselijke informatie op elk richtsnoergebied toe.
 
-     ![ Voeg [!DNL Brand] stemrichtlijnen ](/help/assets/brand-voice-add.png){width="500" zoomable="yes"} toe
+     ![&#x200B; Voeg [!DNL Brand] stemrichtlijnen &#x200B;](/help/assets/brand-voice-add.png){width="500" zoomable="yes"} toe
 
    - [_Richtlijnen van het Beeld_](brands.md#image-guidelines): Klik **[!UICONTROL Add category]** om richtsnoercategorieën zoals &quot;Algemene kunstrichtlijnen&quot;of &quot;de foto van het Product toe te voegen&quot;. Vul richtlijnen in elke toegevoegde categorie.
    - [_de richtlijnen van het Kanaal_](brands.md#channel-guidelines): Klik in elk beschikbaar kanaal en voeg aangewezen richtlijnen toe.
    - [_Logo&#39;s_](brands.md#logos): Klik **[!UICONTROL Add logo]** aan belemmering-en-daling of doorblader om een embleem te uploaden.
    - [_Kleuren_](brands.md#colors): klik **[!UICONTROL Add color]** om een hexuitdraai of de kleurencode van RGB, of de kleurenplukker te gebruiken, om individuele kleuren toe te voegen.
 
-     ![ Merk kleuren ](/help/assets/colors.png){width="600" zoomable="yes"}
+     ![&#x200B; Merk kleuren &#x200B;](/help/assets/colors.png){width="600" zoomable="yes"}
 
 Als u het gemaakte object wilt weergeven [!DNL Brands] , klikt u op de pijl op de achtergrond boven in het deelvenster _[!UICONTROL Brands]_&#x200B;om terug te navigeren naar de startpagina van&#x200B;_[!UICONTROL Brands]_ .
 
-U moet niet [ publiceren ](#publish-brand) uw [!DNL Brand] om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de [!DNL Brand] info in GenStudio for Performance Marketing willen gebruiken, moeten deze publiceren. Een gemaakte [!DNL Brand] bevindt zich in een concept totdat deze wordt gepubliceerd.
+U moet niet [&#x200B; publiceren &#x200B;](#publish-brand) uw [!DNL Brand] om de informatie toegankelijk te maken. Eventuele handmatig toegevoegde informatie is direct beschikbaar nadat deze is toegevoegd. Anderen in uw organisatie die de [!DNL Brand] info in GenStudio for Performance Marketing willen gebruiken, moeten deze publiceren. Een gemaakte [!DNL Brand] bevindt zich in een concept totdat deze wordt gepubliceerd.
 
 ### Miniatuur van merk wijzigen
 
@@ -149,7 +149,7 @@ Om **merkinformatie van de meningsmening**, klik **[!UICONTROL [!DNL Brands]]** 
 1. Als u een merklogo wilt beheren, klikt u op [**[!UICONTROL Logos]**](brands.md#logos) boven in het scherm en klikt u op het actiemenu (drie punten).
    1. Selecteer **[!UICONTROL View details]** om informatie voor [!DNL Brand] zoals _Formaat_ en _Grootte_ te zien.
    1. Selecteer **[!UICONTROL Download]** om het logo te downloaden.
-   1. Selecteer [ ** [!UICONTROL Use as brand thumbnail]](#change-brand-thumbnail) om het embleem als duimnagelbeeld te plaatsen.
+   1. Selecteer [&#x200B; ** [!UICONTROL Use as brand thumbnail]](#change-brand-thumbnail) om het embleem als duimnagelbeeld te plaatsen.
    1. Selecteer **[!UICONTROL Rename]** om de naam van het logo te wijzigen.
    1. Selecteer **[!UICONTROL Delete]** om het logo te verwijderen.
 1. Als u de naam van een bestaand merk wilt wijzigen, klikt u in de titel en voert u een nieuwe titel in.
@@ -158,12 +158,12 @@ Om **merkinformatie van de meningsmening**, klik **[!UICONTROL [!DNL Brands]]** 
 
       De popup bevestigt dat het merk gedupliceerd is: &quot;Nieuw merk gemaakt&quot;. Het gedupliceerde merk is aanvankelijk op _Unpublished_ wijze.
 
-   1. Pas het gedupliceerde merk aan en [ publiceer het ](#publish-brand) dan om het voor gebruik beschikbaar te maken.
+   1. Pas het gedupliceerde merk aan en [&#x200B; publiceer het &#x200B;](#publish-brand) dan om het voor gebruik beschikbaar te maken.
 1. Als u een merk wilt verwijderen, selecteert u **[!UICONTROL Delete]** in het actiemenu [!DNL Brands] .
 
 ## Toevoegen [!DNL Personas]
 
-Om een persona toe te voegen, [ upload een persoonlijke gids ](#upload-a-persona) of [ manueel creeer een persona ](#manually-add-persona) door richtlijnen te selecteren en uw persona details in te gaan.
+Om een persona toe te voegen, [&#x200B; upload een persoonlijke gids &#x200B;](#upload-a-persona) of [&#x200B; manueel creeer een persona &#x200B;](#manually-add-persona) door richtlijnen te selecteren en uw persona details in te gaan.
 
 In het linkernavigatiegebied, klik **[!DNL Personas]** van de _Gedeelde_ lijst. In het _[!DNL Personas]_&#x200B;paneel, uitgezocht **voeg Person**&#x200B;toe.
 
@@ -192,7 +192,7 @@ Zie [[!DNL Personas]](/help/user-guide/guidelines/personas.md) .
 
 ### Handmatig persona toevoegen
 
-U kunt persona details, in plaats van het uploaden van bestaande persona documenten manueel toevoegen, om een nieuwe [ persona ](personas.md) te bevolken.
+U kunt persona details, in plaats van het uploaden van bestaande persona documenten manueel toevoegen, om een nieuwe [&#x200B; persona &#x200B;](personas.md) te bevolken.
 
 **om een persona** manueel toe te voegen:
 
@@ -204,7 +204,7 @@ U kunt persona details, in plaats van het uploaden van bestaande persona documen
 1. Klik op **[!UICONTROL New persona name]** en voer een naam in voor de [!DNL Persona] .
 1. Voeg informatie over uw [!DNL Persona] in de _sectie van de Beschrijving_ toe.
 
-   ![ Voeg een [!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"} toe
+   ![&#x200B; Voeg een [!DNL Persona]](/help/assets/personas-add.png){width="650" zoomable="yes"} toe
 
 1. Klik in _Beschrijving_ en ga een beschrijving van dit [!DNL Persona] in.
 1. Klik in _voorkeur van het Overseinen_ en ga overseinendetails voor [!DNL Persona] in.
@@ -231,11 +231,11 @@ In _[!DNL Personas]_&#x200B;huis, kunt u **openen reeds-gecreeerd[!DNL Persona]*
 
 ## Toevoegen [!DNL Products]
 
-Om een product toe te voegen, [ upload een productgids ](#upload-a-product) of [ creeer manueel een product ](#manually-add-product) door richtlijnen te selecteren en uw productdetails in te gaan.
+Om een product toe te voegen, [&#x200B; upload een productgids &#x200B;](#upload-a-product) of [&#x200B; creeer manueel een product &#x200B;](#manually-add-product) door richtlijnen te selecteren en uw productdetails in te gaan.
 
 In het linkernavigatiegebied, klik **[!DNL Products]** van de _Gedeelde_ lijst. In het _[!DNL Products]_&#x200B;paneel, uitgezochte **voeg product**&#x200B;toe.
 
-![ Voeg een [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} toe
+![&#x200B; Voeg een [!DNL Product]](/help/assets/products-add.png){width="650" zoomable="yes"} toe
 
 U kunt een [!DNL Product] in GenStudio for Performance Marketing opnemen om de inhoud die u voor een bepaald product maakt, beter af te stemmen.
 
@@ -262,7 +262,7 @@ Zie [[!DNL Products]](/help/user-guide/guidelines/products.md) .
 
 ### Product handmatig toevoegen
 
-U kunt productdetails, in plaats van het uploaden van bestaande productdocumenten manueel toevoegen, om een nieuwe [ producten ](products.md) te bevolken.
+U kunt productdetails, in plaats van het uploaden van bestaande productdocumenten manueel toevoegen, om een nieuwe [&#x200B; producten &#x200B;](products.md) te bevolken.
 
 **om een product** manueel toe te voegen:
 

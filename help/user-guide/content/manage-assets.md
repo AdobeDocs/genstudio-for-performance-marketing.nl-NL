@@ -20,13 +20,13 @@ Op de galerie ziet u een overzicht van goedgekeurde middelen, ervaringen of sjab
 
 In het volgende voorbeeld ziet u een zoekopdracht naar de term `space` in de [!UICONTROL Assets] -galerie:
 
-![ de mening van Assets met onderzoek op ruimte ](/help/assets/content-assets-filter.png " die naar activa met ruimteattributen zoekt ")
+![&#x200B; de mening van Assets met onderzoek op ruimte &#x200B;](/help/assets/content-assets-filter.png " die naar activa met ruimteattributen zoekt ")
 
 ### Inhoud zoeken
 
 De filter en onderzoeksinterface is snel en ontvankelijk, en verstrekt een productieve onderzoek-eerste ervaring. Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Voor elementen en ervaringen kunt u een campagne en specifieke richtlijnen selecteren, zoals inhoud die voor een bepaald product is gemaakt.
 
-Er zijn filters die op [ richtlijnen ](/help/user-guide/guidelines/overview.md) worden gebaseerd, [ sleutelwoorden ](asset-details.md#user-defined-metadata), en [ kenmerkencategorieën ](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
+Er zijn filters die op [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) worden gebaseerd, [&#x200B; sleutelwoorden &#x200B;](asset-details.md#user-defined-metadata), en [&#x200B; kenmerkencategorieën &#x200B;](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken. U kunt bijvoorbeeld een element van een bepaald bestandstype of een bepaald onderwerp zoeken om een nieuwe ervaring voor uw campagne op te bouwen. Of u kunt inhoud filteren op basis van uw gebruikersnaam of de naam van een teamlid:
 
 - **[!UICONTROL Uploaded by]**: hiermee wordt de lijst in _[!UICONTROL Assets]_&#x200B;beperkt, zodat alleen de elementen worden weergegeven die door u of een bepaalde persoon zijn geüpload.
 - **[!UICONTROL Created by]**: beperkt de lijst van _[!UICONTROL Experiences]_&#x200B;om alleen de ervaringen te tonen die door u of een specifieke persoon zijn gemaakt.
@@ -42,7 +42,7 @@ Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen 
 
    >[!IMPORTANT]
    >
-   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [ met een bewaarplaats van AEM ](connect-aem-repo.md) verbindt.
+   >De _lijst van de Plaats_ is beschikbaar slechts wanneer u [&#x200B; met een bewaarplaats van AEM &#x200B;](connect-aem-repo.md) verbindt.
 
 1. Klik op **[!UICONTROL Search]** (vergrootglas) om een trefwoord of beschrijving in te voeren.
 
@@ -60,13 +60,13 @@ Elementen die u via het [!DNL Content] -proces of uploaden toevoegt aan [!DNL Cr
 
 In de **[!UICONTROL Location]** -lijst boven de _[!UICONTROL Assets]_-galerie aan de rechterkant kunt u een van de verbonden Adobe Experience Manager (AEM) [!DNL Assets Content Hub] -opslagruimten selecteren.
 
-![ lijst van de Plaats van bewaarplaatsen ](/help/assets/content-location-selection.png " Selecteer een inhoudsbewaarplaats "){width="350"}
+![&#x200B; lijst van de Plaats van bewaarplaatsen &#x200B;](/help/assets/content-location-selection.png " Selecteer een inhoudsbewaarplaats "){width="350"}
 
 Wanneer u een AEM-opslagplaats selecteert, wordt in de galerie een overzicht van de middelen van die opslagplaats weergegeven, zodat u goedgekeurde elementen van deze opslagplaatsen kunt gebruiken als input voor het maken van inhoud. De filteropties veranderen om de categorieën te weerspiegelen die in [!DNL AEM Assets Content Hub] worden gevormd.
 
-Zie [ verbinden een bewaarplaats van AEM ](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
+Zie [&#x200B; verbinden een bewaarplaats van AEM &#x200B;](connect-aem-repo.md) voor begeleiding bij het toevoegen van uw [!DNL AEM Assets Content Hub] bewaarplaats aan GenStudio for Performance Marketing.
 
-De AEM-opslagplaats heeft het kenmerk Alleen-lezen, wat betekent dat u toegang kunt krijgen tot de inhoud, maar dat u geen concepten, nieuwe elementen of metagegevens kunt opslaan in de AEM-opslagplaats. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [ systeemmeta-gegevens ](asset-details.md#system-metadata).
+De AEM-opslagplaats heeft het kenmerk Alleen-lezen, wat betekent dat u toegang kunt krijgen tot de inhoud, maar dat u geen concepten, nieuwe elementen of metagegevens kunt opslaan in de AEM-opslagplaats. Alle concepten en definitieve updates voor activa, ervaringen, en malplaatjes sparen aan de `GenStudio assets` bewaarplaats met nieuwe [&#x200B; systeemmeta-gegevens &#x200B;](asset-details.md#system-metadata).
 
 {{note-aem-assets}}
 
@@ -80,19 +80,19 @@ De volgende lijst maakt een lijst van de beheerstaken beschikbaar voor activa, e
 
 | Taken | Assets | Ervaringen | Sjablonen |
 | --------------------------------------------------------- | :----: | :---------: | :-------: |
-| [ de details van de Mening ](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
-| [ creeer ervaring ](/help/user-guide/create/overview.md) |        |             | ✓ |
-| [ geef in Adobe Express uit ](#edit-in-express) | ✓ |             |           |
-| [ Ervaringen van de Uitvoer ](#export-experiences) |        | ✓ |           |
-| [ verfrissen zich ](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
-| [ Download ](#download-assets) | ✓ |             | ✓ |
-| [ Schrapping ](#delete-assets) | ✓ | ✓ | ✓ |
+| [&#x200B; de details van de Mening &#x200B;](/help/user-guide/content/asset-details.md) | ✓ | ✓ | ✓ |
+| [&#x200B; creeer ervaring &#x200B;](/help/user-guide/create/overview.md) |        |             | ✓ |
+| [&#x200B; geef in Adobe Express uit &#x200B;](#edit-in-express) | ✓ |             |           |
+| [&#x200B; Ervaringen van de Uitvoer &#x200B;](#export-experiences) |        | ✓ |           |
+| [&#x200B; verfrissen zich &#x200B;](/help/user-guide/content/use-templates.md#refresh-template) |   |      | ✓ |
+| [&#x200B; Download &#x200B;](#download-assets) | ✓ |             | ✓ |
+| [&#x200B; Schrapping &#x200B;](#delete-assets) | ✓ | ✓ | ✓ |
 
 ### Elementen toevoegen
 
 Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslagen in de `GenStudio assets` -opslagruimte. De knop _[!UICONTROL Add assets]_&#x200B;is alleen beschikbaar wanneer de&#x200B;_[!UICONTROL Location]_ de `GenStudio assets` -opslagplaats is.
 
-![ het gebied van de Plaats ](/help/assets/content-location.png " gebied van de Plaats "){width="350"}
+![&#x200B; het gebied van de Plaats &#x200B;](/help/assets/content-location.png " gebied van de Plaats "){width="350"}
 
 **om één of meerdere activa** toe te voegen:
 
@@ -108,7 +108,7 @@ Wanneer u elementen toevoegt aan [!DNL Content] , worden deze standaard opgeslag
 
    Alle details die u toevoegt, worden toegepast op alle elementen die in deze handeling worden toegevoegd.
 
-   Zie [ details van Meta-gegevens ](/help/user-guide/content/asset-details.md#system-metadata).
+   Zie [&#x200B; details van Meta-gegevens &#x200B;](/help/user-guide/content/asset-details.md#system-metadata).
 
 5. Klik op **[!UICONTROL Add assets]**.
 
@@ -150,7 +150,7 @@ U kunt een of meer goedgekeurde downloadervaringen selecteren in een indeling di
 
    Er wordt een banner weergegeven met het aantal ervaringen dat aan de linkerkant is geselecteerd en de opties [!UICONTROL Activate], [!UICONTROL Download] of [!UICONTROL Delete] aan de rechterkant.
 
-2. (Optioneel) Als u activeert, wordt u mogelijk gevraagd een platform te selecteren en vervolgens door te gaan met de [!DNL Activate] -workflow. Zie [ activeren ](/help/user-guide/activation/overview.md).
+2. (Optioneel) Als u activeert, wordt u mogelijk gevraagd een platform te selecteren en vervolgens door te gaan met de [!DNL Activate] -workflow. Zie [&#x200B; activeren &#x200B;](/help/user-guide/activation/overview.md).
 
 3. Klik op **[!UICONTROL Download]**.
 
@@ -161,7 +161,7 @@ U kunt een of meer goedgekeurde downloadervaringen selecteren in een indeling di
    - Email, LinkedIn: `HTML`, `CSV`
    - Meta-, Banner- en Display-advertentie: `HTML`, `JPEG`, `PNG`
 
-   ![ de ervaringen van de Download ](/help/assets/content-bulk-export.png " Download veelvoudige ervaringen "){width=350}
+   ![&#x200B; de ervaringen van de Download &#x200B;](/help/assets/content-bulk-export.png " Download veelvoudige ervaringen "){width=350}
 
 ## Bewerken in Express
 

@@ -46,6 +46,6 @@ Zodra een advertentie live is met het doel betaalde mediakanaal, kan [!DNL Insig
 
 Elk betaald mediakanaal heeft een unieke activeringsworkflow. Selecteer het betaalkanaal voor activeringsrichtlijnen:
 
-* [ Manager 360 van de Campagne van Google ](activate-cm360-ad.md)
-* [ LinkedIn ](activate-linkedin-ad.md)
-* [ Meta ](activate-meta-ad.md)
+* [&#x200B; Manager 360 van de Campagne van Google &#x200B;](activate-cm360-ad.md)
+* [&#x200B; LinkedIn &#x200B;](activate-linkedin-ad.md)
+* [&#x200B; Meta &#x200B;](activate-meta-ad.md)

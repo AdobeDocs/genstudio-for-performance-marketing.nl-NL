@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Meta-ervaringen
 
-Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [ verwezenlijking van high-impact ervaringen van Meta ](/help/user-guide/create/create-meta-ad.md) te stroomlijnen. [!DNL Create] laat inhoudsscheppers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken om snel [ Meta en ervaringen ](/help/user-guide/create/create-meta-ad.md) tot stand te brengen.
+Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [&#x200B; verwezenlijking van high-impact ervaringen van Meta &#x200B;](/help/user-guide/create/create-meta-ad.md) te stroomlijnen. [!DNL Create] laat inhoudsscheppers toe om [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md), beeldactiva, en a [&#x200B; goed-gemaakte herinnering &#x200B;](/help/user-guide/effective-prompts.md) te gebruiken om snel [&#x200B; Meta en ervaringen &#x200B;](/help/user-guide/create/create-meta-ad.md) tot stand te brengen.
 
 Wanneer het produceren van de ervaringen van Meta, worden vier variaties gecreeerd en in het Canvas getoond. GenStudio for Performance Marketing steunt zowel standaard als de advertenties van de douanegrootte Meta [.](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines)
 
@@ -30,13 +30,13 @@ Bewerkbare gedeelten van een e-mailervaring zijn:
 * Tekst in afbeelding
 * Afbeelding/Video
 
-Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
+Zie [&#x200B; elementen van het Malplaatje &#x200B;](/help/user-guide/content/use-templates.md#template-elements).
 
 ## Meta-advertenties
 
 Bij het maken van Meta-advertenties kunt u varianten voor zowel Facebook- als Instagram-kanalen genereren. Schakel heen en weer tussen Facebook- en Instagram-advertenties om varianten voor elk kanaal te bekijken.
 
-Zie [ kiezen Meta advertenties kanaal ](/help/user-guide/create/create-meta-ad.md#choose-meta-ads-channel).
+Zie [&#x200B; kiezen Meta advertenties kanaal &#x200B;](/help/user-guide/create/create-meta-ad.md#choose-meta-ads-channel).
 
 ## Progressief laden
 
@@ -58,4 +58,4 @@ Elk veld en elke sectie van de Meta en ervaringen worden in deze volgorde geleid
 
 Nadat u een set Meta-varianten hebt gegenereerd, wordt het aantal tekens voor elke sectie weergegeven. Houd de muis boven of klik in een gegenereerde sectie, zoals de onderwerpregel of de hoofdtekst, en zie de sectienaam en het aantal tekens voor die sectie.
 
-![ Aantal van het Karakter ](/help/assets/character-count.png){width="500" zoomable="yes"}
+![&#x200B; Aantal van het Karakter &#x200B;](/help/assets/character-count.png){width="500" zoomable="yes"}

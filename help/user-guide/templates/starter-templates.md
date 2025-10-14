@@ -17,7 +17,7 @@ ht-degree: 0%
 
 _de malplaatjes van de Aanzet_ zijn vooraf bepaalde malplaatjeopties die worden ontworpen om u te helpen snel met GenStudio for Performance Marketing beginnen en leren hoe te om efficiënte media tot stand te brengen. Selecteer een mediatype in [!DNL Create] . Als startsjablonen beschikbaar zijn, schakelt u over naar het tabblad **[!UICONTROL Starter templates]** om naar een sjabloon te bladeren die aan uw wensen voldoet.
 
-![ de malplaatjes van de Aanzet lusje ](/help/assets/starter-templates.png " Uitgezochte malplaatjelusjes "){width="350"}
+![&#x200B; de malplaatjes van de Aanzet lusje &#x200B;](/help/assets/starter-templates.png " Uitgezochte malplaatjelusjes "){width="350"}
 
 Het is belangrijk dat u de juiste hoogte-breedteverhouding voor uw advertentie selecteert om de impact te maximaliseren en ervoor te zorgen dat uw inhoud op de juiste wijze wordt weergegeven op verschillende platformen en plaatsen. Houd rekening met het volgende wanneer u een hoogte-breedteverhouding kiest:
 

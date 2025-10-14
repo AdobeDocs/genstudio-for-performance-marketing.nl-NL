@@ -67,7 +67,7 @@ GenStudio for Performance Marketing gebruikt vooraf bepaalde malplaatjes genoemd
 
 ## Personen en producten toewijzen
 
-[ Personas ](/help/user-guide/guidelines/personas.md) en [ producten ](/help/user-guide/guidelines/products.md) worden bewaard als verslagen. Een persoonverslag bepaalt de kenmerken van een specifiek klant segment-uw doelpubliek voor geproduceerde inhoud. Het kan demografische details en een geschiedenis van klanteninteractie omvatten.
+[&#x200B; Personas &#x200B;](/help/user-guide/guidelines/personas.md) en [&#x200B; producten &#x200B;](/help/user-guide/guidelines/products.md) worden bewaard als verslagen. Een persoonverslag bepaalt de kenmerken van een specifiek klant segment-uw doelpubliek voor geproduceerde inhoud. Het kan demografische details en een geschiedenis van klanteninteractie omvatten.
 
 In productdossiers worden de belangrijkste productspecificaties en kenmerken in de context van uw merkrichtlijnen gedefinieerd. Kenmerken kunnen functies, bijbehorende afbeeldingen en productpositionering binnen uw merk bevatten.
 
@@ -79,7 +79,7 @@ De opties in de _Persoonlijke_ en _Producten_ drop-down menu&#39;s worden bepaal
 
    _Uitgezochte Persoonlijke_ popup opent. U kunt zoeken naar specifieke ondersteunde personen.
 
-1. Selecteer de personen waarop uw campagne zich richt. De geldige persona&#39;s worden bepaald door uw organisatie tijdens [ de verwezenlijking van richtlijnen ](/help/user-guide/guidelines/personas.md).
+1. Selecteer de personen waarop uw campagne zich richt. De geldige persona&#39;s worden bepaald door uw organisatie tijdens [&#x200B; de verwezenlijking van richtlijnen &#x200B;](/help/user-guide/guidelines/personas.md).
 
    Kies desgewenst **[!UICONTROL See all]** om een weergave van alle beschikbare persona&#39;s te openen.
 
@@ -89,7 +89,7 @@ De opties in de _Persoonlijke_ en _Producten_ drop-down menu&#39;s worden bepaal
 
    _Uitgezochte Producten_ popup opent. U kunt zoeken naar een specifiek ondersteund product.
 
-1. Selecteer een of meer producten. De producten worden bepaald door uw organisatie tijdens [ de verwezenlijking van richtlijnen ](/help/user-guide/guidelines/products.md).
+1. Selecteer een of meer producten. De producten worden bepaald door uw organisatie tijdens [&#x200B; de verwezenlijking van richtlijnen &#x200B;](/help/user-guide/guidelines/products.md).
 
    Kies desgewenst **[!UICONTROL See all]** om een weergave van alle beschikbare producten te openen.
 

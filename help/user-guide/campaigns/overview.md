@@ -25,9 +25,9 @@ De [!DNL Campaigns] -workflow bevat:
 
 ## Gebruiksgevallen voor campagnes
 
-* [ creeer een campagne ](create-campaign.md). _voegt campagne_ mening toe verstrekt een kader om een campagne in GenStudio for Performance Marketing tot stand te brengen. De informatie ingegaan in _voegt campagne_ mening toe wordt bewaard als campagnevoorwerp in [!DNL Campaigns].
+* [&#x200B; creeer een campagne &#x200B;](create-campaign.md). _voegt campagne_ mening toe verstrekt een kader om een campagne in GenStudio for Performance Marketing tot stand te brengen. De informatie ingegaan in _voegt campagne_ mening toe wordt bewaard als campagnevoorwerp in [!DNL Campaigns].
 
-* [ beheert campagnes ](manage-campaign.md) en campagneinhoud. Campagne-elementen zoals schema&#39;s, indelingen en belanghebbenden kunnen tijdens een campagne evolueren. U kunt bestaande campagnes wijzigen door inhoud bij te werken.
+* [&#x200B; beheert campagnes &#x200B;](manage-campaign.md) en campagneinhoud. Campagne-elementen zoals schema&#39;s, indelingen en belanghebbenden kunnen tijdens een campagne evolueren. U kunt bestaande campagnes wijzigen door inhoud bij te werken.
 
 ## Campagne-mogelijkheden
 

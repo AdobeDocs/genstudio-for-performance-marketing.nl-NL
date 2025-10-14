@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Varianten beheren
 
-Adobe GenStudio for Performance Marketing [!DNL Create] laat u toe om geproduceerde varianten aan te passen en te verbeteren - [ e-mails ](/help/user-guide/create/email-experiences.md), [ advertenties van Meta ](/help/user-guide/create/meta-experiences.md), en meer-voor gebruik in digitale marketing initiatieven.
+Adobe GenStudio for Performance Marketing [!DNL Create] laat u toe om geproduceerde varianten aan te passen en te verbeteren - [&#x200B; e-mails &#x200B;](/help/user-guide/create/email-experiences.md), [&#x200B; advertenties van Meta &#x200B;](/help/user-guide/create/meta-experiences.md), en meer-voor gebruik in digitale marketing initiatieven.
 
-Wanneer [ het creëren van ervaringen ](/help/user-guide/create/overview.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stuk gegenereerde inhoud beheren.
+Wanneer [&#x200B; het creëren van ervaringen &#x200B;](/help/user-guide/create/overview.md), kunt u inhoud en activa van geproduceerde varianten individueel of in een partij wijzigen. Dankzij de mogelijkheid om varianten op individueel microniveau te beheren, kunt u elk stuk gegenereerde inhoud beheren.
 
 ## Conceptnaam wijzigen
 
@@ -71,7 +71,7 @@ GenStudio for Performance Marketing heeft de ingebouwde functionaliteit om secti
 
 U kunt bijvoorbeeld het koptekstgedeelte van een Meta en variant opnieuw genereren om te zien hoe het er met een bepaald achtergrondelement uitziet. U kunt _[!UICONTROL Rephrase]_,_[!UICONTROL Shorten]_ , of _[!UICONTROL Lengthen]_&#x200B;de inhoud van een sectie, of&#x200B;_[!UICONTROL Generate new text]_ toevoegen om een nieuwe vraag toe te voegen.
 
-![ regenerate secties ](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
+![&#x200B; regenerate secties &#x200B;](/help/assets/regenerate-sections.png){width="300" zoomable="yes"}
 
 **om individuele variantsecties** opnieuw te produceren:
 
@@ -149,11 +149,11 @@ Deze functie Algemeen uitvouwen is gekoppeld aan het gereedschap Uitsnijden om u
 
    Voordat u Generative Expand gebruikt:
 
-   ![ vóór Generatief uitbreiden ](/help/assets/before-genexpand.png){width="300" zoomable="yes"}
+   ![&#x200B; vóór Generatief uitbreiden &#x200B;](/help/assets/before-genexpand.png){width="300" zoomable="yes"}
 
    Na gebruik van Generative Expand:
 
-   ![ na Generatief uitbreiden ](/help/assets/after-genexpand.png){width="300" zoomable="yes"}
+   ![&#x200B; na Generatief uitbreiden &#x200B;](/help/assets/after-genexpand.png){width="300" zoomable="yes"}
 
 1. Klik op **[!UICONTROL Generate]**.
 1. Klik door en selecteer een geproduceerde optie of klik **[!UICONTROL More]** (plus pictogram) voor een lijst van geproduceerde opties.
@@ -162,7 +162,7 @@ Deze functie Algemeen uitvouwen is gekoppeld aan het gereedschap Uitsnijden om u
 
 ## Hoogte-breedteverhouding wijzigen
 
-U kunt de [ aspectverhouding van de advertenties van Meta ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) snel veranderen om het gewenste ad rangschikken. Kies een hoogte-breedteverhouding voor afbeeldingen die vrijwel overeenkomt met de sjabloonafmetingen om ongewenste bijsnijden of uitrekken te voorkomen. Bijvoorbeeld, als uw malplaatje 1200 × 628 pixel (een brede rechthoek) is, kan het gebruiken van een 1 :1 vierkant beeld de kanten bebouwen, potentieel snijdend belangrijke inhoud. De optimale afbeeldingsgrootte is 628 x 628 pixels, wat overeenkomt met de hoogte van de sjabloon.
+U kunt de [&#x200B; aspectverhouding van de advertenties van Meta &#x200B;](/help/user-guide/templates/meta-template.md#supported-aspect-ratios) snel veranderen om het gewenste ad rangschikken. Kies een hoogte-breedteverhouding voor afbeeldingen die vrijwel overeenkomt met de sjabloonafmetingen om ongewenste bijsnijden of uitrekken te voorkomen. Bijvoorbeeld, als uw malplaatje 1200 × 628 pixel (een brede rechthoek) is, kan het gebruiken van een 1 :1 vierkant beeld de kanten bebouwen, potentieel snijdend belangrijke inhoud. De optimale afbeeldingsgrootte is 628 x 628 pixels, wat overeenkomt met de hoogte van de sjabloon.
 
 >[!NOTE]
 >
@@ -176,7 +176,7 @@ U kunt de [ aspectverhouding van de advertenties van Meta ](/help/user-guide/tem
 
    Het aantal variaties dat door deze revisie wordt beïnvloed, wordt genoteerd in de hoogste juiste hoek van het venster. _Voorbeeld_: &quot;4 van 4 variaties&quot;
 
-1. Selecteer een [ beschikbare aspectverhouding ](/help/user-guide/templates/meta-template.md#supported-aspect-ratios).
+1. Selecteer een [&#x200B; beschikbare aspectverhouding &#x200B;](/help/user-guide/templates/meta-template.md#supported-aspect-ratios).
 
    Alleen de verhoudingen die momenteel niet in het canvas worden weergegeven, kunnen worden gekozen.
 
@@ -196,7 +196,7 @@ U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toev
 1. Klik op het pictogram **[!UICONTROL Swap from content]** .
 1. Gebruik de filters en zoekfunctie in de weergave GenStudio-elementen [!DNL Content] om uw zoekresultaten verder te verfijnen.
 
-   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**&#x200B;menu ](/help/user-guide/content/manage-assets.md#location) .
+   U kunt ook afbeeldingen gebruiken die beschikbaar zijn in verbonden Adobe Experience Manager (AEM) Assets Content Hub-opslagruimten door die opslagplaats te selecteren in het [**[!UICONTROL Location]**&#x200B;menu &#x200B;](/help/user-guide/content/manage-assets.md#location) .
 
 1. Klik om een afbeelding te selecteren en klik op **[!UICONTROL Use]** .
 
@@ -204,7 +204,7 @@ U kunt afbeeldingen in gegenereerde varianten rechtstreeks vanaf het canvas toev
 
 ## Koppelingen toevoegen
 
-U kunt een koppeling naar tekst, afbeeldingen en CTA-knoppen in uw varianten toevoegen. Het malplaatje u gebruikte om varianten _te produceren moet_ a [ inhoudplaceholder voor de verbinding ](/help/user-guide/content/customize-template.md#content-placeholders) bevatten om deze functionaliteit toe te laten.
+U kunt een koppeling naar tekst, afbeeldingen en CTA-knoppen in uw varianten toevoegen. Het malplaatje u gebruikte om varianten _te produceren moet_ a [&#x200B; inhoudplaceholder voor de verbinding &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) bevatten om deze functionaliteit toe te laten.
 
 **om een verbinding in een variant** toe te voegen:
 
@@ -221,7 +221,7 @@ U kunt een koppeling naar tekst, afbeeldingen en CTA-knoppen in uw varianten toe
 
 Wanneer u tijdens het maken inhoud (afbeeldingen) toevoegt, kunt u voor elke opgenomen afbeelding alternatieve tekst definiëren. Het toevoegen van alt-tekst aan afbeeldingen verbetert de toegankelijkheid, optimalisatie van zoekprogramma&#39;s en de gebruikerservaring.
 
-Om alt tekstfunctionaliteit toe te laten, [ voeg inhoudplaceholder ](/help/user-guide/content/customize-template.md#alternative-text) in het malplaatje toe.
+Om alt tekstfunctionaliteit toe te laten, [&#x200B; voeg inhoudplaceholder &#x200B;](/help/user-guide/content/customize-template.md#alternative-text) in het malplaatje toe.
 
 **om alt tekst aan beelden in geproduceerde varianten** toe te voegen:
 
@@ -247,7 +247,7 @@ Geef een toegankelijke naam op voor de afbeeldings- en call-to-action-koppelinge
 1. Klik in het tekstvak en voeg een korte beschrijving toe waarin wordt uitgelegd wat de koppeling of knop doet. U kunt bijvoorbeeld Winkelen op de officiële website van WKND gebruiken voor een call to action-knopkoppeling.
 1. Klik op **[!UICONTROL Apply]**.
 
-Om de functionaliteit van het toegankelijkheidslabel toe te laten, [ voeg inhoudplaceholder ](/help/user-guide/content/customize-template.md) in het malplaatje toe.
+Om de functionaliteit van het toegankelijkheidslabel toe te laten, [&#x200B; voeg inhoudplaceholder &#x200B;](/help/user-guide/content/customize-template.md) in het malplaatje toe.
 
 ## Voorvertoning voor apparaat
 
@@ -275,13 +275,13 @@ Verwijder overbodige varianten, zodat op het werkcanvas alleen de varianten word
 
 Gebruik het _paneel van de controle van de Inhoud 0&rbrace; &lbrace;om verenigbare merkidentiteit,_ de toegankelijkheidsnormen van ADA, platformrichtlijnen [, en groepering van varianten te handhaven.](/help/user-guide/guidelines/overview.md#content-checks)
 
-Zie [ Bevestiging van de Merk ](/help/user-guide/guidelines/brand-validation.md).
+Zie [&#x200B; Bevestiging van de Merk &#x200B;](/help/user-guide/guidelines/brand-validation.md).
 
 ## Feedback genereren
 
 Feedback op de kwaliteit van gegenereerde merkgebonden elementen kan worden ingediend om het proces voor het genereren van inhoud te verbeteren. Als u aangeeft of de resultaten van hoge of slechte kwaliteit zijn, wordt de algehele kwaliteit van de inhoud en de veiligheid van de gebruiker in GenStudio for Performance Marketing verbeterd.
 
-![ voorleggen terugkoppelt op inhoudsgeneratie ](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
+![&#x200B; voorleggen terugkoppelt op inhoudsgeneratie &#x200B;](/help/assets/generation-feedback.png){width="500" zoomable="yes"}
 
 Generatie-feedback is van toepassing op een individuele variant, niet op de verzamelde set varianten.
 

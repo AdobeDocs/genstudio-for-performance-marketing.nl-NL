@@ -14,9 +14,9 @@ ht-degree: 0%
 
 # E-mailervaringen
 
-Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [ verwezenlijking van high-impact e-mailervaringen ](/help/user-guide/create/create-email-experience.md) te stroomlijnen.
+Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [&#x200B; verwezenlijking van high-impact e-mailervaringen &#x200B;](/help/user-guide/create/create-email-experience.md) te stroomlijnen.
 
-[!DNL Create] laat moderne marketers toe om [ richtlijnen ](/help/user-guide/guidelines/overview.md) te gebruiken, beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) om snel [ merkgebonden e-mailervaringen ](/help/user-guide/create/create-email-experience.md) tot stand te brengen.
+[!DNL Create] laat moderne marketers toe om [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) te gebruiken, beeldactiva, en a [&#x200B; goed-gemaakte herinnering &#x200B;](/help/user-guide/effective-prompts.md) om snel [&#x200B; merkgebonden e-mailervaringen &#x200B;](/help/user-guide/create/create-email-experience.md) tot stand te brengen.
 
 Bij het genereren van e-mailervaringen worden vier variaties gemaakt en weergegeven in het canvas.
 
@@ -29,7 +29,7 @@ Bewerkbare gedeelten van een e-mailervaring zijn:
 * Call to action (CTA)
 * Afbeelding
 
-Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
+Zie [&#x200B; elementen van het Malplaatje &#x200B;](/help/user-guide/content/use-templates.md#template-elements).
 
 <!-- ## Email capabilities
 
@@ -37,9 +37,9 @@ Content creators and marketers can produce brand-consistent email experiences in
 
 ## E-mails met meerdere secties
 
-E-mailervaringen kunnen uit meerdere secties bestaan, zodat u ze volledig kunt aanpassen aan uw merk en doelstellingen. [ Uitgezochte  [!DNL Products]  en visuele activa voor elke sectie ](/help/user-guide/create/create-email-experience.md#add-parameters) en gebruik [ gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) aan ambachtelijke unieke inhoud. Elke sectie ondersteunt één visueel element.
+E-mailervaringen kunnen uit meerdere secties bestaan, zodat u ze volledig kunt aanpassen aan uw merk en doelstellingen. [&#x200B; Uitgezochte  [!DNL Products]  en visuele activa voor elke sectie &#x200B;](/help/user-guide/create/create-email-experience.md#add-parameters) en gebruik [&#x200B; gestructureerde herinneringen &#x200B;](/help/user-guide/effective-prompts.md#structured-prompts) aan ambachtelijke unieke inhoud. Elke sectie ondersteunt één visueel element.
 
-Zie [ het aanpassen van malplaatjes met secties ](/help/user-guide/content/customize-template.md#sections-or-groups) leren hoe te om een multi-sectiesjabloon tot stand te brengen.
+Zie [&#x200B; het aanpassen van malplaatjes met secties &#x200B;](/help/user-guide/content/customize-template.md#sections-or-groups) leren hoe te om een multi-sectiesjabloon tot stand te brengen.
 
 ## Progressief laden
 
@@ -62,4 +62,4 @@ Elk veld en elke sectie van e-mailervaringen worden in deze reeks geleidelijk ge
 
 Nadat u een set e-mailvarianten hebt gegenereerd, ziet u het aantal tekens dat voor elke sectie wordt weergegeven. Houd de muis boven of klik in een gegenereerde sectie, zoals de onderwerpregel of de hoofdtekst, en zie de sectienaam en het aantal tekens voor die sectie.
 
-![ Aantal van het Karakter ](/help/assets/character-count.png){width="500" zoomable="yes"}
+![&#x200B; Aantal van het Karakter &#x200B;](/help/assets/character-count.png){width="500" zoomable="yes"}

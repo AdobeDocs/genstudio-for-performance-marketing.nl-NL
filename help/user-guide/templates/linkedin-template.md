@@ -37,7 +37,7 @@ GenStudio for Performance Marketing genereert automatisch de volgende velden. U 
 - `introductory_text`
 - `cta` (Call to action)
 
-Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+Zie [&#x200B; placeholders van de Inhoud &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
 ## Ondersteunde hoogte-breedteverhoudingen
 

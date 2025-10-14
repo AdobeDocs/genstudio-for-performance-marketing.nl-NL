@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een App Builder-app ontwikkelen
 
-De ontwikkelaars die inheemse mogelijkheden van GenStudio for Performance Marketing uitbreiden gebruiken [ Adobe App Builder ](https://developer.adobe.com/app-builder/) om, hun verlengbare apps, of toe:voegen-ons tot stand te brengen voor te leggen en op te stellen.
+De ontwikkelaars die inheemse mogelijkheden van GenStudio for Performance Marketing uitbreiden gebruiken [&#x200B; Adobe App Builder &#x200B;](https://developer.adobe.com/app-builder/) om, hun verlengbare apps, of toe:voegen-ons tot stand te brengen voor te leggen en op te stellen.
 
 >[!BEGINSHADEBOX]
 
@@ -86,9 +86,9 @@ U kunt een voorbeeld-app gebruiken om snel een add-on te maken.
 
 **om een app van App Builder van bestaande app** tot stand te brengen:
 
-1. Download een voorbeeld app van de [ 20&rbrace; Voorbeelden van GenStudio UIX ](https://github.com/adobe/genstudio-uix-examples) bewaarplaats.
+1. Download een voorbeeld app van de [&#x200B; 20&rbrace; Voorbeelden van GenStudio UIX &#x200B;](https://github.com/adobe/genstudio-uix-examples) bewaarplaats.
 
-1. Van de werkruimte van het Project van App Builder op [ Adobe Developer Console ](https://developer.adobe.com/console/), selecteer [!UICONTROL Download All] om de details van het Project te downloaden.
+1. Van de werkruimte van het Project van App Builder op [&#x200B; Adobe Developer Console &#x200B;](https://developer.adobe.com/console/), selecteer [!UICONTROL Download All] om de details van het Project te downloaden.
 
 1. Open uw voorbeeld-app lokaal in de voorkeursomgeving voor geïntegreerde ontwikkeling (IDE).
 
@@ -122,6 +122,6 @@ Door uw ontwikkelomgeving te onderhouden, kunt u fouten bij de ontwikkeling en i
   rm -rf node_modules package-lock.json && npm i
   ```
 
-* Upgrade de GenStudio UIX SDK. Bevestig dat u de meest recente versie van [ GenStudio UIX SDK ](https://github.com/adobe/genstudio-uix-sdk) gebruikt. Verwijs naar de [ bewaarplaats van het Voorbeeld van GenStudio UIX ](https://github.com/adobe/genstudio-uix-examples) om te leren hoe te om de meest recente veranderingen van SDK te gebruiken.
+* Upgrade de GenStudio UIX SDK. Bevestig dat u de meest recente versie van [&#x200B; GenStudio UIX SDK &#x200B;](https://github.com/adobe/genstudio-uix-sdk) gebruikt. Verwijs naar de [&#x200B; bewaarplaats van het Voorbeeld van GenStudio UIX &#x200B;](https://github.com/adobe/genstudio-uix-examples) om te leren hoe te om de meest recente veranderingen van SDK te gebruiken.
 
-Nu bent u klaar om [ uw app ](deploy-app.md) op te stellen
+Nu bent u klaar om [&#x200B; uw app &#x200B;](deploy-app.md) op te stellen

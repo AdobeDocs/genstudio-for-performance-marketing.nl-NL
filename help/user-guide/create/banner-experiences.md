@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Bannerervaringen
 
-Adobe GenStudio for Performance Marketing laat u toe om generatieve AI te gebruiken om de [ verwezenlijking van succesvolle bannerervaringen ](/help/user-guide/create/create-banner-experience.md) te verbeteren.
+Adobe GenStudio for Performance Marketing laat u toe om generatieve AI te gebruiken om de [&#x200B; verwezenlijking van succesvolle bannerervaringen &#x200B;](/help/user-guide/create/create-banner-experience.md) te verbeteren.
 
-[!DNL Create] laat moderne marketers aan [ ambachtelijke samenhangende bannerervaringen ](/help/user-guide/create/create-banner-experience.md) toe door [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken.
+[!DNL Create] laat moderne marketers aan [&#x200B; ambachtelijke samenhangende bannerervaringen &#x200B;](/help/user-guide/create/create-banner-experience.md) toe door [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md), beeldactiva, en a [&#x200B; goed-gemaakte herinnering &#x200B;](/help/user-guide/effective-prompts.md) te gebruiken.
 
 Wanneer het produceren van bannerervaringen worden vier variaties gecreeerd en in het Canvas getoond.
 
-Zie [ kanaal-specifieke malplaatjerichtsnoeren ](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer volgen.
+Zie [&#x200B; kanaal-specifieke malplaatjerichtsnoeren &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer volgen.
 
 Bewerkbare gedeelten van een weergave en ervaring zijn:
 
@@ -31,7 +31,7 @@ Bewerkbare gedeelten van een weergave en ervaring zijn:
 * Call to action (CTA)
 * Afbeelding
 
-Zie [ elementen van het Malplaatje ](/help/user-guide/content/use-templates.md#template-elements).
+Zie [&#x200B; elementen van het Malplaatje &#x200B;](/help/user-guide/content/use-templates.md#template-elements).
 
 <!-- ## Character counts
 
