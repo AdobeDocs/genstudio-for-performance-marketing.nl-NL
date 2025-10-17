@@ -46,7 +46,7 @@ De functie `renderExperienceSelectorWithSUSI` accepteert een configuratieobject 
 | `apiKey` | string | Ja | API-sleutel voor GenStudio-services |
 | `imsOrg` | string | Ja | IMS-organisatie-id |
 | `env` | string | Ja | Omgeving (`stage`, `prod`) |
-| `susiConfig` | object | Ja | [ SUSI authentificatieconfiguratie ](#susi-configuration) |
+| `susiConfig` | object | Ja | [&#x200B; SUSI authentificatieconfiguratie &#x200B;](#susi-configuration) |
 | `onSelectionConfirmed` | function | Ja | Callback wanneer de selectie wordt bevestigd |
 | `onDismiss` | function | Ja | Callback wanneer de dialoog wordt gesloten |
 | `locale` | string | Nee | Landinstelling (bijvoorbeeld `en-US`) |
@@ -107,15 +107,15 @@ Het object `susiConfig` kan het volgende bevatten:
 
 Deze gegevensopslagruimte bevat werkvoorbeelden voor verschillende frameworks:
 
-- [ de volledige toepassing van React die integratie met Vite aantoont bouwt systeem ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [&#x200B; de volledige toepassing van React die integratie met Vite aantoont bouwt systeem &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
-- [ A Vue 3 toepassing met de integratie van compositie API ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
+- [&#x200B; A Vue 3 toepassing met de integratie van compositie API &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
-- [ Twee vanilla implementaties van JavaScript ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
+- [&#x200B; Twee vanilla implementaties van JavaScript &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
 
-- [ Deze versie van Vanilla ESM gebruikt ES6 modules en moderne JavaScript ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
+- [&#x200B; Deze versie van Vanilla ESM gebruikt ES6 modules en moderne JavaScript &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
 
-- [ Deze versie van Vanilla UMD gebruikt UMD die bundel via manuscriptmarkering ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var) wordt geladen.
+- [&#x200B; Deze versie van Vanilla UMD gebruikt UMD die bundel via manuscriptmarkering &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var) wordt geladen.
 
 ## Verificatiestroom
 
