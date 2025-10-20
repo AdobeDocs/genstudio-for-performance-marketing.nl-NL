@@ -2,7 +2,7 @@
 title: GenStudio Experience Selector MFE
 description: Begrijp en implementeer de Experience Selector Micro FrontEnd voor uw GenStudio-apps en -invoegtoepassingen.
 feature: Extensibility, Extensions, Experiences
-source-git-commit: e30e43bd8d226628b425c341d19195f7f860e560
+source-git-commit: 2d6453274d1bfeb35df2821e7e31eec1ca87b013
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -28,13 +28,13 @@ De MFE kan op twee verschillende manieren worden geïntegreerd:
 ### ESM (ES-modules) - aanbevolen
 
 ```javascript
-import { renderExperienceSelectorWithSUSI } from 'https://experience-stage.adobe.com/solutions/GenStudio-experience-selector-mfe/static-assets/resources/@genstudio/experience-selector/esm/standalone.js';
+import { renderExperienceSelectorWithSUSI } from 'https://experience.adobe.com/solutions/GenStudio-experience-selector-mfe/static-assets/resources/@genstudio/experience-selector/esm/standalone.js';
 ```
 
 ### UMD (Universal Module Definition)
 
 ```html
-<script src="https://experience-stage.adobe.com/solutions/GenStudio-experience-selector-mfe/static-assets/resources/@genstudio/experience-selector/umd/standalone.js"></script>
+<script src="https://experience.adobe.com/solutions/GenStudio-experience-selector-mfe/static-assets/resources/@genstudio/experience-selector/umd/standalone.js"></script>
 ```
 
 ## Configuratieeigenschappen
@@ -46,7 +46,7 @@ De functie `renderExperienceSelectorWithSUSI` accepteert een configuratieobject 
 | `apiKey` | string | Ja | API-sleutel voor GenStudio-services |
 | `imsOrg` | string | Ja | IMS-organisatie-id |
 | `env` | string | Ja | Omgeving (`stage`, `prod`) |
-| `susiConfig` | object | Ja | [&#x200B; SUSI authentificatieconfiguratie &#x200B;](#susi-configuration) |
+| `susiConfig` | object | Ja | [ SUSI authentificatieconfiguratie ](#susi-configuration) |
 | `onSelectionConfirmed` | function | Ja | Callback wanneer de selectie wordt bevestigd |
 | `onDismiss` | function | Ja | Callback wanneer de dialoog wordt gesloten |
 | `locale` | string | Nee | Landinstelling (bijvoorbeeld `en-US`) |
@@ -107,15 +107,15 @@ Het object `susiConfig` kan het volgende bevatten:
 
 Deze gegevensopslagruimte bevat werkvoorbeelden voor verschillende frameworks:
 
-- [&#x200B; A **volledige toepassing van het Reageren** het demonstreren integratie met Vite bouwt systeem &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
+- [ A **volledige toepassing van het Reageren** het demonstreren integratie met Vite bouwt systeem ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/react-js).
 
-- [&#x200B; A **Vue 3 toepassing** met de integratie van compositie API &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
+- [ A **Vue 3 toepassing** met de integratie van compositie API ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vue-js).
 
-- [&#x200B; Twee **Vanilla JavaScript implementaties** &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
+- [ Twee **Vanilla JavaScript implementaties** ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js):
 
-   - [&#x200B; Deze **Vanilla ESM** versie gebruikt ES6 modules en moderne JavaScript &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
+   - [ Deze **Vanilla ESM** versie gebruikt ES6 modules en moderne JavaScript ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-esm).
 
-   - [&#x200B; Deze **Vanilla UMD** versie gebruikt de bundel van UMD die via manuscriptmarkering &#x200B;](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var) wordt geladen.
+   - [ Deze **Vanilla UMD** versie gebruikt de bundel van UMD die via manuscriptmarkering ](https://github.com/adobe/genstudio-extensibility-examples/tree/main/genstudio-experience-selector-mfe/vanilla-js/vanilla-umd-global-var) wordt geladen.
 
 ## Verificatiestroom
 
