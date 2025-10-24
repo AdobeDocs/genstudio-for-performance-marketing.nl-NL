@@ -33,11 +33,11 @@ Beheerders zijn verantwoordelijk voor het uploaden van een geldig X.509-certific
 
 ## Wat is Content Credentials? 
 
-Content Credentials is een duurzaam, industriestandaard type metagegevens met informatie over hoe inhoud is gemaakt en identiteitsgegevens over de makers. Content Credentials kan worden bekeken wanneer de inhoud online aan het steunen van platforms wordt gepubliceerd, of door hulpmiddelen zoals [ het hulpmiddel van de Inspectie van Adobe te gebruiken ](https://contentauthenticity.adobe.com/inspect) of de [ browser van Adobe Content Authenticity Chrome uitbreiding ](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
+Content Credentials is een duurzaam, industriestandaard type metagegevens met informatie over hoe inhoud is gemaakt en identiteitsgegevens over de makers. Content Credentials kan worden bekeken wanneer de inhoud online aan het steunen van platforms wordt gepubliceerd, of door hulpmiddelen zoals [&#x200B; het hulpmiddel van de Inspectie van Adobe te gebruiken &#x200B;](https://contentauthenticity.adobe.com/inspect) of de [&#x200B; browser van Adobe Content Authenticity Chrome uitbreiding &#x200B;](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
 
 Door Content Credentials toe te passen, kunt u de transparantie over de manier waarop inhoud is gemaakt, verhogen en kunt u gebruikers helpen zich aan te sluiten op hun inhoud.
 
-[ leer meer over Content Credentials ](https://helpx.adobe.com/creative-cloud/help/content-credentials.html) bij Adobe.
+[&#x200B; leer meer over Content Credentials &#x200B;](https://helpx.adobe.com/creative-cloud/help/content-credentials.html) bij Adobe.
 
 ## Handtekening merk en asset tracking
 
@@ -55,13 +55,13 @@ In de galerie Inhoud worden referenties weergegeven op geïmporteerde elementen.
 
 Het Content Credential-symbool in de rechterbovenhoek van de miniatuur geeft &quot;Door merk ondertekende&quot; inhoud aan.
 
-![ een ingevoerd middel met geloofsbrieven ](./images/import-discovery1.png){width="350"}
+![&#x200B; een ingevoerd middel met geloofsbrieven &#x200B;](./images/import-discovery1.png){width="350"}
 
 Als u ondertekende inhoud selecteert, worden de gedetailleerde metagegevens weergegeven: gepubliceerd merk, recorder, gebruikt gereedschap, tijdstempel.
 
 Inhoud kan worden gefilterd op referentie.
 
-![ Referentiegegevens over activa ](./images/import-discovery2.png)
+![&#x200B; Referentiegegevens over activa &#x200B;](./images/import-discovery2.png)
 
 ### Maken en selecteren
 
@@ -69,33 +69,33 @@ Content Credential-badges worden weergegeven in de elementenkiezer Canvas.
 
 Referentiemetagegevens blijven behouden omdat elementen zijn geselecteerd voor ervaringen om de herkomst tijdens het bewerken te behouden.
 
-![ de badges van Content Credential in de de activaselecteur van het Canvas ](./images/creation-selection1.png)
+![&#x200B; de badges van Content Credential in de de activaselecteur van het Canvas &#x200B;](./images/creation-selection1.png)
 
 ### Bewerken en transformeren
 
 Tijdens de export van een concept worden de gewijzigde activa automatisch opnieuw ondertekend en wordt de nieuwe referentie gekoppeld aan het origineel.
 
-![ Referentiegegevens over een uitgevoerd element ](./images/edit-and-transformation1.png){width="300"}
+![&#x200B; Referentiegegevens over een uitgevoerd element &#x200B;](./images/edit-and-transformation1.png){width="300"}
 
 ### Herziening en goedkeuring
 
 In de voorvertoning Beoordeling en Goedkeuren wordt de status van referentie weergegeven voor elementen op de rechterspoorstaaf.
 
-![ Referentiegegevens over goedgekeurde activa ](./images/review-and-approve1.png){width="300"}
+![&#x200B; Referentiegegevens over goedgekeurde activa &#x200B;](./images/review-and-approve1.png){width="300"}
 
 Gegevens per variant worden weergegeven als revisoren inspecteren de elementen. Goedgekeurde ervaringen worden opnieuw ondertekend wanneer gebruikers op **[!UICONTROL Save to Content]** klikken.
 
-![ Referentiegegevens over goedgekeurde activa ](./images/review-and-approve2.png)
+![&#x200B; Referentiegegevens over goedgekeurde activa &#x200B;](./images/review-and-approve2.png)
 
 ### Activeren en exporteren
 
 Tijdens Activering wordt de status van de referentie weergegeven in de Experience-kiezer.
 
-![ Referentiegegevens over een geactiveerd element ](./images/activate-export1.png){width="350"}
+![&#x200B; Referentiegegevens over een geactiveerd element &#x200B;](./images/activate-export1.png){width="350"}
 
 Geëxporteerde bestanden hebben C2PA-compatibele inloggegevens.
 
 De integriteit van de referentie blijft behouden in alle ondersteunde indelingen (JPEG, PNG, MP4).
 
-![ Referentiegegevens over een uitgevoerd element ](./images/activate-export2.png)
+![&#x200B; Referentiegegevens over een uitgevoerd element &#x200B;](./images/activate-export2.png)
 
