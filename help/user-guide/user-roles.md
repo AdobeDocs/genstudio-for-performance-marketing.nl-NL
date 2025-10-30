@@ -18,7 +18,7 @@ Voor het maken en implementeren van moderne marketingcampagnes is samenwerking t
 
 >[!NOTE]
 >
->Alvorens om het even welke gebruikers provisioned in deze rollen zijn, moet een het systeembeheerder van Adobe in Adobe Admin Console worden aangewezen om eenmalige opstellingstaken uit te voeren. Deze Adobe-beheerrol werkt alleen in de context van de Adobe Admin Console. Het speelt geen rol in de interface van het GenStudio for Performance Marketing-platform. Een Adobe-systeembeheerder die rechten van systeembeheerders nodig heeft, moet zichzelf als GenStudio-systeembeheerder in de Adobe Admin Console aanbieden. Zie [ Voorziening GenStudio for Performance Marketing ](product-provisioning.md).
+>Alvorens om het even welke gebruikers provisioned in deze rollen zijn, moet een het systeembeheerder van Adobe in Adobe Admin Console worden aangewezen om eenmalige opstellingstaken uit te voeren. Deze Adobe-beheerrol werkt alleen in de context van de Adobe Admin Console. Het speelt geen rol in de interface van het GenStudio for Performance Marketing-platform. Een Adobe-systeembeheerder die rechten van systeembeheerders nodig heeft, moet zichzelf als GenStudio-systeembeheerder in de Adobe Admin Console aanbieden. Zie [&#x200B; Voorziening GenStudio for Performance Marketing &#x200B;](product-provisioning.md).
 
 ## Adobe-systeembeheerder versus GenStudio-systeembeheer
 
@@ -26,9 +26,9 @@ Deze gebruikersroltitels kunnen gelijkaardig lijken, maar zij identificeren unie
 
 **het systeembeheerders van Adobe** hebben de voorrechten van de machtsgebruiker in Adobe Admin Console en voeren alle taken van het gebruikersbeheer uit, zoals het toevoegen van of het schrappen van gebruikers. Deze rol van systeembeheerder verleent geen voorrechten in de toepassing van GenStudio for Performance Marketing, die verklaart waarom de het systeembeheerders van Adobe geen vergunning voor GenStudio vereisen. Adobe-systeembeheerders gebruiken doorgaans de Admin Console om gebruikersaccounts toe te voegen aan en te verwijderen uit GenStudio-implementaties en om rechten, of machtigingen, toe te wijzen aan of te verwijderen van individuele gebruikers of gebruikersgroepen.
 
-**het systeemmanagers van GenStudio** zijn machtsgebruikers binnen GenStudio for Performance Marketing maar hebben geen toestemming om taken in Adobe Admin Console uit te voeren. Deze rol van de systeemmanager vereist een het productvergunning van GenStudio en het beantwoordt aan een Gebruiker van de Macht in de [ beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-systeembeheerders hebben volledige rechten op GenStudio for Performance Marketing-mogelijkheden, waaronder [!DNL Brands] , [!DNL Persona] en [!DNL Product] het maken, verwijderen, bijwerken en publiceren. [ de Beschrijving van het Product van Adobe GenStudio for Performance Marketing ](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) verklaart hoe de gebruikersrollen van GenStudio op productvergunningen betrekking hebben.
+**het systeemmanagers van GenStudio** zijn machtsgebruikers binnen GenStudio for Performance Marketing maar hebben geen toestemming om taken in Adobe Admin Console uit te voeren. Deze rol van de systeemmanager vereist een het productvergunning van GenStudio en het beantwoordt aan een Gebruiker van de Macht in de [&#x200B; beschrijving van het Product van Adobe GenStudio for Performance Marketing &#x200B;](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html). GenStudio-systeembeheerders hebben volledige rechten op GenStudio for Performance Marketing-mogelijkheden, waaronder [!DNL Brands] , [!DNL Persona] en [!DNL Product] het maken, verwijderen, bijwerken en publiceren. [&#x200B; de Beschrijving van het Product van Adobe GenStudio for Performance Marketing &#x200B;](https://helpx.adobe.com/legal/product-descriptions/adobe-genstudio-for-performance-marketing---product-description.html) verklaart hoe de gebruikersrollen van GenStudio op productvergunningen betrekking hebben.
 
-Zie [ Administratieve rollen ](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise) in _de beleidsgids van de Onderneming en van Teams_.
+Zie [&#x200B; Administratieve rollen &#x200B;](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise) in _de beleidsgids van de Onderneming en van Teams_.
 
 ## Rechten
 
@@ -46,13 +46,13 @@ Drie typen GenStudio for Performance Marketing-gebruikersrollen ondersteunen dez
 
 * **de medewerkers van GenStudio** zijn de breedste waaier van de gebruikers van GenStudio for Performance Marketing. Medewerkers kunnen inhoud weergeven en goedkeuren en vormen een essentieel onderdeel van de workflow dat ervoor zorgt dat de inhoud die u genereert, voldoet aan de behoeften en standaarden van uw organisatie. De medewerkers van GenStudio zijn _samenwerkende gebruikers_ in GenStudio for Performance Marketing.
 
-* **het systeemmanagers van GenStudio** hebben de breedste reeks rechten, of toestemmingen, binnen GenStudio for Performance Marketing. Systeembeheerders voeren de essentiële taak uit om de basisvereisten voor het maken en implementeren van campagnemiddelen vast te stellen. De managers van het systeem voeren deze gidsen door merk en organisatie-specifieke informatie zoals [ merkrichtlijnen ](./guidelines/overview.md) uit te uploaden. Systeembeheerders hebben toestemming om [!DNL Brands] te maken en te publiceren, maar hebben geen bevoegdheden voor gebruikersbeheer. GenStudio-systeembeheerders zijn energiegebruikers in GenStudio for Performance Marketing.
+* **het systeemmanagers van GenStudio** hebben de breedste reeks rechten, of toestemmingen, binnen GenStudio for Performance Marketing. Systeembeheerders voeren de essentiële taak uit om de basisvereisten voor het maken en implementeren van campagnemiddelen vast te stellen. De managers van het systeem voeren deze gidsen door merk en organisatie-specifieke informatie zoals [&#x200B; merkrichtlijnen &#x200B;](./guidelines/overview.md) uit te uploaden. Systeembeheerders hebben toestemming om [!DNL Brands] te maken en te publiceren, maar hebben geen bevoegdheden voor gebruikersbeheer. GenStudio-systeembeheerders zijn energiegebruikers in GenStudio for Performance Marketing.
 
 ### GenStudio-editors
 
 _Editors_, of inhoudsscheppers, hebben de kerntoestemmingen nodig om GenStudio for Performance Marketing [!DNL Brands], [!DNL Campaigns], en [!DNL Content] activa tot stand te brengen. Deze energiegebruikers kunnen ook elementen bewerken en verwijderen die ze hebben gemaakt. GenStudio for Performance Marketing ondersteunt het snel maken van honderden stukken inhoud. Deze gebruikers kunnen inhoudsfragmenten of hele ervaringen genereren die afzonderlijke goedgekeurde inhoud ordenen om aan de behoeften van specifieke marketingcampagnes te voldoen.
 
-De redacteurs staan met de generatieve technologieën van GenStudio for Performance Marketing in wisselwerking door _het veroorzaken_. De snelle lade in het canvas verstrekt hulpmiddelen om herinneringen in de context van een specifieke campagnerichtlijnen te plaatsen. Als gevolg hiervan is de kwaliteit en het succes van gegenereerde inhoud gedeeltelijk afhankelijk van de kwaliteit van de merkrichtlijnen die uw organisatie heeft geüpload en de specificiteit van uw vraag. Zie [ efficiënte herinneringen ](effective-prompts.md) schrijven.
+De redacteurs staan met de generatieve technologieën van GenStudio for Performance Marketing in wisselwerking door _het veroorzaken_. De snelle lade in het canvas verstrekt hulpmiddelen om herinneringen in de context van een specifieke campagnerichtlijnen te plaatsen. Als gevolg hiervan is de kwaliteit en het succes van gegenereerde inhoud gedeeltelijk afhankelijk van de kwaliteit van de merkrichtlijnen die uw organisatie heeft geüpload en de specificiteit van uw vraag. Zie [&#x200B; efficiënte herinneringen &#x200B;](effective-prompts.md) schrijven.
 
 In de volgende tabel worden de standaardmachtigingen voor editors weergegeven:
 
@@ -92,7 +92,7 @@ In de volgende tabel worden de standaardmachtigingen voor medewerkers weergegeve
 
 ### GenStudio-systeembeheerders
 
-_het systeemmanagers van GenStudio_ hebben de krachtigste reeks toestemmingen binnen GenStudio for Performance Marketing. Deze energiegebruikers voeren de essentiële instapkaarttaak uit, namelijk het vaststellen van de basisvereisten voor het creëren en implementeren van campagnemiddelen. De managers van het systeem voeren deze gidsen door merk en organisatie-specifieke informatie zoals [ merkrichtlijnen ](./guidelines/overview.md) uit te uploaden. Systeembeheerders hebben toestemming om [!DNL Brands] te maken en te publiceren, maar hebben geen bevoegdheden voor gebruikersbeheer.
+_het systeemmanagers van GenStudio_ hebben de krachtigste reeks toestemmingen binnen GenStudio for Performance Marketing. Deze energiegebruikers voeren de essentiële instapkaarttaak uit, namelijk het vaststellen van de basisvereisten voor het creëren en implementeren van campagnemiddelen. De managers van het systeem voeren deze gidsen door merk en organisatie-specifieke informatie zoals [&#x200B; merkrichtlijnen &#x200B;](./guidelines/overview.md) uit te uploaden. Systeembeheerders hebben toestemming om [!DNL Brands] te maken en te publiceren, maar hebben geen bevoegdheden voor gebruikersbeheer.
 
 In de volgende tabel worden de standaardmachtigingen voor systeembeheer weergegeven:
 
@@ -109,4 +109,4 @@ In de volgende tabel worden de standaardmachtigingen voor systeembeheer weergege
 
 Systeembeheerders kunnen ook sjablonen uploaden.
 
-Zie [ begonnen worden met Adobe GenStudio for Performance Marketing ](get-started.md) voor een overzicht van voorlopige opstellingstaken.
+Zie [&#x200B; begonnen worden met Adobe GenStudio for Performance Marketing &#x200B;](get-started.md) voor een overzicht van voorlopige opstellingstaken.
