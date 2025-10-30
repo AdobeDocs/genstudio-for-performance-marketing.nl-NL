@@ -57,7 +57,7 @@ Uw innovatieve advertentieervaringen worden rechtstreeks naar de creatieve bibli
 
 ## Stap 6: Volledige publicatie van uw advertentie-ervaring
 
-Bezoek [ de website van 0} Innovid om de definitieve stappen van opstelling te beheren en uw advertentie binnen de gepubliceerde ervaring op te stellen.][1]
+Bezoek [ de website van 0&rbrace; Innovid om de definitieve stappen van opstelling te beheren en uw advertentie binnen de gepubliceerde ervaring op te stellen.][1]
 
 [1]: https://www.innovid.com/
 [2]: /help/user-guide/connectors/connect-channel.md
