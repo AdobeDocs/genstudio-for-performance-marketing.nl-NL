@@ -22,7 +22,7 @@ Volg de onderstaande tips en trucs bij het aanpassen van banners en advertenties
 - Elementen voorbereiden die goed worden weergegeven in dunne afmetingen
 - Er is precies één afbeeldingsveld vereist
 - Gebruik **niet** ingebedde of gecodeerde achtergrondbeelden
-- Gebruik achtergrondafbeeldingen (`image` -veld) die zijn geüpload naar de opslagplaats voor GenStudio for Performance Marketing-inhoud. Adhere aan de richtlijnen in [ Uploading beelden voor vertoningsadvertenties ](#uploading-images-for-display-ads) voor de beste resultaten
+- Gebruik achtergrondafbeeldingen (`image` -veld) die zijn geüpload naar de opslagplaats voor GenStudio for Performance Marketing-inhoud. Adhere aan de richtlijnen in [&#x200B; Uploading beelden voor vertoningsadvertenties &#x200B;](#uploading-images-for-display-ads) voor de beste resultaten
 - Gebruik **niet** JavaScript
 - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert
 
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing genereert automatisch de volgende velden. U 
 
 - `cta`
 
-Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+Zie [&#x200B; placeholders van de Inhoud &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
 ## Ondersteunde afmetingen
 
@@ -61,12 +61,12 @@ Er is geen functie voor automatisch passend maken voor afbeeldingen in weergave-
 
 Om het uitsnijden van afbeeldingen te verhelpen, moeten gebruikers de hoogte-breedteverhouding van de afbeelding in de sjabloon definiëren wanneer deze naar de opslagplaats voor inhoud wordt geüpload. Bij het uploaden van een goedgekeurde weergave- en advertentiesjabloon:
 
-1. [ ga door het malplaatje te werk uploadt proces ](/help/user-guide/content/use-templates.md#add-a-template) tot u de **[!UICONTROL Add details]** pagina bereikt.
+1. [&#x200B; ga door het malplaatje te werk uploadt proces &#x200B;](/help/user-guide/content/use-templates.md#add-a-template) tot u de **[!UICONTROL Add details]** pagina bereikt.
 
 1. Definieer de hoogte-breedteverhouding van de afbeelding die in de sjabloon in **[!UICONTROL Ad width (px)]** en **[!UICONTROL Ad height (px)]** moet worden gebruikt. Hiermee definieert u het afbeeldingsvenster voor het gedeelte van de sjabloon waarin de afbeelding wordt weergegeven.
 
 1. In de **[!UICONTROL More details]** sectie, selecteer **[!UICONTROL Image size]** dropdown en kies _Gewas aan een vaste grootte_.
-   ![ Uitgesneden aan een vaste grootte ](./crop-to-fixed-size.png " Uitgesneden aan een vaste grootte "){width="80%"}
+   ![&#x200B; Uitgesneden aan een vaste grootte &#x200B;](./crop-to-fixed-size.png " Uitgesneden aan een vaste grootte "){width="80%"}
 
 De grootte en hoogte-breedteverhouding van een afbeelding bepalen in een browser:
 
@@ -82,10 +82,10 @@ De grootte en hoogte-breedteverhouding van een afbeelding bepalen in een browser
 
 Wanneer deze details niet worden toegepast tijdens het uploaden, wordt aangenomen dat de afbeelding de volledige hoogte-breedteverhouding van de sjabloon is en worden afbeeldingen die niet overeenkomen met die hoogte-breedteverhouding uitgesneden.
 
-![ Beeld bijgesneden in een vertoning en ](./cropped-display.png " Beeld uitsnijdend "){width="60%"}
+![&#x200B; Beeld bijgesneden in een vertoning en &#x200B;](./cropped-display.png " Beeld uitsnijdend "){width="60%"}
 
 **❌Uitgesneden afbeelding in een weergave- en sjabloonweergave**
 
-![ Beeld dat in een vertoning wordt getoond en ](./full-fit.png " Beeld dat in vertoning wordt getoond en "){width="60%"}
+![&#x200B; Beeld dat in een vertoning wordt getoond en &#x200B;](./full-fit.png " Beeld dat in vertoning wordt getoond en "){width="60%"}
 
 **✅Afbeelding volledig weergegeven**
