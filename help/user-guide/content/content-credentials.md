@@ -33,11 +33,11 @@ Beheerders zijn verantwoordelijk voor het uploaden van een geldig X.509-certific
 
 ## Wat is Content Credentials? 
 
-Content Credentials is een duurzaam, industriestandaard type metagegevens met informatie over hoe inhoud is gemaakt en identiteitsgegevens over de makers. Content Credentials kan worden bekeken wanneer de inhoud online aan het steunen van platforms wordt gepubliceerd, of door hulpmiddelen zoals [&#x200B; het hulpmiddel van de Inspectie van Adobe te gebruiken &#x200B;](https://contentauthenticity.adobe.com/inspect) of de [&#x200B; browser van Adobe Content Authenticity Chrome uitbreiding &#x200B;](https://helpx.adobe.com/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
+Content Credentials is een duurzaam, industriestandaard type metagegevens met informatie over hoe inhoud is gemaakt en identiteitsgegevens over de makers. Content Credentials kan worden bekeken wanneer de inhoud online aan het steunen van platforms wordt gepubliceerd, of door hulpmiddelen zoals [&#x200B; het hulpmiddel van de Inspectie van Adobe te gebruiken &#x200B;](https://contentauthenticity.adobe.com/inspect) of de [&#x200B; browser van Adobe Content Authenticity Chrome uitbreiding &#x200B;](https://helpx.adobe.com/nl/creative-cloud/help/cai/adobe-content-authenticity-chrome-browser-extension.html).  
 
 Door Content Credentials toe te passen, kunt u de transparantie over de manier waarop inhoud is gemaakt, verhogen en kunt u gebruikers helpen zich aan te sluiten op hun inhoud.
 
-[&#x200B; leer meer over Content Credentials &#x200B;](https://helpx.adobe.com/creative-cloud/help/content-credentials.html) bij Adobe.
+[&#x200B; leer meer over Content Credentials &#x200B;](https://helpx.adobe.com/nl/creative-cloud/help/content-credentials.html) bij Adobe.
 
 ## Handtekening merk en asset tracking
 
