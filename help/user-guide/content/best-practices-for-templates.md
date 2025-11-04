@@ -18,30 +18,30 @@ De malplaatjes verminderen beduidend de tijd en de inspanning die wordt vereist 
 
 Gebruik de volgende aanbevelingen wanneer u sjablonen gebruikt met GenStudio for Performance Marketing:
 
-1. Kennis over [ malplaatjeelementen ](#know-about-template-elements)
-1. Vorm [ kanaalrichtlijnen ](#configure-channel-guidelines) voor efficiënte verpersoonlijking van inhoud
-1. Ontwerp met [ toegankelijkheidsnormen ](accessibility-for-templates.md) voor een optimale ervaring
-1. Volg [ kanaal-specifieke malplaatjerichtlijnen ](#follow-channel-specific-template-guidelines)
+1. Kennis over [&#x200B; malplaatjeelementen &#x200B;](#know-about-template-elements)
+1. Vorm [&#x200B; kanaalrichtlijnen &#x200B;](#configure-channel-guidelines) voor efficiënte verpersoonlijking van inhoud
+1. Ontwerp met [&#x200B; toegankelijkheidsnormen &#x200B;](accessibility-for-templates.md) voor een optimale ervaring
+1. Volg [&#x200B; kanaal-specifieke malplaatjerichtlijnen &#x200B;](#follow-channel-specific-template-guidelines)
 
 >[!TIP]
 >
->Leer meer over basismalplaatjeelementen en procedures in [ Werk met Malplaatjes ](use-templates.md). En diep-duik in [ het aanpassen van een malplaatje ](customize-template.md) voor gebruik in uw volgende campagne.
+>Leer meer over basismalplaatjeelementen en procedures in [&#x200B; Werk met Malplaatjes &#x200B;](use-templates.md). En diep-duik in [&#x200B; het aanpassen van een malplaatje &#x200B;](customize-template.md) voor gebruik in uw volgende campagne.
 
 ## Informatie over sjabloonelementen
 
 U kunt het beste vertrouwd maken met de delen van een sjabloon. Elk sjabloontype gebruikt verschillende elementen om een structuur te maken voor het maken van kanaalspecifieke inhoud. Als u uw sjabloon wilt aanpassen, gebruikt u de veldnamen in plaats van deze elementen waar u GenStudio for Performance Marketing nodig hebt om inhoud te genereren.
 
-Zie [ elementen van het Malplaatje ](use-templates.md#template-elements).
+Zie [&#x200B; elementen van het Malplaatje &#x200B;](use-templates.md#template-elements).
 
 ## Kanaalrichtlijnen configureren
 
 Het definiëren van duidelijke kanaalrichtlijnen is van essentieel belang om ervoor te zorgen dat de gegenereerde inhoud aansluit bij de vereisten en doelstellingen van uw merk. Met kanaalrichtlijnen kunt u regels opgeven voor elementen zoals toon, lengte en stijl die in de sjabloon worden gebruikt. U kunt bijvoorbeeld een maximum aantal tekens instellen voor de hoofdtekst of een specifieke call-to-action-stijl vereisen. Door deze richtlijnen vooraf in te stellen, vermindert u de behoefte om gedetailleerde instructies in elke AI herinnering te schrijven, het proces van de inhoudgeneratie te stroomlijnen en consistentie over uw e-mails te verzekeren.
 
-Het overzicht en bepaalt de 0} kanaalrichtlijnen van uw Merk [ voor alle zeer belangrijke gebieden in uw malplaatje. ](/help/user-guide/guidelines/brands.md#channel-guidelines) Als u geen richtlijnen bepaalt, dan worden de [ standaardkanaalrichtlijnen ](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
+Het overzicht en bepaalt de 0&rbrace; kanaalrichtlijnen van uw Merk [&#x200B; voor alle zeer belangrijke gebieden in uw malplaatje. &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines) Als u geen richtlijnen bepaalt, dan worden de [&#x200B; standaardkanaalrichtlijnen &#x200B;](/help/user-guide/guidelines/brands.md#default-channel-guidelines) toegepast, die niet uw merkvereisten volledig kunnen weerspiegelen.
 
-![ de specificaties van het Lichaam ](/help/assets/channel-email-body.png)
+![&#x200B; de specificaties van het Lichaam &#x200B;](/help/assets/channel-email-body.png)
 
-Leer hoe [ Merken, Producten, en de richtlijnen van Persona ](/help/user-guide/guidelines/overview.md) geproduceerde inhoud beïnvloeden en hoe te om hen voor uw marketing doelstellingen aan te passen.
+Leer hoe [&#x200B; Merken, Producten, en de richtlijnen van Persona &#x200B;](/help/user-guide/guidelines/overview.md) geproduceerde inhoud beïnvloeden en hoe te om hen voor uw marketing doelstellingen aan te passen.
 
 ## Afbeeldingen uploaden voor sjablonen
 
@@ -53,12 +53,12 @@ Er is geen functie voor automatisch passend maken voor afbeeldingen die in sjabl
 
 Om het uitsnijden van afbeeldingen te verhelpen, moeten gebruikers de hoogte-breedteverhouding definiëren van de afbeelding die in de sjabloon moet worden gebruikt wanneer deze naar de opslagplaats voor inhoud wordt geüpload. Bij het uploaden van een goedgekeurde sjabloon:
 
-1. [ ga door het malplaatje te werk uploadt proces ](/help/user-guide/content/use-templates.md#add-a-template) tot u de **[!UICONTROL Add details]** pagina bereikt.
+1. [&#x200B; ga door het malplaatje te werk uploadt proces &#x200B;](/help/user-guide/content/use-templates.md#add-a-template) tot u de **[!UICONTROL Add details]** pagina bereikt.
 
 2. Definieer de hoogte-breedteverhouding van de afbeelding die in de sjabloon in **[!UICONTROL Ad width (px)]** en **[!UICONTROL Ad height (px)]** moet worden gebruikt. Hiermee definieert u het afbeeldingsvenster voor het gedeelte van de sjabloon waarin de afbeelding wordt weergegeven.
 
 3. In de **[!UICONTROL More details]** sectie, selecteer **[!UICONTROL Image size]** dropdown en kies _Gewas aan een vaste grootte_.
-   ![ Uitgesneden aan een vaste grootte ](./images/crop-to-fixed-size.png " Uitgesneden aan een vaste grootte "){width="80%"}
+   ![&#x200B; Uitgesneden aan een vaste grootte &#x200B;](./images/crop-to-fixed-size.png " Uitgesneden aan een vaste grootte "){width="80%"}
 
 De grootte en hoogte-breedteverhouding van een afbeelding bepalen in een browser:
 
@@ -74,11 +74,11 @@ De grootte en hoogte-breedteverhouding van een afbeelding bepalen in een browser
 
 Wanneer deze details niet worden toegepast tijdens het uploaden, wordt aangenomen dat de afbeelding de volledige hoogte-breedteverhouding van de sjabloon is en worden afbeeldingen die niet overeenkomen met die hoogte-breedteverhouding uitgesneden.
 
-![ Beeld bijgesneden in een vertoning en ](./images/cropped-display.png " Beeld uitsnijdend "){width="60%"}
+![&#x200B; Beeld bijgesneden in een vertoning en &#x200B;](./images/cropped-display.png " Beeld uitsnijdend "){width="60%"}
 
 **❌Uitgesneden afbeelding in een weergave- en sjabloonweergave**
 
-![ Beeld dat in een vertoning wordt getoond en ](./images/full-fit.png " Beeld dat in vertoning wordt getoond en "){width="60%"}
+![&#x200B; Beeld dat in een vertoning wordt getoond en &#x200B;](./images/full-fit.png " Beeld dat in vertoning wordt getoond en "){width="60%"}
 
 **✅Afbeelding volledig weergegeven**
 

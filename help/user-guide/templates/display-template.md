@@ -22,7 +22,7 @@ Volg de onderstaande tips en trucs bij het aanpassen van banners en advertenties
 - Elementen voorbereiden die goed worden weergegeven in dunne afmetingen
 - Er is precies één afbeeldingsveld vereist
 - Gebruik **niet** ingebedde of gecodeerde achtergrondbeelden
-- Gebruik achtergrondafbeeldingen (`image` -veld) die zijn geüpload naar de opslagplaats voor GenStudio for Performance Marketing-inhoud. Adhere aan de richtlijnen in [ Uploading beelden voor vertoningsadvertenties ](#uploading-images-for-display-ads) voor de beste resultaten
+- Gebruik achtergrondafbeeldingen (`image` -veld) die zijn geüpload naar de opslagplaats voor GenStudio for Performance Marketing-inhoud. Adhere aan de richtlijnen in [&#x200B; Uploading beelden voor vertoningsadvertenties &#x200B;](#uploading-images-for-display-ads) voor de beste resultaten
 - Gebruik **niet** JavaScript
 - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert
 
@@ -39,7 +39,7 @@ GenStudio for Performance Marketing genereert automatisch de volgende velden. U 
 
 - `cta`
 
-Zie [ placeholders van de Inhoud ](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+Zie [&#x200B; placeholders van de Inhoud &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
 ## Ondersteunde afmetingen
 
