@@ -1,5 +1,5 @@
 ---
-source-git-commit: 5666fbf3bae23181232d806b12f520dbc8bc38cf
+source-git-commit: 436e2d7c02cef91eee7f4180f049b71b42ec76d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->GenStudio for Performance Marketing vereist dat u verbinding maakt met een kanaalaccount om gegevens te ontvangen. Zie [&#x200B; Connect betaalde media rekening &#x200B;](/help/user-guide/connectors/connect-channel.md).
+>GenStudio for Performance Marketing vereist dat u verbinding maakt met een kanaalaccount om gegevens te ontvangen. Zie [ Connect betaalde media rekening ](/help/user-guide/connectors/connect-channel.md).
 
 ## Opmerking over CSS-effecten {#note-css-effects}
 
@@ -23,16 +23,16 @@ ht-degree: 0%
 
 >[!INFO]
 >
->Als u problemen ondervindt bij het weergeven of werken met middelen van een [!DNL AEM Assets Content Hub] -opslagplaats, neemt u contact op met uw systeembeheerder en controleert u of u toegang hebt tot de juiste organisatie of het juiste productprofiel. Zie [&#x200B; verbinden met een  [!DNL AEM Assets Content Hub]  bewaarplaats &#x200B;](/help/user-guide/content/connect-aem-repo.md).
+>Als u problemen ondervindt bij het weergeven of werken met middelen van een [!DNL AEM Assets Content Hub] -opslagplaats, neemt u contact op met uw systeembeheerder en controleert u of u toegang hebt tot de juiste organisatie of het juiste productprofiel. Zie [ verbinden met een  [!DNL AEM Assets Content Hub]  bewaarplaats ](/help/user-guide/content/connect-aem-repo.md).
 
 ## Tip over academische inhoud {#in-academy}
 
 >[!TIP]
 >
->Verrijk uw vaardigheden op dit onderwerp met [&#x200B; de Academie van Adobe GenStudio &#x200B;](https://learningmanager.adobe.com/genstudioacademy).
+>verdiepen uw inzicht in dit onderwerp met [ de Academie van Adobe GenStudio ](https://learningmanager.adobe.com/genstudioacademy).
 
 ## Tip voor het filteren van tabellen {#filter-table}
 
 >[!TIP]
 >
->Te veel resultaten of een `No results found` bericht bekijken? Pas filters aan door selecties te wijzigen, alle filters te wissen of het datumbereik aan te passen. Zie [&#x200B; Filter voor de meningen van Inzichten &#x200B;](/help/user-guide/insights/filter-views.md) om over de dynamische en veelzijdige filtermogelijkheden te leren.
+>Te veel resultaten of een `No results found` bericht bekijken? Pas filters aan door selecties te wijzigen, alle filters te wissen of het datumbereik aan te passen. Zie [ Filter voor de meningen van Inzichten ](/help/user-guide/insights/filter-views.md) om over de dynamische en veelzijdige filtermogelijkheden te leren.

@@ -3,9 +3,9 @@ title: GenStudio for Performance Marketing [!DNL Products]
 description: GenStudio for Performance Marketing  [!DNL Products]  neemt alle aspecten van uw product-beelden, beschrijvingen, en waardevoorstellen-op om relevante inhoud tot stand te brengen die productsterke punten benadrukt en consistentie in productoverseinen handhaaft.
 feature: Product Personalization, Variant Generation, Generative AI
 exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
-source-git-commit: 490cc6d8f0a9aa15cf04755d7747232470456866
+source-git-commit: 299ebb88cb1e2b25580151b7620eafc0e59224d0
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 [!DNL Products] in GenStudio for Performance Marketing gebruikt u een diepgaand inzicht in productspecificaties, voordelen en differentiatiefactoren om effectvolle inhoud te genereren.
 
-[!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. Leveraging Adobe geavanceerde AI technologie, de richtlijnen van GenStudio for Performance Marketing— [[!DNL Brands],  [!DNL Products], en  [!DNL Personas]](/help/user-guide/guidelines/overview.md) - werk samen om het dwingen inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
+[!DNL Products] omvat alle elementen van een specifiek product, zoals beelden, beschrijvingen, en waardevoorstellen, om een samenhangende merkvertegenwoordiging tot stand te brengen. Leveraging Adobe geavanceerde AI technologie, GenStudio for Performance Marketing [ richtlijnen ](/help/user-guide/guidelines/overview.md) - werk samen om dwingende inhoud te produceren die de sterke punten van uw producten toont en consistentie over al overseinen verzekert.
 
 **om een product** te bekijken of te wijzigen:
 
 1. Klik in het linkernavigatiegebied op **[!UICONTROL Products]** .
-1. Om [&#x200B; individuele details te bekijken of een product &#x200B;](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_&#x200B;actiemenu en selecteer **[!UICONTROL Open]**.
+1. Om [ individuele details te bekijken of een product ](add-guidelines.md#manage-products) te wijzigen, klik het _[!DNL Products]_actiemenu en selecteer **[!UICONTROL Open]**.
 1. Wijzig de productrichtlijnen door in het tekstveld voor de categorie Richtlijnen te klikken.
 
-Zie [&#x200B; richtlijnen &#x200B;](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio for Performance Marketing toe te voegen of te wijzigen.
+Zie [ richtlijnen ](add-guidelines.md) toevoegen om te leren hoe te om een product in GenStudio for Performance Marketing toe te voegen of te wijzigen.
 
 ## [!DNL Products] richtlijnen
 
 Individuele productrichtlijnen geven GenStudio for Performance Marketing een duidelijk beeld van je producten.
 
-![&#x200B; Richtlijnen van het Product &#x200B;](/help/assets/products.png){width="600" zoomable="yes"}
+![ Richtlijnen van het Product ](/help/assets/products.png){width="600" zoomable="yes"}
 
 In deze richtlijnen worden elke categorie richtlijnen en verwante voorbeelden nader beschreven. De voorbeelden zijn voorbeeldinvoer die vorm geven aan de uitvoer van gegenereerde inhoud. Gebruik deze om uw [!DNL Products] -richtlijnen op de hoogte te brengen.
 

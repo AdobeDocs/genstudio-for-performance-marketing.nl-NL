@@ -3,7 +3,7 @@ title: Merkvalidatie in Adobe GenStudio for Performance Marketing
 description: Leer hoe het ingebouwde merkvalidatiesysteem werkt in GenStudio for Performance Marketing.
 feature: Brand Personalization, Variant Generation, Compliance, Content Generation, Content Review, Generative AI
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 436e2d7c02cef91eee7f4180f049b71b42ec76d5
 workflow-type: tm+mt
 source-wordcount: '689'
 ht-degree: 0%
@@ -18,8 +18,9 @@ GenStudio for Performance Marketing voert de validatie van merken en andere inho
 
 * Richtlijnen voor definitie of standaard [!DNL Brand]
 * Richtlijnen voor platformen
-<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 * American with Disabilities Act (ADA)-standaarden
+<!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
+
 
 ## Overzicht van inhouds controle
 
@@ -27,29 +28,29 @@ Een samenvatting van merkbevestiging en andere informatie van de inhoudscontrole
 
 De _controle van de Inhoud_ samenvatting toont:
 
-* Percentage van naleving met uw [[!DNL Brand]](brands.md) berekend als aantal [&#x200B; richtlijnen &#x200B;](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen
+* Percentage van naleving met uw [[!DNL Brand]](brands.md) berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen
 * `Pass` of `Fail` voor de platformrichtlijnen, zoals Meta of LinkedIn
 * `Pass` of `Fail` resultaat voor ADA-toegankelijkheidsstandaarden
 
-![&#x200B; overzicht van de de controlecontrole van de Inhoud &#x200B;](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
+![ overzicht van de de controlecontrole van de Inhoud ](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
 Klik het percentage om te zien hoe volgzaam de variant is. De scores worden automatisch bijgewerkt wanneer u wijzigingen aanbrengt in de varianten of andere inhoud. U kunt _Mening klikken en kwesties_ bevestigen om verdere compliantie te verzekeren.
 
-Zie [&#x200B; de groepering van het merk verbeteren &#x200B;](#improve-brand-alignment).
+Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
 
 ## Deelvenster Inhoud controleren
 
-Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram &#x200B;](#content-check-summary). Dit deelvenster biedt gedetailleerde informatie over brandvalidatie, platformrichtlijnen en toegankelijkheidsstandaarden en biedt mogelijkheden voor verbetering.
+Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram ](#content-check-summary). Dit deelvenster biedt gedetailleerde informatie over brandvalidatie, platformrichtlijnen en toegankelijkheidsstandaarden en biedt mogelijkheden voor verbetering.
 
-![&#x200B; het controlepaneel van de Inhoud &#x200B;](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
+![ het controlepaneel van de Inhoud ](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
-Het _controle van de Inhoud_ paneel toont bevestiging en [&#x200B; nalevingsinformatie &#x200B;](/help/user-guide/guidelines/overview.md#compliance) voor beelden en variantsecties:
+Het _controle van de Inhoud_ paneel toont bevestiging en [ nalevingsinformatie ](/help/user-guide/guidelines/overview.md#compliance) voor beelden en variantsecties:
 
 * Vertegenwoordiging van de _controle van de Inhoud_ summiere informatie voor [!DNL Brand], platformrichtlijnen, en toegankelijkheidsnormen
 * _vereist overzicht_ sectie die het aantal ontbroken richtlijnen en gedetailleerde informatie over elke richtlijn toont die revisie vereist
 * _overgegaan_ sectie die het aantal overgegaan richtlijnen en gedetailleerde informatie over elk overgaan richtlijn tonen
 
-Zie [&#x200B; brandgroepering &#x200B;](#improve-brand-alignment) verbeteren om te leren hoe te om de _controle van de Inhoud_ paneelscores te verbeteren.
+Zie [ brandgroepering ](#improve-brand-alignment) verbeteren om te leren hoe te om de _controle van de Inhoud_ paneelscores te verbeteren.
 
 ### Inhoudstype
 
@@ -63,11 +64,11 @@ Om **het inhoudstype** voor de controles te plaatsen u uitgevoerd wilt, klik om 
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de [_samenvatting_ van de controle van de Inhoud &#x200B;](#content-check-summary) en het [_paneel van de controle van de Inhoud_. &#x200B;](#content-check-panel) U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen &#x200B;](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de [_samenvatting_ van de controle van de Inhoud ](#content-check-summary) en het [_paneel van de controle van de Inhoud_. ](#content-check-panel) U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
 
 **om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 0&rbrace; &lbrace;in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
+1. Klik het _paneelpictogram van de controle van de Inhoud 0} {in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
 
    U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien wat verbetering vereist.
 
