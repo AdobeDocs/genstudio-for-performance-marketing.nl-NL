@@ -18,7 +18,7 @@ GenStudio for Performance Marketing voert de validatie van merken en andere inho
 
 * Richtlijnen voor definitie of standaard [!DNL Brand]
 * Richtlijnen voor platformen
-* [ Amerikaanse met de normen van de Actie van de Gehandicapten (ADA) ](/help/user-guide/guidelines/brand-validation.md#american-with-disabilities-act-ada-validation)
+* [&#x200B; Amerikaanse met de normen van de Actie van de Gehandicapten (ADA) &#x200B;](/help/user-guide/guidelines/brand-validation.md#american-with-disabilities-act-ada-validation)
 <!-- * Ethical considerations related to gender, ethnicity, race, disability status, and age in AI-generated content -->
 
 
@@ -28,29 +28,29 @@ Een samenvatting van merkbevestiging en andere informatie van de inhoudscontrole
 
 De _controle van de Inhoud_ samenvatting toont:
 
-* Percentage van naleving met uw [[!DNL Brand]](brands.md) berekend als aantal [ richtlijnen ](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen
+* Percentage van naleving met uw [[!DNL Brand]](brands.md) berekend als aantal [&#x200B; richtlijnen &#x200B;](overview.md) die bevestiging tegenover het aantal geteste richtlijnen overgingen
 * `Pass` of `Fail` voor de platformrichtlijnen, zoals Meta of LinkedIn
 * `Pass` of `Fail` resultaat voor ADA-toegankelijkheidsstandaarden
 
-![ overzicht van de de controlecontrole van de Inhoud ](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
+![&#x200B; overzicht van de de controlecontrole van de Inhoud &#x200B;](/help/assets/content-check-summary.png){width="400" zoomable="yes"}
 
 Klik het percentage om te zien hoe volgzaam de variant is. De scores worden automatisch bijgewerkt wanneer u wijzigingen aanbrengt in de varianten of andere inhoud. U kunt _Mening klikken en kwesties_ bevestigen om verdere compliantie te verzekeren.
 
-Zie [ de groepering van het merk verbeteren ](#improve-brand-alignment).
+Zie [&#x200B; de groepering van het merk verbeteren &#x200B;](#improve-brand-alignment).
 
 ## Deelvenster Inhoud controleren
 
-Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram ](#content-check-summary). Dit deelvenster biedt gedetailleerde informatie over brandvalidatie, platformrichtlijnen en toegankelijkheidsstandaarden en biedt mogelijkheden voor verbetering.
+Het _paneel van de controle van de Inhoud_ opent op de rechterkant van het Canvas wanneer geklikt van de juiste actiebar _of_ van het [_controle van de Inhoud_ summiere pictogram &#x200B;](#content-check-summary). Dit deelvenster biedt gedetailleerde informatie over brandvalidatie, platformrichtlijnen en toegankelijkheidsstandaarden en biedt mogelijkheden voor verbetering.
 
-![ het controlepaneel van de Inhoud ](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
+![&#x200B; het controlepaneel van de Inhoud &#x200B;](/help/assets/content-check-panel.png){width="400" zoomable="yes"}
 
-Het _controle van de Inhoud_ paneel toont bevestiging en [ nalevingsinformatie ](/help/user-guide/guidelines/overview.md#compliance) voor beelden en variantsecties:
+Het _controle van de Inhoud_ paneel toont bevestiging en [&#x200B; nalevingsinformatie &#x200B;](/help/user-guide/guidelines/overview.md#compliance) voor beelden en variantsecties:
 
 * Vertegenwoordiging van de _controle van de Inhoud_ summiere informatie voor [!DNL Brand], platformrichtlijnen, en toegankelijkheidsnormen
 * _vereist overzicht_ sectie die het aantal ontbroken richtlijnen en gedetailleerde informatie over elke richtlijn toont die revisie vereist
 * _overgegaan_ sectie die het aantal overgegaan richtlijnen en gedetailleerde informatie over elk overgaan richtlijn tonen
 
-Zie [ brandgroepering ](#improve-brand-alignment) verbeteren om te leren hoe te om de _controle van de Inhoud_ paneelscores te verbeteren.
+Zie [&#x200B; brandgroepering &#x200B;](#improve-brand-alignment) verbeteren om te leren hoe te om de _controle van de Inhoud_ paneelscores te verbeteren.
 
 ### Inhoudstype
 
@@ -64,11 +64,11 @@ Om **het inhoudstype** voor de controles te plaatsen u uitgevoerd wilt, klik om 
 
 ## De uitlijning van merken verbeteren
 
-Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de [_samenvatting_ van de controle van de Inhoud ](#content-check-summary) en het [_paneel van de controle van de Inhoud_. ](#content-check-panel) U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen ](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
+Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare merkidentiteit te handhaven, gebruik de [_samenvatting_ van de controle van de Inhoud &#x200B;](#content-check-summary) en het [_paneel van de controle van de Inhoud_. &#x200B;](#content-check-panel) U kunt specifieke secties manueel wijzigen om met uw [[!DNL Brand]  richtlijnen &#x200B;](brands.md), de controles van de platformrichtlijnen, en de controles van toegankelijkheidsnormen te richten.
 
 **om merkgroepering voor geproduceerde varianten te verbeteren**:
 
-1. Klik het _paneelpictogram van de controle van de Inhoud 0} {in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
+1. Klik het _paneelpictogram van de controle van de Inhoud 0&rbrace; &lbrace;in de juiste actiebar om bevestiging en toegankelijkheidsinformatie te zien._
 
    U kunt een samenvatting van het _overzicht van Behoeften_ zien en _overgegaan_ controles om te zien wat verbetering vereist.
 
@@ -91,9 +91,9 @@ Om doeltreffendheid van geproduceerde inhoud te maximaliseren en verenigbare mer
 
 Deze toegankelijkheidscontroles zijn inbegrepen voor wettelijke naleving met de American With Disabilities Act (ADA):
 
-[ WCAG 1.1.1 niet-tekstuele inhoud ](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) - verzekert beelden een `<alt>` attribuut verstrekken.
-[ WCAG 1.4.3 Contrast (minimum) ](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - verzekert geproduceerde tekst heeft 4.5 :1 contrast tegen zijn achtergrond.
-[ WCAG 3.1.3 Ongebruikelijke Woorden ](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html) - identificeert woorden of uitdrukkingen die op een ongebruikelijke of beperkte manier, met inbegrip van idiomen en jargon worden gebruikt.
-[ WCAG 3.1.4 Afkortingen ](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html) - een mechanisme om de uitgebreide vorm of betekenis van afkortingen te identificeren.
-[ WCAG 3.1.5 Leesniveau ](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) - verzekert inhoud op een lager secundair onderwijsniveau leesbaar is.
+[&#x200B; WCAG 1.1.1 niet-tekstuele inhoud &#x200B;](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content.html) - verzekert beelden een `<alt>` attribuut verstrekken.
+[&#x200B; WCAG 1.4.3 Contrast (minimum) &#x200B;](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) - verzekert geproduceerde tekst heeft 4.5 :1 contrast tegen zijn achtergrond.
+[&#x200B; WCAG 3.1.3 Ongebruikelijke Woorden &#x200B;](https://www.w3.org/WAI/WCAG21/Understanding/unusual-words.html) - identificeert woorden of uitdrukkingen die op een ongebruikelijke of beperkte manier, met inbegrip van idiomen en jargon worden gebruikt.
+[&#x200B; WCAG 3.1.4 Afkortingen &#x200B;](https://www.w3.org/WAI/WCAG21/Understanding/abbreviations.html) - een mechanisme om de uitgebreide vorm of betekenis van afkortingen te identificeren.
+[&#x200B; WCAG 3.1.5 Leesniveau &#x200B;](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) - verzekert inhoud op een lager secundair onderwijsniveau leesbaar is.
 
