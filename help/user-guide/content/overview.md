@@ -4,7 +4,7 @@ description: Leer hoe u door uw merk goedgekeurde middelen kunt zoeken, bewerken
 level: Beginner
 feature: Content Management, Media Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 8a5d15df7a347c4ee7767610fc9bb23fc7b71db4
+source-git-commit: 650a32a1bbb10c17ff25c5bbb36f12cead218dfc
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -13,66 +13,116 @@ ht-degree: 0%
 
 # Adobe GenStudio for Performance Marketing [!DNL Content]
 
-GenStudio for Performance Marketing [!DNL Content] biedt een centrale locatie voor het opslaan, zoeken en delen van alle door uw merk goedgekeurde middelen, ervaringen en sjablonen. U kunt inhoud bewerken en opnieuw mixen, inzicht krijgen in het gebruik en sentiment van inhoud en bestaande elementen vernieuwen en opnieuw gebruiken met behulp van generatieve AI.
+GenStudio for Performance Marketing [!DNL Content] biedt een centrale locatie voor het opslaan, zoeken en delen van alle door uw merk goedgekeurde middelen, ervaringen en sjablonen. U kunt inhoud bewerken en opnieuw mixen, insight uitbreiden voor het gebruik en sentiment van inhoud en bestaande elementen vernieuwen en opnieuw gebruiken met behulp van generatieve AI.
 
 ## [!DNL Content] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md#search">
+
          <img alt="vergrootglas" src="../../assets/icons/icon-search.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md#search-content">
+
          <strong> vind inhoud </strong>
+
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/manage-assets.md">
+
          <img alt="afbeeldingen met plusteken" src="../../assets/icons/icon-addContent.png">
+
       </a>
+
       <p>
+
          <a href="../content/manage-assets.md">
+
          <strong> voegt activa </strong> toe
 
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="../content/asset-details.md#edit-in-express">
+
          <img alt="Bewerken in Adobe Express" src="../../assets/icons/icon-editExpress.png">
+
       </a>
+
       <p>
+
          <a href="../content/asset-details.md#edit-in-express">
+
          <strong> geef activa in Adobe Express </strong> uit
 
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="../content/customize-template.md">
+
+      <a href="../templates/customize-template.md">
+
          <img alt="bliksemschicht op middel" src="../../assets/icons/icon-template.png">
+
       </a>
+
       <p>
-         <a href="../content/customize-template.md">
+
+         <a href="../templates/customize-template.md">
+
          <strong> pas een malplaatje </strong> aan
 
          </a>
+
       </p>
+
    </td>
+
    <td align="center" valign="top" width="100">
-      <a href="../content/use-templates.md">
+
+      <a href="../templates/use-templates.md">
+
          <img alt="bliksemschicht op middel met plusteken" src="../../assets/icons/icon-addTemplate.png">
+
       </a>
+
       <p>
-         <a href="../content/use-templates.md#upload-a-template">
+
+         <a href="../templates/use-templates.md#upload-a-template">
+
          <strong> uploadt malplaatje </strong>
+
          </a>
+
       </p>
+
    </td>
+
 </tr>
+
 </table>
 
 ## [!DNL Content] mogelijkheden
@@ -89,4 +139,4 @@ Wanneer u goedgekeurde elementen opslaat, behoudt [!DNL Content] de rijke metage
 
 ### Werken met sjablonen
 
-Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen. Leer over basismalplaatjeelementen en procedures in [&#x200B; Werk met Malplaatjes &#x200B;](use-templates.md). En diep-duik in het bouwen van malplaatjes met [&#x200B; pas een malplaatje &#x200B;](customize-template.md) onderwerp aan.
+Sjablonen versnellen het ontwerpproces, zodat u consistente inhoud op meerdere kanalen kunt genereren. Upload uw aangepaste sjabloon voor gebruik als beginpunt in het ontwerpproces met vooraf geconfigureerde lay-outs en ontwerpelementen. Leer over basismalplaatjeelementen en procedures in [ Werk met Malplaatjes ](../templates/use-templates.md). En diep-duik in het bouwen van malplaatjes met [ pas een malplaatje ](../templates/customize-template.md) onderwerp aan.

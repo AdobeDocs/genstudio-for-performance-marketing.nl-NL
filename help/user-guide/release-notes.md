@@ -4,7 +4,7 @@ description: Meer informatie over de nieuwste functies en verbeteringen voor Ado
 recommendations: noDisplay
 role: User
 exl-id: 32f5104e-ae15-4092-8a34-642fc641baf9
-source-git-commit: f6dc843acc6d29b107f5165dfd2ee1d2c9e72f0f
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '4144'
 ht-degree: 0%
@@ -34,22 +34,22 @@ Deze releasegegevens bevatten de meest recente updates voor de GenStudio for Per
 
 ### PDF exporteren voor ervaringen
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
-* De verkopers kunnen nu [&#x200B; ervaringen in formaat van PDF &#x200B;](/help/user-guide/content/manage-assets.md#export-experiences) voor overzicht, goedkeuring, en archiefdoeleinden uitvoeren.
+* De verkopers kunnen nu [ ervaringen in formaat van PDF ](/help/user-guide/content/manage-assets.md#export-experiences) voor overzicht, goedkeuring, en archiefdoeleinden uitvoeren.
 
 ### Aangepaste modellen op Firefly Image Model 4
 
-* GenStudio for Performance Marketing steunt nu [&#x200B; douanemodellen die op Adobe Firefly Image Model 4 &#x200B;](/help/user-guide/create/generate-assets.md) worden opgeleid, leverend verbeterde mogelijkheden van de beeldgeneratie van het merk met verbeterde fotorealisme en detail.
+* GenStudio for Performance Marketing steunt nu [ douanemodellen die op Adobe Firefly Image Model 4 ](/help/user-guide/create/generate-assets.md) worden opgeleid, leverend verbeterde mogelijkheden van de beeldgeneratie van het merk met verbeterde fotorealisme en detail.
 
 ### Meta, enkele video en activering
 
-* De verkopers kunnen de advertenties van Meta met enige videoactiva [&#x200B; direct van GenStudio for Performance Marketing in de Manager van Advertenties van Meta nu activeren. &#x200B;](/help/user-guide/activation/activate-meta-ad.md) Op deze manier kunnen mediakopers, krachtige marketers en creatieve teams naadloos video en ervaringen publiceren, zodat dezelfde gestroomlijnde workflow behouden blijft die voor statische en activerende bewerkingen wordt gebruikt.
+* De verkopers kunnen de advertenties van Meta met enige videoactiva [ direct van GenStudio for Performance Marketing in de Manager van Advertenties van Meta nu activeren. ](/help/user-guide/activation/activate-meta-ad.md) Op deze manier kunnen mediakopers, krachtige marketers en creatieve teams naadloos video en ervaringen publiceren, zodat dezelfde gestroomlijnde workflow behouden blijft die voor statische en activerende bewerkingen wordt gebruikt.
 * Gebruikers kunnen video en creatieve details configureren, voorvertonen hoe de video wordt weergegeven en videoadvertenties activeren op Meta-platforms.
 
 ### CPA door Type Actie voor campagnes Meta
 
-* Analyseer [&#x200B; Kosten per Actie (CPA) met flexibele omzetting het volgen &#x200B;](/help/user-guide/insights/ads.md) voor Meta reclamecampagnes.
+* Analyseer [ Kosten per Actie (CPA) met flexibele omzetting het volgen ](/help/user-guide/insights/ads.md) voor Meta reclamecampagnes.
 * In plaats van één vaste metrische waarde selecteert u uit meerdere actietypen, zoals aankopen, add-to-cart-gebeurtenissen, leads, videoweergaven of aangepaste conversies, om de CPA te berekenen en weer te geven voor campagnes, advertenties, elementen en kenmerken in [!DNL Insights] .
 
 ### Oplossingen en verbeteringen
@@ -115,7 +115,7 @@ Deze releasegegevens bevatten de meest recente updates voor de GenStudio for Per
 
 Met de nieuwe GenExpand-functie kunnen marketers hun creatieve middelen dynamisch aanpassen om verschillende hoogte-breedteverhoudingen te ondersteunen voor betaalmediakanalen zoals Meta, LinkedIn, Display Ads en Banners. Wanneer een afbeelding niet overeenkomt met de gewenste hoogte-breedteverhouding, zoals het toevoegen van een smalle afbeelding aan een brede lay-out, kunt u de afbeelding aanpassen met GenExpand.
 
-Met deze functie stroomlijnt u het bewerkingsproces van de afbeelding en past u het formaat ervan rechtstreeks in GenStudio for Performance Marketing aan. Zie [&#x200B; Generatief AI mogelijkheden &#x200B;](/help/user-guide/create/manage-variants.md#use-generative-expand) voor gedetailleerde informatie uitbreiden.
+Met deze functie stroomlijnt u het bewerkingsproces van de afbeelding en past u het formaat ervan rechtstreeks in GenStudio for Performance Marketing aan. Zie [ Generatief AI mogelijkheden ](/help/user-guide/create/manage-variants.md#use-generative-expand) voor gedetailleerde informatie uitbreiden.
 
 +++
 
@@ -125,7 +125,7 @@ Met deze functie stroomlijnt u het bewerkingsproces van de afbeelding en past u 
 
 Tekstkenmerkinzichten in Adobe GenStudio analyseren de emotionele toon, overtuigingstechnieken en de narratieve stijl die in een advertentie worden gebruikt. Zodra een campagne live is, volgt GenStudio hoe deze tekstkenmerken correleren met belangrijke prestatiemetriek zoals CTR, CPA, CPC, impressies, en uitgaven.
 
-Deze optie is momenteel alleen beschikbaar voor advertenties in het Engels. Zie {de Eigenschappen van 0} Tekst [&#x200B; voor gedetailleerde informatie.](/help/user-guide/insights/text-features.md)
+Deze optie is momenteel alleen beschikbaar voor advertenties in het Engels. Zie {de Eigenschappen van 0} Tekst [ voor gedetailleerde informatie.](/help/user-guide/insights/text-features.md)
 
 ### Verbeteringen van de sjabloon voor inzichten
 
@@ -149,11 +149,11 @@ De nieuwe taalkiezer in de snelle lade ondersteunt het creëren van meertalige c
 
 Meerdere tekstvelden met dezelfde rol worden nu ondersteund (bijvoorbeeld &#39;body&#39;, &#39;cta&#39;, &#39;on image text&#39;, enzovoort) voor complexe klantsjablonen.
 
-Onderzoek de details in [&#x200B; de begeleiding voor de Redacteur van de Code van het Malplaatje &#x200B;](/help/user-guide/content/code-editor.md).
+Onderzoek de details in [ de begeleiding voor de Redacteur van de Code van het Malplaatje ](/help/user-guide/templates/code-editor.md).
 
 ### Nieuwe Firefly-modellen voor het genereren van afbeeldingen ondersteund
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Adobe GenStudio for Performance Marketing biedt nu ondersteuning voor de nieuwste Firefly Image Model 4-suite, waaronder twee krachtige varianten:
 
@@ -161,11 +161,11 @@ Adobe GenStudio for Performance Marketing biedt nu ondersteuning voor de nieuwst
 
 **het Beeld van Firefly 4 Ultra**: geeft fotomealisme en precisie voorrang, die bij het teruggeven van menselijke portretten, middelgrote groepen, en complexe scènes voor high-end creatieve taken.
 
-Zie [&#x200B; activa &#x200B;](/help/user-guide/create/generate-assets.md) voor gedetailleerde informatie produceren bij het gebruiken van deze nieuwe modellen van de beeldgeneratie.
+Zie [ activa ](/help/user-guide/create/generate-assets.md) voor gedetailleerde informatie produceren bij het gebruiken van deze nieuwe modellen van de beeldgeneratie.
 
 ### Buiten-de-box vertaling voor e-mail
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Adobe GenStudio for Performance Marketing biedt nu ingebouwde mogelijkheden voor e-mailvertaling, waarmee marketeers hun e-mailcampagnes wereldwijd efficiënt kunnen schalen. Met deze functie kunt u een goedgekeurde e-mailervaring gebruiken en deze met Azure Open AI-vertaalservices vertalen in meerdere doeltalen.
 
@@ -175,7 +175,7 @@ Adobe GenStudio for Performance Marketing biedt nu ingebouwde mogelijkheden voor
 
 ### Filter Compatibele elementen
 
-Een nieuw filter in de [!DNL Insights] module verbergt automatisch [&#x200B; niet gestaafde beeld en videoactiva &#x200B;](/help/user-guide/insights/ads.md#ad-formats) van voorproeven en, eliminerend visuele rommelige en gebroken tegels. Deze verbetering zorgt ervoor dat gebruikers alleen de media zien die daadwerkelijk beschikbaar en gebruiksklaar zijn, waardoor een schonere en betrouwbaardere ervaring ontstaat. Het filter werkt naast het bestaande filter Verenigbaarheid-advertenties.
+Een nieuw filter in de [!DNL Insights] module verbergt automatisch [ niet gestaafde beeld en videoactiva ](/help/user-guide/insights/ads.md#ad-formats) van voorproeven en, eliminerend visuele rommelige en gebroken tegels. Deze verbetering zorgt ervoor dat gebruikers alleen de media zien die daadwerkelijk beschikbaar en gebruiksklaar zijn, waardoor een schonere en betrouwbaardere ervaring ontstaat. Het filter werkt naast het bestaande filter Verenigbaarheid-advertenties.
 
 ### Multi-Asset Activation for Meta
 
@@ -183,21 +183,21 @@ Activering van afbeeldingen met meerdere beeldverhoudingen voor Meta Ads stelt a
 
 ### RTF-tekstopmaak in varianten
 
-[&#x200B; geeft tekstgebieden in geproduceerde varianten met rijke tekst het formatteren &#x200B;](/help/user-guide/create/manage-variants.md#manually-edit-text) opties met inbegrip van gewaagde, cursief, onderstrepen, tekstgroepering, lijsten, tekstkleur, tekstgrootte, en verbindingen uit. Op deze manier kunt u tekst en frasering voor uw doelgroep verfijnen en opmaak toepassen die aan de vereisten voor de lay-out voldoet.
+[ geeft tekstgebieden in geproduceerde varianten met rijke tekst het formatteren ](/help/user-guide/create/manage-variants.md#manually-edit-text) opties met inbegrip van gewaagde, cursief, onderstrepen, tekstgroepering, lijsten, tekstkleur, tekstgrootte, en verbindingen uit. Op deze manier kunt u tekst en frasering voor uw doelgroep verfijnen en opmaak toepassen die aan de vereisten voor de lay-out voldoet.
 
 ### Toegankelijkheidslabels voor afbeeldingen en koppelingen
 
-Voeg toegankelijkheidslabels (AI-labels) toe aan afbeeldingen en call-to-action-koppelingen in uw varianten om toegankelijke namen te bieden die gebruikers helpen het doel van interactieve elementen te begrijpen. Zie [&#x200B; Varianten &#x200B;](/help/user-guide/create/manage-variants.md) voor gedetailleerde instructies beheren.
+Voeg toegankelijkheidslabels (AI-labels) toe aan afbeeldingen en call-to-action-koppelingen in uw varianten om toegankelijke namen te bieden die gebruikers helpen het doel van interactieve elementen te begrijpen. Zie [ Varianten ](/help/user-guide/create/manage-variants.md) voor gedetailleerde instructies beheren.
 
 ### Niet-Engelse content genereren
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Het nieuwe keuzemenu Taalkiezer in de snelle lade ondersteunt het maken van meertalige content, waardoor regionale marketers on-brand-inhoud kunnen ontwikkelen voor hun lokale publiek. Deze functie biedt momenteel ondersteuning voor 12 GA-talen en 5 Beta-talen, waarbij de taallijst een gedefinieerde workflow en een duidelijke taalrichtlijn biedt voor een consistentere uitvoer.
 
 ### Sjabloonselectie optioneel voor metagegevensadvertenties
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Sjabloonselectie is nu optioneel met metagegevensadvertenties, zodat gebruikers advertenties kunnen maken zonder dat boven aan het medium tekst en logo nodig zijn. Dankzij deze verbetering zijn andere mediatypen mogelijk, zoals geanimeerde GIF&#39;s en video&#39;s waarvoor wellicht geen tekstbedekkingen of logoplaatsing vereist is.
 
@@ -207,37 +207,37 @@ Sjabloonselectie is nu optioneel met metagegevensadvertenties, zodat gebruikers 
 
 ### Startsjablonen beschikbaar
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
-[&#x200B; de malplaatjes van de Aanzet &#x200B;](/help/user-guide/templates/starter-templates.md) verstrekken een manier om het creatieve proces te springen. U kunt nu een Meta- of LinkedIn- of startsjabloon selecteren.
+[ de malplaatjes van de Aanzet ](/help/user-guide/templates/starter-templates.md) verstrekken een manier om het creatieve proces te springen. U kunt nu een Meta- of LinkedIn- of startsjabloon selecteren.
 
 ### AI-functionaliteit voor Genereren uitbreiden
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
-Nu, in GenStudio for Performance Marketing [!DNL Create] kunt u [&#x200B; Generatief gebruiken breid AI mogelijkheden &#x200B;](/help/user-guide/create/manage-variants.md#use-generative-expand) uit om de afmetingen van beelden uit te breiden en generatieve inhoud toe te voegen om uw advertentiesjablonen in betaalde media varianten te passen.
+Nu, in GenStudio for Performance Marketing [!DNL Create] kunt u [ Generatief gebruiken breid AI mogelijkheden ](/help/user-guide/create/manage-variants.md#use-generative-expand) uit om de afmetingen van beelden uit te breiden en generatieve inhoud toe te voegen om uw advertentiesjablonen in betaalde media varianten te passen.
 
 ### Video&#39;s toevoegen aan advertenties
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
-Samen met beeldinhoud, kunt u video&#39;s aan [&#x200B; nu toevoegen LinkedIn &#x200B;](/help/user-guide/create/create-linkedin.md#manage-videos) en [&#x200B; Meta &#x200B;](/help/user-guide/create/create-meta-ad.md#manage-videos) advertenties. Bekijk automatisch afspeelbare voorvertoningen van de video&#39;s rechtstreeks in GenStudio for Performance Marketing terwijl u video&#39;s kiest en toevoegt aan uw varianten.
+Samen met beeldinhoud, kunt u video&#39;s aan [ nu toevoegen LinkedIn ](/help/user-guide/create/create-linkedin.md#manage-videos) en [ Meta ](/help/user-guide/create/create-meta-ad.md#manage-videos) advertenties. Bekijk automatisch afspeelbare voorvertoningen van de video&#39;s rechtstreeks in GenStudio for Performance Marketing terwijl u video&#39;s kiest en toevoegt aan uw varianten.
 
 ### Oplossingen en verbeteringen
 
-* Toegevoegde steun voor [&#x200B; het publiceren en ervaringen &#x200B;](/help/user-guide/activation/activate-linkedin-ad.md) van GenStudio for Performance Marketing in Manager LinkedIn van de Campagne. [!DNL Activate] steunt gedetailleerde LinkedIn en voorproeven alvorens aan LinkedIn Manager van de Campagne te publiceren.
+* Toegevoegde steun voor [ het publiceren en ervaringen ](/help/user-guide/activation/activate-linkedin-ad.md) van GenStudio for Performance Marketing in Manager LinkedIn van de Campagne. [!DNL Activate] steunt gedetailleerde LinkedIn en voorproeven alvorens aan LinkedIn Manager van de Campagne te publiceren.
 
-* De [&#x200B; integratie van Workfront Proof &#x200B;](/help/user-guide/approvals/overview.md) brengt robuuste overzicht-en-goedkeuringsmogelijkheden van het Bewijs aan GenStudio for Performance Marketing. Inhoud die in GenStudio for Performance Marketing wordt gecontroleerd, synchroniseert met Workfront Proof en revisieopmerkingen en -status blijven behouden.
+* De [ integratie van Workfront Proof ](/help/user-guide/approvals/overview.md) brengt robuuste overzicht-en-goedkeuringsmogelijkheden van het Bewijs aan GenStudio for Performance Marketing. Inhoud die in GenStudio for Performance Marketing wordt gecontroleerd, synchroniseert met Workfront Proof en revisieopmerkingen en -status blijven behouden.
 
-* Toegevoegde capaciteit om [&#x200B; toegankelijke namen voor beelden en de verbindingen van call-to-action &#x200B;](/help/user-guide/create/manage-variants.md#add-accessibility-labels) in uw varianten te verstrekken door toegankelijkheidslabels (a-etiketten) toe te voegen.
+* Toegevoegde capaciteit om [ toegankelijke namen voor beelden en de verbindingen van call-to-action ](/help/user-guide/create/manage-variants.md#add-accessibility-labels) in uw varianten te verstrekken door toegankelijkheidslabels (a-etiketten) toe te voegen.
 
-* Wanneer het toevoegen van of het herzien van [&#x200B; Merk richtlijnen &#x200B;](/help/user-guide/guidelines/brands.md) in een niet-Engelse taal, toont GenStudio for Performance Marketing die richtlijnen in de zelfde taal.
+* Wanneer het toevoegen van of het herzien van [ Merk richtlijnen ](/help/user-guide/guidelines/brands.md) in een niet-Engelse taal, toont GenStudio for Performance Marketing die richtlijnen in de zelfde taal.
 
-* Na manueel het toevoegen van a [!DNL Brand], of het creëren van a [!DNL Brand] door handextractie uit een document, kunt u [&#x200B; veranderen of merkduimnagelbeelden &#x200B;](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail) toevoegen om ervoor te zorgen elk merk binnen uw [!DNL Brands] lijst gemakkelijk te onderscheiden is.
+* Na manueel het toevoegen van a [!DNL Brand], of het creëren van a [!DNL Brand] door handextractie uit een document, kunt u [ veranderen of merkduimnagelbeelden ](/help/user-guide/guidelines/add-guidelines.md#change-brand-thumbnail) toevoegen om ervoor te zorgen elk merk binnen uw [!DNL Brands] lijst gemakkelijk te onderscheiden is.
 
-* U kunt [&#x200B; rijke tekst nu gebruiken het uitgeven voor tekst &#x200B;](/help/user-guide/create/manage-variants.md#manually-edit-text) in uw geproduceerde varianten. Experimenteer met allerlei opmaakopties voor verschillende tekst, zoals kleur, grootte, lijsten en meer.
+* U kunt [ rijke tekst nu gebruiken het uitgeven voor tekst ](/help/user-guide/create/manage-variants.md#manually-edit-text) in uw geproduceerde varianten. Experimenteer met allerlei opmaakopties voor verschillende tekst, zoals kleur, grootte, lijsten en meer.
 
-* U kunt [&#x200B; een nieuwe advertentiereeks &#x200B;](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) tijdens platformopstelling nu tot stand brengen door een bestaande advertentie te klonen die tijdens platformopstelling wordt geplaatst. Meta-advertenties definiëren de timing, kanaaldetails en het publiek voor een specifieke advertentie. Een Meta-campagne kan meerdere advertentiesets bevatten, maar een advertentieset is exclusief gekoppeld aan één campagne.
+* U kunt [ een nieuwe advertentiereeks ](/help/user-guide/activation/activate-meta-ad.md#create-a-new-ad-set) tijdens platformopstelling nu tot stand brengen door een bestaande advertentie te klonen die tijdens platformopstelling wordt geplaatst. Meta-advertenties definiëren de timing, kanaaldetails en het publiek voor een specifieke advertentie. Een Meta-campagne kan meerdere advertentiesets bevatten, maar een advertentieset is exclusief gekoppeld aan één campagne.
 
 * U kunt nu campagnedetails exporteren om deze extern toegankelijk te maken als campagnefoto&#39;s in Word of PDF. Selecteer een campagne en klik vervolgens op **[!UICONTROL Export]** (rechterbovenhoek).
 
@@ -247,9 +247,9 @@ Samen met beeldinhoud, kunt u video&#39;s aan [&#x200B; nu toevoegen LinkedIn &#
 
 ### Oplossingen en verbeteringen
 
-* Toegelaten functionaliteit voor [&#x200B; toevoegend alternatieve (alt) tekst &#x200B;](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) aan een beeld voor een individuele variant.
-* Toegevoegd a [&#x200B; nieuwe het aspectverhouding van Meta &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) - Liggend 1.19 :1 (1080 pixelbreedte).
-* Nu kunt u voor het exporteren of downloaden meer dan één ervaring kiezen. Zie [&#x200B; Ervaringen van de Uitvoer &#x200B;](/help/user-guide/content/manage-assets.md#export-experiences).
+* Toegelaten functionaliteit voor [ toevoegend alternatieve (alt) tekst ](/help/user-guide/create/manage-variants.md#add-alt-text-for-images) aan een beeld voor een individuele variant.
+* Toegevoegd a [ nieuwe het aspectverhouding van Meta ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) - Liggend 1.19 :1 (1080 pixelbreedte).
+* Nu kunt u voor het exporteren of downloaden meer dan één ervaring kiezen. Zie [ Ervaringen van de Uitvoer ](/help/user-guide/content/manage-assets.md#export-experiences).
 <!-- * Added support for [publishing ad experiences](/help/user-guide/activation/activate-meta-ad.md) directly from _[!DNL Content]_ [into Google Campaign Manager 360 and Meta Ads Manager](/help/user-guide/activation/activate-cm360-ad.md). -->
 
 +++
@@ -258,10 +258,10 @@ Samen met beeldinhoud, kunt u video&#39;s aan [&#x200B; nu toevoegen LinkedIn &#
 
 ### Oplossingen en verbeteringen
 
-* Nieuwe filteropties voor sjablonen! U kunt de lijst met _[!UICONTROL Select templates]_&#x200B;nu verfijnen in [!DNL Create] en in&#x200B;_[!UICONTROL Content]_ > _[!UICONTROL Templates]_. Zie [&#x200B; malplaatjes van het Onderzoek &#x200B;](/help/user-guide/content/use-templates.md#search-templates). Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
-* Toegelaten functionaliteit aan [&#x200B; mening en selecteert individuele lagen &#x200B;](/help/user-guide/create/manage-variants.md#view-layers) - editable tekstgebieden of editable beelden-van een ervaring om hen voor revisies, zoals het regenereren van inhoud of het bebouwen beelden te benadrukken.
-* Toegevoegd a [&#x200B; nieuw malplaatjegebied &#x200B;](/help/user-guide/content/use-templates.md#template-elements), `sub-headline`, voor extra tekst in ervaringen om publieksaandacht te pakken en marketing overseinen te benadrukken.
-* Toegevoegde steun voor [&#x200B; het publiceren en ervaringen &#x200B;](/help/user-guide/activation/overview.md) van GenStudio for Performance Marketing in Manager 360 van de Campagne van Google. Activeren ondersteunt gedetailleerde voorvertoningen van Google Campaign Manager 360 voordat u deze publiceert naar een campagnebeheerder 360. Advertenties die via Activate worden gepubliceerd, worden automatisch in de Insights geplaatst zodra ze live zijn, zodat gebruikers de advertentie kunnen volgen en rapporteren.
+* Nieuwe filteropties voor sjablonen! U kunt de lijst met _[!UICONTROL Select templates]_nu verfijnen in [!DNL Create] en in_[!UICONTROL Content]_ > _[!UICONTROL Templates]_. Zie [ malplaatjes van het Onderzoek ](/help/user-guide/templates/use-templates.md#search-templates). Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
+* Toegelaten functionaliteit aan [ mening en selecteert individuele lagen ](/help/user-guide/create/manage-variants.md#view-layers) - editable tekstgebieden of editable beelden-van een ervaring om hen voor revisies, zoals het regenereren van inhoud of het bebouwen beelden te benadrukken.
+* Toegevoegd a [ nieuw malplaatjegebied ](/help/user-guide/templates/use-templates.md#template-elements), `sub-headline`, voor extra tekst in ervaringen om publieksaandacht te pakken en marketing overseinen te benadrukken.
+* Toegevoegde steun voor [ het publiceren en ervaringen ](/help/user-guide/activation/overview.md) van GenStudio for Performance Marketing in Manager 360 van de Campagne van Google. Activeren ondersteunt gedetailleerde voorvertoningen van Google Campaign Manager 360 voordat u deze publiceert naar een campagnebeheerder 360. Advertenties die via Activate worden gepubliceerd, worden automatisch in de Insights geplaatst zodra ze live zijn, zodat gebruikers de advertentie kunnen volgen en rapporteren.
 
 +++
 
@@ -269,45 +269,45 @@ Samen met beeldinhoud, kunt u video&#39;s aan [&#x200B; nu toevoegen LinkedIn &#
 
 ### Meta-advertenties activeren
 
-De verkopers kunnen nu [&#x200B; publiceren en ervaringen &#x200B;](/help/user-guide/activation/overview.md) van GenStudio for Performance Marketing in de Manager van Advertenties van Meta. [!DNL Activate] ondersteunt gedetailleerde Meta en voorvertoningen voordat de toepassing wordt uitgevoerd. Meta-advertenties die via [!DNL Activate] worden gepubliceerd, worden automatisch in de [!DNL Insights] weergegeven wanneer ze eenmaal actief zijn, zodat gebruikers de prestaties van een advertentie kunnen volgen en rapporteren.
+De verkopers kunnen nu [ publiceren en ervaringen ](/help/user-guide/activation/overview.md) van GenStudio for Performance Marketing in de Manager van Advertenties van Meta. [!DNL Activate] ondersteunt gedetailleerde Meta en voorvertoningen voordat de toepassing wordt uitgevoerd. Meta-advertenties die via [!DNL Activate] worden gepubliceerd, worden automatisch in de [!DNL Insights] weergegeven wanneer ze eenmaal actief zijn, zodat gebruikers de prestaties van een advertentie kunnen volgen en rapporteren.
 
 ### LinkedIn-ervaringen maken
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
-Toegevoegde steun voor [&#x200B; het creëren van ervaringen LinkedIn &#x200B;](/help/user-guide/create/create-linkedin.md). Zie [&#x200B; LinkedIn en &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) lusje in kanaal-specifieke richtlijnen.
+Toegevoegde steun voor [ het creëren van ervaringen LinkedIn ](/help/user-guide/create/create-linkedin.md). Zie [ LinkedIn en ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) lusje in kanaal-specifieke richtlijnen.
 
 ### Bannervaringen maken
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
-Toegevoegde steun voor [&#x200B; creërend bannerervaringen &#x200B;](/help/user-guide/create/create-banner-experience.md). Zie het [&#x200B; lusje van de Banner &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanaal-specifieke richtlijnen.
+Toegevoegde steun voor [ creërend bannerervaringen ](/help/user-guide/create/create-banner-experience.md). Zie het [ lusje van de Banner ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines) in kanaal-specifieke richtlijnen.
 
 ### Compatibiliteit
 
-Als deel van het proces van de merkbevestiging, [&#x200B; nalevingsnormen &#x200B;](/help/user-guide/guidelines/overview.md) zijn geïntroduceerd in [&#x200B; controles van de Inhoud &#x200B;](/help/user-guide/guidelines/brand-validation.md). Deze controles evalueren elke variant in een ervaring aan de hand van [!DNL Brand] richtlijnen, platformrichtlijnen (zoals voor Meta) en ADA-standaarden. Dit proces biedt een uitgebreid overzicht van de richtsnoeren en normen die moeten worden herzien om betere naleving te bereiken.
+Als deel van het proces van de merkbevestiging, [ nalevingsnormen ](/help/user-guide/guidelines/overview.md) zijn geïntroduceerd in [ controles van de Inhoud ](/help/user-guide/guidelines/brand-validation.md). Deze controles evalueren elke variant in een ervaring aan de hand van [!DNL Brand] richtlijnen, platformrichtlijnen (zoals voor Meta) en ADA-standaarden. Dit proces biedt een uitgebreid overzicht van de richtsnoeren en normen die moeten worden herzien om betere naleving te bereiken.
 
 ### Uitbreidbaarheid
 
-Het nieuwe GenStudio for Performance Marketing [&#x200B; rekbaarheidskader &#x200B;](/help/extensibility/setup.md) verstrekt hulpmiddelen voor organisaties om hun eigen eisen nalevingsprotocollen in het werkschema van de inhoudsverwezenlijking en bevestiging door toe:voegen-ons, of verlengbare toepassingen op te nemen.
+Het nieuwe GenStudio for Performance Marketing [ rekbaarheidskader ](/help/extensibility/setup.md) verstrekt hulpmiddelen voor organisaties om hun eigen eisen nalevingsprotocollen in het werkschema van de inhoudsverwezenlijking en bevestiging door toe:voegen-ons, of verlengbare toepassingen op te nemen.
 
 ### Sjablonen
 
-* **de coderedacteur van het Malplaatje** - de nieuwe [&#x200B; redacteur van de code van het Malplaatje &#x200B;](/help/user-guide/content/code-editor.md) helpt u verifiëren en uw malplaatje voor optimaal gebruik raffineren wanneer het produceren van nieuwe ervaringen met GenStudio for Performance Marketing.
+* **de coderedacteur van het Malplaatje** - de nieuwe [ redacteur van de code van het Malplaatje ](/help/user-guide/templates/code-editor.md) helpt u verifiëren en uw malplaatje voor optimaal gebruik raffineren wanneer het produceren van nieuwe ervaringen met GenStudio for Performance Marketing.
 
-  ![&#x200B; de redacteursmening van de Code &#x200B;](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){width="500" zoomable="yes"}
+  ![ de redacteursmening van de Code ](/help/assets/template-detected-fields.png " Controle ontdekte gebieden "){width="500" zoomable="yes"}
 
-* **Verbindingen op beeld** - pas uw e-mailmalplaatje aan door beeldverbindingen toe te laten. Zie [&#x200B; een malplaatje aanpassen: Verbinding op beeld &#x200B;](/help/user-guide/content/customize-template.md#link-on-image).
-* **AJO en de malplaatjes van Marketo** - upload een malplaatje dat u in Adobe Journey Optimizer (AJO) of Marketo creeerde. Zie [&#x200B; Werk met malplaatjes van AJO en Marketo &#x200B;](/help/user-guide/content/use-templates.md#templates-from-ajo-and-marketo).
+* **Verbindingen op beeld** - pas uw e-mailmalplaatje aan door beeldverbindingen toe te laten. Zie [ een malplaatje aanpassen: Verbinding op beeld ](/help/user-guide/templates/customize-template.md#link-on-image).
+* **AJO en de malplaatjes van Marketo** - upload een malplaatje dat u in Adobe Journey Optimizer (AJO) of Marketo creeerde. Zie [ Werk met malplaatjes van AJO en Marketo ](/help/user-guide/templates/use-templates.md#templates-from-ajo-and-marketo).
 
 ### Oplossingen en verbeteringen
 
-* Toegelaten functionaliteit voor [&#x200B; standaardkanaal &#x200B;](/help/user-guide/guidelines/brands.md#channel-guidelines), [&#x200B; beeld &#x200B;](/help/user-guide/guidelines/brands.md#image-guidelines), [&#x200B; embleem &#x200B;](/help/user-guide/guidelines/brands.md#logos), en [&#x200B; kleur &#x200B;](/help/user-guide/guidelines/brands.md#colors) richtlijnen voor [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
-* Toegevoegde capaciteit om [&#x200B; verbindingen aan beelden &#x200B;](/help/user-guide/create/manage-variants.md#add-image-link) binnen een variant toe te voegen.
-* Verplaatste de [&#x200B; controle van de Inhoud &#x200B;](/help/user-guide/guidelines/brand-validation.md) en van het Overzicht en goedkeuring functionaliteit aan de nieuwe juiste actiebar om ruimte op het Canvas te maximaliseren en de gebruikerservaring te verbeteren.
-* Vereenvoudigde de stroom voor [&#x200B; uploadend of manueel toevoegend een merk &#x200B;](/help/user-guide/guidelines/add-guidelines.md#add-brands).
-* Introduceerde de capaciteit om beeldactiva binnen een variant [&#x200B; op het Canvas toe te voegen of te ruilen.](/help/user-guide/create/manage-variants.md#swap-image)
-* Verbeterde gebruikerservaring en zicht van kanaalcategorieën [&#x200B; op Create huis &#x200B;](/help/user-guide/create/overview.md) door hen in de Bezit media, Betaalde media, en de secties van de Inhoud te scheiden.
+* Toegelaten functionaliteit voor [ standaardkanaal ](/help/user-guide/guidelines/brands.md#channel-guidelines), [ beeld ](/help/user-guide/guidelines/brands.md#image-guidelines), [ embleem ](/help/user-guide/guidelines/brands.md#logos), en [ kleur ](/help/user-guide/guidelines/brands.md#colors) richtlijnen voor [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
+* Toegevoegde capaciteit om [ verbindingen aan beelden ](/help/user-guide/create/manage-variants.md#add-image-link) binnen een variant toe te voegen.
+* Verplaatste de [ controle van de Inhoud ](/help/user-guide/guidelines/brand-validation.md) en van het Overzicht en goedkeuring functionaliteit aan de nieuwe juiste actiebar om ruimte op het Canvas te maximaliseren en de gebruikerservaring te verbeteren.
+* Vereenvoudigde de stroom voor [ uploadend of manueel toevoegend een merk ](/help/user-guide/guidelines/add-guidelines.md#add-brands).
+* Introduceerde de capaciteit om beeldactiva binnen een variant [ op het Canvas toe te voegen of te ruilen.](/help/user-guide/create/manage-variants.md#swap-image)
+* Verbeterde gebruikerservaring en zicht van kanaalcategorieën [ op Create huis ](/help/user-guide/create/overview.md) door hen in de Bezit media, Betaalde media, en de secties van de Inhoud te scheiden.
 * Verbeterd filteren in tabel- en galerieweergaven in [!DNL Insights] .
 
 +++
@@ -328,7 +328,7 @@ U kunt de weergavetabel nu vanuit elke [!DNL Insights] -weergave downloaden naar
 
 ### Integratie met Adobe Workfront Proof
 
-[!BADGE &#x200B; Beta &#x200B;]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
+[!BADGE  Beta ]{type=Informative tooltip="Deze functie is momenteel in Beta, waardoor bepaalde functionaliteit mogelijk beperkt is of kan worden gewijzigd."}
 
 Het Beta-programma voor de integratie van GenStudio for Performance Marketing en Adobe Workfront Proof wordt deze maand gestart. Workfront Proof versterkt de levenscyclus van het maken en activeren van inhoud met goedkeuringssjablonen, workflows met meerdere fasen en annotaties. GenStudio for Performance Marketing-gebruikers met Workfront Proof-rechten kunnen de geavanceerde mogelijkheden van Proof in GenStudio for Performance Marketing gebruiken om door GenStudio gegenereerde inhoud te beoordelen en er opmerkingen over te maken.
 
@@ -336,11 +336,11 @@ Beta-programma&#39;s bieden een manier om de ontwikkeling van producten te helpe
 
 ### Nieuwe oproepen naar handeling genereren
 
-U kunt nu nieuwe call-to-action-uitdrukkingen (CTA) genereren voor het beheer van varianten. Gebruik nieuwe _herhaal_ en _verbindings_ opties toevoegen om nieuwe uitdrukkingen te produceren en de verbinding van CTA uit te geven. Deze nieuwe CTA-functies werken alleen als uw sjabloon correct is ingesteld. Volg de richtlijnen in _aanpassen een malplaatje_: [&#x200B; Vraag aan actie &#x200B;](/help/user-guide/content/customize-template.md#calls-to-action). Voor richtlijnen bij het beheren van CTAs in varianten, zie [&#x200B; Call to action &#x200B;](/help/user-guide/create/manage-variants.md#revise-call-to-action) herzien. <!-- GS-6676 -->
+U kunt nu nieuwe call-to-action-uitdrukkingen (CTA) genereren voor het beheer van varianten. Gebruik nieuwe _herhaal_ en _verbindings_ opties toevoegen om nieuwe uitdrukkingen te produceren en de verbinding van CTA uit te geven. Deze nieuwe CTA-functies werken alleen als uw sjabloon correct is ingesteld. Volg de richtlijnen in _aanpassen een malplaatje_: [ Vraag aan actie ](/help/user-guide/templates/customize-template.md#calls-to-action). Voor richtlijnen bij het beheren van CTAs in varianten, zie [ Call to action ](/help/user-guide/create/manage-variants.md#revise-call-to-action) herzien. <!-- GS-6676 -->
 
 ### Oplossingen en verbeteringen
 
-* Het aantal tekens wordt nu weergegeven in alle gegenereerde en handmatige velden voor weergaveadvertenties. Zie _Tellingen van het Karakter_ in [&#x200B; ervaringen van Meta &#x200B;](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->
+* Het aantal tekens wordt nu weergegeven in alle gegenereerde en handmatige velden voor weergaveadvertenties. Zie _Tellingen van het Karakter_ in [ ervaringen van Meta ](/help/user-guide/create/meta-experiences.md#character-counts). <!-- GS-7732 -->
 
 * _de Medewerkers_ kunnen activa nu bekijken maar creëren, uitgeven, of schrappen deze activa niet. Eerder werden machtigingen voor medewerkers niet afgedwongen zoals werd verwacht in [!DNL Create] . <!-- GS-7614 -->
 
@@ -372,9 +372,9 @@ U kunt nu nieuwe call-to-action-uitdrukkingen (CTA) genereren voor het beheer va
 
 Editors kunnen nu de volgende aan metagegevens gerelateerde taken uitvoeren:
 
-* Middelen, ervaring en sjabloonmetagegevens bewerken. Zie [&#x200B; de details van Activa &#x200B;](/help/user-guide/content/asset-details.md#user-defined-metadata). <!-- GS-4905 6935-->
+* Middelen, ervaring en sjabloonmetagegevens bewerken. Zie [ de details van Activa ](/help/user-guide/content/asset-details.md#user-defined-metadata). <!-- GS-4905 6935-->
 
-* Bekijk de geproduceerde markeringen van activa in de _mening van Details_ van om het even welke ervaring die de activa gebruikt. Zie _Gegenereerde markeringen_ in [&#x200B; details van Activa &#x200B;](/help/user-guide/content/asset-details.md#generated-tags). <!-- GS-3705 -->
+* Bekijk de geproduceerde markeringen van activa in de _mening van Details_ van om het even welke ervaring die de activa gebruikt. Zie _Gegenereerde markeringen_ in [ details van Activa ](/help/user-guide/content/asset-details.md#generated-tags). <!-- GS-3705 -->
 
 Editors kunnen nu aangepaste waarden opgeven voor de volgende aspecten van gegenereerde varianten:
 
@@ -382,19 +382,19 @@ Editors kunnen nu aangepaste waarden opgeven voor de volgende aspecten van gegen
 
 * Dimensies tot afbeeldingen die worden weergegeven en die worden weergegeven tijdens het uploaden van de afbeelding.<!-- GS-7166 -->
 
-* Zie kanaal-specifieke richtlijnen in [&#x200B; Beste praktijken voor malplaatjes &#x200B;](/help/user-guide/content/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
+* Zie kanaal-specifieke richtlijnen in [ Beste praktijken voor malplaatjes ](/help/user-guide/templates/best-practices-for-templates.md#follow-channel-specific-template-guidelines).
 
 Exportopties zijn nu:
 
-* Exporteer weergaveadvertenties en Meta-advertenties als HTML, JPEG of PNG. Zie [&#x200B; een vertoning en ervaring &#x200B;](/help/user-guide/create/create-display-ad.md) creëren en [&#x200B; een meta en ervaring &#x200B;](/help/user-guide/create/create-meta-ad.md) creëren. <!-- GS-7093 6655 5152-->
+* Exporteer weergaveadvertenties en Meta-advertenties als HTML, JPEG of PNG. Zie [ een vertoning en ervaring ](/help/user-guide/create/create-display-ad.md) creëren en [ een meta en ervaring ](/help/user-guide/create/create-meta-ad.md) creëren. <!-- GS-7093 6655 5152-->
 
 Met extra nieuwe functies kunnen editors:
 
 * Gebruik de **[!UICONTROL Refresh]** knoop op het [!DNL Content] Malplaatje _gedetailleerde gegevens van Activa_ mening om het geselecteerde malplaatje te verfrissen. <!-- GS-7102 -->
 
-* Regenereer gedeelten van weergave- en e-mailvarianten. Zie [&#x200B; een vertoning en ervaring &#x200B;](/help/user-guide/create/create-display-ad.md#revise-generated-display-ads) creëren en [&#x200B; een e-mailervaring &#x200B;](/help/user-guide/create/create-email-experience.md#revise-generated-emails) creëren. <!-- GS-5080 5078-->
+* Regenereer gedeelten van weergave- en e-mailvarianten. Zie [ een vertoning en ervaring ](/help/user-guide/create/create-display-ad.md#revise-generated-display-ads) creëren en [ een e-mailervaring ](/help/user-guide/create/create-email-experience.md#revise-generated-emails) creëren. <!-- GS-5080 5078-->
 
-* Dupliceer bestaande merken. Zie [&#x200B; merken beheren &#x200B;](/help/user-guide/guidelines/brands.md#manage-brands). <!-- BRANDS-548 -->
+* Dupliceer bestaande merken. Zie [ merken beheren ](/help/user-guide/guidelines/brands.md#manage-brands). <!-- BRANDS-548 -->
 
 ### Oplossingen en verbeteringen
 
@@ -430,7 +430,7 @@ Met extra nieuwe functies kunnen editors:
 
 * Het **Opslaan van lopend** bericht dat tijdens e-mailfragment sparen verrichtingen wordt getoond wordt nu getoond slechts tijdens sparen verrichting. Eerder, toonde het Canvas dit bericht voor onbepaalde tijd. <!-- GS-6964 -->
 
-* De redacteurs zien nu een foutenmelding zoals verwacht wanneer een ontwerp er niet in slaagt om in het [!DNL Create] _Recente 2&rbrace; gebied van het Werk &lbrace;te laden._<!-- GS-8081 -->
+* De redacteurs zien nu een foutenmelding zoals verwacht wanneer een ontwerp er niet in slaagt om in het [!DNL Create] _Recente 2} gebied van het Werk {te laden._<!-- GS-8081 -->
 
 * Op het canvas worden nu vergroot of verkleind Meta-advertenties weergegeven en worden advertenties in de juiste volgorde weergegeven.  <!-- GS-7375 -->
 
@@ -446,7 +446,7 @@ Met extra nieuwe functies kunnen editors:
 
 ### Nieuwe functies
 
-Toegevoegde ondersteuning voor het weergeven van statische inhoud op externe domeinen. GenStudio for Performance Marketing valideert de inhoudsbron die in de sjabloon is gedefinieerd en sluit een kopie in om de voorvertoning van de sjabloon te maken. Zie [&#x200B; Statische inhoud &#x200B;](/help/user-guide/content/customize-template.md#static-content). <!-- GS-6107 -->
+Toegevoegde ondersteuning voor het weergeven van statische inhoud op externe domeinen. GenStudio for Performance Marketing valideert de inhoudsbron die in de sjabloon is gedefinieerd en sluit een kopie in om de voorvertoning van de sjabloon te maken. Zie [ Statische inhoud ](/help/user-guide/templates/customize-template.md#static-content). <!-- GS-6107 -->
 
 ### Oplossingen en verbeteringen
 
@@ -465,7 +465,7 @@ Toegevoegde ondersteuning voor het weergeven van statische inhoud op externe dom
 Deze release bevat verbeteringen voor lokalisatie in de gehele gebruikersinterface, waaronder:
 
 * Alle koorden in [!DNL Content] _uploadt activa_ popup worden nu correct gelokaliseerd. <!-- GS-6872 6770 -->
-* Alle tooltips in het [!DNL Content] __ gebied van de 1&rbrace; mening van Assets &lbrace;worden gelokaliseerd. **[!UICONTROL Search]**<!-- GS-6879 -->
+* Alle tooltips in het [!DNL Content] __ gebied van de 1} mening van Assets {worden gelokaliseerd. **[!UICONTROL Search]**<!-- GS-6879 -->
 * Wanneer het vervangen van een bestaand beeld in een e-mailvariant op het [!DNL Create] Canvas, _Uitgezocht van de mening van de Inhoud_ wordt nu gelokaliseerd. <!-- GS-6906 -->
 
 +++

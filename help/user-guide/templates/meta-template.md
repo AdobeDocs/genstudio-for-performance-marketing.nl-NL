@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Volg de onderstaande tips en trucs bij het aanpassen van Meta en sjablonen voor 
 - Gebruik **niet** relatieve doopvontgrootte
 - Bepaal **geen** viewport
 - Gebruik **niet** JavaScript
-- Overschrijf **&#x200B;**&#x200B;geen element van HTML in CSS
+- Overschrijf **** geen element van HTML in CSS
 - De tag `<img>` gebruiken in plaats van `background-image`
 - Maskeren gebruiken om de leesbaarheid van tekst op achtergrondafbeeldingen te verbeteren
 - Er kan slechts één sectie worden gebruikt, die één set sjabloonelementen genereert
@@ -42,7 +42,7 @@ GenStudio for Performance Marketing genereert automatisch de volgende velden. U 
 - `body`
 - `cta`
 
-Zie [&#x200B; placeholders van de Inhoud &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+Zie [ placeholders van de Inhoud ](/help/user-guide/templates/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
 ## Ondersteunde hoogte-breedteverhoudingen
 
@@ -62,7 +62,7 @@ Als de advertentie niet in één van deze aspectverhoudingen wordt ontworpen, sn
 
 <!-- Does this need to be a precise size? -->
 
-Hier volgt een eenvoudig voorbeeld van een Meta-advertentiesjabloon. De kop bevat inline CSS voor opmaak. Het lichaam gebruikt [&#x200B; inhoudplaceholders &#x200B;](#content-placeholders), zoals `image` en `on_image_text`, om erop te wijzen waar GenStudio for Performance Marketing inhoud kan produceren.
+Hier volgt een eenvoudig voorbeeld van een Meta-advertentiesjabloon. De kop bevat inline CSS voor opmaak. Het lichaam gebruikt [ inhoudplaceholders ](#content-placeholders), zoals `image` en `on_image_text`, om erop te wijzen waar GenStudio for Performance Marketing inhoud kan produceren.
 
 ```html {line-numbers="true" highlight="33"}
 <!DOCTYPE html>

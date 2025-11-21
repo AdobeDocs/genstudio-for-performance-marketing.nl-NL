@@ -5,7 +5,7 @@ feature: Create Canvas, Media Templates
 role: User
 level: Beginner
 exl-id: 7951646f-38da-437d-a270-c5ac99fa51cf
-source-git-commit: 44fedfdc3902b4f993d656ae6360a32e27a62520
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 # Weergave en ervaringen
 
-Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [&#x200B; verwezenlijking van succesvolle vertoning en ervaringen &#x200B;](/help/user-guide/create/create-display-ad.md) te stroomlijnen.
+Met Adobe GenStudio for Performance Marketing, kunt u generatieve AI gebruiken om de [ verwezenlijking van succesvolle vertoning en ervaringen ](/help/user-guide/create/create-display-ad.md) te stroomlijnen.
 
-[!DNL Create] machtigt moderne marketers om [&#x200B; brand-verenigbare vertoning en ervaringen &#x200B;](/help/user-guide/create/create-display-ad.md) te produceren door [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md), beeldactiva, en a [&#x200B; goed-gemaakte herinnering &#x200B;](/help/user-guide/effective-prompts.md) te gebruiken.
+[!DNL Create] machtigt moderne marketers om [ brand-verenigbare vertoning en ervaringen ](/help/user-guide/create/create-display-ad.md) te produceren door [ richtlijnen ](/help/user-guide/guidelines/overview.md), beeldactiva, en a [ goed-gemaakte herinnering ](/help/user-guide/effective-prompts.md) te gebruiken.
 
 Bij het genereren van weergaveadvertenties worden vier variaties gemaakt en weergegeven in het canvas.
 
-Zie [&#x200B; Vertoning en malplaatjerichtlijnen &#x200B;](/help/user-guide/templates/display-template.md) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer.
+Zie [ Vertoning en malplaatjerichtlijnen ](/help/user-guide/templates/display-template.md) voor informatie over gesteunde dimensies, erkende gebiedsnamen, en meer.
 
 Bewerkbare gedeelten van een weergave en ervaring zijn:
 
@@ -30,7 +30,7 @@ Bewerkbare gedeelten van een weergave en ervaring zijn:
 * Call to action (CTA)
 * Afbeelding
 
-Zie [&#x200B; elementen van het Malplaatje &#x200B;](/help/user-guide/content/use-templates.md#template-elements).
+Zie [ elementen van het Malplaatje ](/help/user-guide/templates/use-templates.md#template-elements).
 
 <!-- ## Character counts
 

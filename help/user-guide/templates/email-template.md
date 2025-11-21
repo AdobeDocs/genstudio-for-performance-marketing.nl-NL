@@ -5,7 +5,7 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
-source-git-commit: 49d8d5daa2f3c93c18cd9132dab5207871b51237
+source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
@@ -40,11 +40,11 @@ GenStudio for Performance Marketing genereert automatisch de volgende velden. RT
 - `pre_header`
 - `subject`
 
-De maximaal toegestane velden in een sjabloon zijn 20. Zie [&#x200B; placeholders van de Inhoud &#x200B;](/help/user-guide/content/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+De maximaal toegestane velden in een sjabloon zijn 20. Zie [ placeholders van de Inhoud ](/help/user-guide/templates/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
 ## E-mail met meerdere secties
 
-_Secties_ staan u toe om inhoud in verschillende groepen te organiseren, ondersteunend complexere lay-outs. In GenStudio for Performance Marketing kunt u elke sectie definiëren met een naamgevingsconventie voor groepen. Zie [&#x200B; malplaatjesecties &#x200B;](/help/user-guide/content/customize-template.md#sections-or-groups) aanpassen.
+_Secties_ staan u toe om inhoud in verschillende groepen te organiseren, ondersteunend complexere lay-outs. In GenStudio for Performance Marketing kunt u elke sectie definiëren met een naamgevingsconventie voor groepen. Zie [ malplaatjesecties ](/help/user-guide/templates/customize-template.md#sections-or-groups) aanpassen.
 
 Meerdere sectiesjablonen kunnen uit 0, 2 of 3 secties bestaan:
 
@@ -110,7 +110,7 @@ Hier volgt een eenvoudig voorbeeld van een HTML-e-mailsjabloon met één sectie.
 
 +++Voorbeeld: E-mailsjabloon met meerdere secties
 
-Hier is dezelfde HTML-sjabloon in het bovenstaande voorbeeld, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [&#x200B; inhoudplaceholders &#x200B;](#content-placeholders) gebruikend een prefix.
+Hier is dezelfde HTML-sjabloon in het bovenstaande voorbeeld, maar met nog twee secties. De kop bevat inline CSS voor het opmaken van een groep. Het lichaam gebruikt twee groepen met [ inhoudplaceholders ](#content-placeholders) gebruikend een prefix.
 
 ```html
 <!DOCTYPE html>
