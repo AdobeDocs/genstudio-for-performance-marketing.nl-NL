@@ -14,15 +14,15 @@ ht-degree: 0%
 
 # Werken met sjablonen
 
-GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat. Als u aan de slag wilt gaan, uploadt u een aangepaste sjabloon in [!DNL Content] of gebruikt u een startsjabloon in [!DNL Create] . [ de malplaatjes van de Aanzet ](/help/user-guide/templates/starter-templates.md) verstrekken een snelle manier om met een standaardontwerp te beginnen, terwijl een douanemalplaatje u toestaat om uw unieke ontwerpen en lay-out te gebruiken.
+GenStudio for Performance Marketing laat inhoudsmakers toe om verenigbare on-brand marketing inhoud snel te produceren gebruikend _malplaatjes_. Een malplaatje vermindert beduidend de tijd en de inspanning die wordt vereist om nieuwe inhoud te produceren door een uitgangspunt te verstrekken dat pre-gevormde lay-outs en ontwerpelementen omvat. Als u aan de slag wilt gaan, uploadt u een aangepaste sjabloon in [!DNL Content] of gebruikt u een startsjabloon in [!DNL Create] . [&#x200B; de malplaatjes van de Aanzet &#x200B;](/help/user-guide/templates/starter-templates.md) verstrekken een snelle manier om met een standaardontwerp te beginnen, terwijl een douanemalplaatje u toestaat om uw unieke ontwerpen en lay-out te gebruiken.
 
 Hoewel GenStudio for Performance Marketing het rechtstreeks maken van sjablonen in de toepassing niet ondersteunt, kunt u eenvoudig sjablonen ontwerpen en voorbereiden met populaire ontwerpgereedschappen, zoals Adobe InDesign, Illustrator of Express. Zodra uw ontwerp volledig is, kunt u het voor gebruik in GenStudio for Performance Marketing aanpassen. Voer de volgende stappen uit om sjablonen te gebruiken:
 
-1. **Ontwerp Uw Malplaatje**: Gebruik uw aangewezen ontwerphulpmiddel om de visuele lay-out van uw [ malplaatje met elementen ](#template-elements) zoals preheader, titel, lichaam, CTA, beelden, en footer tot stand te brengen.
+1. **Ontwerp Uw Malplaatje**: Gebruik uw aangewezen ontwerphulpmiddel om de visuele lay-out van uw [&#x200B; malplaatje met elementen &#x200B;](#template-elements) zoals preheader, titel, lichaam, CTA, beelden, en footer tot stand te brengen.
 
-2. **Code Uw Malplaatje**: Zet uw ontwerp in HTML en gealigneerde CSS om ervoor te zorgen het schoon en ontvankelijk over diverse apparaten is. Overweeg de [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) om in het bereiken van uw maximum voorgenomen publiek te helpen.
+2. **Code Uw Malplaatje**: Zet uw ontwerp in HTML en gealigneerde CSS om ervoor te zorgen het schoon en ontvankelijk over diverse apparaten is. Overweeg de [&#x200B; toegankelijkheidsrichtlijnen &#x200B;](accessibility-for-templates.md) om in het bereiken van uw maximum voorgenomen publiek te helpen.
 
-3. **voorbereidingen voor GenStudio for Performance Marketing**: Pas uw malplaatje van HTML aan gebruikend de het malplaatjetaal van Handlebars. Voeg plaatsaanduidingen in om aan te geven waar GenStudio for Performance Marketing inhoud dynamisch moet genereren. Zie hoe te [ een malplaatje ](customize-template.md) voor GenStudio for Performance Marketing aanpassen.
+3. **voorbereidingen voor GenStudio for Performance Marketing**: Pas uw malplaatje van HTML aan gebruikend de het malplaatjetaal van Handlebars. Voeg plaatsaanduidingen in om aan te geven waar GenStudio for Performance Marketing inhoud dynamisch moet genereren. Zie hoe te [&#x200B; een malplaatje &#x200B;](customize-template.md) voor GenStudio for Performance Marketing aanpassen.
 
 Met deze stappen kunt u professionele en effectieve sjablonen maken die klaar zijn voor gebruik in GenStudio for Performance Marketing, zodat u on-brand-inhoud snel en efficiënt kunt produceren.
 
@@ -47,60 +47,60 @@ Hieronder volgt een lijst met elementen die worden gebruikt in sjablonen en enke
 
 >[!TIP]
 >
->Zie [ erkende gebiedsnamen ](customize-template.md#recognized-field-names) die GenStudio for Performance Marketing voor malplaatjes van elk type van het Kanaal steunt.
+>Zie [&#x200B; erkende gebiedsnamen &#x200B;](customize-template.md#recognized-field-names) die GenStudio for Performance Marketing voor malplaatjes van elk type van het Kanaal steunt.
 
 ## Sjabloon aanpassen
 
-U [ past uw malplaatje ](customize-template.md) voor gebruik in GenStudio for Performance Marketing aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketing herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
+U [&#x200B; past uw malplaatje &#x200B;](customize-template.md) voor gebruik in GenStudio for Performance Marketing aan door inhoudplaceholders, of gebieden op te nemen, die generatieve AI gebruikt om inhoud op te nemen. GenStudio for Performance Marketing herkent bepaalde velden, zoals het veld `body` , en volgt de kanaalrichtlijnen die voor het geselecteerde merk zijn geconfigureerd.
 
 >[!TIP]
 >
->Volg [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) en [ beste praktijken ](/help/user-guide/templates/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
+>Volg [&#x200B; toegankelijkheidsrichtlijnen &#x200B;](accessibility-for-templates.md) en [&#x200B; beste praktijken &#x200B;](/help/user-guide/templates/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
 
 ## Sjablonen beheren
 
-Op de galerie _[!DNL Templates]_wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
+Op de galerie _[!DNL Templates]_&#x200B;wordt uw overzicht weergegeven van sjablonen die zijn aangepast voor het genereren van ervaringen in GenStudio for Performance Marketing.
 
 ### Zoeksjablonen
 
-Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Er zijn filters die op [ richtlijnen ](/help/user-guide/guidelines/overview.md) worden gebaseerd, [ sleutelwoorden ](../content/asset-details.md#user-defined-metadata), en [ kenmerkencategorieën ](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken.
+Elke [!DNL Content] -weergave biedt filteropties om uw zoekopdracht te beperken tot het ideale element, de ideale ervaring of de ideale sjabloon. Er zijn filters die op [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) worden gebaseerd, [&#x200B; sleutelwoorden &#x200B;](../content/asset-details.md#user-defined-metadata), en [&#x200B; kenmerkencategorieën &#x200B;](/help/user-guide/insights/attributes.md#categories) om onderzoeksresultaten te beperken.
 
 U kunt bijvoorbeeld een sjabloon zoeken met een specifiek kanaaltype of een bepaalde hoogte-breedteverhouding die door u is gemaakt:
 
-- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
-- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
+- **[!UICONTROL Created by]**: hiermee wordt de lijst van _[!UICONTROL Templates]_&#x200B;beperkt, zodat alleen de sjablonen worden weergegeven die door u of een specifieke persoon zijn gemaakt.
+- **[!UICONTROL Aspect Ratio]** : hiermee wordt de lijst in _[!UICONTROL Templates]_&#x200B;beperkt tot sjablonen die zijn ontworpen voor een specifieke hoogte-breedteverhouding.
 
 In het volgende voorbeeld wordt het filter weergegeven op basis van het kanaaltype, zoals e-mail, advertenties weergeven, Meta-advertenties en LinkedIn-advertenties.
 
-![ de lijst van het malplaatje van de Inhoud ](/help/assets/content-templates-filter.png " Onderzoek LinkedIn malplaatjes "){width="650"}
+![&#x200B; de lijst van het malplaatje van de Inhoud &#x200B;](/help/assets/content-templates-filter.png " Onderzoek LinkedIn malplaatjes "){width="650"}
 
 De zoekfunctie voor sjablonen is beschikbaar tijdens [!UICONTROL Create] wanneer u een sjabloon selecteert voor media die eigendom zijn van of betaald worden. Als bepaalde filteropties niet zichtbaar zijn, geeft dit aan dat geen sjablonen in de gegevensopslagruimte overeenkomen met de overeenkomstige metagegevenscriteria. Zorg ervoor dat sjablonen correct zijn gecodeerd met metagegevens, zodat deze kunnen worden gedetecteerd via deze filters.
 
 ### Een sjabloon toevoegen
 
-Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaar voor gebruik in GenStudio for Performance Marketing door de begeleiding in [ te volgen past malplaatjes ](customize-template.md) aan.
+Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaar voor gebruik in GenStudio for Performance Marketing door de begeleiding in [&#x200B; te volgen past malplaatjes &#x200B;](customize-template.md) aan.
 
 **om een malplaatje** toe te voegen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 2. Klik op **[!UICONTROL Add template]**.
 
-3. Blader in het deelvenster _[!UICONTROL Add your approved template]_naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
+3. Blader in het deelvenster _[!UICONTROL Add your approved template]_&#x200B;naar het HTML-sjabloonbestand of sleep het HTML-sjabloonbestand naar de dropruimte. Klik op **[!UICONTROL Next]**.
 
 4. Controleer de velden in het deelvenster _[!UICONTROL Check detected fields]_. Controleer of u de juiste sjabloon gebruikt en of alle details naar verwachting zijn.
 
    Voorbeeld van een e-mailsjabloon:
 
-   ![ ontdekte gebieden van de Voorproef ](/help/assets/template-detected-fields.png){width="650"}
+   ![&#x200B; ontdekte gebieden van de Voorproef &#x200B;](/help/assets/template-detected-fields.png){width="650"}
 
    >[!TIP]
    >
-   >Als de sjabloon niet correct is, klikt u op **[!UICONTROL Back]** en gaat u terug naar de vorige stap. Upload het gecorrigeerde sjabloonbestand. Of gebruik de [ redacteur van de malplaatjecode ](/help/user-guide/templates/code-editor.md) om eenvoudige correcties aan te brengen.
+   >Als de sjabloon niet correct is, klikt u op **[!UICONTROL Back]** en gaat u terug naar de vorige stap. Upload het gecorrigeerde sjabloonbestand. Of gebruik de [&#x200B; redacteur van de malplaatjecode &#x200B;](/help/user-guide/templates/code-editor.md) om eenvoudige correcties aan te brengen.
 
 5. Klik op **[!UICONTROL Next]** als u tevreden bent met de voorvertoning van de sjabloon.
 
-6. Geef in _[!UICONTROL Provide template details and upload]_de sjabloon een naam en selecteer een **[!UICONTROL Channel]**type.
+6. Geef in _[!UICONTROL Provide template details and upload]_&#x200B;de sjabloon een naam en selecteer een **[!UICONTROL Channel]**&#x200B;type.
 
    Sjabloonnaam en kanaaltype zijn vereist. Aanvullende eisen kunnen onder meer zijn:
 
@@ -113,11 +113,11 @@ Alvorens een malplaatje te uploaden, zorg ervoor het volledig voorbereid en klaa
 
 ### Sjabloon vernieuwen
 
-Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s. [ de Statische inhoud ](/help/user-guide/templates/customize-template.md#static-content) wordt niet opgeslagen na het creëren van de malplaatjevoorproef. GenStudio for Performance Marketing blijft verwijzen naar de bronkoppeling in de sjabloon. Met Vernieuwen kunt u de sjabloonvoorvertoning bijwerken met de meest recente versies van deze elementen.
+Sjablonen kunnen statische bestanden bevatten, zoals pictogrammen of logo&#39;s. [&#x200B; de Statische inhoud &#x200B;](/help/user-guide/templates/customize-template.md#static-content) wordt niet opgeslagen na het creëren van de malplaatjevoorproef. GenStudio for Performance Marketing blijft verwijzen naar de bronkoppeling in de sjabloon. Met Vernieuwen kunt u de sjabloonvoorvertoning bijwerken met de meest recente versies van deze elementen.
 
 **om het malplaatje** te verfrissen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 2. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
@@ -129,13 +129,13 @@ Zoek en gebruik een bestaande sjabloon in GenStudio for Performance Marketing om
 
 **om een ervaring met een malplaatje** tot stand te brengen:
 
-1. Selecteer in _[!DNL Content]_de sectie **[!UICONTROL Templates]**.
+1. Selecteer in _[!DNL Content]_&#x200B;de sectie **[!UICONTROL Templates]**.
 
 2. Klik op een sjabloon voor een volledige weergave en een lijst met details.
 
 3. Klik op **[!UICONTROL Create Experience]** (penseel) in de rechterbovenhoek om de sjabloon te gebruiken.
 
-4. Ga aan [ ](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
+4. Ga aan [&#x200B; &#x200B;](/help/user-guide/create/overview.md#create-use-cases) tot stand brengen een ervaring.
 
 ## Sjablonen uit AJO en Marketo
 
@@ -155,4 +155,4 @@ Herkende toepassingspatronen zijn onder meer:
 
 >[!ENDSHADEBOX]
 
-Daarna, [ pas uw malplaatje ](/help/user-guide/templates/customize-template.md) met placeholders aan om erop te wijzen waar GenStudio for Performance Marketing inhoud voor u zou moeten produceren. [ voeg uw malplaatje ](#add-a-template) aan de [!DNL Content] bewaarplaats toe en bevestig het malplaatje. Breng eventuele kleine correcties aan met de code-editor.
+Daarna, [&#x200B; pas uw malplaatje &#x200B;](/help/user-guide/templates/customize-template.md) met placeholders aan om erop te wijzen waar GenStudio for Performance Marketing inhoud voor u zou moeten produceren. [&#x200B; voeg uw malplaatje &#x200B;](#add-a-template) aan de [!DNL Content] bewaarplaats toe en bevestig het malplaatje. Breng eventuele kleine correcties aan met de code-editor.
