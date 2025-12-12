@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer
 feature: Media Templates, Content Generation, Generative AI
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8fb4a0e3acaf1a45d8f0f00f975247fc8fb746e3
+source-git-commit: 4f3d8558f37656ccfc67b592e0bb9e90c30a7963
 workflow-type: tm+mt
-source-wordcount: '1609'
+source-wordcount: '1630'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 U kunt een sjabloon aanpassen voor gebruik in GenStudio for Performance Marketing door plaatsaanduidingen voor inhoud of velden in te voegen die de generatieve AI gebruikt om inhoud in te voegen.
 
-In de volgende secties wordt uitgelegd hoe u uw HTML-sjablonen voor GenStudio for Performance Marketing kunt aanpassen met de sjabloontaal _[!DNL Handlebars]_. In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [&#x200B; wat  [!DNL Handlebars] &#x200B;](https://handlebarsjs.com/guide/#what-is-handlebars) in de_ de taalgids van Handlebars _is om te leren hoe te om uw malplaatje voor te bereiden.
+In de volgende secties wordt uitgelegd hoe u uw HTML-sjablonen voor GenStudio for Performance Marketing kunt aanpassen met de sjabloontaal _[!DNL Handlebars]_. In de syntaxis van [!DNL Handlebars] wordt gewone tekst met dubbele accolades gebruikt als plaatsaanduidingen voor inhoud. Zie [ wat  [!DNL Handlebars] ](https://handlebarsjs.com/guide/#what-is-handlebars) in de_ de taalgids van Handlebars _is om te leren hoe te om uw malplaatje voor te bereiden.
 
-Zodra uw malplaatje klaar is, kunt u het [&#x200B; uploaden aan GenStudio for Performance Marketing &#x200B;](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
+Zodra uw malplaatje klaar is, kunt u het [ uploaden aan GenStudio for Performance Marketing ](use-templates.md#upload-a-template) en beginnen gepersonaliseerde e-mails te produceren die op uw douanemalplaatje worden gebaseerd.
 
-Volg [&#x200B; toegankelijkheidsrichtlijnen &#x200B;](accessibility-for-templates.md) en [&#x200B; beste praktijken &#x200B;](/help/user-guide/templates/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
+Volg [ toegankelijkheidsrichtlijnen ](accessibility-for-templates.md) en [ beste praktijken ](/help/user-guide/templates/best-practices-for-templates.md) zodat u meer van uw publiek kunt bereiken en een optimale ervaring verstrekken.
 
 ## Plaatsaanduidingen voor inhoud
 
 >[!TIP]
 >
->De placeholders van de inhoud zijn **niet** het zelfde als placeholder tekst in inhoud die later door een gebruiker moet worden gevuld. Zie meer over [&#x200B; gebruikend placeholder tekst in malplaatjes &#x200B;](/help/user-guide/templates/best-practices-for-templates.md#using-placeholder-text-in-templates).
+>De placeholders van de inhoud zijn **niet** het zelfde als placeholder tekst in inhoud die later door een gebruiker moet worden gevuld. Zie meer over [ gebruikend placeholder tekst in malplaatjes ](/help/user-guide/templates/best-practices-for-templates.md#using-placeholder-text-in-templates).
 
-GenStudio for Performance Marketing erkent bepaalde soorten inhoud of [&#x200B; elementen &#x200B;](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met a [&#x200B; erkende gebiedsnaam &#x200B;](#recognized-field-names) identificeert.
+GenStudio for Performance Marketing erkent bepaalde soorten inhoud of [ elementen ](use-templates.md#template-elements) binnen een malplaatje, maar slechts als u hen met a [ erkende gebiedsnaam ](#recognized-field-names) identificeert.
 
-In de kop of de hoofdtekst van een HTML-sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken om een tijdelijke aanduiding voor inhoud in te voegen op de plaats waar u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert deze placeholders die op de [&#x200B; worden gebaseerd erkende _gebied_ naam &#x200B;](#recognized-field-names). Elke veldnaam is gekoppeld aan specifieke regels en gedragingen die bepalen hoe inhoud wordt gegenereerd en in de sjabloon wordt ingevoegd.
+In de kop of de hoofdtekst van een HTML-sjabloon kunt u de syntaxis van [!DNL Handlebars] gebruiken om een tijdelijke aanduiding voor inhoud in te voegen op de plaats waar u GenStudio for Performance Marketing nodig hebt om de sjabloon te vullen met werkelijke inhoud. GenStudio for Performance Marketing erkent en interpreteert deze placeholders die op de [ worden gebaseerd erkende _gebied_ naam ](#recognized-field-names). Elke veldnaam is gekoppeld aan specifieke regels en gedragingen die bepalen hoe inhoud wordt gegenereerd en in de sjabloon wordt ingevoegd.
 
 U kunt `{{headline}}` bijvoorbeeld gebruiken met de syntaxis van [!DNL Handlebars] om aan te geven waar de kop van de e-mail moet worden geplaatst. GenStudio herkent dit veld, genereert een relevante kop op basis van uw richtlijnen en criteria en voegt de kop op deze locatie in:
 
@@ -49,10 +49,10 @@ In de volgende tabel staan de veldnamen die door GenStudio for Performance Marke
 | `{{sub_headline}}` | Subkop | E-mail <br> Banner en de advertentie van de Vertoning |
 | `{{introductory_text}}` | Inleidende tekst | LinkedIn en |
 | `{{body}}` | Platte kopie | E-mail <br> Meta en <br> Banner en de advertentie van de Vertoning |
-| `{{cta}}` | Call to action <br> zie [&#x200B; Vraag aan actie &#x200B;](#calls-to-action) | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
+| `{{cta}}` | Call to action <br> zie [ Vraag aan actie ](#calls-to-action) | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
 | `{{image}}` | Afbeelding—selecteren vanuit [!DNL Content] | E-mail <br> Meta en <br> Banner en de Beeld van de Vertoning <br> LinkedIn ad |
-| `{{on_image_text}}` | Op beeldtekst <br> zie [&#x200B; op beeldtekst &#x200B;](#on-image-text). | Meta en <br> LinkedIn |
-| `{{link}}` | Call to action op beeld <br> zie [&#x200B; Verbinding op beeld &#x200B;](#link-on-image). | email |
+| `{{on_image_text}}` | Op beeldtekst <br> zie [ op beeldtekst ](#on-image-text). | Meta en <br> LinkedIn |
+| `{{link}}` | Call to action op beeld <br> zie [ Verbinding op beeld ](#link-on-image). | email |
 
 <!-- | `{{brand_logo}}`        | Logo of selected brand<br>See [Brand logo field name](#brand-logo-field-name). | email<br>Meta ad <br>LinkedIn ad | -->
 
@@ -71,11 +71,11 @@ Er geldt een limiet van 20 velden wanneer u een sjabloon uploadt naar GenStudio 
 
 >[!TIP]
 >
->U kunt uw malplaatje verifiëren gebruikend de [&#x200B; malplaatjevoorproef &#x200B;](#template-preview) in GenStudio for Performance Marketing.
+>U kunt uw malplaatje verifiëren gebruikend de [ malplaatjevoorproef ](#template-preview) in GenStudio for Performance Marketing.
 
 ### Oproepen tot actie
 
-Een Call to action (CTA) bevat een woordgroep en een koppeling. De functies _[!UICONTROL Rephrase]_&#x200B;en&#x200B;_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
+Een Call to action (CTA) bevat een woordgroep en een koppeling. De functies _[!UICONTROL Rephrase]_en_[!UICONTROL Add link]_ werken alleen correct tijdens het genereren van varianten als u plaatsaanduidingen voor de koppeling en de woordgroep in de sjabloon opneemt.
 
 Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor CTA:
 
@@ -97,7 +97,7 @@ Gebruik de volgende richtlijnen voor het instellen van plaatsaanduidingen voor C
   <a class="button" href="{{pod1_link}}" >Register now</a>
   ```
 
-GenStudio for Performance Marketing kan variantvraag-aan-actie uitdrukkingen, ook verstrekken. Zie [&#x200B; herzien Call to action &#x200B;](/help/user-guide/create/manage-variants.md#revise-call-to-action).
+GenStudio for Performance Marketing kan variantvraag-aan-actie uitdrukkingen, ook verstrekken. Zie [ herzien Call to action ](/help/user-guide/create/manage-variants.md#revise-call-to-action).
 
 ### Koppeling op afbeelding
 
@@ -194,7 +194,7 @@ RTF-tekstbewerking is beschikbaar voor zelfstandige inhoud in een alinea:
 
 Als u een tijdelijke aanduiding voor inhoud gebruikt in een HTML-kenmerk (zoals `alt` , `href` of `src` ), wordt RTF-bewerking niet ondersteund voor dat veld.
 
-De rijke tekst geeft uit is **&#x200B;**&#x200B;niet beschikbaar voor `alt` inhoud uit:
+De rijke tekst geeft uit is **** niet beschikbaar voor `alt` inhoud uit:
 
 ```html
 <img src="image.jpg" alt="{{image_description}}">
@@ -222,32 +222,40 @@ Syntaxis: `groupname_fieldname`
 - _Correct_ (👍): `pod1_body`
 - _Onjuist_ (❌): `pod1body`
 
-Elke sectie kan slechts één van elk veldtype gebruiken. Vanwege deze regel kunnen de secties niet worden genest.
-
-De volgende velden behoren bijvoorbeeld tot de sectie `pod1` :
+Elke sectie kan slechts één van elk gebiedstype gebruiken. De volgende velden behoren bijvoorbeeld tot de sectie `pod1` :
 
 - `pod1_headline`
 - `pod1_body`
 - `pod1_image`
 - `pod1_cta`
 
-GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
+Vanwege deze regel kunnen de secties niet worden genest.
 
-Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [&#x200B; kanaal-specifieke richtlijnen &#x200B;](/help/user-guide/templates/best-practices-for-templates.md) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+Elk sjabloontype, zoals een e-mail- of Meta-advertentie, heeft kanaalspecifieke beperkingen voor het gebruik van secties. Zie [ kanaal-specifieke richtlijnen ](/help/user-guide/templates/best-practices-for-templates.md) in _Beste praktijken voor het gebruiken van malplaatjes_ onderwerp.
+
+Een e-mailsjabloon kan bijvoorbeeld maximaal drie secties bevatten. Daarom kunt u drie kopregels en hoofdtekstsecties gebruiken:
+
+- `pre_header`
+- `pod1_headline`, `pod1_body`
+- `pod2_headline`, `pod2_body`
+- `pod3_headline`, `pod3_body`
+- `cta`
+
+GenStudio for Performance Marketing begrijpt dat `pod1_headline` nauwer verwant is aan `pod1_body` dan aan `pod2_body` .
 
 >[!TIP]
 >
->Zie [&#x200B; Gestructureerde herinneringen &#x200B;](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in een multi-sectiee-mail produceert.
+>Zie [ Gestructureerde herinneringen ](/help/user-guide/effective-prompts.md#structured-prompts) leren hoe te om een herinnering te amberen die variërende inhoud voor elke sectie in een multi-sectiee-mail produceert.
 
 ## Sjabloonvoorbeeld
 
-Wanneer u [&#x200B; een malplaatje &#x200B;](use-templates.md#upload-a-template) uploadt, scant GenStudio for Performance Marketing het dossier van HTML voor erkende gebieden. Gebruik de voorproef om uw [&#x200B; malplaatjeelementen &#x200B;](use-templates.md#template-elements) te herzien en te bevestigen dat u hen behoorlijk met [&#x200B; erkende gebiedsnamen &#x200B;](#recognized-field-names) identificeerde.
+Wanneer u [ een malplaatje ](use-templates.md#upload-a-template) uploadt, scant GenStudio for Performance Marketing het dossier van HTML voor erkende gebieden. Gebruik de voorproef om uw [ malplaatjeelementen ](use-templates.md#template-elements) te herzien en te bevestigen dat u hen behoorlijk met [ erkende gebiedsnamen ](#recognized-field-names) identificeerde.
 
 Voorbeeld van een e-mailsjabloon:
 
-&lbrace;de gebieden van de Voorproef ontdekte ![&#x200B; Controle ontdekte gebieden &#x200B;](/help/assets/template-detected-fields.png ""){zoomable="yes"}
+{de gebieden van de Voorproef ontdekte ![ Controle ontdekte gebieden ](/help/assets/template-detected-fields.png ""){zoomable="yes"}
 
-Zie [&#x200B; de coderedacteur van het Malplaatje &#x200B;](/help/user-guide/templates/code-editor.md).
+Zie [ de coderedacteur van het Malplaatje ](/help/user-guide/templates/code-editor.md).
 
 ### Voorvertoning besturen
 
@@ -278,4 +286,4 @@ Externe bestanden worden alleen tijdelijk ingesloten om de voorvertoning van de 
 
 ### Inhoud vernieuwen
 
-Als de bron na het creëren van de aanvankelijke voorproef verandert, gebruik [&#x200B; verfrist &#x200B;](/help/user-guide/templates/use-templates.md#refresh-template) functie om de malplaatjevoorproef met de meest recente versie van de inhoud van de externe bronnen bij te werken.
+Als de bron na het creëren van de aanvankelijke voorproef verandert, gebruik [ verfrist ](/help/user-guide/templates/use-templates.md#refresh-template) functie om de malplaatjevoorproef met de meest recente versie van de inhoud van de externe bronnen bij te werken.
