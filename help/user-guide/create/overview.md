@@ -4,9 +4,9 @@ description: Snel krachtige, on-brand inhoud met generatieve AI in Adobe GenStud
 level: Beginner
 feature: Create Canvas, Create Prompt, Generative AI, Variant Generation, Content Generation
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: c8b9e0b1b78195a648774d383c94ed9974fa8bcd
+source-git-commit: 6c2a8ca1fd981bc4f6eb15f1487b304c0c8f67b4
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -15,91 +15,154 @@ ht-degree: 0%
 
 GenStudio for Performance Marketing [!DNL Create] maakt gebruik van de kracht van Adobe GenAI om marketers en gedistribueerde teams in staat te stellen hoogwaardige, on-brand ervaringen te creëren.
 
-![&#x200B; creeer huis &#x200B;](/help/assets/create-home.png){width="600" zoomable="yes"}
+![ creeer huis ](/help/assets/create-home.png){width="600" zoomable="yes"}
 
-Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8&rbrace; sectie van Recenten &lbrace;die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
+Het [!DNL Create] huis wordt georganiseerd in kanaalsecties - _Bezit media_, _Betaalde media_, en _Inhoud_ - en a _8} sectie van Recenten {die al uw recente concepten en gepubliceerde inhoud toont._ Met elke kanaalsectie kunt u inhoud maken voor die specifieke set kanalen. Bijvoorbeeld, ga naar de _Bezit media_ sectie beginnen creërend een e-mail of een banner.
 
 Met [!DNL Create] kunt u inhoud voor de volgende kanalen genereren:
 
-* [&#x200B; E-mail &#x200B;](email-experiences.md)
-* [&#x200B; de advertenties van Meta &#x200B;](meta-experiences.md)
-* [&#x200B; LinkedIn advertenties &#x200B;](linkedin-experiences.md)
-* [&#x200B; de advertenties van de Vertoning &#x200B;](display-ad-experiences.md)
-* [&#x200B; Banners &#x200B;](banner-experiences.md)
-* [&#x200B; Beelden &#x200B;](generate-assets.md)
+* [ E-mail ](email-experiences.md)
+* [ de advertenties van Meta ](meta-experiences.md)
+* [ LinkedIn advertenties ](linkedin-experiences.md)
+* [ de advertenties van de Vertoning ](display-ad-experiences.md)
+* [ Banners ](banner-experiences.md)
+* [ Beelden ](generate-assets.md)
 
-Samen met de macht van [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md), [&#x200B; Inhoud &#x200B;](/help/user-guide/content/overview.md), [&#x200B; Campagnes &#x200B;](/help/user-guide/campaigns/overview.md), [&#x200B; Recensies en Goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md), [&#x200B; Activering &#x200B;](/help/user-guide/activation/overview.md), en [&#x200B; Inzichten &#x200B;](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
+Samen met de macht van [ richtlijnen ](/help/user-guide/guidelines/overview.md), [ Inhoud ](/help/user-guide/content/overview.md), [ Campagnes ](/help/user-guide/campaigns/overview.md), [ Recensies en Goedkeuringen ](/help/user-guide/approvals/overview.md), [ Activering ](/help/user-guide/activation/overview.md), en [ Inzichten ](/help/user-guide/insights/overview.md), [!DNL Create] vergemakkelijkt de verwezenlijking van oneigenlijke merkgebonden marketing inhoud.
 
-Editors en systeembeheerders hebben volledige toegang tot [!DNL Create] . Zie [&#x200B; de rollen en de toestemmingen van de Gebruiker &#x200B;](/help/user-guide/user-roles.md) voor gedetailleerde informatie van de roltoegang.
+Editors en systeembeheerders hebben volledige toegang tot [!DNL Create] . Zie [ de rollen en de toestemmingen van de Gebruiker ](/help/user-guide/user-roles.md) voor gedetailleerde informatie van de roltoegang.
 
 ## [!DNL Create] gebruik gevallen
 
 <table style="table-layout:fixed">
+
 <tr style="border: 0;">
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-email-experience.md">
+
       <img alt="Nieuwe inhoud maken" src="../../assets/icons/icon-create.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-email-experience.md">
+
          <strong> creeer een e-mailervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-meta-ad.md">
+
       <img alt="Een Meta-advertentie-ervaring maken" src="../../assets/icons/icon-addContent.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-meta-ad.md">
+
          <strong> creeer een Meta en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-linkedin.md">
+
       <img alt="Een LinkedIn-advertentie-ervaring maken" src="../../assets/icons/icon-dataAnalytics.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-linkedin.md">
+
          <strong> creeer een LinkedIn advertentie ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-display-ad.md">
+
       <img alt="Een weergave en ervaring maken" src="../../assets/icons/icon-addTemplate.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-display-ad.md">
+
          <strong> creeer een vertoning en ervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/create-banner-experience.md">
+
       <img alt="Een bannerervaring maken" src="../../assets/icons/icon-search.png" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/create-banner-experience.md">
+
          <strong> creeer een bannerervaring </strong>
+
          </a>
+
       </div>
+
    </td>
+
    <td align="center" valign="top" width="100">
+
       <a href="/help/user-guide/create/generate-assets.md">
+
       <img alt="Afbeeldingen maken" src="../../assets/icons/icon-asset.svg" width="35">
+
       </a>
+
       <div>
+
          <a href="/help/user-guide/create/generate-assets.md">
+
          <strong> produceer beelden </strong>
+
          </a>
+
       </div>
+
    </td>
+
 </tr>
+
 </table>
 
-GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
+GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing inhoud** tot stand te brengen. In dit gebruiksgeval, gebruik bepaalde [ richtlijnen ](/help/user-guide/guidelines/overview.md) en inspiratiebeelden om de verwezenlijking van merk-gerichte inhoud te informeren.
 
 ## [!DNL Create] mogelijkheden
 
@@ -109,29 +172,29 @@ GenStudio for Performance Marketing laat marktleiders toe om **nieuwe marketing 
 
 Nadat u selecteert welk kanaal u in _wilt produceren wat u vandaag wilt creëren?_ , hebt u toegang tot door een merk goedgekeurde sjablonen voor gebruik bij het genereren van inhoud. Gebruik sjablonen om het maken van inhoud te versnellen en uitgelijnd te blijven met een gedefinieerde merkidentiteit.
 
-De malplaatjes worden [&#x200B; geupload en opgeslagen in  [!DNL Content]](/help/user-guide/content/overview.md) en zijn toegankelijk in [!DNL Create].
+De malplaatjes worden [ geupload en opgeslagen in  [!DNL Content]](/help/user-guide/content/overview.md) en zijn toegankelijk in [!DNL Create].
 
 ### Parameters
 
-In de herinnering lade, kunt u _Parameters_ zoals [!DNL Brands] toevoegen, [!DNL Products], en [!DNL Personas] en [!DNL Content] om de geproduceerde ervaring te vormen.
+In de herinnering lade, kunt u _Parameters_ zoals [!DNL Brands] toevoegen, [!DNL Products], en [!DNL Personas] (richtlijnen) en [!DNL Content] (activa) om de geproduceerde ervaring te vormen.
 
-Deze toegevoegde parameters injecteren [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en [!DNL Content] verstrekt activa voor het generatieproces, die een aangepaste output verzekeren die met de uitvoerige identiteit van een merk wordt gericht. Door richtlijnen aan uw GenStudio for Performance Marketing toe te voegen en deze tijdens het genereren van inhoud te gebruiken, wordt het creëren van geschikte on-brand-inhoud aanzienlijk verbeterd.
+Deze toegevoegde parameters injecteren [ richtlijnen ](/help/user-guide/guidelines/overview.md) en activa in het generatieproces, die ervoor zorgen dat de inhoud wordt aangepast om met de uitvoerige identiteit van een merk te richten. U wordt aangeraden richtlijnen toe te voegen aan uw GenStudio for Performance Marketing en deze te gebruiken tijdens het genereren van inhoud, omdat deze richtlijnen het maken van geschikte on-brand-inhoud aanzienlijk verbeteren.
 
-Inhoud - geüploade of toegevoegde beeldactiva - in _Parameters_ wordt gebruikt in geproduceerde varianten en informeert het exemplaar (tekst) voor varianten wordt geproduceerd die. U kunt elementen uploaden of elementen selecteren die al aanwezig zijn in [!DNL Content] of in gekoppelde AEM Content Hub-opslagruimten.
+Inhoud-geüpload of toegevoegd beeld activa-in _Parameters_ worden gebruikt in geproduceerde varianten en informeren de exemplaarinhoud (tekst) die voor varianten wordt geproduceerd. U kunt elementen uploaden of elementen selecteren die al aanwezig zijn in [!DNL Content] of in gekoppelde AEM Content Hub-opslagruimten.
 
 ### Vragen
 
-[&#x200B; Creërend efficiënte herinneringen &#x200B;](/help/user-guide/effective-prompts.md) is een belangrijk deel van het generatieproces in [!DNL Create].
+[ Creërend efficiënte herinneringen ](/help/user-guide/effective-prompts.md) is een belangrijk deel van het generatieproces in [!DNL Create].
 
-Om AI-Gegenereerde inhoud tot stand te brengen, ga a [&#x200B; beschrijvende herinnering &#x200B;](/help/user-guide/effective-prompts.md) in die de context of de ervaring beschrijft u, samen met [&#x200B; richtlijnen &#x200B;](/help/user-guide/guidelines/overview.md) en [_Parameters_](#parameters), in de snelle lade wilt produceren en **[!UICONTROL Generate]** wilt klikken.
+Om AI-Gegenereerde inhoud tot stand te brengen, ga a [ beschrijvende herinnering ](/help/user-guide/effective-prompts.md) in die de context of de ervaring beschrijft u, samen met [ richtlijnen ](/help/user-guide/guidelines/overview.md) en [_Parameters_](#parameters), in de snelle lade wilt produceren en **[!UICONTROL Generate]** wilt klikken.
 
 ### Inhoudscontroles
 
-GenStudio for Performance Marketing voert [&#x200B; inhoudscontroles &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-panel) tegen [&#x200B; merkrichtlijnen &#x200B;](/help/user-guide/guidelines/brands.md), platformrichtlijnen, en [&#x200B; toegankelijkheidsnormen &#x200B;](/help/user-guide/guidelines/overview.md#compliance) op elke variant uit om ervoor te zorgen het het grootste in [!DNL Brand], platform, en toegankelijkheidsnormen voldoet. [&#x200B; de controle van de Inhoud &#x200B;](/help/user-guide/guidelines/brand-validation.md#content-check-summary) informatie is beschikbaar voor om het even welke geproduceerde inhoud, wijzend op zijn naleving van uitvoerige inhoudscontroles en samenhang tussen tekst en beelden. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
+GenStudio for Performance Marketing voert [ inhoudscontroles ](/help/user-guide/guidelines/brand-validation.md#content-check-panel) tegen [ merkrichtlijnen ](/help/user-guide/guidelines/brands.md), platformrichtlijnen, en [ toegankelijkheidsnormen ](/help/user-guide/guidelines/overview.md#compliance) op elke variant uit om ervoor te zorgen het het grootste in [!DNL Brand], platform, en toegankelijkheidsnormen voldoet. [ de controle van de Inhoud ](/help/user-guide/guidelines/brand-validation.md#content-check-summary) informatie is beschikbaar voor om het even welke geproduceerde inhoud, wijzend op zijn naleving van uitvoerige inhoudscontroles en samenhang tussen tekst en beelden. Met deze informatie kunt u uw gegenereerde ervaring herzien of verbeteren en beter op uw merk afstemmen.
 
 ### Revisies en goedkeuringen
 
-De wettelijke overzichten, de commentaren van het spooroverzicht, en verkrijgen goedkeuringen tijdens het creatieproces met ingebouwde [&#x200B; Herzieningen en goedkeuringen &#x200B;](/help/user-guide/approvals/overview.md) functionaliteit.
+De wettelijke overzichten, de commentaren van het spooroverzicht, en verkrijgen goedkeuringen tijdens het creatieproces met ingebouwde [ Herzieningen en goedkeuringen ](/help/user-guide/approvals/overview.md) functionaliteit.
 
 Nadat u klaar bent met het genereren van variaties in de inhoud, stuurt u uw concepten ter goedkeuring naar de belanghebbenden zodat deze kunnen worden opgeslagen in [!DNL Content] en geïmplementeerd bij marketingactiviteiten.
 
@@ -145,6 +208,6 @@ Klik het pictogram van de galerijmening (net) om _Punten van Recenten_ in of een
 
 ### Varianten beheren
 
-GenStudio for Performance Marketing staat [&#x200B; uitvoerige controle over secties van individuele varianten &#x200B;](/help/user-guide/create/manage-variants.md) toe.
+GenStudio for Performance Marketing staat [ uitvoerige controle over secties van individuele varianten ](/help/user-guide/create/manage-variants.md) toe.
 
 U kunt secties van één enkele variant herzien, de inhoud van individuele secties opnieuw produceren en gesuggereerde uitgeeft gebruiken om het bericht, de grootte activa, en meer, allen binnen het Canvas te verbeteren.
