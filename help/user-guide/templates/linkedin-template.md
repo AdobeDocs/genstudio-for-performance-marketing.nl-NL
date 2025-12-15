@@ -5,9 +5,9 @@ level: Intermediate
 role: Developer, User
 feature: Media Templates
 exl-id: 85432185-8311-411b-b57b-f482c3d45854
-source-git-commit: 3251d81a6bfb0c1f7d2bf3c5bd319ad4e2237699
+source-git-commit: ff694925dea4741d13ae71a68e23a5e604134521
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -37,17 +37,19 @@ GenStudio for Performance Marketing genereert automatisch de volgende velden. U 
 - `introductory_text`
 - `cta` (Call to action)
 
-Zie [&#x200B; placeholders van de Inhoud &#x200B;](/help/user-guide/templates/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
+Zie [ placeholders van de Inhoud ](/help/user-guide/templates/customize-template.md#content-placeholders) om meer over het gebruiken van gebiedsnamen in malplaatjes te begrijpen.
 
 ## Ondersteunde hoogte-breedteverhoudingen
 
-| Hoogte-breedteverhouding | Platform | Minimale grootte (px) | Max. grootte (px) | Notities |
-|-------------------|-----------------|---------------|----------------|-------------------------------------------------------------------------------------|
-| Vierkant 1 :1 | Desktop, mobiel | 360 x 360 | 4320 x 4320 | Het meest veelzijdig. Ideaal voor een consistente weergave op verschillende apparaten en plaatsen. |
-| Horizontaal 1.91 :1 | Desktop | 640 x 360 | 7680 x 4320 | Standaardindeling liggend. Meestal gebruikt voor gesponsorde inhoud en nieuwsberichten. |
-| Verticaal 1:1.91 | Mobiel | 360 x 640 | 2430 x 4320 | Groot verticaal formaat. Geoptimaliseerd voor mobiele weergave, met meer schermaanwezigheid. |
-| Verticaal 2 :3 | Mobiel | 360 x 640 | 2430 x 4320 | Iets minder hoog dan 1:1.91. Goed voor campagnes op mobiele basis. |
-| Verticaal 4 :5 | Mobiel | 360 x 640 | 2430 x 4320 | Aanbevolen voor mobiele apparaten. Hiermee worden de zichtbaarheid en de inhoud in evenwicht gebracht, wat vaak een hogere impact heeft. |
+Alle LinkedIn-sjabloonbreedten zijn gecodeerd op 1200 pixels.
+
+| Hoogte-breedteverhouding | Platform | Afmetingen (px) | Notities |
+|-------------------|-----------------|------------|-------------------------------------------------------------------------------------|
+| Vierkant 1 :1 | Desktop, mobiel | 1200 x 1200 | Het meest veelzijdig. Ideaal voor een consistente weergave op verschillende apparaten en plaatsen. |
+| Horizontaal 1.91 :1 | Desktop | 1200 x 628 | Standaardindeling liggend. Meestal gebruikt voor gesponsorde inhoud en nieuwsberichten. |
+| Verticaal 1:1.91 | Mobiel | 1200 x 2292 | Groot verticaal formaat. Geoptimaliseerd voor mobiele weergave, met meer schermaanwezigheid. |
+| Verticaal 2 :3 | Mobiel | 1200 x 1800 | Iets minder hoog dan 1:1.91. Goed voor campagnes op mobiele basis. |
+| Verticaal 4 :5 | Mobiel | 1200 x 1500 | Aanbevolen voor mobiele apparaten. Hiermee worden de zichtbaarheid en de inhoud in evenwicht gebracht, wat vaak een hogere impact heeft. |
 
 <!-- Potentially add an example
 
