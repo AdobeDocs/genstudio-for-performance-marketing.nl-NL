@@ -27,7 +27,7 @@ Functies van deze plug-in:
 * Online-brand-inhoud-vertalingen maken
 * Gegenereerde [!DNL Experiences] exporteren naar GenStudio for Performance Marketing
 
->[!VIDEO](https://video.tv.adobe.com/v/3478808?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478826?captions=dut&learn=on)
 
 ## De insteekmodule installeren
 
