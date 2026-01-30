@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Overzicht van campagnes
 
-In de weergave [!DNL Insights] _[!UICONTROL Campaigns]_wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
+In de weergave [!DNL Insights] _[!UICONTROL Campaigns]_&#x200B;wordt een lijst met campagnes voor het aangesloten kanaal en account weergegeven.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Campaigns]_wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Campaigns]_&#x200B;wordt geordend met behulp van de op kanalen gebaseerde advertentiecampagne. Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
-![ filter en lijst van Campagnes ](/help/assets/insights-campaigns-filter.png){zoomable="yes"}
+![&#x200B; filter en lijst van Campagnes &#x200B;](/help/assets/insights-campaigns-filter.png){zoomable="yes"}
 
-Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje ](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
+Wanneer u een campagne selecteert, opent [[!UICONTROL Ads] lusje &#x200B;](ads.md) aan een lijst van ad namen verbonden aan die campagne, die u toestaat om te identificeren welke advertenties aan zijn algemeen succes hebben bijgedragen.
 
 {{filter-table}}
 
