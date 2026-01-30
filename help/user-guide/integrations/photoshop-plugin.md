@@ -60,7 +60,7 @@ Een GenStudio-ready sjabloon maken:
 1. Open een document in Photoshop.
 1. Een tekstlaag identificeren voor gegenereerde inhoud.
 1. Wijzig de naam van de laag met de conventie voor veldnamen: `{<name_of_generated_field>}` . Bijvoorbeeld `{body}` , `{headline}` , `{cta}` .
-1. Verander lagen voor alle [ gebieden die door het kanaal worden vereist voor het malplaatjetype ](../../user-guide/templates/customize-template.md#recognized-field-names) worden bedoeld.
+1. Verander lagen voor alle [&#x200B; gebieden die door het kanaal worden vereist voor het malplaatjetype &#x200B;](../../user-guide/templates/customize-template.md#recognized-field-names) worden bedoeld.
 
 | Kanaal | Vereiste velden voor genereren | Optionele velden voor genereren |
 | --- | --- | --- |
@@ -109,9 +109,9 @@ Het document kan nu worden gebruikt met de plug-in.
 1. Klik op **[!UICONTROL Login]** . Als ertoe aangezet voor toestemming om een URL te openen, naar keuze controle **mijn keus** onthoudt, dan klik **[!UICONTROL Allow]**.
 1. Gebruik de webbrowser om u aan te melden met een profiel dat toegang heeft tot GenStudio for Performance Marketing.
 1. Selecteer het kanaal (Meta, LinkedIn of Weergave) dat van toepassing is op de sjabloon die u hebt geopend.
-   ![ uitgezochte Kanaal ](./ps-select-channel.png){width="300" zoomable="yes"}
+   ![&#x200B; uitgezochte Kanaal &#x200B;](./ps-select-channel.png){width="300" zoomable="yes"}
 1. Selecteer de context [!DNL Brand] , [!DNL Persona] en [!DNL Product] voor het genereren van inhoud.
-   ![ Brand, Persona, en Uitgezocht Product ](./ps-select-box.png){width="300" zoomable="yes"}
+   ![&#x200B; Brand, Persona, en Uitgezocht Product &#x200B;](./ps-select-box.png){width="300" zoomable="yes"}
 1. Selecteer het aantal variaties dat u wilt maken.
 1. Gebruik de knop onder **[!UICONTROL Select Content]** om door afbeeldingen in uw elementen te bladeren en deze te kiezen. De 40 laatst toegevoegde elementen worden als eerste weergegeven en u kunt zoeken naar andere elementen. De grootte van geselecteerde afbeeldingen wordt automatisch aangepast aan uw sjablonen.
 1. Geef een tekstprompt op voor de inhoud in het vak **[!UICONTROL Text Prompt]** .
@@ -133,7 +133,7 @@ Nieuwe documenten worden toegevoegd aan de Photoshop-werkruimte en er wordt gege
 
 Gebruikers kunnen exporteren nadat inhoud is gegenereerd of vertaald. Geëxporteerde ervaringen worden weergegeven in de inhoudssectie van GenStudio for Performance Marketing.
 
-![ Geëxporteerde die activa in de sectie van de Inhoud worden getoond ](./content-assets.png){width="90%"}
+![&#x200B; Geëxporteerde die activa in de sectie van de Inhoud worden getoond &#x200B;](./content-assets.png){width="90%"}
 
 ## Problemen oplossen
 
