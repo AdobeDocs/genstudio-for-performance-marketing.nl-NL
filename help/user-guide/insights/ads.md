@@ -4,24 +4,24 @@ description: Bekijk een overzicht van de betrokkenheid van klanten, het budget e
 level: Intermediate
 feature: Ad Performance, Text Attributes, Reporting and Insights
 exl-id: e3827b1a-53d0-465c-8125-15b0e298ef3a
-source-git-commit: c0f45fb0ffc61d20611693498f1b12d3946ca6ca
+source-git-commit: 8bdfe52173b93e55f627f37cb1d6c5b16827d899
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1423'
 ht-degree: 0%
 
 ---
 
 # Overzicht van advertenties en advertentieplaatsen
 
-In de weergave [!DNL Insights] _[!UICONTROL Ads]_&#x200B;ziet u een lijst met advertenties voor het aangesloten kanaal en account. Een_ advertentie _is een promotieactiva die visuele en interactieve inhoud voorgenomen voor distributie aan een specifiek publiek als deel van een marketing campagne omvat.
+In de weergave [!DNL Insights] _[!UICONTROL Ads]_ziet u een lijst met advertenties voor het aangesloten kanaal en account. Een_ advertentie _is een promotieactiva die visuele en interactieve inhoud voorgenomen voor distributie aan een specifiek publiek als deel van een marketing campagne omvat.
 
 {{connect-insights}}
 
-De tabel _[!UICONTROL Ads]_&#x200B;wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
+De tabel _[!UICONTROL Ads]_wordt ingedeeld met [!UICONTROL Ad names] . Klik op het instellingenpictogram (cog) boven de rechterkant van de tabel om de weer te geven kolommen in en uit te schakelen.
 
-![&#x200B; filter en lijst van Adverten &#x200B;](/help/assets/insights-ads-filter.png){zoomable="yes"}
+![ filter en lijst van Adverten ](/help/assets/insights-ads-filter.png){zoomable="yes"}
 
-In de galerieweergave van _[!UICONTROL Ad]_&#x200B;ziet u een collage van voorvertoningen en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**&#x200B;te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
+In de galerieweergave van _[!UICONTROL Ad]_ziet u een collage van voorvertoningen en een metrische waarde, zoals doorklikfrequentie. Klik op het pictogram Instellingen (cog) boven de rechterkant van de galerie om **[!UICONTROL Card settings]**te openen en een van de drie meeteenheden die u kunt bekijken in- en uit te schakelen:
 
 - CPA (Kosten per actie)
 - CTR (Klikdoorhalingsfrequentie)
@@ -32,9 +32,9 @@ In de galerieweergave van _[!UICONTROL Ad]_&#x200B;ziet u een collage van voorve
 
 ## Details advertentie
 
-Selecteer een advertentie en bekijk de prestatiesmetriek, tekstattributen, en plaatsingen verbonden aan elke advertentie. _[!UICONTROL Ad details page]_&#x200B;bevat meetgegevens voor de advertentie `click-through rate` , `cost per action` en `spend` - hoeveel van het budget is besteed aan de advertentie. Omdat advertenties meerdere plaatsingen kunnen hebben, zoals een feed of een banner, ziet u een uitsplitsing van dezelfde meetwaarden voor elke advertentie-plaatsing. Met de pijl-links en pijl-rechts onder **[!UICONTROL Performance by ad placement]**&#x200B;doorloopt u de plaatsingswaarden.
+Selecteer een advertentie en bekijk de prestatiesmetriek, tekstattributen, en plaatsingen verbonden aan elke advertentie. _[!UICONTROL Ad details page]_bevat meetgegevens voor de advertentie `click-through rate` , `cost per action` en `spend` - hoeveel van het budget is besteed aan de advertentie. Omdat advertenties meerdere plaatsingen kunnen hebben, zoals een feed of een banner, ziet u een uitsplitsing van dezelfde meetwaarden voor elke advertentie-plaatsing. Met de pijl-links en pijl-rechts onder **[!UICONTROL Performance by ad placement]**doorloopt u de plaatsingswaarden.
 
-![&#x200B; voeg details met metriek en advertentiepunten toe &#x200B;](/help/assets/insights-ad-details.png){zoomable="yes"}
+![ voeg details met metriek en advertentiepunten toe ](/help/assets/insights-ad-details.png){zoomable="yes"}
 
 ### Advertentiekenmerken
 
@@ -48,23 +48,27 @@ In advertentievormen wordt verwezen naar de verschillende creatieve elementen en
 
 [!DNL Insights] in GenStudio for Performance Marketing ondersteunt momenteel de volgende beschikbare advertentievormen.
 
-| Ondersteund | Niet ondersteund |
-|----------------------------------|-----------------------------------|
-| Dynamische Adds <br> Verbinding Adds <br> Eenvoudige Adds van het Beeld <br> Eenvoudige VideoAds | Vorm Ads <br> Voordeel+ het Shopping Ads <br> Voordeel+ Catalogusadvertenties <br> Carrousel Adds <br> de Advertentie van de Boodschapper Ads <br> Adds van de Inzameling <br> Ads van de Vraag <br> Bezit van de Post van de Pagina Ads van het Partnerschap <br> Flexibele Adds<br><br> |
+| Kanaal | Ondersteund | Niet ondersteund |
+|---|---|---|
+| Meta | <ul><li>Dynamische advertenties</li><li>Koppelingsadvertenties</li><li>Eenvoudige afbeeldingsadvertenties</li><li>Eenvoudige video-opnamen</li><li>Advertenties kopen</li></ul> | <ul><li>Voordeel+ catalogusadvertenties</li><li>Carousel Ads</li><li>Messenger-advertenties</li><li>Advertenties</li><li>Verzamelingshulpmiddelen</li><li>Calladvertenties</li><li>Post-advertenties op de pagina</li><li>Partnerschaps-hulpmiddelen</li><li>Flexibele advertenties</li></ul> |
+| LinkedIn | <ul><li>Extra&#39;s voor één afbeelding</li><li>Enkele video-advertenties</li><li>Artikelhulpmiddelen</li></ul> | <ul><li>Carousel Ads</li><li>Documentadvertenties</li><li>Gebeurtenisadvertenties</li><li>Advertenties voor leads</li><li>Generaal-leider Ads</li><li>Vollere advertenties</li><li>Gespreksadvertenties</li><li>Spotlight-advertenties</li><li>Job Ads</li><li>Content Ads</li><li>Berichtenadvertenties</li></ul> |
+| TikTok | <ul><li>Extra&#39;s voor één afbeelding</li><li>Enkele video-advertenties</li></ul> | <ul><li>Advertenties in de voeding (video, park, carrousel)</li><li>Premium Awareness Ads (TopView, Brand Overnames)</li><li>Interactieve advertenties (Hashtag Challenges, merkeffecten)</li><li>Commerce-advertenties (Winkelen, Catalogus, LIVE)</li><li>Advertenties voor leads en berichten</li><li>Moeilijk om te categoriseren aangezien wij niet de activa hebben om het advertentietype te bepalen</li></ul> |
+| DV360 | <ul><li>DISPLAY_AND_VIDEO_ADS</li><li>YOUTUBE_AND_PARTNERS_AD</li></ul> | Kan moeilijk worden gecategoriseerd. We hebben niet de middelen om het advertentietype te bepalen. |
+| Innovatief | NVT | Moeilijk om te categoriseren aangezien wij niet de activa hebben om het advertentietype te bepalen. |
 
 ### Plaatsen toevoegen
 
 Plaatsen voor advertenties verwijzen naar de specifieke locaties of platforms waar uw advertenties in een campagne worden weergegeven. Deze plaatsingen bepalen hoe en waar uw publiek met uw inhoud communiceert. Door plaatsing wordt het bereik van het publiek vergroot, waardoor de zichtbaarheid, betrokkenheid en algehele doeltreffendheid van de campagne worden gemaximaliseerd.
 
-Wanneer u een campagne met de advertenties van Meta creeert, kunt u hebben geselecteerd waar te om uw advertenties in werking te stellen die op de campagne [&#x200B; worden gebaseerd doelstelling &#x200B;](channels.md#objectives).
+Wanneer u een campagne creeert, kunt u hebben geselecteerd waar te om uw advertenties in werking te stellen die op de campagne [ worden gebaseerd doelstelling ](campaigns.md#objectives).
 
-Hieronder volgt een lijst met ondersteunde advertentieplaatsen:
+Hieronder volgt een lijst met door Meta ondersteunde advertentieplaatsen:
 
 | Poortnetwerk | Facebook/Meta \* | Instagram | Messenger |
 |--------------------|--------------------|-------------------------|---------------------|
-| Betaalde video | Het voer <br> Video van het voer van het voer <br> Verhalen <br> Rechterkolom van de Marketplace <br> Reels <br> Reels bedekking <br> In-stream video <br> Van het Onderzoek <br> Van Bedrijfs de terugtrek van het Debiet van het Profiel &lbrace;<br> voer van het Profiel<br> | De verhalen van de verhalen <br> Geëxporteerd <br> ontdekken <br> Reels <br> onderzoeken het voedsel van het het netwerkhuis <br> van het Profiel <br> Onderzoek <br> | Artikelen <br> Inbox |
+| Betaalde video | Het voer <br> Video van het voer van het voer <br> Verhalen <br> Rechterkolom van de Marketplace <br> Reels <br> Reels bedekking <br> In-stream video <br> Van het Onderzoek <br> Van Bedrijfs de terugtrek van het Debiet van het Profiel {<br> voer van het Profiel<br> | De verhalen van de verhalen <br> Geëxporteerd <br> ontdekken <br> Reels <br> onderzoeken het voedsel van het het netwerkhuis <br> van het Profiel <br> Onderzoek <br> | Artikelen <br> Inbox |
 
-\* zie [&#x200B; Ongeveer ad plaatsen over de technologieën van Meta &#x200B;](https://www.facebook.com/business/help/407108559393196?id=369787570424415) in het _BedrijfsHulp Centrum van Meta_.
+\* zie [ Ongeveer ad plaatsen over de technologieën van Meta ](https://www.facebook.com/business/help/407108559393196?id=369787570424415) in het _BedrijfsHulp Centrum van Meta_.
 
 ## Prestaties verhogen
 
@@ -76,7 +80,7 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | ---------------------------- | ----------------------------- | -------------------------------- |
 | **[!UICONTROL Ad name]** | Een lijst met advertenties voor de account van het aangesloten kanaal. Filter advertenties door een campagne te selecteren. | Sorteer de advertentielijst door op een van de belangrijkste meetgegevens te klikken. |
 | **[!UICONTROL Campaign]** | Een campagne is een reeks advertenties die zijn ontworpen om een specifiek doel te bereiken. | Wanneer u de Advertentietabel door campagne filtreert, kunnen de summiere metriek van alle advertenties voor de campagne verschillend zijn dan de samenvattingsrij van de campagne in de [!UICONTROL Channels] mening. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio enigszins verschillende samenvattingsberekeningen gebruiken. |
-| **[!UICONTROL Placements]** | Een telling van ad [&#x200B; plaatsen &#x200B;](#ad-placements), plaatsen waar een advertentie in de campagne verscheen. | Plaatsen vergroten het bereik van het publiek.<p>Adds die nul plaatsen en nul media tonen kunnen op een [&#x200B; niet gestaafd advertentietype &#x200B;](#unsupported-placements) wijzen.</p> |
+| **[!UICONTROL Placements]** | Een telling van ad [ plaatsen ](#ad-placements), plaatsen waar een advertentie in de campagne verscheen. | Plaatsen vergroten het bereik van het publiek.<p>Adds die nul plaatsen en nul media tonen kunnen op een [ niet gestaafd advertentietype ](#unsupported-placements) wijzen.</p> |
 | **[!UICONTROL Media]** | Het aantal activa dat in de advertentie en advertentieplaatsen wordt gebruikt | Het aantal in de tabel Advertenties kan verschillen van het aantal in de weergave Advertentiedetails. Deze discrepantie kan optreden als de kanaalbron, zoals Meta, en GenStudio enigszins verschillende samenvattingsberekeningen gebruiken. |
 | **[!UICONTROL Impressions]** | Een telling van elke keer dat de advertentie of advertentie in het kanaal wordt geladen, ongeacht interactie of weergave. | Een hoog aantal impressies kan wijzen op brede zichtbaarheid, maar voor echte prestaties, insight, moet u dit in verhouding tot andere betrokkenheidsmetriek overwegen. |
 | **[!UICONTROL Clicks]** | Het aantal keren dat gebruikers in een advertentie communiceren met een aanklikbaar element, zoals een koppeling of een call-to-action-knop. | Een hoge kliktelling wijst op sterke interesse en betrokkenheid met de inhoud, die efficiënt kan zijn en het juiste publiek bereikt. |
@@ -85,11 +89,11 @@ In de volgende tabel vindt u definities en inzichten voor de belangrijkste maats
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | De gemiddelde kosten die worden uitgegeven om een specifieke klantenactie, zoals een aankoop of een abonnement te bereiken.<br>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties | Gebruik deze optie om de uitgaven voor advertenties te controleren die waardevolle acties van klanten tot gevolg hebben. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | De gemiddelde kosten verbonden aan elke klik in een advertentie plaatsing.<br>**Berekening**: totaal bedrag `spent` gedeeld door `clicks` | Lagere gemiddelde kosten kunnen duiden op kostenefficiënte en bestedingen, vooral in vergelijking met een stijging van de omzettingen. |
 | **[!UICONTROL Spend]** | Het bedrag dat gedurende een bepaalde periode uit de campagnebegroting wordt besteed om deze advertentie te plaatsen. | Een hoog bestedingsbedrag in een korte periode kan wijzen op snel gebruik, wat tot een vroegtijdige uitputting van de middelen zou kunnen leiden. Houd het uitgegeven bedrag tegen zeer belangrijke prestatiesmetriek bij helpen het algemene rendement op investering controleren. |
-| **Attributen** | Lijst met inherente functies in deze advertentie. | Kenmerken helpen u creatieve elementen te identificeren die het meest op uw publiek lijken. Zie [&#x200B; Categorieën &#x200B;](/help/user-guide/insights/attributes.md#categories). |
+| **Attributen** | Lijst met inherente functies in deze advertentie. | Kenmerken helpen u creatieve elementen te identificeren die het meest op uw publiek lijken. Zie [ Categorieën ](/help/user-guide/insights/attributes.md#categories). |
 
 ## Plaatsingsprestaties
 
-In de weergave _[!UICONTROL Ad details page]_&#x200B;weerspiegelen de bovenste drie cijfers de algemene prestaties van de geselecteerde advertentie. Nochtans, toont de_ Prestaties door plaats _sectie de gedetailleerde metriek voor elke advertentisplaatsing. Gebruik de rechter- en linkerpijlen om door de verschillende advertentiepunten te navigeren.
+In de weergave _[!UICONTROL Ad details page]_weerspiegelen de bovenste drie cijfers de algemene prestaties van de geselecteerde advertentie. Nochtans, toont de_ Prestaties door plaats _sectie de gedetailleerde metriek voor elke advertentisplaatsing. Gebruik de rechter- en linkerpijlen om door de verschillende advertentiepunten te navigeren.
 
 De volgende tabel bevat definities voor maatstaven voor plaatsingsprestaties:
 
@@ -99,4 +103,4 @@ De volgende tabel bevat definities voor maatstaven voor plaatsingsprestaties:
 | **[!UICONTROL CPA]**<br>_Kosten per Actie _ | De gemiddelde kosten die aan één enkele advertentie worden besteed om een gewenste klantenactie, zoals een aankoop of een abonnement te bereiken.<p>**Berekening**: totaal bedrag `spent` gedeeld door het aantal voltooide klantenacties<p>Deze maatstaf helpt de kosteneffectiviteit van de advertentie evalueren bij het aansturen van waardevolle acties. | Een lagere CPA suggereert dat de advertentie efficiënt in het omzetten van publieksinteractie in gewenste acties tegen lagere kosten is. |
 | **[!UICONTROL CPC]**<br>_Kosten per klik _ | De gemiddelde kosten verbonden aan elke klik in één enkele advertentie plaatsing.<p>**Berekening**: totaal bedrag `spent` gedeeld door `clicks`<p>Deze metrische hulp beoordeelt de kosten-efficiency van de advertentie plaatsing in het produceren van kliks. | Een lagere CPC wijst erop dat de advertentie klikt tegen lagere kosten produceert, die voor het maximaliseren van het rendement van investering kunnen nuttig zijn. |
 | **[!UICONTROL Spend]** | Het bedrag dat wordt uitgegeven aan één advertentie-plaatsing, die een fractie van het totale bedrag vertegenwoordigt dat aan de volledige advertentie wordt uitgegeven. Deze maatstaf helpt de begrotingstoewijzing en de bestedingsefficiency voor elke advertentie-plaatsing te volgen. | Toezicht op de uitgaven kan helpen ervoor te zorgen dat de middelen effectief worden gebruikt over verschillende plaatsen. |
-| **Attributen** | Lijst met inherente functies in deze advertentie. | Kenmerken helpen u creatieve elementen te identificeren die het meest op uw publiek lijken. Zie [&#x200B; Categorieën &#x200B;](/help/user-guide/insights/attributes.md#categories). |
+| **Attributen** | Lijst met inherente functies in deze advertentie. | Kenmerken helpen u creatieve elementen te identificeren die het meest op uw publiek lijken. Zie [ Categorieën ](/help/user-guide/insights/attributes.md#categories). |
