@@ -22,10 +22,10 @@ Opmerking: hoewel met deze plug-ins ontwerpers advertenties kunnen maken en deze
 
 Met de insteekmodule GenStudio for Performance Marketing Figma voegt u een nieuw deelvenster toe aan de toepassing Figma waarmee gebruikers GenStudio for Performance Marketing-handelingen kunnen uitvoeren, zoals het genereren van inhoud onder het merk.
 
-Leer meer over de insteekmodule van Figma in de [ insteekmodule van Figma ](figma-plugin.md) pagina.
+Leer meer over de insteekmodule van Figma in de [&#x200B; insteekmodule van Figma &#x200B;](figma-plugin.md) pagina.
 
 ## Photoshop-insteekmodule
 
 Met de GenStudio for Performance Marketing Photoshop-insteekmodule wordt een nieuw deelvenster aan Adobe Photoshop toegevoegd waarmee gebruikers GenStudio for Performance Marketing-handelingen kunnen uitvoeren, zoals het genereren van on-brand-inhoud.
 
-Leer meer over de stop van Photoshop in de [ insteekmodule van Photoshop ](photoshop-plugin.md) pagina.
+Leer meer over de stop van Photoshop in de [&#x200B; insteekmodule van Photoshop &#x200B;](photoshop-plugin.md) pagina.
