@@ -73,7 +73,7 @@ Elementrollen toewijzen:
 
 De plug-in onthoudt deze toewijzingen voor gegenereerde inhoud. Een veldrol kan worden toegewezen aan meerdere sjabloonelementen.
 
-![ roltoewijzing van het Gebied ](./field-role-mapping.png){width="600"}
+![&#x200B; roltoewijzing van het Gebied &#x200B;](./field-role-mapping.png){width="600"}
 
 ### Uitzonderingen voor veldtoewijzing
 
@@ -84,14 +84,14 @@ De plug-in onthoudt deze toewijzingen voor gegenereerde inhoud. Een veldrol kan 
 Met GenStudio for Performance Marketing AI kunt u elementen in figuursjablonen genereren of variëren.
 
 1. Als u de GenStudio Plugin Playground of reeds voorbereide malplaatjes gebruikt, selecteer de sectieknoopknoop die uw advertentiesjablonen bevat. U kunt dit van het **paneel van Lagen** doen of door direct op de sectie in het canvas te klikken.
-   ![ Sectie selecteren of variaties ](./plugin-playground.png){width="500" zoomable="yes"}
+   ![&#x200B; Sectie selecteren of variaties &#x200B;](./plugin-playground.png){width="500" zoomable="yes"}
 1. Voer in het insteekmodulevenster een projectnaam in voor de variaties, kies een platform voor de inhoud en vul de andere vereiste informatie in. Klik vervolgens op de knop **[!UICONTROL Finish Setup]** .
-   ![ het projectvenster van de Opstelling ](./setup-project.png){width="300" zoomable="yes"}
+   ![&#x200B; het projectvenster van de Opstelling &#x200B;](./setup-project.png){width="300" zoomable="yes"}
 1. Selecteer de [!DNL Brand] , [!DNL Persona] en [!DNL Product] die u wilt gebruiken voor het genereren van inhoud.
 1. Selecteer het aantal variaties dat u wilt maken (maximaal acht).
 1. Gebruik de knop onder **[!UICONTROL Select Content]** om door afbeeldingen in uw elementen te bladeren en deze te kiezen. De 40 laatst toegevoegde elementen worden als eerste weergegeven en u kunt zoeken naar andere elementen. De grootte van geselecteerde afbeeldingen wordt automatisch aangepast aan uw sjablonen.
 1. Voer een tekstprompt in. Voor elk veld in de lijst **[!UICONTROL Fields]** is de optie **[!UICONTROL Action]** ingesteld op **[!UICONTROL Generate]** voor nieuwe inhoud.
-1. Wijs alle veldrollen toe. Zie [ rolafbeelding van het Gebied ](#field-role-mapping).
+1. Wijs alle veldrollen toe. Zie [&#x200B; rolafbeelding van het Gebied &#x200B;](#field-role-mapping).
 1. Klik op **[!UICONTROL Generate]** .
 
 ## Variaties vertalen of genereren en kopiëren op basis van bestaande inhoud
@@ -99,23 +99,23 @@ Met GenStudio for Performance Marketing AI kunt u elementen in figuursjablonen g
 Gebruik GenStudio for Performance Marketing AI om variaties te genereren en te kopiëren of Figmasjablonen te vertalen.
 
 1. Selecteer het sectieknooppunt dat uw advertentiesjablonen bevat. U kunt dit van het **paneel van Lagen** doen of door direct op de sectie in het canvas te klikken.
-   ![ Sectie selecteren of variaties ](./plugin-playground.png){width="500" zoomable="yes"}
+   ![&#x200B; Sectie selecteren of variaties &#x200B;](./plugin-playground.png){width="500" zoomable="yes"}
 1. Voer in het insteekmodulevenster een projectnaam in voor de variaties en kies een platform voor de inhoud.
 1. Selecteer **[!UICONTROL What is the goal?]** of **[!UICONTROL Generate Variations]** in **[!UICONTROL Translate]** en klik op de knop **[!UICONTROL Finish Setup]** .
-   ![ het projectvenster van de Opstelling ](./setup-project.png){width="300" zoomable="yes"}
+   ![&#x200B; het projectvenster van de Opstelling &#x200B;](./setup-project.png){width="300" zoomable="yes"}
 1. Selecteer de [!DNL Brand] , [!DNL Persona] en [!DNL Product] die u wilt gebruiken voor het genereren van inhoud.
 1. Selecteer het aantal variaties dat u wilt maken.
 1. Gebruik de knop onder **[!UICONTROL Select Content]** om door afbeeldingen in uw elementen te bladeren en deze te kiezen. De 40 laatst toegevoegde elementen worden als eerste weergegeven en u kunt zoeken naar andere elementen. De grootte van geselecteerde afbeeldingen wordt automatisch aangepast aan uw sjablonen.
 1. Voer een tekstprompt in. Voor elk veld in de lijst **[!UICONTROL Fields]** is de optie **[!UICONTROL Action]** ingesteld op **[!UICONTROL Generate]** voor nieuwe inhoud.
-1. Wijs alle veldrollen toe. Zie [ rolafbeelding van het Gebied ](#field-role-mapping).
+1. Wijs alle veldrollen toe. Zie [&#x200B; rolafbeelding van het Gebied &#x200B;](#field-role-mapping).
 1. Selecteer elk veldtype om variaties te genereren of vertalen in het deelvenster aan de linkerkant van de plug-in en plak de initiële inhoud in elk **[!UICONTROL Initial Content]** -vak.
-   ![ tekst van de Steekproef in de Aanvankelijke doos van de Inhoud ](./initial-content-box.png){width="60%" zoomable="yes"}
+   ![&#x200B; tekst van de Steekproef in de Aanvankelijke doos van de Inhoud &#x200B;](./initial-content-box.png){width="60%" zoomable="yes"}
 1. Klik op **[!UICONTROL Generate]** .
 
 ## Inhoud vertalen na generatie
 
 1. Selecteer een generatie die u wilt vertalen.
-   ![ Uitgezochte generatie ](./select-generation.png){width="200" zoomable="yes"}
+   ![&#x200B; Uitgezochte generatie &#x200B;](./select-generation.png){width="200" zoomable="yes"}
 1. Kies **[!UICONTROL Translation]** en klik op **[!UICONTROL Translate]** .
 1. Selecteer de doeltaal of -talen.
 1. Klik op **[!UICONTROL Select]**.
@@ -126,13 +126,13 @@ De vertaalresultaten omvatten:
 * Bij elke vertaling wordt de doeltaal of -landinstelling weergegeven.
 * De oorspronkelijke inhoud blijft ongewijzigd op de oorspronkelijke pagina.
 
-![ de resultaten van de Vertaling ](./translation-results.png){width="60%" zoomable="yes"}
+![&#x200B; de resultaten van de Vertaling &#x200B;](./translation-results.png){width="60%" zoomable="yes"}
 
 ## Overige acties voor inhoudsvelden na genereren
 
 Wanneer u bestaande inhoud in een veld bewerkt, worden nuttige opties weergegeven in het deelvenster van de plug-in.
 
-![ opties van de Acties van de Insteekmodule ](./figma-other-actions.png){width="300" zoomable="yes"}
+![&#x200B; opties van de Acties van de Insteekmodule &#x200B;](./figma-other-actions.png){width="300" zoomable="yes"}
 
 U kunt onder andere de volgende opties kiezen:
 
@@ -154,11 +154,11 @@ Variaties kunnen uit Figma worden geëxporteerd als GenStudio for Performance Ma
 
 1. Voer een van de volgende handelingen uit om de inhoud te selecteren die u wilt exporteren in het figuurcanvas:
    * Selecteer de sectie Genereren op het canvas en klik vervolgens op **[!UICONTROL Mark all for Export]** in het deelvenster Plug-in.
-     ![ de sectie van de Generatie selecteren ](./select-generation-section.png){width="200" zoomable="yes"}
+     ![&#x200B; de sectie van de Generatie selecteren &#x200B;](./select-generation-section.png){width="200" zoomable="yes"}
    * Selecteer een afzonderlijke generatie op het canvas en klik op **[!UICONTROL Mark for Export]** in het deelvenster Plug-in.
-     ![ Individuele generatie uitgezocht ](./select-generation.png){width="200" zoomable="yes"}
+     ![&#x200B; Individuele generatie uitgezocht &#x200B;](./select-generation.png){width="200" zoomable="yes"}
 1. Selecteer het item Exporteren in het zijbalkmenu.
-   ![ Teken voor de knoop van de Uitvoer die voor een Meta wordt getoond en ](./mark-for-export.png){width="60%" zoomable="yes"}
+   ![&#x200B; Teken voor de knoop van de Uitvoer die voor een Meta wordt getoond en &#x200B;](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Selecteer een doel.
 1. Klik op **[!UICONTROL Export]** om de inhoud te exporteren.
 
@@ -168,7 +168,7 @@ Er wordt een ZIP-bestand gemaakt in het deelvenster met insteekmodules of er wor
 
 De plug-in bewaart een geschiedenis met wijzigingen voor elk veld. Kies op de sjabloonpagina de optie **[!UICONTROL Generation history]** in het zijpaneel van de plug-in.
 
-![ de geschiedenisoptie van de Generatie die voor een Meta wordt getoond en ](./generation-history.png){width="80%" zoomable="yes"}
+![&#x200B; de geschiedenisoptie van de Generatie die voor een Meta wordt getoond en &#x200B;](./generation-history.png){width="80%" zoomable="yes"}
 
 ## Problemen oplossen
 
@@ -176,7 +176,7 @@ Houd rekening met de volgende tips en werkwijzen als tekst of afbeeldingen niet 
 
 ### Toegewezen velden
 
-Als tekst of afbeeldingen niet worden vervangen, controleert u of de velden zijn toegewezen aan GenStudio-veldrollen in de gebruikersinterface van de plug-in. Zie [ rolafbeelding van het Gebied ](#field-role-mapping).
+Als tekst of afbeeldingen niet worden vervangen, controleert u of de velden zijn toegewezen aan GenStudio-veldrollen in de gebruikersinterface van de plug-in. Zie [&#x200B; rolafbeelding van het Gebied &#x200B;](#field-role-mapping).
 
 ### Bevestig dat fonts beschikbaar zijn
 
@@ -184,4 +184,4 @@ Het font van een tekstveld moet beschikbaar zijn op uw computer voordat het veld
 
 ### Ondersteuning voor veldrollen overwegen
 
-Bepaalde kanalen ondersteunen alleen vervanging in specifieke velden. Ben zich bewust van uitzonderingen voor [ kaart van de gebiedsrol ](#field-role-mapping).
+Bepaalde kanalen ondersteunen alleen vervanging in specifieke velden. Ben zich bewust van uitzonderingen voor [&#x200B; kaart van de gebiedsrol &#x200B;](#field-role-mapping).
