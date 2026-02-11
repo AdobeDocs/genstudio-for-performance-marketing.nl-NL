@@ -4,9 +4,9 @@ description: Leer hoe u de Figma-plug-in voor GenStudio for Performance Marketin
 feature: Generative AI
 role: User
 exl-id: 232fbbc6-c523-4525-8d26-a8ac8d62c035
-source-git-commit: c6080555812fa82a7b71eee7e2deb963a881d9f4
+source-git-commit: e585c6ff70198fe572b21252ab00b9b1ad368d02
 workflow-type: tm+mt
-source-wordcount: '2001'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Functies van deze plug-in:
 * Gegenereerde exportbewerking [!DNL Experiences] naar GenStudio for Performance Marketing.
 * Gebruik plug-inopties die zich aanpassen aan de geselecteerde elementen in het figuurcanvas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478815?captions=dut&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
 
 ## Een sjabloon maken
 
@@ -73,7 +73,7 @@ Elementrollen toewijzen:
 
 De plug-in onthoudt deze toewijzingen voor gegenereerde inhoud. Een veldrol kan worden toegewezen aan meerdere sjabloonelementen.
 
-![&#x200B; roltoewijzing van het Gebied &#x200B;](./field-role-mapping.png){width="600"}
+![ roltoewijzing van het Gebied ](./field-role-mapping.png){width="600"}
 
 ### Uitzonderingen voor veldtoewijzing
 
@@ -84,14 +84,14 @@ De plug-in onthoudt deze toewijzingen voor gegenereerde inhoud. Een veldrol kan 
 Met GenStudio for Performance Marketing AI kunt u elementen in figuursjablonen genereren of variëren.
 
 1. Als u de GenStudio Plugin Playground of reeds voorbereide malplaatjes gebruikt, selecteer de sectieknoopknoop die uw advertentiesjablonen bevat. U kunt dit van het **paneel van Lagen** doen of door direct op de sectie in het canvas te klikken.
-   ![&#x200B; Sectie selecteren of variaties &#x200B;](./plugin-playground.png){width="500" zoomable="yes"}
+   ![ Sectie selecteren of variaties ](./plugin-playground.png){width="500" zoomable="yes"}
 1. Voer in het insteekmodulevenster een projectnaam in voor de variaties, kies een platform voor de inhoud en vul de andere vereiste informatie in. Klik vervolgens op de knop **[!UICONTROL Finish Setup]** .
-   ![&#x200B; het projectvenster van de Opstelling &#x200B;](./setup-project.png){width="300" zoomable="yes"}
+   ![ het projectvenster van de Opstelling ](./setup-project.png){width="300" zoomable="yes"}
 1. Selecteer de [!DNL Brand] , [!DNL Persona] en [!DNL Product] die u wilt gebruiken voor het genereren van inhoud.
 1. Selecteer het aantal variaties dat u wilt maken (maximaal acht).
 1. Gebruik de knop onder **[!UICONTROL Select Content]** om door afbeeldingen in uw elementen te bladeren en deze te kiezen. De 40 laatst toegevoegde elementen worden als eerste weergegeven en u kunt zoeken naar andere elementen. De grootte van geselecteerde afbeeldingen wordt automatisch aangepast aan uw sjablonen.
 1. Voer een tekstprompt in. Voor elk veld in de lijst **[!UICONTROL Fields]** is de optie **[!UICONTROL Action]** ingesteld op **[!UICONTROL Generate]** voor nieuwe inhoud.
-1. Wijs alle veldrollen toe. Zie [&#x200B; rolafbeelding van het Gebied &#x200B;](#field-role-mapping).
+1. Wijs alle veldrollen toe. Zie [ rolafbeelding van het Gebied ](#field-role-mapping).
 1. Klik op **[!UICONTROL Generate]** .
 
 ## Variaties vertalen of genereren en kopiëren op basis van bestaande inhoud
@@ -99,23 +99,23 @@ Met GenStudio for Performance Marketing AI kunt u elementen in figuursjablonen g
 Gebruik GenStudio for Performance Marketing AI om variaties te genereren en te kopiëren of Figmasjablonen te vertalen.
 
 1. Selecteer het sectieknooppunt dat uw advertentiesjablonen bevat. U kunt dit van het **paneel van Lagen** doen of door direct op de sectie in het canvas te klikken.
-   ![&#x200B; Sectie selecteren of variaties &#x200B;](./plugin-playground.png){width="500" zoomable="yes"}
+   ![ Sectie selecteren of variaties ](./plugin-playground.png){width="500" zoomable="yes"}
 1. Voer in het insteekmodulevenster een projectnaam in voor de variaties en kies een platform voor de inhoud.
 1. Selecteer **[!UICONTROL What is the goal?]** of **[!UICONTROL Generate Variations]** in **[!UICONTROL Translate]** en klik op de knop **[!UICONTROL Finish Setup]** .
-   ![&#x200B; het projectvenster van de Opstelling &#x200B;](./setup-project.png){width="300" zoomable="yes"}
+   ![ het projectvenster van de Opstelling ](./setup-project.png){width="300" zoomable="yes"}
 1. Selecteer de [!DNL Brand] , [!DNL Persona] en [!DNL Product] die u wilt gebruiken voor het genereren van inhoud.
 1. Selecteer het aantal variaties dat u wilt maken.
 1. Gebruik de knop onder **[!UICONTROL Select Content]** om door afbeeldingen in uw elementen te bladeren en deze te kiezen. De 40 laatst toegevoegde elementen worden als eerste weergegeven en u kunt zoeken naar andere elementen. De grootte van geselecteerde afbeeldingen wordt automatisch aangepast aan uw sjablonen.
 1. Voer een tekstprompt in. Voor elk veld in de lijst **[!UICONTROL Fields]** is de optie **[!UICONTROL Action]** ingesteld op **[!UICONTROL Generate]** voor nieuwe inhoud.
-1. Wijs alle veldrollen toe. Zie [&#x200B; rolafbeelding van het Gebied &#x200B;](#field-role-mapping).
+1. Wijs alle veldrollen toe. Zie [ rolafbeelding van het Gebied ](#field-role-mapping).
 1. Selecteer elk veldtype om variaties te genereren of vertalen in het deelvenster aan de linkerkant van de plug-in en plak de initiële inhoud in elk **[!UICONTROL Initial Content]** -vak.
-   ![&#x200B; tekst van de Steekproef in de Aanvankelijke doos van de Inhoud &#x200B;](./initial-content-box.png){width="60%" zoomable="yes"}
+   ![ tekst van de Steekproef in de Aanvankelijke doos van de Inhoud ](./initial-content-box.png){width="60%" zoomable="yes"}
 1. Klik op **[!UICONTROL Generate]** .
 
 ## Inhoud vertalen na generatie
 
 1. Selecteer een generatie die u wilt vertalen.
-   ![&#x200B; Uitgezochte generatie &#x200B;](./select-generation.png){width="200" zoomable="yes"}
+   ![ Uitgezochte generatie ](./select-generation.png){width="200" zoomable="yes"}
 1. Kies **[!UICONTROL Translation]** en klik op **[!UICONTROL Translate]** .
 1. Selecteer de doeltaal of -talen.
 1. Klik op **[!UICONTROL Select]**.
@@ -126,13 +126,13 @@ De vertaalresultaten omvatten:
 * Bij elke vertaling wordt de doeltaal of -landinstelling weergegeven.
 * De oorspronkelijke inhoud blijft ongewijzigd op de oorspronkelijke pagina.
 
-![&#x200B; de resultaten van de Vertaling &#x200B;](./translation-results.png){width="60%" zoomable="yes"}
+![ de resultaten van de Vertaling ](./translation-results.png){width="60%" zoomable="yes"}
 
 ## Overige acties voor inhoudsvelden na genereren
 
 Wanneer u bestaande inhoud in een veld bewerkt, worden nuttige opties weergegeven in het deelvenster van de plug-in.
 
-![&#x200B; opties van de Acties van de Insteekmodule &#x200B;](./figma-other-actions.png){width="300" zoomable="yes"}
+![ opties van de Acties van de Insteekmodule ](./figma-other-actions.png){width="300" zoomable="yes"}
 
 U kunt onder andere de volgende opties kiezen:
 
@@ -148,128 +148,17 @@ U kunt onder andere de volgende opties kiezen:
 
 Nadat u een optie **[!UICONTROL Action]** hebt geselecteerd, kunt u de inhoud opnieuw genereren met de knop **[!UICONTROL Regenerate]** .
 
-## Een afbeelding genereren
-
-Genereer afbeeldingen die u in uw sjablonen wilt gebruiken met behulp van een tekstprompt.
-
-1. Selecteer **[!UICONTROL Generate Image]** .
-1. Selecteer een model in het keuzemenu. U kunt ook aangepaste modellen kiezen die u hebt gemaakt.
-1. Selecteer het instellingspictogram om de instellingen voor genereren aan te passen.
-1. Optioneel: selecteer een hoogte-breedteverhouding.
-1. Optioneel: pas de stijl van de afbeelding op een van de volgende manieren aan:
-   * Upload een referentieafbeelding van uw apparaat of AEM door **[!UICONTROL Upload image]** te selecteren.
-   * Kies een van de Adobe-afbeeldingen door **[!UICONTROL Browse Gallery]** te selecteren.
-   * Kies een sterktewaarde met de schuifregelaar. Met Sterkte past u aan hoe strikt Firefly zich aan de opgegeven stijl houdt.
-1. Selecteer de knop **&lt;** .
-1. Voer een vraag in.
-1. Selecteer het pictogram Genereren. Afbeeldingen worden weergegeven in het deelvenster van de plug-in.
-1. U kunt als volgt afbeeldingen op het canvas plaatsen:
-   * Sleep een afbeelding naar het canvas.
-   * Selecteer een frame op het figuurcanvas en selecteer een afbeelding in het plug-invenster die u in het frame wilt invoegen.
-   * Selecteer het uploadpictogram om een afbeelding naar het canvas te uploaden.
-   * Selecteer de drie punten en **[!UICONTROL Download all to Figma]** .
-1. Optioneel: selecteer de drie stippen om verdere handelingen uit te voeren:
-   * Selecteer **[!UICONTROL Generate more]** om de vraag opnieuw uit te voeren.
-   * Selecteer **[!UICONTROL Copy prompt]** om de vraag te kopiëren.
-1. Optioneel: selecteer het potloodpictogram als u de vulling Algemeen wilt gebruiken en vergelijkbare acties wilt genereren voor één afbeelding.
-
-## Vergelijkbare afbeeldingen genereren
-
-Genereer een set vergelijkbare afbeeldingen.
-
-1. Selecteer de **[!UICONTROL Generate Similar]** -kaart.
-1. Voer een van de volgende handelingen uit om een afbeelding als referentie te selecteren:
-   * Selecteer een afbeelding op het figuurcanvas.
-   * Selecteer **[!UICONTROL Upload image]** om te uploaden vanaf uw apparaat.
-   * Selecteer **[!UICONTROL Browse AEM assets]** om te uploaden vanuit AEM.
-1. Selecteer het pictogram Genereren. Variaties worden weergegeven in het deelvenster van de plug-in.
-1. U kunt als volgt afbeeldingen op het canvas plaatsen:
-   * Sleep een afbeelding naar het canvas.
-   * Selecteer een frame op het figuurcanvas en selecteer een afbeelding in het plug-invenster die u in het frame wilt invoegen.
-   * Selecteer het uploadpictogram om een afbeelding naar het canvas te uploaden.
-   * Selecteer de drie punten en **[!UICONTROL Download all to Figma]** .
-1. Optioneel: selecteer de drie stippen om verdere handelingen uit te voeren:
-   * Selecteer **[!UICONTROL Generate more]** om de vraag opnieuw uit te voeren.
-1. Optioneel: selecteer het potloodpictogram als u de vulling Algemeen wilt gebruiken en vergelijkbare acties wilt genereren voor één afbeelding.
-
-## Achtergrond verwijderen
-
-Verwijder de achtergrond van een afbeelding.
-
-1. Selecteer de **[!UICONTROL Remove Background]** -kaart.
-1. Voer een van de volgende handelingen uit om een afbeelding als referentie te selecteren:
-   * Selecteer een afbeelding op het figuurcanvas.
-   * Selecteer **[!UICONTROL Upload image]** om te uploaden vanaf uw apparaat.
-   * Selecteer **[!UICONTROL Browse AEM assets]** om te uploaden vanuit AEM.
-1. Selecteer **[!UICONTROL Remove]**. Als de afbeelding is geselecteerd op het canvas, wordt de afbeelding vervangen op het canvas Figma. Als de afbeelding is geselecteerd op een apparaat of AEM, kunt u de afbeelding slepen en neerzetten op het canvas of **[!UICONTROL Insert Image]** selecteren om de afbeelding op het canvas te plaatsen.
-
-## Generatieve vulling
-
-Hiermee past u generatieve vullingen toe op een gebied van een afbeelding.
-
-1. Selecteer de **[!UICONTROL Generative Fill]** -kaart.
-1. Voer een van de volgende handelingen uit om een afbeelding als referentie te selecteren:
-   * Selecteer een afbeelding op het figuurcanvas.
-   * Selecteer **[!UICONTROL Upload image]** om te uploaden vanaf uw apparaat.
-   * Selecteer **[!UICONTROL Browse AEM assets]** om te uploaden vanuit AEM.
-1. Selecteer het penseel en maak een masker.
-1. Optioneel: selecteer het druppellasteken en pas de penseelgrootte aan.
-1. Selecteer de knop Herstellen om het masker te verwijderen.
-1. Selecteer eventueel het pictogram Achtergrond verwijderen om de achtergrond te verwijderen.
-1. Geef een aanwijzing op voor het genereren van het geselecteerde masker en selecteer de knop **[!UICONTROL Generate]** .
-1. U kunt als volgt afbeeldingen op het canvas plaatsen:
-   * Sleep een afbeelding naar het canvas.
-   * Selecteer een frame op het figuurcanvas en selecteer een afbeelding in het plug-invenster die u in het frame wilt invoegen.
-   * Selecteer het uploadpictogram om een afbeelding naar het canvas te uploaden.
-   * Selecteer de drie punten en **[!UICONTROL Download all to Figma]** .
-1. Optioneel: selecteer de drie stippen om verdere handelingen uit te voeren:
-   * Selecteer **[!UICONTROL Copy prompt]** om de vraag te kopiëren.
-1. Optioneel: selecteer het potloodpictogram als u de vulling Algemeen wilt gebruiken en vergelijkbare acties wilt genereren voor één afbeelding.
-
-## Vragen om te bewerken
-
-Bewerk de inhoud van een afbeelding met een tekstprompt.
-
-1. Selecteer de **[!UICONTROL Prompt to Edit]** -kaart.
-1. Voer een van de volgende handelingen uit om een afbeelding als referentie te selecteren:
-   * Selecteer een afbeelding op het figuurcanvas.
-   * Selecteer **[!UICONTROL Upload image]** om te uploaden vanaf uw apparaat.
-   * Selecteer **[!UICONTROL Browse AEM assets]** om te uploaden vanuit AEM.
-1. Selecteer het instellingspictogram om de instellingen voor genereren aan te passen.
-1. Optioneel: selecteer een hoogte-breedteverhouding en selecteer de knop **&lt;** .
-1. Voer een aanwijzing in om de generatie te begeleiden en de knop **[!UICONTROL Generate]** te selecteren.
-1. U kunt als volgt afbeeldingen op het canvas plaatsen:
-   * Sleep een afbeelding naar het canvas.
-   * Selecteer een frame op het figuurcanvas en selecteer een afbeelding in het plug-invenster die u in het frame wilt invoegen.
-   * Selecteer het uploadpictogram om een afbeelding naar het canvas te uploaden.
-   * Selecteer de drie punten en **[!UICONTROL Download all to Figma]** .
-1. Optioneel: selecteer de drie stippen om verdere handelingen uit te voeren:
-   * Selecteer **[!UICONTROL Generate more]** om de vraag opnieuw uit te voeren.
-   * Selecteer **[!UICONTROL Copy prompt]** om de vraag te kopiëren.
-1. Optioneel: selecteer het potloodpictogram als u de vulling Algemeen wilt gebruiken en vergelijkbare acties wilt genereren voor één afbeelding.
-
-## Generatief uitbreiden
-
-Breid de afmetingen van uw afbeeldingen uit en voeg generatieve inhoud toe met Generatief uitbreiden. Met Generatief uitbreiden kunt u aanpasbare afbeeldingen transformeren in de meest geschikte hoogte-breedteverhouding voor banners, Meta-advertenties, LinkedIn-advertenties of sjablonen voor weergaveadvertenties.
-
-1. Selecteer de **[!UICONTROL Generative Expand]** -kaart.
-1. Selecteer een afbeelding op het canvas.
-1. Vergroot het formaat van het tijdelijke frame Gen.. tot de gewenste nieuwe afmetingen.
-1. Optioneel: plaats de afbeelding ergens in het kader.
-1. Voer een aanwijzing in om de generatie te begeleiden en de knop **[!UICONTROL Generate]** te selecteren.
-1. Selecteer een afbeelding op het canvas om de oorspronkelijke afbeelding te vervangen door het gegenereerde resultaat.
-
 ## Exportervaringen
 
 Variaties kunnen uit Figma worden geëxporteerd als GenStudio for Performance Marketing [!DNL Experiences] .
 
 1. Voer een van de volgende handelingen uit om de inhoud te selecteren die u wilt exporteren in het figuurcanvas:
    * Selecteer de sectie Genereren op het canvas en klik vervolgens op **[!UICONTROL Mark all for Export]** in het deelvenster Plug-in.
-     ![&#x200B; de sectie van de Generatie selecteren &#x200B;](./select-generation-section.png){width="200" zoomable="yes"}
+     ![ de sectie van de Generatie selecteren ](./select-generation-section.png){width="200" zoomable="yes"}
    * Selecteer een afzonderlijke generatie op het canvas en klik op **[!UICONTROL Mark for Export]** in het deelvenster Plug-in.
-     ![&#x200B; Individuele generatie uitgezocht &#x200B;](./select-generation.png){width="200" zoomable="yes"}
+     ![ Individuele generatie uitgezocht ](./select-generation.png){width="200" zoomable="yes"}
 1. Selecteer het item Exporteren in het zijbalkmenu.
-   ![&#x200B; Teken voor de knoop van de Uitvoer die voor een Meta wordt getoond en &#x200B;](./mark-for-export.png){width="60%" zoomable="yes"}
+   ![ Teken voor de knoop van de Uitvoer die voor een Meta wordt getoond en ](./mark-for-export.png){width="60%" zoomable="yes"}
 1. Selecteer een doel.
 1. Klik op **[!UICONTROL Export]** om de inhoud te exporteren.
 
@@ -279,7 +168,7 @@ Er wordt een ZIP-bestand gemaakt in het deelvenster met insteekmodules of er wor
 
 De plug-in bewaart een geschiedenis met wijzigingen voor elk veld. Kies op de sjabloonpagina de optie **[!UICONTROL Generation history]** in het zijpaneel van de plug-in.
 
-![&#x200B; de geschiedenisoptie van de Generatie die voor een Meta wordt getoond en &#x200B;](./generation-history.png){width="80%" zoomable="yes"}
+![ de geschiedenisoptie van de Generatie die voor een Meta wordt getoond en ](./generation-history.png){width="80%" zoomable="yes"}
 
 ## Problemen oplossen
 
@@ -287,7 +176,7 @@ Houd rekening met de volgende tips en werkwijzen als tekst of afbeeldingen niet 
 
 ### Toegewezen velden
 
-Als tekst of afbeeldingen niet worden vervangen, controleert u of de velden zijn toegewezen aan GenStudio-veldrollen in de gebruikersinterface van de plug-in. Zie [&#x200B; rolafbeelding van het Gebied &#x200B;](#field-role-mapping).
+Als tekst of afbeeldingen niet worden vervangen, controleert u of de velden zijn toegewezen aan GenStudio-veldrollen in de gebruikersinterface van de plug-in. Zie [ rolafbeelding van het Gebied ](#field-role-mapping).
 
 ### Bevestig dat fonts beschikbaar zijn
 
@@ -295,4 +184,4 @@ Het font van een tekstveld moet beschikbaar zijn op uw computer voordat het veld
 
 ### Ondersteuning voor veldrollen overwegen
 
-Bepaalde kanalen ondersteunen alleen vervanging in specifieke velden. Ben zich bewust van uitzonderingen voor [&#x200B; kaart van de gebiedsrol &#x200B;](#field-role-mapping).
+Bepaalde kanalen ondersteunen alleen vervanging in specifieke velden. Ben zich bewust van uitzonderingen voor [ kaart van de gebiedsrol ](#field-role-mapping).
