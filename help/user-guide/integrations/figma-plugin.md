@@ -29,7 +29,7 @@ Functies van deze plug-in:
 * Gegenereerde exportbewerking [!DNL Experiences] naar GenStudio for Performance Marketing.
 * Gebruik plug-inopties die zich aanpassen aan de geselecteerde elementen in het figuurcanvas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478809?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478815?captions=dut&learn=on)
 
 ## Een sjabloon maken
 
