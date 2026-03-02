@@ -2,12 +2,13 @@
 title: Verbinding maken met LinkedIn-advertenties
 description: Sluit een LinkedIn Ads-account aan om uw advertenties en media te activeren en te controleren met Adobe GenStudio for Performance Marketing.
 level: Intermediate
-role: Admin, Data Engineer
+role: Admin, Developer
 recommendations: noDisplay
 feature: Reporting and Insights
-source-git-commit: c720a7c34250caa6aefea19149fcd33c8fd5f37f
+exl-id: 8ad10ce2-8558-430c-8cc3-4c29bfa970c6
+source-git-commit: d702f2ece03b29d260ff053d5b1f7fa958621880
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -44,7 +45,7 @@ Sluit uw LinkedIn-advertentieprofielaccount aan op GenStudio for Performance Mar
 
 1. Volg de LinkedIn-verificatieinstructies, controleer de accountgegevens en klik op **[!UICONTROL Continue as ...]**
 
-1. Ga in _[!UICONTROL LinkedIn accounts]_&#x200B;popup door de volgende selecties om GenStudio for Performance Marketing toegang te verlenen:
+1. Ga in _[!UICONTROL LinkedIn accounts]_popup door de volgende selecties om GenStudio for Performance Marketing toegang te verlenen:
 
    - Selecteer een of meer LinkedIn-advertentieaccounts en klik op **[!UICONTROL Continue]**
    - Toestemming verlenen voor het maken en beheren van campagnes in dat LinkedIn Ad-account en klikken **[!UICONTROL Continue]**
@@ -55,10 +56,10 @@ Sluit uw LinkedIn-advertentieprofielaccount aan op GenStudio for Performance Mar
 
    Deze stap zorgt ervoor dat GenStudio for Performance Marketing toegang krijgt tot alle advertenties, metagegevens en meetgegevens voor optimale prestaties.
 
-1. Selecteer in _[!UICONTROL LinkedIn Ads]_&#x200B;een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
+1. Selecteer in _[!UICONTROL LinkedIn Ads]_een of meer accounts die u wilt opnemen in [!DNL Insights] en klik op **[!UICONTROL Select]**.
 
 1. Zodra u a _Platform verbonden_ bevestiging ontvangt, klik **[!UICONTROL View accounts]**.
 
-   In de weergave _[!UICONTROL LinkedIn Ads accounts]_&#x200B;worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
+   In de weergave _[!UICONTROL LinkedIn Ads accounts]_worden de `Account name` , `Added by` , `Date added` en `Status` weergegeven.
 
 Gebruik **[!UICONTROL Add account]** om meer accounts aan de lijst toe te voegen. De machtigingsstroom kan enigszins afwijken wanneer u accounts toevoegt die zijn gekoppeld aan hetzelfde LinkedIn Business-profiel. U selecteert slechts de nieuwe rekeningen LinkedIn Adds tijdens het verbindingsproces.
