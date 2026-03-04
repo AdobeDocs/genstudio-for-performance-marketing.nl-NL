@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVED
 
-Dit antwoord is migratie naar GHEC geweest: <https://github.com/Adobe-Enterprise-Docs/genstudio-for-performance-marketing.en>
+Dit antwoord is migratie naar GHEC geweest: <https://github.com/Adobe-Enterprise-Docs/genstudio-for-performance-marketing.nl-NL>
